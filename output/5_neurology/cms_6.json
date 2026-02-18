@@ -1,0 +1,566 @@
+[
+  {
+    "id": "NEURO-6-1",
+    "section": "Neurology",
+    "subsection": "CMS-6",
+    "questionNumber": 1,
+    "system": "Unknown",
+    "questionStem": "A ?-year-o ld girl is brought to the physician because of progress ive slleepiness, ataxia, and double vision over the past 2 days. She has a 2-year history of complex partial seizures treated with carbamazepine. One week ago, she developed fever and received erythromycin for pharyngitis. Her brother has attention-deficit/hyperactivity disorder treated with methyllphenidate. Her temperature is 37°C (98.6°F). She appears sleepy. Ocular movements appear full. She has no weakness, but is moderately ataxic. Which of the following is the most likely cause of her current symptoms?",
+    "choices": {
+      "A": "Carbamazepine-erythromycin interact ion",
+      "B": "Cerebe llar astrocytoma",
+      "C": "Erythromyci n allergy",
+      "D": "Methylphenidate ingestion",
+      "E": "Viral encepha litis"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Carbamazepine is a common antiepileptic medication. It has been shown to interact with other medications and caution should be exercised when choosing concomitant medications for treating patients. It is a CYP450 inducer, which may increase hepatic clearance of some medications (eg, warfarin, phenytoin, valproic acid), leading to subtherapeutic concentrations in the serum. Other drugs, such as erythromycin, can interfere with the hepatic metabolism of carbamazepine by inhibiting CYP450 enzymes, leading to decreased carbamazepine clearance, increased serum concentration, and toxicity. Carbamazepine toxicity typically presents with altered mental status, drowsiness, ataxia, nystagmus, nausea, and vomiting. Diagnosis can be made by measuring a serum carbamazepine concentration above therapeutic levels, and there is a dose-dependent effect on neurologic depression. Treatment is supportive, with benzodiazepines for seizures or agitation, and involves discontinuation of offending medications.",
+    "incorrectExplanation": "nd E. Cerebellar astrocytomas (Choice B) are slow-growing and typica lly benign tumors in children and young adults. Children with astrocytomas can present with headache, nausea, vomiting, irritability, behaviora l changes, impaired coordination, and visual impairment, depending on the size and location of the astrocytoma. Typical allergic reactions to medications, including erythromycin (Choice C), would present with rash, urticaria, and, if severe, signs and symptoms of anaphylaxis such as oropharyngeal, lip, or tongue swelling; voice changes; wheezing; shortness of breath; vomiting; or other gastrointestinal disturbances. Methylphenidate (Choice D) is a central nervous system stimulant used to treat attention-deficit/hyperactivity disorder by blocking norepinephrine and dopamine reuptake in neuronal synapses. The inappropriate ingestion of methylphenidate can present with agitation, anxiety, palpitations, decreased appetite, tremors, hyperref lexia, delirium, hyperthermia, tachycardia, hypertension, and -- - - - - ~, ~ ~ r,"
+  },
+  {
+    "id": "NEURO-6-2",
+    "section": "Neurology",
+    "subsection": "CMS-6",
+    "questionNumber": 2,
+    "system": "Unknown",
+    "questionStem": "A 52-year-o ld man comes to the physician because of progressive billateral leg pain over the past year. The pain is located on the posterior aspect of the thighs and calves, occurs only when he is standing, and resolv,es within 30 seconds of sitting or lying down. He has noticed that the pain is less intense if he leans on something as he walks, such as a grocery cart. He can still ride an exercise bicycle without developing any pain. He has hypertension, hyperlipidemia , and a small abdomina l aortic aneurysm. He had a left carotid endarterectomy 3 years ago after several transient ischemic attacks in the left hemisphere. Medications include lisinopril, lovastat in, and aspirin. He has smoked one pack of cigarettes daily for 30 years. He is 180 cm (5 ft 11 in) tall and weighs 110 kg (242 lb); BMI is 34 kg/m 2. His temperature is 37°C (98.6°F), pulse is 70/min, respirations are 12/min, and blood pressure is 150/90 mm Hg. Examination shows a right femora l bruit and diminished pedal pulses. Which of the following is the most likely cause of this patient's lower extremity pain?",
+    "choices": {
+      "A": "Cerebrovascular disease",
+      "B": "Lumbar spinal stenosis",
+      "C": "Lumbosacral plexopathy",
+      "D": "Periphera l vascular disease",
+      "E": "Trocha nteric bursitis"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "The patient's symptoms are most consistent with neurogenic claudication caused by lumbar spinal stenosis. Spinal stenosis describes narrowing of the central canal, neural foramen, or lateral recesses of the spine with consequent nerve compression. Common causes include degenerative arthritis, spondyloarthropathies, degenerative disc disease, hypertrophy of the ligamentum flavum, and osteophyte formation in the facet joints. Neurogenic claudication describes lower back pain with radiation to the buttocks and lower extremities that results from increased nerve compression, as may occur with extension of the spine during standing and walking downhill. Lengthening the spinal column with spinal flexion as during sitting, walking uphill, or leaning against a grocery cart, tends to relieve the pain. Diagnostic evaluation involves x-rays followed by MRI of the lumbar spine to evaluate the degree of spinal stenosis and whether surgica l management is necessary.",
+    "incorrectExplanation": "nd E. Cerebrovascular disease (Choice A) is a concern in this patient with multiple risk factors and a history of transient ischemic attacks; however, progressive bilatera l leg pain that is worsened or relieved by postural changes is more consistent with lumbar spinal stenosis. Persistent or new motor or sensory deficits would be more concerning for cerebrovascular disease. Lumbosacra l plexopathy (Choice C) describes a diverse range of motor and sensory disturbances to the lower extremities, including weakness, paresis, pain, numbness, and tingling, resulting from lesions of the lumbosacra l plexus. Patients typically display abnormalities along multiple contiguous nerve root distributions. Diagnostic evaluation includes a thorough neurologic and -- - - - - - - - - - -- - - - - -- - - - - - - - -- - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "NEURO-6-4",
+    "section": "Neurology",
+    "subsection": "CMS-6",
+    "questionNumber": 4,
+    "system": "Unknown",
+    "questionStem": "A 72-year-o ld man comes to the physician because of a 1-week history of imbalance and leg weakness and a 3-day history of difficulty initiating urination. He also has had mild midthoracic back pain for 5 months, but during the past 2 weeks, the pain has worsened and freque ntly awakens him. He has had a 9-kg (20-lb) weight loss since an episode of bronchitis 6 months ago. He has smoked one pack of cigarettes daily for 50 years. He is cachectic and appears chronically ill. Examination shows scleral icterus. Muscle strength in the lower extrem ities is decreased in the proximal and distal muscles bilaterally. There is no muscle atrophy, but tone is increased . Deep tendon reflexes are hyperactive, and Babinski sign is present bilatera lly. Sensation is decreased to pinprick to the umbilicus. Muscle strength, sensation, and reflexes in the upper extrem ities are normal. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Epidural spinal cord compression",
+      "B": "Myasthenic (Lambert-Eaton) syndrome",
+      "C": "Spinal cord infarction",
+      "D": "Syringomye lia",
+      "E": "Transverse myelitis"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "This patient's presenting signs and symptoms of focal back pain, upper motoneuron signs, and weight loss are suggestive of epidural spinal cord compression caused by metastatic carcinoma. Metastatic disease frequent ly affects the vertebra l column and may cause compression of the spinal cord by extending into the epidural space or by causing bony destruction and fracture of the vertebral bodies. Patients present with back pain, lower extremity weakness, loss of balance, urinary or bowel incontinence, or complete paralysis of the lower extremities. Early detection and treatment are crucial to prevent permanent spinal cord damage and myelopathy. Patients may benefit from short-term treatment with intravenous dexamethasone to decrease spinal cord edema, although definitive treatment often requires a combination of surgical decompression, chemotherapy, and/or radiotherapy.",
+    "incorrectExplanation": "nd E. Myasthenic (Lambert-Eaton) syndrome (Choice B) is characterized by the formation of autoantibodies against presynaptic calcium channels, resulting in the impairment of acetylcho line release at the neuromuscu lar junction. It presents with progressive proxima l muscle weakness that improves with exercise and does not typical ly present with upper motoneuron signs. Spinal cord infarction (Choice C) may result from occlusion of the anterior or posterior spinal arteries and presents with abrupt onset myelopathy. Neuroimaging may be required to distinguish this entity from compressive spinal cord lesions. This patient's history of subacute onset and weight loss is more suggestive of a compressive epidural malignant lesion. Syringomyelia (Choice D) features a cystic cavity in the central cervical or thoracic spinal cord, which affects mid line structures such as - - - - - - - - - - -- -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "NEURO-6-5",
+    "section": "Neurology",
+    "subsection": "CMS-6",
+    "questionNumber": 5,
+    "system": "Unknown",
+    "questionStem": "A 67-year-o ld woman comes to the physician because of a 6-month history of buttock and leg pain. The pain occurs when she walks for more than two blocks or stands for more than 10 minutes; sitting or bending forward provides relief within 1 minute. She has not had weakness or loss of sensation. Bladder function has been normal. She has a 20-year history of lower back pain relieved with rest. She has type 2 diabetes mellitus well controlled with metformin. Muscle strength is full. Deep tendon reflexes are 2+ except for absent ankle reflexes . Sensation is intact. There is decreased lumbar lordosis; lumbar flexion is full and extension is limited. Straight-leg raising is negative . Peripheral pulses are intact. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Femoropop liteal arterial stenosis",
+      "B": "Lumbar spinal stenosis",
+      "C": "Piriformis syndrome",
+      "D": "Sacroiliac arthritis",
+      "E": "Trocha nteric bursitis"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "The patient's symptoms are best explained by lumbar spinal stenosis. Spinal stenosis describes narrowing of the central canal, neural foramen, or lateral recesses of the spine with consequent nerve compression. Common causes include degenerative arthritis, spondyloarthropathies, degenerative disc disease, hypertrophy of the ligamentum flavum, and osteophyte formation in the facet joints. Lower back pain with radiation to the buttocks and lower extremities that results from increased nerve compression is called neurogenic claudication. It is exacerbated by extension of the spine during standing and walking downhill. Lengthening the spinal column with spinal flexion as during sitting, walking uphill, or bending forward tends to relieve the pain. The absence of ankle reflexes suggests involvement of the S 1 nerve root.",
+    "incorrectExplanation": "nd E. Femoropopliteal arterial stenosis (Choice A) is a common complication of atherosclerosis and peripheral vascular disease. Patients may present with vascular claudication, which is more commonly provoked by exertion and relieved by rest. Severe stenosi s may result in limb ischemia. A bruit may be appreciated over the femoral artery, and peripheral pulses would be diminished in the affected extremity. Piriformis syndrome (Choice C) results from compression of the sciatic nerve as it exits the pelvis. Patients typically present with neuropathic pain in the posterior gluteal region that radiates down the back of the leg. The pain is reproduced by flexion, adduction, and internal rotation of the hip, which tenses the piriformis muscle. A negative straight- leg test is less suggestive of the diagnosis. Sacroiliac arthritis (Choice D) is a common cause of low back pain that radiates down the leg, and may result from prior trauma, - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - . - - - - - - - - - - - - - - - - - - - - - - - - r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "NEURO-6-6",
+    "section": "Neurology",
+    "subsection": "CMS-6",
+    "questionNumber": 6,
+    "system": "Unknown",
+    "questionStem": "An otherwise healthy 77-year-old woman comes to the physician because of a 1-month history of severe dizziness. Severa l times every day she has the sudden onset of a spinning sensation and loss of equilibrium that lasts for 20 to 30 seconds. The episodes begin most frequently after she rolls over in bed or turns her head to the right. Her pulse is 76/min, and blood pressure is 140/80 mm Hg. Neurologic examination shows no abnorma lities. Which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "Positional oculovestibu lar testing",
+      "B": "Tilt table test",
+      "C": "Holter monitoring",
+      "D": "Doppler ultrasonography of the carotid arteries",
+      "E": "EEG",
+      "F": "Electronystagmography",
+      "G": "Magnetic resonan ce angiography"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Benign paroxysmal positional vertigo (BPPV) is a common cause of vertigo and is best diagnosed with positional oculovestibular testing. BPPV occurs when an otolith becomes dislodged from the utricle and enters the semicircular canals. Changes in head posture then cause the malpositioned otolith to move within the semicircular canals, stimulating abnormal movements in endolymph and causing a sensation of vertigo. Patients typically report symptoms of intense, brief episodes of vertigo that occur after changes in position (such as after rolling over or rising from bed), accompanied by visual disturbances (caused by nystagmus), nausea, and vomiting. Positional oculovestibular testing, such as the Dix-Hallpike test, allows the examiner to reproduce the patient's symptoms by repositioning the otolith. Further positional maneuvers, such as the Epley maneuver, can be used to move the malpositioned otolith to its proper position within the utricle. Patients with refractory symptoms may benefit from medical management including scopolamine or meclizine.",
+    "incorrectExplanation": "nd G. Tilt table testing (Choice B), or tilt testing, is useful for the diagnosis of orthostasis. While orthostasis may cause position-dependent symptoms of vertigo, presyncope, or syncope, these symptoms are more likely to occur upon suddenly standing, rather than while rolling in bed or turning one's head. Holter monitoring (Choice C), or ambulatory ECG monitoring (24-hour), is useful for the diagnosis of cardiac arrhythmia. Cardiac arrhythmia is unlikely to produce paroxysmal symptoms with a positiona l component that is dependent on rolling in bed or turning one's head. r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "NEURO-6-7",
+    "section": "Neurology",
+    "subsection": "CMS-6",
+    "questionNumber": 7,
+    "system": "Unknown",
+    "questionStem": "A 35-year-old woman has had constant burning pain in her right hand since closing her hand in a car door 1 year ago. Examination immedia tely following the injury showed extensive ecchymosis and swelling. No fractu res were identified, but the hand was placed in a cast for 1 month. She is unable to tolerate light touch or any motion of the wrist or finger joints during the current examination. Which of the following is the most likely explanation for these findings?",
+    "choices": {
+      "A": "Abnormal sympathetic neural response",
+      "B": "Increased intracarpal canal pressure",
+      "C": "Median nerve fibrosis",
+      "D": "Post-traumatic arthritis",
+      "E": "Radial artery thrombos is"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Abnormal sympathetic neural response, also known as reflex sympathetic dystrophy or complex regional pain syndrome, can potentially occur after traumatic injuries and has a variety of clinical characteristics. Commonly, patients will develop pain out of proportion to the degree of injury in a distinct anatomic location that does not correspond to a single nerve or dermatome. The exact pathophysiology is unknown but is thought to involve either changes in central pain processing or aberrant stimulation of damaged peripheral nerves that release inflammatory substances such as neuropeptide Y and substance P. Common clinical manifestations include pain out of proportion to the injury with severe allodynia, impaired muscle strength in the location of injury, autonomic changes including increased sweating and color or temperature changes, and occasionally atrophy or fibrosis.",
+    "incorrectExplanation": "nd E. Increased intracarpal canal pressure (Choice B) leads to carpal tunnel syndrome as a result of compression of the median nerve at the wrist. Symptoms include paresthesias in the palmar aspect of the first two or three digits. Median nerve fibrosis (Choice C) can sometimes occur following a bone fracture with injury to the nerve or after surgical intervention. Symptoms include sensory and motor disturbances in the distribution of the median nerve and depend upon the location at which the median nerve is affected. Post-traumatic arthritis (Choice D) describes joint pain that occurs following a traumatic injury to the articular cartilage of a joint. Like most cases of osteoarthritis, pain is localized to the affected joint and worsens with activity but improves with rest. Temperature changes and sensory changes of the skin are not seen unless the traumatic injury also resulted in trauma to local tissues or nerves. Radial artery thrombosis (Choice E) can occur following trauma or instrumentation, as might occur with the placement of a radial artery - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "NEURO-6-11",
+    "section": "Neurology",
+    "subsection": "CMS-6",
+    "questionNumber": 11,
+    "system": "Unknown",
+    "questionStem": "A 42-year-o ld man comes to the physician with his wife because of a 6-month history of increasing clumsiness and a 1-month history of irritability. His wife has noticed jerkiness of his limbs when he walks down stairs or walks quickly. During the past month, he has had the same involuntary movements at rest after stressful days at work. He has not had fever, chills, or night sweats. He does not smoke cigarettes, drink alcohol, or use illicit drugs. He goes camping several times yearly. He does not appear to be in distress. Examination shows involuntary movements of the right upper extremity, which the patient is able to suppress when made aware of them. His gait is ataxic. Additional testing is most likely to show which of the following abnormalities?",
+    "choices": {
+      "A": "Atrophy of the caudate nucleus on brain imaging",
+      "B": "Decreased serum methylmalonic acid concentration",
+      "C": "Dilated ventricles on brain imaging",
+      "D": "Increased oligoclonal bands in cerebrospinal fluid",
+      "E": "Increased serum acetylcholine esterase inhibitor concentration",
+      "F": "Positive serum lgM Lyme titer"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Atrophy of the caudate nucleus on brain imaging would be expected in this patient who most likely has Huntington disease, a progressive neurodegenerat ive condition that arises from misfolded proteins as the result of a trinucleotide expansion in the Huntington gene. Patients develop choreiform movements, which are characterized by involuntary flailing motions of the upper extremities. Eventually, these motor disturbances and others, including ataxic gait, greatly interfere with daily life. Concomitant psychiatric disturbances such as emotional !ability, anxiety, depression, and psychosis may also occur in the later stages of the disease. Many patients exhibit a family history of similar symptoms, but the disease can also arise de novo. Since this is an autosomal dominant disease, there is a 50% chance that an affected individual will pass it on to offspring. Anticipation, whereby symptoms manifest at progressive ly earlier ages and/or more severely in subsequent generations, is also typical of this disease.",
+    "incorrectExplanation": "nd F. Decreased serum methylmalonic acid (MMA) concentration (Choice B) is not correct. High concentrations of MMA are seen in vitamin B 12 (cobalamin) deficiency, which can lead to subacute combined degeneration of the spine. Dilated ventricles on brain imaging (Choice C) are seen in patients with hydrocephalus, which can either be communicating or noncommunicating. Patients can present with headaches, nausea, vomiting, or gait instability but would not typically exhibit choreiform movements. . -. . . . . . . . . - -. . . . . - - ... Score Report Lab Values Calculator Help Pause"
+  },
+  {
+    "id": "NEURO-6-13",
+    "section": "Neurology",
+    "subsection": "CMS-6",
+    "questionNumber": 13,
+    "system": "Unknown",
+    "questionStem": "A 77-year-old man is brought to the physician by his daughter because he has become increasingly forgetful during the past 6 months. His daughter states that his short-term memory is quite impaired, and he says that he is frustrated with his memory. He lives alone and is able to perform activities of daily living independently. On questioning, he reports a 1-month history of a mild nonproductive cough, constipation, mild pain in his hips with movement, mild numbness of the toes of both feet, and a few episodes of urinary incontinence. He has hypertension, hyperlipidemia, and well-controlled type 2 diabetes mellitus. Current medications include metformin, lisinopril, atorvastatin, and aspirin. His wife died 6 years ago. He does not smoke or drink alcohol. His tempera ture is 36.8°C (98.2°F), pulse is 72/min, respirations are 14/min, and blood pressure is 128/72 mm Hg. Muscle strength is normal. Cranial nerves are intact. Deep tendon reflexes are normal. Sensation to vibration is mildly decreased over the distal lower extremities. Proprioception is intact. His gait is wide based, and he has impaired tandem walking. His Mini-Mental State Examination score is 24/30; he recalls one of three objects after 5 minutes. An MRI of the brain shows slightly enlarged ventricles with minimal cortical atrophy. Which of the following is the most appropriate next step in management? ~-",
+    "choices": {
+      "A": "Recommendation that the patient move to an assisted living community",
+      "B": "Discontinuation of atorvastatin therapy",
+      "C": "Discontinuation of metformin therapy",
+      "D": "Addition of donepezil therapy",
+      "E": "Addition of paroxetine therapy",
+      "F": "Lumbar puncture"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "The patient is presenting with findings concerning for normal pressure hydrocephalus (NPH), with the characteristic combination of dementia (eg, frontal executive dysfunction), gait instability, and urinary incontinence. NPH refers to a type of communicating (nonobstructive) hydrocephalus in which the ventricles are enlarged, leading to damage of the white matter tracts connecting the frontal lobes and basal ganglia. Signs of increased intracranial pressure (eg, papilledema, postural headaches) are typically absent. Many cases of NPH are idiopathic, though some are secondary to a defect in cerebrospinal fluid drainage from the ventricles as a result of scarring or obstruction of the ventricular lining from prior hemorrhage or meningitis. The diagnosis is primarily clinical, although ventricu lomegaly on brain imaging is suggestive. The most appropriate next step in management is a lumbar puncture to assess the opening pressure and clinical response to removing cerebrospinal fluid. Placement of a ventricular shunt may be needed for long-term management.",
+    "incorrectExplanation": "nd E. Recommendation that the patient move to an assisted living communi ty (Choice A) is inappropriate prior to a thorough evaluation for intervenable causes. Recovery of executive function in patients with NPH that has progressed to dementia is uncertain. It may be appropriate to refer to assisted living if the patient continues to decline and is unable to manage activities of daily living. . - - - - - - - - - - - - - - - - - - - - - - - . - - - - - - - - - - - - - -- - - -- - - - - - - - - - -- - - - - - - - - - - - - - - - - r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "NEURO-6-14",
+    "section": "Neurology",
+    "subsection": "CMS-6",
+    "questionNumber": 14,
+    "system": "Unknown",
+    "questionStem": "A previous ly healt hy 42-yea r-old man comes to the physician because of a 6-week history of intermittent pain and tingling that radiates from his right shoulder blade to his right thumb and index finger. These symptoms worsen with coughing and sneez ing. There is no history of neck, shoulder, or arm injury. His pulse is 72/min, and blood pressure is 120/70 mm Hg. Physical examination shows no abnorma lities. The cranial nerves are intact. Muscle strength is normal in all extrem ities. Deep te ndon reflexes are 1 + in the right biceps muscle and 2+ elsewhere. Babinski sign is absent. Sensation to pinprick is decreased over the dorsal aspect of the right thumb and index finger. Wh ich of the following is the most likely mechanism of this patient's symptoms?",
+    "choices": {
+      "A": "Brachia! plexus compression",
+      "B": "Centra l nervous system compression",
+      "C": "Centra l nervous system demye lination",
+      "D": "Centra l nervous system ischemia",
+      "E": "Cervical nerve root compression",
+      "F": "Median nerve compress ion at the elbow"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "G) H) I) J) K) Median nerve compress ion at the wrist Radia l nerve compression at the elbow Radia l nerve compression at the spiral groove Ulnar nerve compression at the elbow Ulnar nerve compression at the wrist Cervical nerve root compression explains this patient's symptoms of cervical radiculopathy. Radicu lopathy refers to pathology affecting a specific spinal nerve root that leads to weakness, numbness, paresthesias, and pain in the dermatomal and myotomal distribution that correlates to the affected root. C6 radicu lopathy will result in pain that radiates from the neck into the arm along with decreased sensation, pain, and/or paresthesia in the lateral forearm and the latera l two digits. Additional ly, C6 radiculopathy causes motor dysfunction of elbow flexion and wrist extension, and a diminished or absent biceps reflex. Radiculopathy symptoms may worsen with activities that increase pressure such as coughing and sneezing. Radiculopathy may be caused by spondylosis (degenerative changes of the spine), disc herniation, infection, tumor, demye lination, or infarction. Dermatomes and myotomes are components of the embryonic somite, a paired segment of paraxial mesoderm. When fully developed, the dermatome is an area of skin whose afferent fibers travel within a single spinal nerve, and myotome is a group of muscles innervated by the efferent fibers from a single spinal nerve.",
+    "incorrectExplanation": "nd K. Brachia! plexus compression (Choice A) typically presents with weakness, numbness, and/or paresthesias of the majority of the upper extremity. Brachia! plexus compression typical ly affects multiple nerve roots and motor dysfunction typica lly predominates over sensory dysfunction and pain early in the disease process. Centra l nervous system (CNS) compression (Choice B), demye lination (Choice C), or ischemia (Choice D) typica lly affects major central nervous system tracts, leading to sensory, motor, and/or autonomic dysfunction contralateral to the lesion. This patient instead demonstrates deficits that are localized to a single spinal nerve root. r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "NEURO-6-17",
+    "section": "Neurology",
+    "subsection": "CMS-6",
+    "questionNumber": 17,
+    "system": "Unknown",
+    "questionStem": "A 37-year-o ld woman with a 10-year history of HIV infection comes to the physician because of headache and fever for 2 days. Her temperature is 38.9°C (102°F). Examination shows confusion and mild weakness of the left upper and lower extrem ities. Deep tendon reflexes are increased, and Babinski sign is present on the left. Her CD4+ T-lymphocyte count is 4/mm3 (Normal~500), and plasma HIV viral load is 60,000 copies/ml. Which of the following is the most likely finding on MRI of the brain?",
+    "choices": {
+      "A": "Diffuse leukoaraiosis with periventricular white matter changes",
+      "B": "Markedly enlarged sulci w ith genera lized loss of brain matter",
+      "C": "Markedly enlarged ventricles with minimal changes in sulci",
+      "D": "Mass lesion within the substance of the right frontal cortex with shift to the left of midline structures",
+      "E": "Opaque mass over convexity of left frontal cortex with compress ion of brain substance"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Toxop/asma gondii is an intracellular protozoan parasite. Transmission can occur through the ingestion of oocysts from cat feces or infected meat, direct transmission between a mother and fetus, or from organ transplantation, which leads to invasion followed by dissemination of the parasite where it typically lies dormant. It is a ubiquitous organism and nearly 10% of individuals will be seropositive for T gondii, but the parasite does not usually cause severe disease in immunocompetent individuals. In patients with HIV infection and CD4+ cell counts less than 100 cells/mm 3, however, reactivation can occur with several distinct clinical syndromes of which cerebral toxopla smosis results in the most morbidity. Cerebral toxoplasmosis typically presents with multiple ring-enhancing lesions within the substance of the cerebral cortex, most commonly the frontal and parietal lobes, although single lesions can occur. It is commonly associated with cerebral edema, which may result in mass effect and shifting of adjacent structures. Seizures, focal neurologic deficits, and systemic symptoms are common, as are signs of increased intracranial pressure. Patients with HIV and positive toxoplasma lgG antibodies are typically treated empirical ly with a sulfonamide and pyrimethamine if cerebral toxoplasmosis is suspected. If necessary, the confirmatory diagnosis occurs through a brain biopsy, which will demonstrate a dense infiltrate of lymphocytes, macrophages, and plasma cells, along with the presence of the T gondii organisms. Cerebral toxopla smosis is an AIDS­ defining disease.",
+    "incorrectExplanation": "nd E. Diffuse leukoaraio sis with periventricular white matter changes (Choice A) describes hyperintense signal alterations on MRI in the white matter surrounding the lateral ventricles. It is associated with chronic vascular pathology, such as hypertension, diabetes, and vascular dementia. Markedly enlarged sulci with generalized loss of brain matter (Choice B) occurs in cerebral atrophy associated with age, dementia, and alcohol use disorder. This patient with HIV and focal neurologic deficit more likely has an opportunistic infection of the central nervous ---r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "NEURO-6-18",
+    "section": "Neurology",
+    "subsection": "CMS-6",
+    "questionNumber": 18,
+    "system": "Unknown",
+    "questionStem": "An 87-year-o ld man comes to the physician because of headaches over the past 6 weeks; they fluctuate in severity during the day and occasionally awaken him from sleep. He describes the pain as an aching pressure that is worse in the front. His vision is unchanged . He takes aspirin for cervical osteoarthr itis. His son died 3 months ago. He is lethargic and yawns during the interview. His temperatu re is 36.6°C (97.8°F), pulse is 88/min and regular, and blood pressure is 140/90 mm Hg. Funduscopic examination shows cataracts. There is moderate stiffness of the neck with flexion and when the head is turned to the left and right. There is a pronator drift of the right upper extremity. Reflexes are 3+ at the biceps and triceps muscles and knees and 1 + at the ankles. Babinski sign is present bilaterally. He has a slow unsteady gait with short steps. No other abnorma lities are noted. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Craniopharyngioma",
+      "B": "Hypertensive encepha lopathy",
+      "C": "Major depressive disorder",
+      "D": "Migraine",
+      "E": "Subdural hematoma",
+      "F": "Temporal arteritis"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Head trauma, the use of anticoagulants, physical abuse, alcohol use disorder, cerebral atrophy, and malignancy are associated with an increased risk for developing a subdural hematoma (SDH). Elderly patients are at risk for cerebral atrophy, which places traction on dural bridging cortical veins. In this setting, minor trauma such as falls can result in shearing of the veins leading to hemorrhage. In some cases, patients may not report a history of trauma. Patients may present with headaches, vomiting, meningismus, or hemiparesis, or they may manifest upper motoneuron examination findings such as spasticity, hyperreflexia, and extensor plantar reflex (Babinski sign). In some cases, the SDH may be large enough to compress adjacent brain parenchyma; the displacement of the cerebral hemisphere can result in neurologic deficits, altered mental status, seizures, herniation syndromes, and signs of increased intracranial pressure. On imaging, SDH appears as a crescent-shaped fluid collection abutting the internal surface of the skull, not bound by suture lines.",
+    "incorrectExplanation": "nd F. Craniopharyngioma (Choice A) is a rare pituitary mass derived from remnants of the Rathke pouch that may present with bitemporal hemianopsia. It is usually detected in youth. Hypertensive encephalopathy (Choice B) may result from acute and severe increases in blood pressure and may manifest with headache, vomiting, agitation, altered mental status, and seizure. It may progress to obtundation and coma. This patient's blood pressure is mildly increased but not severe enough to cause hypertensive encephalopathy. r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "NEURO-6-20",
+    "section": "Neurology",
+    "subsection": "CMS-6",
+    "questionNumber": 20,
+    "system": "Unknown",
+    "questionStem": "An 80 year old man briefly loses consciousness and falls to the floor in a grocery store. He awakens within 1 minute and feels dizzy, but after several minutes the dizziness passes. His pulse is 80/min; his blood pressure is 160/90 mm Hg while supine and 150/86 mm Hg while standing. Cardiac examination and ECG show no abnorma lities. During the physical examination , when his head is turned to the right, he suddenly loses consciousness and motor tone. While unconscious, his pulse is 40/min. He awakens within 20 seconds and feels slightly dazed , but this feeling passes after 1 minute. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Carotid sinus hypersensitivi ty;",
+      "B": "Complex partial seizure disorder",
+      "C": "Idiopathic orthostatic hypotension",
+      "D": "Vasodepressorsyncope",
+      "E": "Vertebrobasi lar insufficiency"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Carotid sinus hypersensitivity syndrome is characterized by an exaggerated response to carotid baroreceptor stimulation, presenting with resultant sinus bradycardia, hypotension, and syncope. Baroreceptors located at the carotid bifurcations and the aortic arch are important in regulating cardiac output and maintaining adequate perfusion pressures to the brain and organs of the upper body. Baroreceptors are sensitive to mechanical pressure; normally, an increase in blood pressure stimulates baroreceptor activity, which activates a reflex arc resulting in parasympathetic innervation of the sinoatria l and atrioventricular nodes, and inhibition of sympathetic vascu lar tone. This results in a decreased heart rate and periphera l vascular resistance and may result in syncope, especia lly in older adults. In carotid sinus hypersensitivity syndrome, this response may be triggered by mechanica l compression of the carotid sinus from external palpation or with movement of the muscles of the neck. Cardiac examination and diagnostic studies are often unrevealing.",
+    "incorrectExplanation": "nd E. Complex partial seizure disorder (Choice B), also called focal onset impaired awareness seizures, is characterized by localized motor or sensory symptoms associated with loss of awareness during episodes. Generalized loss of motor tone and bradycardia are more suggestive of carotid sinus hypersensitivity. Idiopathic orthostatic hypotension (Choice C) is unlikely to explain this patient's symptoms given normal orthostatic vital signs on examination. Orthostatic hypotension is characterized by tachycardia in response to the decreased preload, rather than bradycardia as observed in this patient. Vasodepressor syncope (Choice D), also called vasovagal syncope, is common and results from an acute decrease in periphera l vascu lar resistance with an inadequate responsive increase in cardiac output to maintain perfusion pressure to the brain. Common triggers include standing for long periods of time, heat, and intense emotion or pain. In this case, the onset of symptoms when the patient's head is turned to the right raises concern for carotid sinus hypersensitivity. r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "NEURO-6-22",
+    "section": "Neurology",
+    "subsection": "CMS-6",
+    "questionNumber": 22,
+    "system": "Unknown",
+    "questionStem": "A 67-year-o ld man with a 30-year history of alcoholism is brought to the emergency department 1 hour after he was found confused and lethargic by his daughter. He appears malnourished and ill. His temperature is 36°C (96.8°F), pulse is 96/min, and blood pressure is 150/80 mm Hg. Scattered rhonchi are heard. Abdomina l examination shows no tenderness , a liver span of 18 cm, and a palpable spleen tip. Neurologic examination shows a disconjugate gaze. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Intensive physical therapy",
+      "B": "Intravenous glucose therapy",
+      "C": "Intravenous vitamin B1 (thiamine) therapy;",
+      "D": "Intravenous vitamin B 12 (cyanocobalamin) therapy",
+      "E": "Oral lactulose therapy"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Vitamin B 1, or thiamine, deficiency causes two potential syndromes: Wernicke encepha lopathy and Korsakoff dementia. The classic triad of Wernicke encephalopathy demonstrates encepha lopathy, ataxia, and oculomotor dysfunction. If Wernicke syndrome is allowed to progress without treatment, Korsakoff syndrome may develop, which is manifest by retrograde and anterograde amnesia, confabulation, and horizonta l nystagmus. Wernicke encephalopathy develops in patients with extreme malnourishment and/or alcoho l use disorder. While a serum thiamine concentration may be decreased, this is not useful in managing patients as it cannot be checked quickly. Thus, diagnosis is clinical and should be rapidly treated with intravenous thiamine administration.",
+    "incorrectExplanation": "nd E. Intensive physica l therapy (Choice A) would not address the underlying diagnosis of Wernicke encephalopathy. Delayed diagnosis of this condition potentia lly leads to coma and death. Intravenous glucose therapy (Choice B) should not be administered until after thiamine has been given in the setting of Wernicke encepha lopathy, since glucose alone can theoretical ly worsen symptoms. Once thiamine has been replenished, then intravenous glucose may be given. Intravenous vitamin B 12 (cyanocoba lamin) therapy (Choice D) may be utilized in the treatment of megaloblastic anemia resulting from vitamin B 12 (cobalamin) deficiency. This most commonly occurs in the context of vegan ism, pernicious anemia, and Crohn disease. It is not necessary to supplement in the case of Wernicke encephalopathy. Oral lactulose therapy (Choice E) is the treatment of choice for hepatic encepha lopathy. This is most common ly seen in patients with cirrhosis whose ability to process ammonia from the gastrointestina l tract is impaired. This patient's liver is enlarged, not cirrhotic on - - - - - - - -- - - - - \" - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "NEURO-6-23",
+    "section": "Neurology",
+    "subsection": "CMS-6",
+    "questionNumber": 23,
+    "system": "Unknown",
+    "questionStem": "A 62-year-o ld woman is brought to the emergency department after an episode of flaccid paralysis and numbness of the left upper and lower extremities that lasted 2 hours. During the episode, she was unable to see objects in her left visual field. Neurologic exam ination now shows no abnorma lities. A CT scan of the head shows no lesions. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Arteriovenous malformation",
+      "B": "Cerebe llar glioma",
+      "C": "Cerebral embolus",
+      "D": "Frontal lobe mening ioma",
+      "E": "Lacunar infarct",
+      "F": "Migraine",
+      "G": "Rupture of a cerebral artery aneurysm",
+      "H": "Temporal lobe astrocytoma"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Transient ischemic attack (TIA) is defined as a transient episode of neurologic dysfunction lasting less than 24 hours caused by focal brain, spinal cord, or retinal ischemia without evidence of infarction. This patient has developed focal neurologic deficits that resolved after 2 hours, qualifying as a TIA. TIA can be induced by either an embolus arising from a proximal site or from temporarily decreased blood flow to a watershed area in the brain. A hypotensive TIA typically lasts until resolution of the low-flow event while an embolic TIA lasts hours, as in this case. An embolic ischemic stroke involves an event in which a clot breaks off and travels to the brain, occluding blood flow within a cerebral artery. Emboli most commonly originate from proximal vessels, such as the internal carotid artery, or from an atrial thrombus. If the embolus successfu lly undergoes physiologic thrombolysis, blood flow is restored to the affected area and reverses the clinical symptoms. After a TIA, measures for prevention of an ischemic stroke should be enacted, along with evaluation for the potential source of embolus, such as carotid artery doppler and echocardiography.",
+    "incorrectExplanation": "nd H. Rupture of an arteriovenous malformation (Choice A) or cerebral artery aneurysm (Choice G) in the brain are causes of intracranial bleeding and hemorrhagic stroke. Hemorrhage is not a typical cause of TIA and is less likely to be transient. lntracranial neoplasms, including cerebellar glioma (Choice B), frontal lobe meningioma (Choice D), and temporal lobe astrocytoma (Choice H) may cause focal neurologic deficits such as ataxia and dysmetria, social disinhibition, or motor and sensory impairment, respectively, because of mass effect. However, these effects are not transient. r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "NEURO-6-24",
+    "section": "Neurology",
+    "subsection": "CMS-6",
+    "questionNumber": 24,
+    "system": "Unknown",
+    "questionStem": "A 25-year-o ld farm worker is brought to the emergency department because of the sudden onset of headache, dizziness, nausea, and vomiting while picking peaches. His pulse is 52/min, and blood pressure is 90/60 mm Hg. He has general ized weakness, diaphoresis, and pinpoint pupils. Which of the following precautions should medical professiona ls take while caring for this patient?",
+    "choices": {
+      "A": "Wearing protective goggles",
+      "B": "Wearing rubber gloves",
+      "C": "Wearing a surgical mask",
+      "D": "No precautions necessary"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Organophosphates are commonly found in insecticides and exposure to them can occur transcutaneously, or via inhalation or ingestion. Organophosphates bind to and are inhibitors of acetylcholinesterase, preventing the breakdown of acetylcholine (ACh), which leads to excess concentrations of ACh in the neuromuscular junction. ACh acts on both nicotinic and muscarinic ACh receptors. Nicotinic ACh receptors are found in autonomic ganglia, adrenal medulla, and skeletal muscle, whereas muscarinic ACh receptors are found in heart, brain, smooth muscle, exocrine glands, and sweat glands. Resultant cholinergic excess leads to bronchospasm, bronchorrhea, bradycardia, diarrhea, lacrimation, and salivation. Because of the potential for organophosphate toxicity via transcutaneous exposure, medical professionals should always wear rubber gloves when treating the patient. Treatment involves decontamination of the patient, along with atropine to antagonize the muscarinic receptors, and 2-pralidoxime to regenerate functional acetylcholinesterase.",
+    "incorrectExplanation": "nd D. Organophosphates are not transmitted via aerosolization or droplets, thus wearing protective goggles (Choice A) or wearing a surgical mask (Choice C) would not be as protective as wearing gloves . This patient was likely transcutaneously exposed to organophosphates while picking peaches, so wearing protective rubber gloves is a priority. Wearing no protective equipment (Choice D) would not be advised, since medical professionals treating the patient could inadvertently be exposed to organophosphates by touching the patient. Educationa l Objective: Organophosphates are commonly found in insecticides and exposure to them can occur transcutaneously, or via inhalation or ingestion. Because of the potential for organophosphate toxicity via transcutaneous exposure, medical professionals should always wear rubber gloves when treating the patient. r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "NEURO-6-28",
+    "section": "Neurology",
+    "subsection": "CMS-6",
+    "questionNumber": 28,
+    "system": "Unknown",
+    "questionStem": "A 22-year-o ld college student comes to the student health center after an episode during which he found himself unable to move for several seconds after awakening. The episode occurred during the college's spring break 2 weeks ago, when he awoke after having fallen asleep on the beach. He has no history of similar symptoms. The patient is not having academ ic difficult ies, although he admits to recent stress caused by the examinations that he took just before the spring break. His medical history is noncontributory. Vital signs are within normal limits. Examination shows no abnorma lities. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Reassurance",
+      "B": "Polysomnography and multiple sleep latency test",
+      "C": "Psychiatr ic assessment",
+      "D": "Toxicology screening",
+      "E": "Sleep-deprived EEG",
+      "F": "MRI of the brain"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Sleep paralysis, a manifestation of the atonia that primarily occurs during REM sleep, happens during the transition from sleep to wakefu lness at least once in most people's lives. The precise mechanism of sleep paralysis during the transition to wakefulness is unknown, but stress, psychiatric disorders, sleep deprivation, and substance use may increase the risk. This patient's preceding stress and potential sleep deprivation and substance use during spring break may have contributed to his sleep paralysis episode. Patients are typically distressed during the episode and may experience an associated feeling of impending doom. Other features of REM sleep may also intrude into transitions from sleep to wakefu lness or wakefulness to sleep (eg, hypnopompic or hypnagogic hallucinations). Management of an isolated sleep paralysis episode consists of reassurance and education about normal sleep behavior. If sleep paralysis episodes persist, then the patient should be evaluated for narcolepsy.",
+    "incorrectExplanation": "nd F. Polysomnography and multiple sleep latency test (Choice B) would confirm a diagnosis of narcolepsy. Narcolepsy is a chronic sleep disorder that involves deficient orexin secretion, leading to the repeated intrusion of sleep phenomena (eg, sleepiness, cataplexy, hypnagogic hallucinations, sleep paralysis) into times of wakefu lness. An isolated episode would not be concerning for narcolepsy. Psychiatric assessment (Choice C) and toxicology screening (Choice D) are unnecessary. Though this patient experienced stress, possibly contributing to the sleep paralysis, a single episode of sleep paralysis during wakefulness is common and not an indication of a psychiatric or substance use disorder. --.. -. -. -. . . - - -. -. . atients with a normal standard EEG when the h Score Report Lab Values Calculator Help Pause"
+  },
+  {
+    "id": "NEURO-6-29",
+    "section": "Neurology",
+    "subsection": "CMS-6",
+    "questionNumber": 29,
+    "system": "Unknown",
+    "questionStem": "An 82-year-o ld woman is brought to the physician because of a 6-month history of neck pain radiating to her left hand. She has also had neck stiffness and difficulty maintaining her balance while walking. She has osteoarthr itis, Crohn disease, gastroesophagea l reflux disease, and hyperlipidemia. Current medications include ranitidine, cholestyramine, mesalamine, and ibuprofen. Examination shows moderately decreased range of motion of the neck. There is mild weakness and atrophy of the hands and forearms and increased muscle tone of the lower extremities. The triceps reflexes are absent, the biceps and brachioradia lis reflexes are intact, and the knee and ankle jerk reflexes are increased. Babinski sign is present bilaterally. Sensat ion to pinprick and temperature is decreased over the dorsal forearms and hands. Her gait is broad based and stiff. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Bilateral brachia! plexopathy",
+      "B": "Bilateral median and ulnar mononeuropathy",
+      "C": "Cervical spondylotic myelopathy;",
+      "D": "Parasagittal meningioma",
+      "E": "Subacute combined degeneration"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Cervical spondylotic myelopathy is a spinal cord syndrome caused by compression of the cervical spinal cord by degenerated vertebral bodies, facet joints, and/or herniated intervertebral discs. The process begins with progressive degeneration of these surrounding bony structures, which then causes impingement on the central spinal canal. Depending on the level of involvement, the exact symptoms will differ. In most cases, compression of the spinal nerves at the level of the degenerative changes will cause lower motoneuron findings including weakness, hyporeflexia, and atrophy, as seen in the upper extremities of this patient. In contrast, compression of the tracts within the spinal cord, including the lateral corticospinal tract, will cause weakness with upper motoneuron findings in the levels inferior to the degenerative changes. As in this patient, hyperreflexia and an upgoing Babinski sign will be present. The spinotha lamic tract may also be compressed, leading to impaired pain and temperature sensation.",
+    "incorrectExplanation": "nd E. Bilateral brachia! plexopathy (Choice A) and bilateral median and ulnar mononeuropathy (Choice B) are both pathologies involving peripheral nerves. Impairment of periphera l motor nerves causes lower motoneuron signs including weakness, fasciculations, hyporeflexia, hypotonia, and atrophy. However, neither of these pathologies would explain the patient's upper motoneuron signs in the lower extremities. Parasagittal meningioma (Choice D) is an intracranial tumor that grows along the falx cerebri and may compress the adjacent cerebral cortex, possibly including the primary motor cortex in the lower extremity portion of the motor homunculus. This has the potential to cause weakness of the lower extremities with findings of upper motoneuron disease. However, this patient also has lower motoneuron - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - -- - r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "NEURO-6-33",
+    "section": "Neurology",
+    "subsection": "CMS-6",
+    "questionNumber": 33,
+    "system": "Unknown",
+    "questionStem": "A 72-year-o ld woman is brought to the physician because of a 24-hour history of severe right ear pain, drooping of the right side of her face, and tearing of the right eye. She had a mild upper respiratory tract infection 1 week ago. She has type 2 diabetes mellitus currently treated with glyburide. She is in distress. Her temperatu re is 37°C (98.6°F). Exami nation shows rotatory nystagmus on lateral gaze. There is severe palsy of the right peripheral facial nerve with an inability to close the right eye. Examination shows a rash in the external auditory canal and hearing loss on the right. There is no nuchal rigidity. Which of the following is the most likely cause of these findings?",
+    "choices": {
+      "A": "Borrelia burgdorferi infection",
+      "B": "Herpes zoste~",
+      "C": "Measles",
+      "D": "Mucormycosis",
+      "E": "Pseudomonas aeruginosa infection",
+      "F": "Staphylococca l infection"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "This patient's presenting signs and symptoms of unilatera l facial nerve palsy, ear pain and rash, hearing loss, nystagmus , and tearing , are consistent with a diagnosis of Ramsay Hunt syndrome, also known as zoster oticus. Ramsay Hunt syndrome is caused by reactivation of a latent infection with herpes zoster virus within the geniculate ganglion. Viral reactivation within the geniculate ganglion leads to facial nerve palsy, which causes paralysis of the muscles of facial expression (including the forehead) and may cause lagophthalmos and corneal dryness. In addition, the proximity of the vestibu locochlear nerve to the geniculate ganglion increases the risk for its involvement, which causes a characteristic presentation of ear pain and vesicular rash of the external ear canal or auricle, and may also cause hearing loss, vertigo, and nystagmus. The diagnosis is clinical but may be confirmed with PCR amplification testing. Treatment includes oral prednisone and acyclovir.",
+    "incorrectExplanation": "nd F. Borrelia burgdorferi infection (Choice A) causes Lyme disease, which is a common cause of facial nerve palsy. Lyme disease rarely causes palsy of the vestibu locochlear nerve or a rash of the external ear. Measles (Choice C) is a highly contagious paramyxovirus that presents with fever, cough, coryza, conjunctivitis, and a confluent maculopapular rash that starts at the head or neck and spreads to the trunk, excluding the palms and soles. In severe cases, it may cause subacute sclerosing panencepha litis. It does not typically cause facial or vestibu locochlear nerve palsy. Mucormycosis (Choice D) is caused by an invasive infection with fungal organisms such as Mucor or Rhizopus, and results in a ressive infections of the sinuses, nasal cavit , orbits, or lun s, rimaril in atients with a histor of immunocom romise e Score Report Lab Values Calculator Help Pause"
+  },
+  {
+    "id": "NEURO-6-34",
+    "section": "Neurology",
+    "subsection": "CMS-6",
+    "questionNumber": 34,
+    "system": "Unknown",
+    "questionStem": "A 47-year-o ld woman is brought to the emergency department 1 hour after the onset of a severe headache that began suddenly while she was exercising at the gym. She rates her pain as a 10 on a 10-point scale and says it is present over her entire head. She has type 2 diabetes mellitus controlled with metformin. She is 172 cm (5 ft 7 in) tall and weighs 72 kg (158 lb); BMI is 25 kg/m2. She is alert and oriented. Vital signs are within normal limits. On examination, the right pupil is 5 mm and not reactive to light. Meningismus is present. The remainder of the examinat ion, including neurologic examinat ion, shows no abnorma lities. The most likely cause of these findings is a lesion in which of the following arteries?",
+    "choices": {
+      "A": "Anterior cerebra l",
+      "B": "Basilar",
+      "C": "Middle cerebra l",
+      "D": "Posterior communicating",
+      "E": "Proximal internal carotid"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Subarachnoid hemorrhage (SAH) refers to bleeding into the subarachnoid space. It most commonly occurs secondary to trauma, although aneurysmal rupture is the most common cause of nontraumatic SAH. Patients typically present with an acute, severe headache often described as the worst headache of their life, along with neck stiffness, photophobia, and possible stupor or coma in severe cases. Aneurysms can occur at various locations within the intracranial vasculature. This patient presents with oculomotor nerve palsy, raising suspicion for a posterior communicating artery aneurysm. Oculomotor nerve palsy is a common presenting sign of a posterior communicating artery aneurysm because of its location and compression of the oculomotor nerve. The oculomotor nerve carries parasympathetic fibers allowing for pupillary constriction and motor fibers innervating the levator palpebrae superioris and several extraocular muscles. Patients with an oculomotor nerve palsy can present with pupillary dilation, ptosis, and extraocular muscle paresis leading to diplopia.",
+    "incorrectExplanation": "nd E. The anterior cerebral arteries (Choice A) are connected by the anterior communicating artery, the most common site for aneurysms in the circle of Willis. Because of its location near the optic chiasm, it can cause visual field defects such as bitemporal hemianopsia. Basilar artery (Choice B) and middle cerebral artery (Choice C) aneurysms can also rupture and cause an acute headache, intracranial hemorrhage, and/or subarachnoid hemorrhage, but oculomotor nerve palsy would be atypical. Proximal internal carotid artery (Choice E) aneurysms within the neck are much less common than aneurysms of the posterior communicating artery. As well, aneurysmal rupture of the proximal internal carotid artery would not cause cranial nerve palsies, subarachnoid hemorrhage, or findings of meningismus. r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "NEURO-6-35",
+    "section": "Neurology",
+    "subsection": "CMS-6",
+    "questionNumber": 35,
+    "system": "Unknown",
+    "questionStem": "A 37-year-o ld man comes to the physician because of a 6-month history of difficulty walking and a tremor of the right arm. He says that his movements have been slower. He has hypertension, schizophrenia, and gastroesophageal reflux disease . Current medications include hydroch lorothiazide, fluphenazine, benztropine, and ranitidine. His blood pressure is 108/72 mm Hg. Examination shows increased muscle tone in the right upper extremity; there is a resting tremor of the right hand and decreased right arm swing. His gait is short based. Mental status examination shows a restricted affect. Which of the following is most likely to improve this patient's symptoms?",
+    "choices": {
+      "A": "Adding donepezil to the medication regimen",
+      "B": "Adding risperidone to the medication regimen",
+      "C": "Discontinuing benztropine",
+      "D": "Discontinuing fluphenazine",
+      "E": "Discontinuing ranitidine"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Fluphenazine, a first-gene ration antipsychotic medication, is a dopamine-2 (D2) receptor antagonist. By decreasing mesolimbic dopamine signaling, fluphenazine treats the psychotic symptoms of schizophrenia. D2 antagonism in the basal ganglia can cause acute dystonic reactions and parkinsonism, leading to this patient's bradykinesia (manifesting as a decreased right arm swing while walking), resting tremor, increased muscle tone, and postural instability (manifesting as a short, or shuffling, gait). The chronic use of antidopaminergic agents may also upregulate D2 receptors in the basal ganglia, leading to tardive dyskinesia. Management of medication-induced parkinsonism typically involves adding an anticho linergic medication such as benztropine, which counteracts antidopaminergic activity and addresses parkinsonism. In this patient with schizophrenia already on an anticho linergic medication (benztropine ), the next step is decreasing or discontinuing the dose of the offending medication and switching to an antipsychotic medication that causes less potent D2 antagonism.",
+    "incorrectExplanation": "nd E. Donepezi l (Choice A) is a cholinesterase inhibitor utilized in dementia that increases cholinergic signaling in the cortex. Benztropine (Choice C) is an anticho linergic medication that antagonizes muscarinic acetylcholine receptors in the central nervous system (CNS), modulating the dopamine-acetylcholine balance in the basal ganglia, and thus treats parkinsonism and acute dystonic reaction. An increase in cholinergic signaling through adding donepezi l or discontinuing benztropine would not address this patient's parkinsonism (and in the case of discontinuing benztropine, would likely exacerbate parkinsonism). Risperidone (Choice B) is a second-generation antipsychotic that antagonizes the D2 receptor and modulates serotonin signaling. Of the second-generation antipsychotics, risperidone demonstrates the most potent D2 antagonism and would likely exacerbate this patient's parkinsonism. r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "NEURO-6-38",
+    "section": "Neurology",
+    "subsection": "CMS-6",
+    "questionNumber": 38,
+    "system": "Unknown",
+    "questionStem": "A 72-yea r-old man with a history of atrial fibr illation comes to the emerge ncy departme nt 2 hours after the sudden onset of visual problems. He states that he was fine until this after noon whe n he started walking into objects that were located on his right side. While driving himself to the hospital, he sidesw iped a parked car. His only medica tion is daily asp irin. On arrival, his pulse is 68/min and irregular, and blood pressure is 140/70 mm Hg. Neurolog ic exam ination shows a right homonymous hem ianopia. Pupils are equa l and reactive, and fundusco pic exam ination shows no abnorma lities. Muscle strength and sensatio n are normal. Mental status exam ination shows no abnormal ities. Which of the following arteries is most likely to be occluded?",
+    "choices": {
+      "A": "Basilar",
+      "G": "Right anterior cereb ral",
+      "B": "Left anterior cereb ral",
+      "H": "Right internal carotid",
+      "C": "Left internal carotid",
+      "I": "Right middle cerebral",
+      "D": "Left middle cerebral",
+      "J": "Right ophthalmic",
+      "E": "Left ophthalmic",
+      "K": "Right posterior cereb ral",
+      "F": "Left posterior cerebra l"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "Cerebral infarctions, or strokes, occur as a resu lt of ischemic or hemorrhagic loss of blood supply to the brain. Approximately 80% to 85% of strokes are ischemic, common ly arising from thromboembo lic disease, whereas 15% to 20% of strokes are hemorrhagic because of blood vesse l rupture. Risk factors for stroke include smoking, hypertension, diabetes, carotid or intracranial atherosclerotic disease, history of hypercoagulability, atria l fibri llation, and advanced age. Classically, strokes manifest as a neuro logic deficit related to the affected part of the brain. Occlusion of the left posterior cerebra l artery (PCA) explains this patient's deficits. The PCA supplies much of the occipita l lobes as wel l as the inferomedia l temporal lobe, posteromedia l parietal lobe, thalamus, and parts of the brainstem. Occlusion of the left PCA typica lly leads to right homonymous hemianopia with macular sparing (as a result of damage of the left primary visual cortex). Right homonymous hemianopia likely explains this patient's car accident. Occlusion of the left PCA may also result in right hemisensory deficit (caused by thalamus damage) and right hemiparesis (caused by damage to the cerebral peduncles in the midbrain). As well, damage to the left parieta l cortex may occur and lead to agraphia, acalculia, finger agnosia, and left-right disorientation (Gerstmann syndrome).",
+    "incorrectExplanation": "nd K. The basilar artery (Choice A) supp lies the posterior brain stem and feeds the left and right PCA. Consequently, symptoms include cranial nerve deficits such as nystagmus, diplopia, dysarthria, vertigo, dysphagia, nausea, and vomiting; occipital lobe-related vision loss; and occasional long-tract dysfunction leading to sensorimotor deficits. Severe cases lead to quadrip legia and the loss of facial and mouth movements (locked-in syndrome). The left and right anterior cerebra l arteries (Choices Band G) supply the medial fronta l lobes (primary motor and sensory cortices), which control the .... -•• -· ..... ·- ... - ... - .... -•-•·. --•- - - --• ... ---- ···••-- -•• .. ----, ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "NEURO-6-39",
+    "section": "Neurology",
+    "subsection": "CMS-6",
+    "questionNumber": 39,
+    "system": "Unknown",
+    "questionStem": "A 35-year-o ld woman comes to the physician because of a 14-day history of progress ively severe headaches, mild neck soreness, and photophobia. Twelve weeks ago, she was treated with x-ray radiation therapy and methotrexate, vincristine, procarbaz ine, and prednisone for stage IVB Hodgkin disease with a large anterior mediastina l mass; the only complication of therapy was a brief episode of fever and neutropenia. Her temperature now is 37.8°C (100°F). She does not appear acutely ill. Examination shows a mildly rigid neck. Neurologic examination shows no papilledema. Lymph nodes, liver, and spleen are not palpable. Card iopulmonary exam ination and x-rays of the chest show normal findings. Serum glucose concentration is 70 mg/dL. Results of lumbar puncture show: Glucose Protein Leukocyte count Segmented neutrophils Monocytes Erythrocyte count Which of the following is the most appropriate pharmacotherapy?",
+    "choices": {
+      "A": "Intramuscular meperidine",
+      "B": "Intravenous amphotericin B",
+      "C": "Intravenous ceftriaxone",
+      "D": "Intravenous methylpredn isolone",
+      "E": "Intravenous penicillin G"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "15 mg/dL 120 mg/dL 500/mm3 10% 90% 0/mm 3 Amphotericin B is the most appropriate therapy for Cryptococcus neoformans, which is an encapsulated, nondimorphic yeast and common opportunistic pathogen in immunocompromised patients. Malignancy (especial ly lymphoma or leukemia), HIV/AIDS, solid organ transplantation, sarcoidosis, cirrhosis, and chronic corticosteroid therapy are risk factors for infection. It can cause cryptococcal meningitis, encephalitis, and pulmonary cryptococcosis. Transmission is through inhalation, with risk for dissemination to the brain and meninges, as well as other distal sites. Pulmonary cryptococcosis typically presents with a low-grade, intermittent fever and nonspecific respiratory symptoms. Central nervous system involvement can cause headache, nuchal rigidity, photophobia, and progressive encepha lopathy. Dermatologic spread can occur with pustular, papular, nodular, or ulcerated lesions. Diagnosis is made by analysis of cerebrospinal fluid (CSF), sputum, urine, and/or blood. Histologic examination may show yeast cells with narrow-based budding and a bright red inner capsule on staining with mucicarmine or periodic acid-Schiff. In cryptococcal meningitis, lumbar puncture classica lly demonstrates an increased opening pressure, increased CSF protein, and a mononuclear cell pleocytosis. Amphotericin B is the treatment of choice for cryptococca l meningitis or severe pulmonary cryptococcosis in an immunocompromised patient. r ~, ~ ~ r, Previous Next Score Report Lab Values Calculator Help Pause .... https://t.me/USMLENBME2CK",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "NEURO-6-40",
+    "section": "Neurology",
+    "subsection": "CMS-6",
+    "questionNumber": 40,
+    "system": "Unknown",
+    "questionStem": "A 52-year-old woman comes to the physician because of a 2-wee k history of moderate pain, numbness , and tingling in her right hand. She states that the pain is worse at night and is not relieved with acetam inophen or ibuprofen. She has a 10-year history of chronic lymphocytic (Hashimoto) thyroiditis treated with thyroid hormone therapy. Vital signs are within normal limits. On examina tion, tapping the palmar surface of the right wrist elicits a tingling sensation in the thumb and index fingers. Her serum thyroid-stim ulating hormone concentratio n is 2 µU/ml. Which of the following is the most likely mechanism of this patient's symptoms?",
+    "choices": {
+      "A": "Immunolog ic damage to the brachia! nerve",
+      "B": "Immunolog ic damage to the median nerve",
+      "C": "Immunolog ic damage to the radial nerve",
+      "D": "Immunolog ic damage to the ulnar nerve",
+      "E": "Mechanical entrapment of the brachia I nerve",
+      "F": "Mechanical entrapment of the median nerve",
+      "G": "Mechanical entrapment of the radial nerve",
+      "H": "Mechanical entrapment of the ulnar nerve"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "Mechanica l entrapment of the median nerve leading to carpal tunnel syndrome is the most likely mechanism of this patient's symptoms. The carpal tunnel describes a conduit in the wrist that is formed by the flexor retinaculum anteriorly and the carpal bones posteriorly. Both the median nerve and the flexor tendons of the fingers trave l through this canal. Increased pressure in this canal can lead to compression of the median nerve, resulting in paresthesias of the first three digits, primarily on the palmar surface. When severe, weakness of the thumb with atrophy of the thenar eminence may occur. The Tinel test involves tapping the volar surface of the wrist in the midline. A positive test, as in this case, leads to tingling in the first two digits and occasionally the third digit, which corresponds with the distribution of the median nerve. This condition occurs common ly in those with jobs that involve repetitive wrist movement such as typing, but it can be idiopathic. It commonly develops in obese patients and is more common in women. Nighttime symptoms are frequently encountered, and the initial treatment requires wrist splints worn at night. Refractory or severe symptoms may be referred for surgical intervention.",
+    "incorrectExplanation": "nd H. Immunologic damage to the brachia! (Choice A), median (Choice B), radial (Choice C), or ulnar (Choice D) nerves may occur in neuralgic amyotrophy, also called Parsonage-Turner syndrome, which is thought to be related to immune-mediated damage of the nerves of the brachia! plexus. It most commonly involves the nerves of the upper or middle brachia! plexus but can involve more distal, singular nerves. Patients develop debilitating pain and weakness that gradually improve over months. r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "NEURO-6-41",
+    "section": "Neurology",
+    "subsection": "CMS-6",
+    "questionNumber": 41,
+    "system": "Unknown",
+    "questionStem": "After falling from a horse during a steeplechase, a 42-year-old man has immediate paralysis in all four extremities and has loss of sensation below the clavicles bilaterally. On examination by paramedics , he is alert, dyspneic, and unable to move his extrem ities or trunk. His pulse is 98/min, respirations are 28/min, and blood pressure is 150/90 mm Hg. After transport to a trauma center, his sensory examination returns to normal, and he regains normal strength of the arms and forearms, although the hands and lower extremities remain weak. Examination shows bladder distention. An MRI of the cervical spine shows contusion with edema of the spinal cord at C3 and C4. Plain x-rays of the cervical spine show a nondisplaced fracture of the vertebral body of C3. Which of the following is the most appropr iate next step in management?",
+    "choices": {
+      "A": "Intravenous ceftriaxone therapy",
+      "B": "Intravenous labetalol therapy",
+      "C": "Intravenous mannitol therapy",
+      "D": "Intravenous methylprednisolone therap y;",
+      "E": "Oral prednisone therapy",
+      "F": "Surgical exploration of the cervical spine"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "~ Next Spinal cord compression can occur in the setting of trauma, malignancy with vertebral metastases, and infections (eg, epidural abscess). Its presentation depends on the level of the lesion and the degree of spinal cord compression. Traumatic spinal cord injury is typica lly caused by fracture or dislocation of the vertebrae. Acute traumatic spinal cord injuries typica lly cause immediate compression or shearing of the spinal cord, with a secondary injury of the spina l cord occurring after the initial injury because of consequent inflammation, edema, and ischemia. Symptoms include back or neck pain, flaccid paralysis, numbness, bowel and bladder incontinence or retention, and hyporeflexia. Patients may also deve lop neurogenic shock, depending on the level of injury, with bradycardia and hypotension secondary to injury to the sympathetic outflow tract, as well as respiratory failure caused by diaphragmatic paralysis. Diagnosis is classically made using MRI of the spine, as well as spinal x-rays or CT to visualize skeleta l abnormalities. Management includes clinical stabilization, and the use of intravenous glucocorticoid therapy to decrease spinal cord edema. Patients may also require intubation and mechanical ventilation, vasopressor support, cardiac pacing, and/or surgical spine stabilization.",
+    "incorrectExplanation": "nd F. Intravenous ceftriaxone therapy (Choice A) is used in the treatment of bacteria l meningitis, along with vancomycin and, depending on patient age, ampicillin. Bacteria l meningitis presents acutely with fever, nuchal rigidity, and altered mental status in a toxic-appearing patient, although it can also cause focal neurologic deficits. - • . . - .. - •• • - • •• •• - . - • - - . - • • • • • • • . • . . • - • . • • ••• • - -. -. . :1 • • • • • •• . . - . . • •• -, ~ ~ r , Score Report Lab Values Calculator Help Pause"
+  },
+  {
+    "id": "NEURO-6-44",
+    "section": "Neurology",
+    "subsection": "CMS-6",
+    "questionNumber": 44,
+    "system": "Unknown",
+    "questionStem": "A 62-year-o ld man comes to the physician because of a 4-month history of progress ive difficulty climbing stairs, generalized muscle pain, and dry mouth. He has hypertension, type 2 diabetes mellitus, and hyperlipidemia . Current medications include atorvastatin, atenolol, and glybur ide. He has smoked two packs of cigarettes daily for 30 years. At his last visit 6 weeks ago, an x-ray of the chest showed a solitary lung nodule. Today, his pulse is 80/min, respirations are 14/min, and blood pressure is 136/82 mm Hg. Examination of the lower extremities shows bilateral proximal weakness and hyporeflexia. Electromyography and nerve conduction studies show an incremental increase in the amplitude of evoked motor response. Which of the following is most likely to have prevented these symptoms?",
+    "choices": {
+      "A": "Smoking cessation",
+      "B": "Daily aspirin therapy",
+      "C": "Discontinuing atenolol therapy",
+      "D": "Discontinuing atorvastat in therapy",
+      "E": "More aggressive treatme nt of high blood pressure"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Lambert-Eaton myasthenic syndrome (LEMS) is an uncommon neurologic condition that affects neuromuscu lar junction transmission. Normally, action potentials lead to depolarization in the termina l bouton of the axon. Voltage-gated calcium channels consequently open and allow calcium influx, which triggers the exocytosis of neurotransmitter-filled vesicles into the synaptic cleft. Patients with LEMS possess antibodies to voltage-gated calcium channels on presynaptic lower motoneurons, which decreases calcium influx and the subsequent release of acetylcholine. This patient with a smoking history and proximal muscle weakness, with a known lung nodule, likely has paraneoplastic autoantibody production against voltage-gated calcium channels, causing LEMS in the setting of small cell lung cancer. Patients may also have depressed or absent deep tendon reflexes. The muscle weakness typica lly improves with exercise as small amounts of acetylcholine accumulate in the synaptic cleft over time, increasing the frequency of postsynaptic action potentials in skeletal muscle cells. This can be seen on nerve conduction studies, as well. Autonomic symptoms such as decreased salivation (and consequent dry mouth) may also occur. The diagnosis may be confirmed with nerve conduction studies and electromyography with exercise testing. In this patient, smoking cessation would have prevented the development of lung cancer and consequent LEMS.",
+    "incorrectExplanation": "nd E. Daily aspirin therapy (Choice B) is used in the prophylaxis and treatment of cardiovascu lar disease, such as coronary artery disease and stroke. It does not play a role in the prevention of lung cancer development. Discontinuing atenolol therapy (Choice C) or atorvastatin therapy (Choice D) would not have prevented this patient from developing lung cancer and subsequent LEMS. While ~-adrenergic blocker therapy can cause fatigue and statin therapy can cause myopathy, neither causes hyporeflexia. r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "NEURO-6-45",
+    "section": "Neurology",
+    "subsection": "CMS-6",
+    "questionNumber": 45,
+    "system": "Unknown",
+    "questionStem": "A 30-year-old construction worker comes to the physician because of constant midlower back pain for 1 month. He has no leg pain. Straight-leg raising causes discomfort only in the low back. Sensor imotor examination is normal. Which of the following is the most approp riate next step in management?",
+    "choices": {
+      "A": "Restriction of heavy lifting until the pain resolves and instruction in proper body mechanics",
+      "B": "Bed rest and oral analgesics",
+      "C": "Vocational rehabilitation and change in occupat ion",
+      "D": "Epidural injection of corticosteroids and nonsteroida l anti-inflammatory drugs",
+      "E": "lnterverteb ral disc excisio n and fusion"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Low back pain is a common condition that is self-limited for many individuals. There are many causes of low back pain, and it rarely can be caused by a serious illness that requires medica l treatment or surgica l intervention. Risk factors for low back pain include strenuous work, heavy lifting, trauma, obesity, and age. Most patients present with a lumbosacral strain caused by heavy lifting or extended periods of sitting. In patients with a history of trauma or osteoporosis, vertebra l compression fractures or other vertebral fractures are a consideration. Signs and symptoms that increase the risk for an urgent medica l or surgical cause of low back pain include fever, focal midline spinal tenderness, weight loss, pain increased at night, focal neurologic symptoms, and urinary incontinence or urinary retention. In this patient with no sensorimotor abnormalities, the most likely cause of his low back pain is a lumbosacral strain from heavy lifting and construction work. Most patients with lumbosacral pain will improve within 4 weeks with short-term symptomatic therapy, including pain control, restriction of heavy lifting, physical therapy, and instructions on proper body mechanics, allowing for an early return to activity. Prolonged periods of inactivity and bed rest are to be avoided.",
+    "incorrectExplanation": "nd E. Bed rest and oral analgesics (Choice B) would not be the most appropriate management. While oral analgesics can help with pain, early movement and physical therapy has been shown to decrease pain and expedite return of function. Bed rest will increase pain and prolong time to recovery. Vocational rehabilitation and change in occupation (Choice C) wou ld not be appropriate before a trial of physical therapy. The patient is young and will likely recover after a period of restricting heavy lifting and physical therapy to prevent further injuries. Epidural injection of corticosteroids and nonsteroida l anti-inflammatory drugs (Choice D) would also be inappropriate prior to a period of physical therapy and restriction of heavy lifting. Typically, physical therapy and rehabilitation are sufficient to treat lumbosacral strain in a majority of patients. r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "NEURO-6-46",
+    "section": "Neurology",
+    "subsection": "CMS-6",
+    "questionNumber": 46,
+    "system": "Unknown",
+    "questionStem": "A 32-year-o ld man comes to the physician because of a 6-month history of deep aching neck and shoulder pain, progressive weakness of his hands, and poor coordination. Two years ago, he had a whiplash injury that resolved without treatment over a 3-month period. Neurologic examination shows hyporeflexia of the upper extremities. He has atrophy of intrinsic hand muscles bilaterally. There is asymmetr ic decreased strength of grip and finger abduct ion and extension. Sensation to pinprick is decreased over the upper torso and shoulders. Which of the following is the most likely cause of these findings? --",
+    "choices": {
+      "A": "Amyotrophic lateral scleros is",
+      "B": "Anterior spinal artery syndrome",
+      "C": "Brown-Sequard syndrome",
+      "D": "Posterior cord syndrome",
+      "E": "Subacute combined degeneration",
+      "F": "Syringomyelia"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "Syringomyelia refers to a progressive ly expanding cystic lesion involving midline spinal cord structures, most commonly in the cervical or thoracic spinal cord. Syringomyelia may be associated with congenita l malformations such as Chiari malformation type I, spinal cord infections, autoimmune diseases such as multiple sclerosis, neoplasms, or spinal cord trauma. Syringomyelia typical ly compresses spinothalamic fibers decussating in the anterior white commissure. Consequent ly, patients present with deficits in pain and temperature sensation in the bilateral upper extremities and/or torso. (Since the ascending spinothalamic tracts in the lateral spinal cord are unaffected, sensation in the lower body is intact.) Neuropathic pain in the upper extremities may occur. The lesion can expand to compress the bilateral anterior horns (the location of the cell bodies of lower motoneurons). Therefore, patients may present with a lower motoneuron pattern of dysfunction in the bilateral upper extremities (eg, decreased muscle tone, hyporeflexia, early muscle atrophy). The cyst may progressively expand to compress the lateral corticospinal tract in severe cases, leading to an upper motoneuron pattern of dysfunction in the lower body.",
+    "incorrectExplanation": "nd E. Amyotrophic lateral sclerosis (Choice A) is a progressive neurodegenerative disorder that affects the anterior horns and the lateral corticospinal tract. Subsequent ly, patients demonstrate a combination of upper and lower motoneuron findings in an asymmetric distribution. Sensory impairment is atypical, and a pattern of dysfunction that can be localized to a single lesion within the cervical or thoracic spinal cord is more consistent with a syringomye lia. Anterior spinal cord syndrome (Choice B) results from ischemia of the anterior spinal artery (eg, by thrombosis or trauma), leading to dama e to the cortices inal, s inothalamic, and autonomic tracts. The s ndrome manifests with loss of ain and tern erature sensation Score Report Lab Values Calculator Help Pause"
+  },
+  {
+    "id": "NEURO-6-47",
+    "section": "Neurology",
+    "subsection": "CMS-6",
+    "questionNumber": 47,
+    "system": "Unknown",
+    "questionStem": "A previous ly healthy 13-year-old girl is brought to the emergency department 1 hour after a genera lized tonic-clonic seizure that occurred at school. Her teacher noted that the seizure was preceded by jerking of the right arm. She had a similar episode 8 months ago. Examination at that time showed no abnormalities, and no treatment was begun. She was born in Mexico, and she and her parents have made occasional trips to rural Mexico; their last visit was 2 years ago. She was lethargic on arrival to the emergency department, but she is now awake and alert. Her temperatu re is 37°C (98.6°F). The neck is supple. Neurologic examination shows no abnormalities. Her leukocyte count is 6400/mm3. A CT scan of the head is shown. Which of the following is the most appropriate screening test for family members of this patient?",
+    "choices": {
+      "A": "Examination of the stool for ova and parasites",
+      "B": "Rapid plasma reagin",
+      "C": "Stool culture for Coccidioides immitis",
+      "D": "Stool culture for Histop/asma capsu/atum",
+      "E": "Stool culture for Toxop/asma gondii",
+      "F": "Urine culture for cytomegalovirus",
+      "G": "CT scan of the head"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Neurocysticercosis is a central nervous system (CNS) infection caused by the pork tapeworm Taenia so/ium that occurs most common ly in endemic rural regions of Latin America, Asia, and Africa. Symptoms include headache, seizures, signs of increased intracranial pressure, and, rarely, altered vision. Some patients are asymptomatic, while other patients may present with muscle or subcutaneous nodules. Typical manifestations on CT or MRI include cystic, ring-enhancing, calcified lesions in the brain parenchyma, meninges, ventricles, spinal cord, and/or orbit. A scolex (larval head) may also be demons trated on imaging. Treatment includes symptomatic management of increased intracrania l pressure and seizures, antiparasitic therapy, and/or steroids. As this patient has primarily traveled with her family, they are r ~, ~ ~ r, Previous Next Score Report Lab Values Calculator Help Pause .... https://t.me/USMLENBME2CK",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "NEURO-6-48",
+    "section": "Neurology",
+    "subsection": "CMS-6",
+    "questionNumber": 48,
+    "system": "Unknown",
+    "questionStem": "A 6-year-o ld girl is brought to the physician because of a 1-week history of progressive weakness and numbness of the legs. This morning, she had urinary incontinence. One year ago, she underwent resectio n of a medulloblastoma and placeme nt of a ventric uloperitoneal shunt for residual hydrocep halus; her postopera tive course had been uncomplicated. Currently, she is drowsy and irritable. Her temperature is 37.5°C (99.5°F), pulse is 82/min, respirations are 24/min, and blood pressure is 126/54 mm Hg. Funduscopic examina tion shows no abnormalities. Examination of the lower extremities shows weakness and diffuse sensory loss; deep tendon reflexes are decreased. Which of the following is the most likely underly ing mechanism for these symptoms?",
+    "choices": {
+      "A": "Local recurrence of the medulloblastoma",
+      "B": "Metastatic spread of the cancer hematogenously",
+      "C": "Metastatic spread of the cancer through cerebrospinal fluid pathways",
+      "D": "Radiation necrosis of the brain stem",
+      "E": "Thrombosis of the anterior spinal artery",
+      "F": "Thrombosis of the superior sagittal sinus"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Metastatic spread of cancer through cerebrospina l fluid pathways is the mechanism behind this patient's development of cauda equina syndrome. Cauda equina syndrome occurs as a result of compression of the spinal nerve roots comprising the cauda equina. Often, such compression occurs because of malignancy (as in this case), trauma, disc herniation, spinal stenosis, spinal epidura l abscess, or spinal epidural or subdura l hematoma. Symptoms include lower extremity numbness, weakness, paralysis, hyporeflexia, perinea! anesthesia, fecal incontinence with poor rectal tone, and overflow incontinence marked by an inability to void with associated urinary retention. Emergent MRI of the lumbosacral spine is indicated to investigate the cause of cauda equina syndrome and to determine the necessity of surgical decompression. Initial treatment for patients with epidural spinal cord compression and neurologic deficits include symptomatic treatment, pain control, and glucocorticoid therapy prior to operative therapy. High-dose glucocorticoid therapy is helpful as a bridge to definitive therapy and may transiently improve neurologic function by decreasing edema at the site of cord compression.",
+    "incorrectExplanation": "nd F. Local recurrence of the medulloblastoma (Choice A) would cause neurologic deficits specific to the region of the brain being affected by the tumor. While, depending on the location, this could cause lower extremity weakness, it would cause hyperreflexia rather than hyporeflexia because of the involvement of the upper motoneuron. This patient's lower extremity hyporeflexia indicates a peripheral cause affecting the lower motoneuron. Metastatic spread of the cancer hematogenous ly (Choice B) would be more likely to cause foci of malignancy to develop in other or ans includin the bones, liver, or lun s. This is an uncommon com lication of medulloblastoma since extraneural metastases are Score Report Lab Values Calculator Help Pause"
+  },
+  {
+    "id": "NEURO-6-50",
+    "section": "Neurology",
+    "subsection": "CMS-6",
+    "questionNumber": 50,
+    "system": "Unknown",
+    "questionStem": "A 42-year-o ld woman comes to the physician because of a 4-day history of progressive weakness and numbness in her legs and blurred vision and discomfort in both eyes. She has no history of serious illness and takes no medications. Visual acuity is 20/80 bilateral ly. Examination shows bilatera l optic disc edema. Muscle strength is 5/5 in the upper extremities and 4/5 in the lower extremities. Deep tendon reflexes are 2+ in the upper extremities and 4+ in the lower extremities. Babinski sign is present bilaterally. A lumbar puncture is performed. Analysis of the cerebrosp inal fluid shows: Glucose Total protein WBC RBC Oligoclonal bands 80 mg/dl 105 mg/dl 50/mm 3 5/mm 3 0 bands An MRI of the brain shows multiple periventricu lar white matter lesions. An MRI of the thoracic spine shows an abnorma l T2 signal and mild enhancement within the thoracic cord spanning T3 to T6. Which of the following abnormalities is most likely to be noted on further testing in this patient?",
+    "choices": {
+      "A": "Abnormal echocard iography",
+      "B": "Antinuclear antibodies in the serum",
+      "C": "Aquaporin-4 autoantibodies in the cerebrospinal fluid",
+      "D": "Decreased peripheral nerve conduction velocities",
+      "E": "Decreased serum copper concentrat ion"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Aquaporin-4 autoantibodies in the cerebrospinal fluid (CSF) are diagnostic of neuromyelitis optica (NMO), a disease characterized by intense inflammation and demyelination of both the optic nerves and various spinal cord segments, with involvement of both grey and white matter. Common manifestations include episodes of optic neuritis, which manifests as vision loss and pain, and transverse myelitis, which can affect any level of the spinal cord. Other unique findings include episodes of hiccups with associated nausea and vomiting. The disease course is often described as relapsing and remitting, with some patients experiencing few symptoms between episodes. Treatment is with high-dose intravenous steroids and, occasionally, plasma exchange for acute attacks. Prophylaxis with eculizumab or other biologic agents is warranted at the time of diagnosis.",
+    "incorrectExplanation": "nd E. Abnormal echocardiography (Choice A) is seen in patients with strokes secondary to septic emboli from endocarditis, but this patient ··- •• • - - - • - ••• - ••••• - • - •• • ♦ - • - • - -· ' •• - - - •••••• - •••• -· •• - - - •••••• r ~, ~ ~ r, Previous"
+  }
+]

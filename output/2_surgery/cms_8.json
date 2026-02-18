@@ -1,0 +1,839 @@
+[
+  {
+    "id": "SURG-8-1",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 1,
+    "system": "Unknown",
+    "questionStem": "One day after undergoing uncomplicated splenectomy for management of injuries sustained in a motor vehicle collision, a 43-year-old man has the sudden onset of shortness of breath while receiving a transfusion of packed red blood cells. He also has moderate pain at the intravenous site and moderate back pain. He has no other history of serious illness. His medications are hydromorphone and subcutaneous heparin. He is diaphoretic. His temperature is 37.2°C (99°F), pulse is 90/min, respirations are 24/min, and blood pressure is 120/60 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 97%. Examination of the skin shows no abnormalities. Breath sounds are clear bilaterally; no wheezes or rhonchi are heard. Abdominal examination shows a well-healing surgical incision. Which of the following is the most likely mechanism of this patient's condition?",
+    "choices": {
+      "A": "Endotoxin release from infused bacteria",
+      "B": "Immune response to transfused plasma proteins",
+      "C": "Intra-abdominal hemorrhage"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Preformed antibodies to transfused red blood cells are the most likely cause of this patient's acute onset shortness of breath and back pain, which is most concerning for an acute hemolytic transfusion reaction (AHTR). AHTR is a life-threatening condition that occurs because of ABO incompatibility, which is often the result of clerical error. Patients with type A blood possess preformed antibodies against the B antigen on the surface of erythrocytes, while patients with type B blood possess antibodies against the A antigen. Those with AB blood lack preformed antibodies to both antigens, as they possess them on their own erythrocytes. Patients with type O blood have antibodies against both A and B antigen. Given this, it is critical that patients receive the appropriate type of blood for their specific blood type. As an example, patients with type A blood can only receive type A or type O blood from a donor, but not type B or AB blood. ABO incompatibility leads to AHTR, which results in profound hemolysis and often presents with flank pain, fever, hemoglobinuria, and a positive direct antiglobulin (Coombs) test, but may rapidly progress to disseminated intravascular coagulopathy (DIC), shock, and death. Treatment includes immediate cessation of the transfusion followed by supportive care. The blood bank should be contacted immediately.",
+    "incorrectExplanation": "nd C. Endotoxin release from infused bacteria (Choice A) is more likely to present with rigors and fevers rather than flank pain and dyspnea. Additionally, transfusion-related sepsis is much more common in patients receiving platelets rather than packed red blood cells. Immune response to transfused plasma proteins (Choice B) may refer to either an anaphylactic reaction to donor immunoglobulins, as might occur in patients with IgA deficiency, or an inflammatory cascade from the presence of inflammatory cytokines in donor plasma that occurs in febrile nonhemolytic transfusion reactions. In either case, this patient is more wee atoeR Cc 7 @ € 6 m Score Report Lab Values Calculator Help ie] fa) starttest.com"
+  },
+  {
+    "id": "SURG-8-2",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 2,
+    "system": "Unknown",
+    "questionStem": "A 62-year-old woman has shortness of breath immediately after beginning transfusion of fresh frozen plasma and 2 units of packed red blood cells to manage acute lower gastrointestinal bleeding. She has been hospitalized for 24 hours. Five years ago, she underwent mechanical valve replacement for treatment of aortic stenosis. She has no other history of serious illness. Her only outpatient medications are warfarin and lisinopril, which have been discontinued since admission. Her temperature is 37.8°C (100°F), pulse is 110/min and regular, respirations are 28/min, and blood pressure is 100/60 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 82%. Crackles are heard from the lung bases to the midlung fields. There is cyanosis of the upper and lower extremities. A urinary catheter is draining clear urine. A chest x-ray is pending. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Acute hemolytic transfusion reaction",
+      "B": "Pneumonia",
+      "C": "Pulmonary embolism",
+      "D": "Sepsis"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Transfusion-related acute lung injury (TRALI) is the most likely diagnosis in this patient with sudden onset dyspnea, hypoxia, and fever following transfusion of packed red blood cells and plasma. TRALI is a syndrome characterized by respiratory distress, often with associated hypoxemia, cyanosis, fever, and new infiltrates on chest x-ray, that develops within 6 hours of transfusion of any blood product, including erythrocytes, fresh frozen plasma, or platelets. Frequently, symptoms develop within minutes to hours after starting transfusion. The pathogenesis of TRALI is thought to involve abnormal priming of neutrophils in the lung, which, when exposed to inflammatory cytokines present in transfused blood products, undergo widespread activation within the lung parenchyma. Release of cytokines and reactive oxygen species among other inflammatory components from activated neutrophils causes endothelial dysfunction and rapidly leads to non-cardiogenic pulmonary edema. This contrasts with the pulmonary edema that develops in patients who develop respiratory failure secondary to transfusion associated cardiac overload (TACO). Treatment is with supportive care, which may include implementing non-invasive or invasive ventilation, vasopressors, and antipyretics. Importantly, patients who recover from TRALI can receive additional blood products, but these products should not be from the same prior blood donor.",
+    "incorrectExplanation": "nd D. Acute hemolytic transfusion reaction (Choice A) results from the transfusion of ABO incompatible erythrocytes. When this occurs, preformed antibodies against donor antigens on the surface of incompatible erythrocytes leads to profound hemolysis and a variety of symptoms including dyspnea, flank pain, dark urine, disseminated intravascular coagulopathy (DIC), and possible death. This patient does not demonstrate any evidence of hemolysis. e ¢ @ € 6 t Score Report Lab Values Calculator Help Pause"
+  },
+  {
+    "id": "SURG-8-4",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 4,
+    "system": "Unknown",
+    "questionStem": "A 20-year-old man is brought to the emergency department 50 minutes after being involved in a motor vehicle collision. He was an unrestrained passenger. On arrival, he is alert. He says he has neck pain and numbness in both legs; he cannot move his legs. His temperature is 37.2°C (99°F), pulse is 70/min, respirations are 20/min and unlabored, and blood pressure is 80/50 mm Hg. Examination shows a patent airway. There is no jugular venous distention. There are multiple contusions over the trunk and a bony deformity of the right calf. The cervical spine is tender. Sensation to touch is absent below the midchest. Abdominal ultrasonography for trauma (FAST) shows no free fluid in the pelvis. X-rays of the cervical spine show subluxation of C7 on T1. X-rays of the chest and pelvis show no abnormalities. An x-ray of the right lower extremity shows comminuted fractures of the tibia and fibula. CT scans of the abdomen and pelvis show a small contained hematoma. After infusion of 2 L of crystalloid solution, the patient's blood pressure does not improve. Which of the following is the most likely cause of this patient's persistent hypotension?",
+    "choices": {
+      "A": "Aortic disruption",
+      "B": "Bleeding from the fractures",
+      "C": "Closed head injury",
+      "D": "Hepatic injury",
+      "E": "~ E) Spinal cord injury"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Neurogenic shock may occur following traumatic brain or spinal cord injury due to the disruption of autonomic fibers originating in the vasomotor center within the medulla oblongata. The vasomotor center receives input from baroreceptors in the aortic and carotid sinuses and regulates blood pressure via sympathetic fibers that descend through the lateral aspect of the spinal cord before entering the lateral horn and sympathetic chain ganglia. Loss of sympathetic innervation results in vasodilation and loss of vascular tone. Disruption of sympathetic fibers descending from the cardiovascular center in the medulla oblongata may also lead to bradycardia. Careful fluid resuscitation is essential for maintaining perfusion. Atropine may be trialed for the management of bradycardia following acute traumatic spinal cord injury, and vasoactive infusions such as norepinephrine may be necessary to maintain perfusion. Competing diagnoses such as blood loss in the setting of trauma must be excluded or managed if present.",
+    "incorrectExplanation": "nd D. Aortic disruption (Choice A) can lead to rapid loss of intravascular blood volume and shock but is typically accompanied by tachycardia and extravasation of blood into the thorax or abdomen. The absence of fluid on chest x-ray and focused assessment with sonography for trauma (FAST) renders aortic disruption unlikely. Bleeding from the fractures (Choice B) can lead to hemorrhage within the compartments of the lower extremity, but hemodynamically significant hemorrhage is less common with fractures of the tibia and fibula than with the femur. This patient’s neurologic findings render neurogenic shock a more likely diagnosis. @ eG € 6 o Score Report Lab Values Calculator Help Pause ie} fa) starttest.com"
+  },
+  {
+    "id": "SURG-8-5",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 5,
+    "system": "Unknown",
+    "questionStem": "An 18-year-old woman comes to the emergency department because of a 3-week history of headache. The headache has worsened today and is now accompanied by mildly blurred vision. Her mother has a history of migraines. The patient is 163 cm (5 ft 4 in) tall and weighs 91 kg (200 Ib); BMI is 34 kg/m2. Her temperature is 37°C (98.6°F), pulse is 76/min, respirations are 16/min, and blood pressure is 140/80 mm Hg. Funduscopic examination shows bilateral papilledema. The remainder of the examination shows no abnormalities. A CT scan of the head without contrast shows no abnormalities. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Optical coherence tomography",
+      "B": "Intravenous administration of methylprednisolone",
+      "C": "Intravenous administration of nifedipine",
+      "D": "Visual evoked potentials"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Idiopathic intracranial hypertension (IIH) is caused by inadequate resorption of cerebrospinal fluid (CSF) and is characterized by signs of increased intracranial pressure including headache, papilledema, and increased opening pressure on lumbar puncture without gross abnormality on neuroimaging. It is primarily seen in young women with increased BMI. Prolonged increased intracranial pressure may cause chronic headaches and optic nerve damage leading to permanent vision loss. Headaches that are secondary to increased intracranial pressure often worsen when lying down and are relieved by standing. The most common risk factors for the development of IIH include female sex and obesity. Medications associated with IIH include tetracyclines, danazol, and growth hormone. CT scan is an important initial step in the evaluation of a patient with papilledema and suspected IIH to exclude the presence of an intracranial mass. If the CT scan is normal, lumbar puncture is the most appropriate next step to confirm the presence of increased intracranial pressure. Management of IIH includes weight reduction, carbonic anhydrase inhibitors, therapeutic lumbar puncture, and in rare cases, surgical intervention with cerebrospinal fluid shunting or optic nerve sheath fenestration.",
+    "incorrectExplanation": "nd D. Optical coherence tomography (Choice A) allows for objective measurement of optic nerve swelling. It is useful for establishing the presence of papilledema when the clinical examination is equivocal, or for monitoring the resolution of papilledema during treatment. It is not as useful for establishing the diagnosis of IIH as lumbar puncture. Intravenous administration of methylprednisolone (Choice B) is useful for the acute management of optic neuritis, which generally presents with acute onset vision loss and ocular pain that is exacerbated with extraocular movements. Patients with optic neuritis typically present with decreased visual acuity and color vision, along with a relative afferent pupillary defect. Optic neuritis may present in young females, commonly in association with multiple sclerosis. Steroids do not play a role in the management of IIH. @ eG € 6 o Score Report Lab Values Calculator Help Pause"
+  },
+  {
+    "id": "SURG-8-6",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 6,
+    "system": "Unknown",
+    "questionStem": "A 76-year-old man comes to the physician because of a lesion on his nose that has been gradually increasing in size during the past 5 years. He has hypercholesterolemia treated with atorvastatin. Examination shows no lymphadenopathy. There is a 1-cm lesion on the nose. A photograph is shown. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Actinic keratosis",
+      "B": "Basal cell carcinoma",
+      "C": "Hemangioma",
+      "D": "Melanoma",
+      "E": "Squamous cell carcinoma"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Basal cell carcinoma (BCC) is the most common form of skin cancer and is derived from the basal cells of the epidermis. The primary risk factor for developing basal cell carcinoma is ultraviolet light exposure, though age, fair skin, and family history also contribute. BCC typically presents as pink, pearly papules or nodules with rolled borders and central ulceration commonly on the sun-exposed areas of the head and neck. Subtypes of BCC include those that are less invasive, such as super icial and score and those that are maen Imurmahrn aseah an infilbenthin and macnhbanfaens. In All Abb an tha sal Af matantaain tn Paves sh asenh tha bene Ann fnlndan laanih. and anuiaan alanifiann bana damann Diana. nr l 4 G 2 Score Report Lab Values Calculator ie} fa) starttest.com",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "SURG-8-7",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 7,
+    "system": "Unknown",
+    "questionStem": "A 65-year-old man comes to the office because of a 6-month history of an enlarging lesion on his left forearm. The lesion is not painful or itchy; it does not bleed and has not changed shape. He has no history of serious illness and takes no medications. Vital signs are within normal limits. A photograph of the lesion is shown. Which of the following is the most appropriate next step in this patient's management?",
+    "choices": {
+      "B": "Excision with 2-cm margins",
+      "C": "Excision with 5-cm margins",
+      "D": "Sentinel node biopsy and excision with 1-cm margins",
+      "E": "Sentinel node biopsy and excision with 2-cm margins",
+      "F": "Sentinel node biopsy and excision with 5-cm margins"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Basal cell carcinoma (BCC) is the most common form of skin cancer and is derived from the basal cells of the epidermis. The primary risk factor for developing BCC is ultraviolet light exposure, though age, fair skin, and family history also contribute. BCC typically presents as pink, pearly papules or nodules with rolled borders and central ulceration commonly on the sun-exposed areas of the head and neck. Subtypes of BCC include those that are less invasive, such as superficial and nodular, and those that are more invasive, such as infiltrative and morpheaform. In all subtypes, the risk of metastasis is low, though the tumors can invade locally and cause significant tissue damage. Complete surgical excision with a margin of between 5 mm to 1 cm is recommended as first line treatment for BCC located in noncritical areas that are amenable to complete resection with adequate margins. In critical areas of the face or other delicate regions, Mohs micrographic surgery may allow for complete excision with comparative sparing of normal tissues.",
+    "incorrectExplanation": "nd F. Excision with 2-cm margins (Choice B) or 5-cm margins (Choice C) is not necessary for the treatment of BCC. The risk of overall metastasis is low with BCC, and the risk of recurrence with 1 cm margins is less than 1%. More extensive margins may be employed for the primary resection of more aggressive lesions, such as cutaneous melanoma. Sentinel lymph node biopsy (Choices D, E, and F) is not usually recommended for most patients with BCC. Metastatic BCC is rare, and the likely vield of sentinel lymph node 4 n ef (a le > a Previous"
+  },
+  {
+    "id": "SURG-8-8",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 8,
+    "system": "Unknown",
+    "questionStem": "A 47-year-old man is brought to the emergency department by paramedics after rescue workers found him on a snow-covered mountain. At the scene, he was alert and oriented but shivering and unable to walk without assistance. He said he had become lost while cross-country skiing. On arrival, he is shivering and reports that his toes are numb. His temperature is 36°C (96.8°F), pulse is 60/min, respirations are 16/min, and blood pressure is 120/65 mm Hg. Examination shows pale toes bilaterally. Blisters are noted on the 4th and 5th toes bilaterally. Sensation to touch is absent over the toes bilaterally. Pedal pulses are faintly palpable in both feet. Ankle brachial indices are 0.85 bilaterally (N>1). Tetanus toxoid is administered, and the feet are immersed in a 104°F water bath for 20 minutes. During immersion, his feet become painful. In addition to administration of acetaminophen, which of the following is the most appropriate next step in management?",
+    "choices": {
+      "B": "Application of nitroglycerin ointment to the feet",
+      "C": "Intravenous infusion of unfractionated heparin",
+      "D": "Immediate arteriography of the lower extremities",
+      "E": "Amputation of all toes with blisters at 24 hours post injury"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Frostbite is frequently seen in patients who work in the cold, mountaineers and skiers, individuals stranded outdoors, and those experiencing homelessness. Frostbite causes tissue destruction via cold-induced cell death, as well as reperfusion-related inflammation and tissue ischemia. There are several ways to classify the severity of frostbite, depending on degree of cyanosis, depth of tissue involvement, blistering, or findings on technetium-99m imaging. Immediate management of frostbite involves removing cold or wet clothing, transferring the patient to a warm environment, rapid rewarming by immersing the affected area in warm (but not hot) water, analgesia, and admission to the hospital for observation and wound care. Several adjunct therapies are often employed to limit tissue damage, including thrombolysis. Initial signs and symptoms of frostbite are often unreliable in determining the extent of injury; the clinical picture evolves as occult damage becomes apparent.",
+    "incorrectExplanation": "nd E. Application of nitroglycerin ointment (Choice B) is not as effective as immersion into warm water or warm compresses to help with vasodilation. Nitroglycerin has also been used in facilitating treatment with intra-arterial thrombolysis, but it is not the next most appropriate step in management. Intravenous infusion of unfractionated heparin (Choice C) alone has not been shown to improve outcomes in patients with frostbite. Intravenous heparin can be used as an adjunct to intravenous thrombolysis, but it would not be an appropriate next step in this patient. ¢ G € 6 t Score Report Lab Values Calculator Help Pause ie} fa) starttest.com"
+  },
+  {
+    "id": "SURG-8-9",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 9,
+    "system": "Unknown",
+    "questionStem": "An 87-year-old man is transferred to the hospital from a skilled nursing care facility 6 hours after staff noticed black skin on his right leg. He has had three strokes during the past 2 years. He has hypertension and type 2 diabetes mellitus. Current medications include metoprolol, glipizide, and clopidogrel. He does not smoke. He is not communicative and responds only to painful stimuli. There are severe contractures of the lower extremities. Examination of the lower extremities shows black skin over the right ankle and foot. Pulses are absent in the lower extremities distally. Extension of the hips is limited to 110 degrees; extension of the knees is limited to 70 degrees. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Cilostazol therapy",
+      "B": "Arteriography with contrast",
+      "C": "Percutaneous balloon angioplasty",
+      "D": "Surgical revascularization"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Peripheral arterial disease (PAD) refers to the abnormally diminished flow of blood to the extremities secondary to atherosclerotic plaque. This most commonly affects the lower extremities. Risk factors include diabetes mellitus, increased age, tobacco smoking, hypertension, and dyslipidemia. A known history of atherosclerosis (eg, coronary artery disease, cerebrovascular disease) identifies the likelihood of the condition being present in other locations as well. Patients with PAD typically present with intermittent claudication, which results from insufficient blood flow to the muscles during exercise. As the flow of blood becomes progressively diminished with worsening atherosclerosis, tissue perfusion may become inadequate to meet metabolic demands, and can present with pain at rest and the potential for ischemia and necrosis (gangrene) of the extremity. Dry gangrene is most common in patients with PAD, although wet gangrene may also occur. Revascularization surgery may allow for salvage of the limb and improve rest pain or non-healing wounds, but the presence of gangrene generally requires amputation. In this case, an immobile patient with contractures will generally not suffer functional loss from amputation, making it a suitable choice if it aligns with goals of care.",
+    "incorrectExplanation": "nd D. Cilostazol therapy (Choice A) causes vasodilation and is useful for the treatment of claudication due to PAD. While it leads to improvement in claudication and in walking distance, it is inadequate for the treatment of severe PAD with secondary gangrene. Arteriography with contrast (Choice B) is useful for the assessment of vascular stenosis in patients with PAD or in patients with suspected acute limb ischemia. Surgical amputation is a more important next step in this patient with absent pulses and lower extremity gangrene. e ¢ @ € 6 t Score Report Lab Values Calculator Help Pause ie) fa) starttest.com"
+  },
+  {
+    "id": "SURG-8-11",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 11,
+    "system": "Unknown",
+    "questionStem": "Three days after undergoing emergency partial gastrectomy for upper gastrointestinal hemorrhage, a 72-year-old man has increasing abdominal pain. His postoperative course had been uncomplicated. He has hypertension treated with lisinopril and type 2 diabetes mellitus treated with glipizide. He underwent coronary angioplasty with stent placement 2 years ago. His current medications are patient-controlled morphine and subcutaneous unfractionated heparin. He is anxious and diaphoretic. His temperature is 37.2°C (99°F), pulse is 110/min, respirations are 20/min, and blood pressure is 145/90 mm Hg. Examination of the abdomen shows an upper midline incision without signs of infection. The remainder of the examination shows no other abnormalities. His hematocrit is 32%, and leukocyte count is 8000/mm4. In addition to administering morphine, which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Serum D-dimer assay",
+      "C": "CT scan of the abdomen",
+      "D": "Upper endoscopy",
+      "E": "Local wound exploration at bedside"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Perioperative cardiovascular complications, referred to as major adverse cardiovascular and cerebrovascular events (MACCE), are a significant cause of morbidity and mortality in noncardiac surgical cases. Anesthesia and surgery place the body under tremendous physiological stress, which can lead to myocardial ischemia, infarction, and potential cardiac death. This patient has several cardiac risk factors, including a history of coronary artery disease, and currently presents with abdominal pain, anxiety, diaphoresis, and tachycardia. A 12-lead ECG and serum troponin level should be obtained immediately to evaluate for acute coronary syndrome. The risk of MACCE occurring can be determined by use of a validated cardiac risk assessment tool (such as the revised cardiac risk index (RCRI) or the American College of Surgeons National Surgical Quality Improvement Program (ACS NSQIP) surgical risk calculator). In general, the patient's functional status prior to surgery is often the best indicator of perioperative cardiovascular risk.",
+    "incorrectExplanation": "nd E. Serum d-dimer assay (Choice A) is a nonspecific test used to assess for active thromboembolic disease, such as a pulmonary embolism. It is likely to be increased in the setting of recent gastrointestinal hemorrhage, and surgery and would not provide any useful information for this patient. If pulmonary embolism were considered, pulmonary vascular imaging would be the best next step. CT scan of the abdomen (Choice C) may be considered given the patient's abdominal pain and recent surgery, as surgical site infections and dehiscence are potential complications. However, his symptoms are also indicative of acute coronary syndrome, and a 12-lead ECG should be performed first. e ¢ @ € 6 t Score Report Lab Values Calculator Help Pause National Board of Medical Examiners® Surgery Self-Assessment D) Upper endoscopy E) Local wound exploration at bedside Correct Answer: B. Perioperative cardiovascular complications, referred to as major adverse cardiovascular and cerebrovascular events (MACCE), are a significant cause of morbidity and mortality in noncardiac surgical cases. Anesthesia and surgery place the body under tremendous physiological stress, which can lead to myocardial ischemia, infarction, and potential cardiac death. This patient has several cardiac risk factors, including a history of coronary artery disease, and currently presents with abdominal pain, anxiety, diaphoresis, and tachycardia. A 12-lead ECG and serum troponin level should be obtained immediately to evaluate for acute coronary syndrome. The risk of MACCE occurring can be determined by use of a validated cardiac risk assessment tool (such as the revised cardiac risk index (RCRI) or the American College of Surgeons National Surgical Quality Improvement Program (ACS NSQIP) surgical risk calculator). In general, the patient’s functional status prior to surgery is often the best indicator of perioperative cardiovascular risk. Incorrect Answers: A, C, D, and E. Serum d-dimer assay (Choice A) is a nonspecific test used to assess for active thromboembolic disease, such as a pulmonary embolism. It is likely to be increased in the setting of recent gastrointestinal hemorrhage, and surgery and would not provide any useful information for this patient. If pulmonary embolism were considered, pulmonary vascular imaging would be the best next step. CT scan of the abdomen (Choice C) may be considered given the patient's abdominal pain and recent surgery, as surgical site infections and dehiscence are potential complications. However, his symptoms are also indicative of acute coronary syndrome, and a 12-lead ECG should be performed first. Upper endoscopy (Choice D) is not likely to be useful in the immediate diagnostic work-up of this patient. It may be needed if the patient presents with recurrent bleeding or complications involving the gastric pouch; however, an ECG, laboratory studies, and imaging studies should be performed first. Local wound exploration at bedside (Choice E) is unlikely to disclose further information than the physical examination, given that there is little evidence for infection, as the patient is afebrile, does not exhibit leukocytosis, and does not demonstrate extensive erythema or drainage from the surgical site. Educational Objective: Perioperative cardiovascular complications are a significant cause of morbidity and mortality. Preoperative risk assessment with a validated tool can help patients and clinicians make informed decisions prior to surgical procedures. ¢ G € 6 t Score Report Lab Values Calculator Help Pause 08 starttest.com"
+  },
+  {
+    "id": "SURG-8-12",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 12,
+    "system": "Unknown",
+    "questionStem": "A 62-year-old woman comes to the physician for a routine health maintenance examination. She does not smoke and only drinks socially. A systolic ejection murmur is best heard over the second right intercostal space with transmission to the carotid arteries. An ECG shows normal sinus rhythm and a pattern of left ventricular hypertrophy with strain. Which of the following manifestations would indicate the need for aortic valve replacement?",
+    "choices": {
+      "B": "Generalized weakness and fatigue",
+      "C": "Peripheral edema and ascites",
+      "D": "Pulmonary embolus",
+      "E": "Ventricular arrhythmia"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Aortic stenosis (AS) is a common disorder of the aortic valve that results from calcification. Calcification of the aortic valve is a pathologic consequence of mechanical stresses on heart valves, and results from repetitive microtrauma from the opening and closing of valve leaflets with associated chronic inflammation. While many patients may be asymptomatic, those with severe AS may complain of fatigue, shortness of breath, cough, diminished exercise tolerance, angina, or syncope with exertion. Due to the chronic increased afterload from a fixed obstruction by the valve, left ventricular hypertrophy and resultant diastolic dysfunction can occur. If untreated, complications of aortic stenosis include heart failure, secondary pulmonary hypertension, and potential sudden cardiac death. Angina and syncope result from inadequate end-organ perfusion (of the myocardium and brain respectively), and the presence of these symptoms in the setting of AS is an indication for aortic valve replacement.",
+    "incorrectExplanation": "nd E. Generalized weakness and fatigue (Choice B) are nonspecific, common symptoms in AS and alone do not warrant a valve replacement procedure. Similarly, peripheral edema and ascites (Choice C) may develop as a consequence of chronic heart failure related to AS, but do not directly indicate impaired perfusion to essential organs. Pulmonary embolus (Choice D) is not directly associated with aortic stenosis, although the stenotic valve can potentially cause increased left ventricular strain, pulmonary congestion, and impaired systemic perfusion. Ventricular arrhythmia (Choice E) is common in patients with AS, especially when left ventricular systolic or diastolic dysfunction is present. It is not considered an independent indication for aortic valve replacement. ¢ G € 6 t Score Report Lab Values Calculator Help Pause ie} fa) starttest.com"
+  },
+  {
+    "id": "SURG-8-13",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 13,
+    "system": "Unknown",
+    "questionStem": "A 77-year-old man comes to the emergency department 5 hours after he was awakened by severe pain in his left leg. He reports that his left foot feels numb and he cannot move his foot and toes. He has a 4-year history of stable claudication of both calves, a 40-year history of hypercholesterolemia, and a 15-year history of type 2 diabetes mellitus. He was recently diagnosed with atrial fibrillation. Medications include aspirin and digoxin daily. He is in mild distress. His pulse is 84/min and irregularly irregular, and blood pressure is 145/85 mm Hg. The left lower extremity is pale and cool below the knee. Femoral pulses are 1+ on the right and absent on the left. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Compartment syndrome",
+      "B": "Deep venous thrombosis",
+      "D": "Rest pain secondary to progressive atherosclerotic peripheral vascular disease",
+      "E": "Thrombosis of the left superficial femoral artery"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Peripheral arterial disease (PAD) refers to the abnormally diminished flow of blood to the extremities secondary to atherosclerotic plaque. This most commonly affects the lower extremities. Risk factors include diabetes mellitus, increased age, tobacco smoking, hypertension, and dyslipidemia. Patients typically present with claudication caused by insufficient blood flow to the muscles during exercise, as is described in this patient's history. As the flow of blood becomes progressively diminished with worsening atherosclerosis, tissue perfusion may become inadequate to meet metabolic demands. In acute cases of limb ischemia, patients generally present with pain, pallor, paresthesia, loss of temperature sensation, paralysis, and pulselessness. Acute limb ischemia can complicate the state of already diminished vascular supply in PAD (such as when an existing plaque ruptures in- situ leading to thrombotic acute limb ischemia), or when an embolic source abruptly occludes an already narrowed vessel (such as in cases of atrial fibrillation). Atrial fibrillation, when suboptimally anticoagulated as in this case (the patient’s risk factors merit initiation of a blood thinner beyond aspirin to prevent left atrial thrombosis and risk for thromboembolism) can result in distal embolization of thrombi. This leads to strokes, acute limb ischemia, mesenteric or renal ischemia, acute coronary syndromes, or other phenomena of end-organ hypoperfusion depending on the location of embolized clot. Acute management of thromboembolism includes anticoagulation, analgesics, and reperfusion procedures (eg, vascular bypass, endovascular or open thrombectomy).",
+    "incorrectExplanation": "Compartment syndrome (Choice A) presents with pain, paresthesia, paresis, pallor, and pulselessness. It occurs because of increased pressure from swelling or hemorrhage within a fixed-space myofascial compartment. When the pressure approaches or exceeds diastolic blood pressure, blood flow becomes impaired. Swelling of the extremity and palpation of a tense compartment is typical. It can occur without preceding trauma, though this is less likely. 4. a e (a fal > m Previous"
+  },
+  {
+    "id": "SURG-8-14",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 14,
+    "system": "Unknown",
+    "questionStem": "A 67-year-old woman develops swelling of her left leg 3 days after Roux-en-Y choledochojejunostomy for an obstructing cancer of the head of the pancreas. Venous Doppler ultrasonography is positive. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Elevation of the left lower extremity",
+      "B": "Use of compression stockings",
+      "C": "Physical therapy",
+      "D": "Intravenous streptokinase therapy"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Leg swelling following recent surgery and known malignancy may provoke deep venous thrombosis (DVT). DVT, a thrombus within the deep veins of the body, generally the leg, is generally provoked by the features of Virchow’s triad: venous stasis, endothelial injury, and hypercoagulability. In this case, risk factors such as surgery, malignancy, and prolonged immobilization likely contributed to the development of a DVT. While the distinction of provoked or unprovoked DVT matters in deciding long-term anticoagulation, in the immediate setting, the management is the same regardless of the reason for occurrence, and anticoagulation is the appropriate best next step. Recent surgery may be considered a relative contraindication to anticoagulation, and a careful assessment of bleeding risk should be performed. Clinical calculators, such as the HAS-BLED score, can be useful for quantifying the risk of bleeding with anticoagulation. Anticoagulation with heparin may be preferable for select patients, particularly those with a history of recent surgery or malignancy, due to greater ease of reversal of anticoagulation with heparin (short half-life, readily available reversal agent), compared to other agents.",
+    "incorrectExplanation": "nd D. Elevation of the lower extremity (Choice A) may alleviate discomfort and swelling associated with DVT but is not a substitute for anticoagulation. Use of compression stockings (Choice B) is often employed in patients with DVT but may be uncomfortable and lacks proven benefit. It would not take priority over anticoagulation to prevent propagation or embolization of a thrombus. Physical therapy (Choice C) may be useful in promoting early ambulation and is not known to increase the risk of embolization, but anticoagulation would take priority. Intravenous streptokinase therapy (Choice D) is a thrombolytic agent that may be used in extensive or proximal DVT or venous thromboembolism. Patients with uncomplicated DVT do not usually require thrombolysis. Additionally, high risk of bleeding (such as due to recent surgery) is a contraindication to administration of thrombolytics. Cc ¢ G € 6 o Score Report Lab Values Calculator Help Pause ie] fa) starttest.com"
+  },
+  {
+    "id": "SURG-8-15",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 15,
+    "system": "Unknown",
+    "questionStem": "Two hours after admission to the hospital for injuries sustained in a motor vehicle collision, a 77-year-old woman has the onset of tachycardia. She was the restrained driver of a vehicle that struck a tree head on. She sustained bilateral anterior fractures of the 5th and 6th ribs. On admission, ECG showed occasional premature atrial contractions, and 1 L of lactated Ringer solution was administered. Vital signs on admission and now are: Two Hours Ago on soe Now Admission Temperature 37.0°C (98.6°F) 37.4°C (99.3°F) Pulse 86/min 100/min and irregular Respirations 20/min 24/min Blood pressure 110/60 mm Hg 110/60 mm Hg Examination shows no jugular venous distention or pulsus paradoxus. Posterior crackles are heard over the lower quarter of the lung fields bilaterally. Hematocrit is 43%. Which of the following is the most likely cause of the cardiovascular findings?",
+    "choices": {
+      "A": "Blunt cardiac injury",
+      "B": "Cardiomyopathy",
+      "C": "Cor pulmonale",
+      "D": "Hypovolemic shock",
+      "E": "Pericardial tamponade"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Blunt cardiac injury (BCI) is the most likely diagnosis in this patient who recently sustained injuries in a motor vehicle accident (MVA) and now has evidence of an irregular cardiac rhythm. BCI is most often seen in the setting of MVAs, and the incidence is higher in those who sustain blunt trauma directly to the precordium or suffer rapid deceleration. BCI can result in a wide range of cardiac injuries from mild to life-threatening. Arrhythmias following BCI occur in approximately 5% of patients, and rhythm abnormalities range from premature ventricular contractions to supraventricular tachycardia and ventricular fibrillation. In most instances, the arrhythmias are mild and not life-threatening, although all patients should be admitted for cardiac monitoring. More severe complications of BCI include ventricular rupture leading to pericardial tamponade, valvular rupture, and myocardial infarction secondary to coronary artery dissection or thrombosis. Patients who suffer catastrophic injuries typically do not survive transport to the emergency department. Specific cardiac abnormalities, including cardiac tamponade and valvular pathologies, can usually be diagnosed using echocardiography and other clinical features such as refractory hypotension, pulsus paradoxus, and jugular venous distension. e ¢ @ € 6 t Score Report Lab Values Calculator Help Pause starttest.com",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "SURG-8-16",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 16,
+    "system": "Unknown",
+    "questionStem": "A 37-year-old man comes to the physician with his wife because of a 10-week history of severe shortness of breath after walking one block and swelling of his legs. His wife says that he has snored for many years and during the past 6 months has had many episodes every night in which he stops breathing for 15 seconds and then suddenly wakes up. He has had constant daytime fatigue for the past 3 months. He has type 2 diabetes mellitus and hypertension. Current medications include insulin and an ACE inhibitor. He appears cyanotic and is in mild respiratory distress. He is 173 cm (5 ft 8 in) tall and weighs 145 kg (320 Ib); BMI is 49 kg/m2. His pulse is 90/min, respirations are 24/min, and blood pressure is 144/88 mm Hg. Examination shows decreased air movement at the lung bases. Scattered rhonchi are heard. Heart sounds are distant. Examination of the lower extremities shows brawny induration and 3-cm granulating ulcers above the medial malleoli. There is 3+ pitting edema to the midtibia bilaterally. Arterial blood gas analysis on room air shows a PCO, of 50 mm Hg and a Po, of 52 mm Hg. If this patient is not treated for the current findings, he will be at increased risk for which of the following?",
+    "choices": {
+      "A": "Aortic dissection",
+      "C": "Intracerebral hemorrhage",
+      "D": "Iron deficiency anemia",
+      "E": "Thrombotic stroke"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "If this patient remains untreated for his obstructive sleep apnea (OSA), he is at risk of developing cor pulmonale. OSA is characterized by intermittent obstruction of the upper airway leading to hypoxia and apnea. A history of snoring, followed by periods of witnessed apnea in association with daytime somnolence or morning headaches, is common. The severity of OSA is determined using the apnea-hypopnea index (AHI), and treatment of moderate to severe OSA is with the use of a continuous positive airway pressure (CPAP) device at night. The pressure supplied by a CPAP keeps the upper airway open, thereby preventing upper airway obstruction and apneic episodes. Severe, untreated OSA can lead to a variety of complications, including pulmonary hypertension. As the pulmonary circulation is usually a low-pressure system, the right ventricle is not equipped to pump against such increased pressures. Thus, pulmonary hypertension causes secondary right ventricular dysfunction, referred to as cor pulmonale. Cor pulmonale manifests in findings of right axis deviation and right ventricular hypertrophy on ECG and chest x-ray with peripheral edema and hepatomegaly (signs of right-sided heart failure). The enlarged right ventricle is associated with a precordial heave on examination and a pronounced S,, given the increased pressure of the pulmonary system impacting the closure dynamics of the pulmonic valve. This patient has evidence of right ventricular dysfunction and should be treated with CPAP at night to prevent chronic hypoxia, pulmonary vasoconstriction, and irreversible right ventricular remodeling and failure.",
+    "incorrectExplanation": "nd E. ¢ G € 6 t Score Report Lab Values Calculator Help Pause starttest.com"
+  },
+  {
+    "id": "SURG-8-17",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 17,
+    "system": "Unknown",
+    "questionStem": "A 62-year-old man is brought to the emergency department 3 hours after the onset of shortness of breath at rest. One week ago, he was discharged from the hospital after undergoing a partial colectomy for a diverticular abscess. His postoperative course had been uncomplicated. On arrival, he is in mild respiratory distress. His temperature is 37°C (98.6°F), pulse is 110/min, respirations are 22/min, and blood pressure is 140/98 mm Hg. The lungs are clear to auscultation. Abdominal examination shows a well- healing incision with no erythema or tenderness. Pulse oximetry on room air shows an oxygen saturation of 89%. Oxygen is administered via nasal cannula, and his symptoms improve. Laboratory studies are pending. An x-ray of the chest shows no abnormalities. An ECG shows sinus tachycardia. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Reassurance",
+      "B": "Aspirin therapy",
+      "D": "Metronidazole therapy",
+      "E": "Transfusion of 2 units of packed red blood cells"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "The patient's presentation is concerning for acute pulmonary embolism (PE), and heparin therapy should be initiated immediately. PE can be difficult to diagnose as it often presents with nonspecific and varied symptoms. Several validated clinical decision-making aids are used in practice, such as the Wells’ Criteria. In a patient presenting with acute dyspnea, the presence of tachycardia, history of recent surgery within the past 4 weeks, and lack of a clear alternative diagnosis for his symptoms place him at a higher risk for acute PE, and his case should be managed accordingly. The Wells’ Criteria also include clinical evidence of a current deep venous thrombosis (DVT), prior history of DVT and/or PE, hemoptysis, and presence of malignancy within the past 6 months. Other symptoms and signs that are commonly associated with acute PE include pleuritic chest pain, tachypnea, and hypoxemia.",
+    "incorrectExplanation": "nd E. Reassurance (Choice A) at this point would not be appropriate. The pretest probability of acute PE given the patient's presentation is high, and initiating anticoagulation is indicated while further diagnostic workup proceeds. Aspirin therapy (Choice B), and antiplatelet therapy in general, alone is not adequate for the management of acute PE. Intravenous unfractionated heparin is preferred in the initial management because of its rapid onset and clearance, along with inhibition of the coagulation cascade. ¢ G € 6 t Score Report Lab Values Calculator Help Pause starttest.com"
+  },
+  {
+    "id": "SURG-8-18",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 18,
+    "system": "Unknown",
+    "questionStem": "One hour after undergoing a colon resection for a sigmoid carcinoma, a 57-year-old woman is tachypneic and agitated in the recovery room. She was extubated in the operating room and is breathing 30% oxygen by nasal cannula. She is 178 cm (5 ft 10 in) tall and weighs 140 kg (308 Ib); BMI is 44 kg/m2. Her pulse is 120/min, respirations are 40/min, and blood pressure is 135/90 mm Hg. Breath sounds are shallow and symmetrical. Heart sounds are normal. Arterial blood gas analysis shows: pH 7.25 Pco, 60 mm Hg Po, 70 mm Hg Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Administration of a fluid bolus",
+      "B": "Administration of naloxone",
+      "C": "Diuretic therapy",
+      "D": "Fiberoptic bronchoscopy",
+      "E": "Heparin therapy",
+      "G": "Laryngoscopy"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "The arterial blood gas (ABG) indicates the patient is experiencing hypoxemic and hypercapnic respiratory failure with clear clinical evidence of respiratory distress. The most appropriate next step is intubation and mechanical ventilation for respiratory support, regardless of the determined etiology of respiratory failure, as this patient requires immediate management of an acute life threat. Perioperative pulmonary complications are a major cause of mortality and morbidity in surgical patients. Thoracic and abdominal surgery reduce vital capacity and functional residual capacity significantly, due to diaphragm dysfunction, splinting, and postoperative pain. Other risk factors for perioperative pulmonary complications include age, obesity, obstructive sleep apnea, asthma, COPD, or pulmonary hypertension, and general nutritional and functional status.",
+    "incorrectExplanation": "nd G. Administration of a fluid bolus (Choice A) is likely to be counterproductive in this situation because of the risk for pulmonary edema worsening the patient’s hypoxemia and gas C ¢ G E 6 ri Score Report Lab Values Calculator Help Pause"
+  },
+  {
+    "id": "SURG-8-19",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 19,
+    "system": "Unknown",
+    "questionStem": "A 42-year-old man comes to the office for examination prior to undergoing gastric bypass. He reports a 2-month history of shortness of breath after walking less than one-half block. He has hypertension treated with hydrochlorothiazide. He is 180 cm (5 ft 11 in) tall and weighs 171 kg (376 Ib); BMI is 52 kg/m2. His pulse is 84/min, respirations are 14/min, and blood pressure is 132/82 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 96%. Decreased breath sounds are heard bilaterally. Decreased heart sounds are heard. Arterial blood gas analysis on room air shows: pH 7.31 Pco, 56 mm Hg Po, 72 mm Hg Which of the following mechanisms is the most likely cause of these findings?",
+    "choices": {
+      "A": "Decreased diffusion capacity",
+      "C": "Increased diffusion capacity",
+      "D": "Increased ventilation",
+      "E": "Left-to-right shunting",
+      "F": "Right-to-left shunting",
+      "G": "Ventilation-perfusion mismatch"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Hypoventilation can be identified by decreased Po,, increased Pco,, and a normal alveolar-arterial (A-a) gradient on arterial blood gas analysis (ABG). In this case, the pH indicates a mild acidemia, the Pco, shows hypercapnia, and the Po, is at the lower range of normal. The A-a gradient can be estimated as a function of atmospheric pressure, Fio,, Po., and Pco,. Adjusting for the normal increase in A-a gradient associated with age, the patient’s A-a gradient falls within an expected range. This suggests the etiology of his hypercapnic respiratory failure is secondary to decreased ventilation, which aligns with his history of obesity (BMI 52 kg/m2) and auscultation of decreased breath sounds bilaterally. To determine the acuity of his respiratory acidosis, an estimate can be made comparing the amount of decrease in his pH with the associated increase in Pco,. For acute respiratory acidosis, the expected change in pH = 0.008 x (Pco.- 40). For chronic respiratory acidosis, the expected change in pH = 0.003 x (Pco, 40). In this case, the observed change in PH is ~0.09. This falls between the expected values for an acute (change of 0.13) or chronic (change of 0.05) respiratory acidosis; thus, the appropriate conclusion is that this represents an acute on chronic respiratory acidosis, which also agrees with the diagnosis of hypoventilation secondary to obesity. e ¢ @ € 6 t Score Report Lab Values Calculator Help Pause National Board of Medical Examiners® Surgery Self-Assessment Hypoventilation can be identified by decreased Po,, increased Pco,, and a normal alveolar-arterial (A-a) gradient on arterial blood gas analysis (ABG). In this case, the pH indicates a mild acidemia, the Pco, shows hypercapnia, and the Po, is at the lower range of normal. The A-a gradient can be estimated as a function of atmospheric pressure, Fio,, Po,, and Pco,. Adjusting for the normal increase in A-a gradient associated with age, the patient’s A-a gradient falls within an expected range. This suggests the etiology of his hypercapnic respiratory failure is secondary to decreased ventilation, which aligns with his history of obesity (BMI 52 kg/m2) and auscultation of decreased breath sounds bilaterally. To determine the acuity of his respiratory acidosis, an estimate can be made comparing the amount of decrease in his pH with the associated increase in Pco,. For acute respiratory acidosis, the expected change in pH = 0.008 x (Pco,- 40). For chronic respiratory acidosis, the expected change in pH = 0.003 x (Pco,- 40). In this case, the observed change in PH is ~0.09. This falls between the expected values for an acute (change of 0.13) or chronic (change of 0.05) respiratory acidosis; thus, the appropriate conclusion is that this represents an acute on chronic respiratory acidosis, which also agrees with the diagnosis of hypoventilation secondary to obesity.",
+    "incorrectExplanation": "nd G. Decreased diffusion capacity (Choice A) is a useful indicator of parenchymal lung disease, in which the underlying alveolar architecture is disrupted leading to decreased total surface area for gas exchange. Hypoventilation results in a decreased volume of gas exchange, with no disruption of diffusion or perfusion. Increased diffusion capacity (Choice C), greater than expected, is most often seen in cases of large lung volumes, obesity, and some variants of asthma. It would not account for this patient's symptoms and ABG findings. Increased ventilation (Choice D) is supported by an ABG that shows a decreased Pco,. Hyperventilation in the acute setting causes a respiratory alkalosis. Left-to-right shunting (Choice E) occurs when there is an abnormal passage between the systemic and pulmonary systems, with the higher systemic blood pressure shunting blood flow into the pulmonary system. Atrial and ventricular septal defects are common causes, and severe defects can result in progressive pulmonary hypertension and the subsequent development of right-to-left shunting (Choice F) over time, also known as Eisenmenger syndrome. Right-to-left shunting presents with hypoxemia and an increased A-a gradient. Ventilation-perfusion mismatch (Choice G) refers to an imbalance in the amount of blood perfusing alveoli where gas exchange can take place. Due to the mismatch, the A-a gradient is generally increased. Educational Objective: Hypoventilation can be identified by decreased Pog, increased Pco,, and a normal A-a gradient on ABG. Common etiologies include obesity hypoventilation syndrome, central nervous system depressants, and neuromuscular disorders affecting the diaphragm. a C 7 G E Previous"
+  },
+  {
+    "id": "SURG-8-20",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 20,
+    "system": "Unknown",
+    "questionStem": "A 32-year-old woman is brought to the emergency department 30 minutes after being involved in a head-on motor vehicle collision. She was the unrestrained front seat passenger. She is alert. Her temperature is 36.8°C (98.2°F), pulse is 110/min, respirations are 16/min, and blood pressure is 140/85 mm Hg. Examination shows ecchymoses over the forehead, left side of the chest, and upper abdomen. Pupils are equal and reactive to light. There is no jugular venous distention. Breath sounds are decreased over the left lung base. Heart sounds are normal. Abdominal examination shows epigastric tenderness. X-rays of the chest are shown. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Aortic rupture",
+      "C": "Flail chest",
+      "D": "Hemothorax",
+      "E": "Pneumothorax",
+      "F": "Pulmonary contusion",
+      "G": "Tracheal laceration"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Traumatic diaphragmatic hernia can occur after penetrating injury or blunt trauma, which is caused by a sudden increase in intraabdominal pressure that leads to rupture of the diaphragm. An opening in the diaphragm can lead to the presence of abdominal contents within the thorax, and presents with chest pain, shortness of breath, and bowel sounds within the lung fields. It commonly occurs in the left hemithorax and may be visualized as intestinal loops or other abdominal organs in the thorax on x-ray. In this patient's chest x-ray, there is a gastric bubble visible in the left hemithorax. Other chest x-ray findings can include elevation of the hemidiaphragm, abnormal nasogastric tube positioning, atelectasis, or blunting of normal architecture. Management includes surgical exploration and repair of the ruptured diaphragm.",
+    "incorrectExplanation": "nd G. Aortic rupture (Choice A) can also occur in deceleration injuries. Patients can present with chest pain, hypotension, tachycardia, and a widened mediastinum on chest x-ray. Elevation of hemidiaphragm and intestines visualized in the thorax is more consistent with a ruptured diaphragm. Flail chest (Choice C) generally results when two or more adjacent ribs are fractured at two or more locations, which results in paradoxical movement of that segment of the chest wall. UaAmatharay (Chainn DY rnciulte fram hland anniimulatina usithin tha niaural enana aftan fram trarnmas ta tha nulmanans hranchial ar intaranctal uncenle in tha enttina af rik frantirne e @ € 6 t Score Report Lab Values Calculator Help Pause os starttest.com,"
+  },
+  {
+    "id": "SURG-8-21",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 21,
+    "system": "Unknown",
+    "questionStem": "Seven days after undergoing a splenectomy for refractory bleeding after being kicked by a horse, a 25-year-old woman has a temperature of 39°C (102.2°F) and malaise. She received 8 units of packed red blood cells during the first 24 hours after the operation. Her postoperative course had been uncomplicated until today. Her pulse is 110/min, and blood pressure is 120/70 mm Hg. Examination shows a well-healing surgical incision without erythema or tenderness. Breath sounds are decreased on the left. The abdomen is soft with mild fullness in the left upper quadrant. Her hematocrit is 30%, leukocyte count is 25,000/mm° with a left shift, and platelet count is 800,000/mm%. An x-ray of the chest shows a left pleural effusion. Which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "Ultrasonography of the gallbladder",
+      "B": "Upper gastrointestinal series",
+      "D": "Liver-spleen scan",
+      "E": "Bronchoscopy"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Postoperative complications can include infection, bleeding, wound dehiscence, and thromboembolic disease, among others. Common causes of postoperative fever are atelectasis, pneumonia, urinary tract infection, infections of the surgical site, or intrathoracic or intraabdominal infections related to the surgery. Thromboembolic disease with deep vein thrombosis or pulmonary embolism can also present with a fever, and bacteremia can also cause fever. In this patient, the most likely cause of fever is due to an intraabdominal or surgical site abscess causing fever, leukocytosis with a left shift, and abdominal fullness in the left upper quadrant at the site of the splenectomy. To diagnose an intraabdominal abscess, a CT scan of the abdomen with contrast should be performed. Management involves intravenous antibiotics and, in some cases, percutaneous or operative drainage.",
+    "incorrectExplanation": "nd E. Ultrasonography of the gallbladder (Choice A) can be helpful in diagnosing cholelithiasis and cholecystitis, which would cause right upper quadrant pain. This patient's left upper quadrant fullness is unlikely to be due to gallbladder pathology. Upper gastrointestinal series (Choice B) is used when structural lesions involving the stomach or small bowel are suspected. This is most indicated for the evaluation of small bowel pathology, such as duodenal atresia, malrotation with volvulus, and Crohn disease. Liver-spleen scan (Choice D) is a nuclear medicine test used to evaluate for pathologies such as cysts, abscesses, and malignancies in the liver and spleen. However, it is a time- e ¢ @ € 6 t Score Report Lab Values Calculator Help Pause ie} fa) starttest.com"
+  },
+  {
+    "id": "SURG-8-22",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 22,
+    "system": "Unknown",
+    "questionStem": "A previously healthy 25-year-old woman comes to the office because of a 4-month history of intermittent abdominal cramps. During this period, she has noticed occasional mucus mixed with her stools but has never noted any bright red blood. She is 168 cm (5 ft 6 in) tall and weighs 45 kg (100 Ib); BMI is 16 kg/m2. Her vital signs are within normal limits. Abdominal examination shows mild tenderness to palpation of the right lower quadrant; there is no distention, guarding, or rebound. Rectal examination shows normal sphincter tone, a noninflamed anal fistula, brown stool, and no masses. Test of the stool for occult blood is positive. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Crohn disease",
+      "B": "Diverticulitis",
+      "C": "Endometriosis",
+      "D": "Gastritis",
+      "E": "Irritable bowel syndrome",
+      "F": "Ischemic colitis",
+      "G": "Ulcerative colitis"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Crohn disease is the most likely diagnosis in this young patient with a low BMI, positive fecal occult blood test, diarrhea with mucus, and the presence of an anal fistula on examination. Crohn disease is characterized by transmural inflammation of the gastrointestinal tract, most frequently involving the terminal ileum. It can arise anywhere in the gastrointestinal tract and is a subclass of inflammatory bowel disease. Most patients experience chronic abdominal cramping, bloody diarrhea, and weight loss. Examination often demonstrates generalized abdominal tenderness, sometimes worse in the right lower quadrant, and, depending on the severity and extent, may disclose complications such as enterocutaneous fistulas and extraintestinal manifestations such as uveitis. Severe Crohn disease can result in intestinal obstruction from stricture or inflammation, bowel perforation, intraabdominal abscess, and the formation of additional fistulas. Diagnosis occurs through imaging and biopsy. Laboratory analyses often show increased erythrocyte sedimentation rate and C-reactive protein. Fluoroscopic small bowel follow through commonly shows narrowing of the intestinal lumen at the terminal ileum, along with other additional sites of stricture or fistulous formation. Treatment depends upon the severity and extent of disease but often includes 5-aminosalicylic acid derivatives, topical or oral steroids, and biologic agents such as anti-TNF- inhibitors. Surgery is sometimes required.",
+    "incorrectExplanation": "nd G. Diverticulitis (Choice B) refers to inflammation of one or more diverticula in the colon. It is more common in older individuals with chronic constipation and may present with lower ¢ G € 6 t Score Report Lab Values Calculator Help Pause ie} fa) starttest.com"
+  },
+  {
+    "id": "SURG-8-23",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 23,
+    "system": "Unknown",
+    "questionStem": "A 16-year-old boy is brought to the emergency department because of a 6-month history of intermittent bright red rectal bleeding. He has no history of serious illness and takes no medications. Vital signs are within normal limits. Cardiopulmonary examination shows no abnormalities. Digital rectal examination shows blood in the rectal vault. Endoscopy shows scattered 1-cm to 2-cm polyps throughout the colon. Endoscopic polypectomy of the larger polyps is performed. Results of biopsy of the polyps show dilated, cystic, mucus-filled glands with abundant lamina propria and inflammatory infiltrates. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Cowden disease",
+      "B": "Cronkite-Canada syndrome",
+      "C": "Familial adenomatous polyposis",
+      "D": "Hereditary nonpolyposis colorectal cancer",
+      "F": "Peutz-Jeghers syndrome"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Juvenile polyposis (JPS) is the most likely diagnosis in this pediatric patient with painless and intermittent hematochezia and polyps demonstrating dilated, cystic, mucus-filled glands. JPS is a genetic condition with incomplete penetrance that is inherited in an autosomal dominant fashion and occurs as the result of mutations in the SMAD4 or BMPR1A genes. Patients typically present within the first two decades of life with painless rectal bleeding secondary to polyps, although other more severe manifestations include intussusception and malabsorptive syndromes. Colonoscopy often discloses numerous polyps, but the histology is characteristic and sets JPS apart from many other polyposis syndromes. Polyps in JPS may be of many different varieties, but the most common type are called hamartomas. Hamartomatous polyps are made up of various tissues within the gastrointestinal tract, and histologically, they have inflammatory cells within the lamina propria in addition to mucin-filled, dilated glands. Other associated findings include telangiectasias of the skin, the gastrointestinal tract, the liver, and the lungs. Iron deficiency anemia may develop in patients with chronic gastrointestinal bleeding and should be monitored. Screening for colorectal cancer should be performed every 1 to 3 years after diagnosis, and in some cases, patients may require a colectomy.",
+    "incorrectExplanation": "nd F. Cowden disease (Choice A) is a genetic syndrome, often, although not always, associated with a mutation in the PTEN tumor suppressor gene. Patients present with mucocutaneous findings including trichilemmomas, breast cancer, thyroid disease, endometrial or renal cell cancer, and a variety of gastrointestinal disorders including colonic, duodenal, and gastric polyps or colorectal cancer. Cranlita_Canada evundrama (Choice R\\ ie charactarizad hu alanacia anuchaduectranhy and nahine Tha nalhine tand ta ha hamartamatnaiie and anantain ancinanhile Thie natiant dnac ¢ G € 6 o Score Report Lab Values Calculator Help Pause National Board of Medical Examiners® Surgery Self-Assessment uvenile polyposis ly diagnosis in this pediatric patient with painless and intermittent hematochezia and polyps demonstrating , cystic, mucus- glands. JPS is a genetic condition with incomplete penetrance that is inherited in an autosomal dominant fashion and occurs as the result of mutations in the SMAD4 or BMPR1A genes. Patients typically present within the first two decades of life with painless rectal bleeding secondary to polyps, although other more severe manifestations include intussusception and malabsorptive syndromes. Colonoscopy often discloses numerous polyps, but the histology is characteristic and sets JPS apart from many other polyposis syndromes. Polyps in JPS may be of many different varieties, but the most common type are called hamartomas. Hamartomatous polyps are made up of various tissues within the gastrointestinal tract, and histologically, they have inflammatory cells within the lamina propria in addition to mucin-filled, dilated glands. Other associated findings include telangiectasias of the skin, the gastrointestinal tract, the liver, and the lungs. Iron deficiency anemia may develop in patients with chronic gastrointestinal bleeding and should be monitored. Screening for colorectal cancer should be performed every 1 to 3 years after diagnosis, and in some cases, patients may require a colectomy. Incorrect Answers: A, B, C, D, and F. Cowden disease (Choice A) is a genetic syndrome, often, although not always, associated with a mutation in the PTEN tumor suppressor gene. Patients present with mucocutaneous findings including trichilemmomas, breast cancer, thyroid disease, endometrial or renal cell cancer, and a variety of gastrointestinal disorders including colonic, duodenal, and gastric polyps or colorectal cancer. Cronkite-Canada syndrome (Choice B) is characterized by alopecia, onychodystrophy, and polyps. The polyps tend to be hamartomatous and contain eosinophils. This patient does not demonstrate features consistent with this syndrome. Familial adenomatous polyposis (Choice C) is an autosomal dominant genetic syndrome resulting from biallelic loss of function of the APC gene. It is characterized by the presence of thousands of adenomatous polyps arising after puberty. Hereditary nonpolyposis colorectal cancer (Choice D) is also known as Lynch syndrome. It is an autosomal dominant condition caused by mutations in mismatch repair genes that result in a higher risk of colon, endometrial, and ovarian cancer. Patients may develop adenomatous polyps, often with high-grade dysplasia. Peutz-Jeghers syndrome (Choice F) is a genetic condition characterized by the triad of colonic polyps, mucocutaneous hyperpigmented macules, and an increased risk of gastrointestinal and non-gastrointestinal malignancy. This patient's presentation is not consistent with this diagnosis. Educational Objective: JPS is an autosomal dominant syndrome with incomplete penetrance that leads to the formation of polyps. Histologically, these are hamartomas that demonstrate dilated, mucus filled glands with inflammatory infiltrates in the lamina propria. The most common presenting symptom is hematochezia or occult blood loss in the first two decades of life. a C 7 G E Previous"
+  },
+  {
+    "id": "SURG-8-24",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 24,
+    "system": "Unknown",
+    "questionStem": "A 33-year-old man comes to the office as a new patient after he recently moved to the state. His last visit to a physician was 2 years ago. He has a 13-year history of ulcerative colitis well controlled with mesalamine. His mother has type 2 diabetes mellitus. His father was diagnosed with colon cancer at the age of 55 years. The patient does not smoke cigarettes. He drinks two 12-0z beers monthly. Vital signs are within normal limits. Examination shows no abnormalities. Which of the following is the most appropriate colon cancer screening for this patient?",
+    "choices": {
+      "B": "Colonoscopy at the age of 45 years",
+      "C": "Colonoscopy at the age of 50 years",
+      "D": "Virtual colonoscopy now",
+      "E": "Virtual colonoscopy at the age of 45 years",
+      "F": "Virtual colonoscopy at the age of 50 years"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Colonoscopy now is the most appropriate cancer screening option for this patient. Colonoscopy guidelines differ based upon whether patients have an underlying genetic disorder that predisposes them to premature colorectal cancer (CRC) such as Lynch syndrome, a history of inflammatory bowel disease, or a family history of CRC. The risk for colon cancer in patients with ulcerative colitis (UC) increases with the duration, extent, and activity of disease. Patients with extensive colitis, a history of uncontrolled inflammation, or a disease duration of greater than 10 years are at the highest risk for CRC. Those with proctitis, left sided colitis, and a history of well-controlled disease are at a lower risk of CRC. Regardless, all patients should undergo screening colonoscopy 8 years from the date of their diagnosis as the risk of CRC increases dramatically after this time. The subsequent screening regimen is usually at 1- to 3-year intervals and is determined by findings at each colonoscopy.",
+    "incorrectExplanation": "nd F. Colonoscopy at the age of 45 years (Choice B) or the age of 50 years (Choice C) are both incorrect. The United States Preventive Services Task Force previously recommended starting routine colonoscopy screening at age 50 years for all individuals at average risk, or between ages 40 years and 45 years for individuals at higher risk. However, guidelines have recently been updated and recommend consideration for routine screening colonoscopy starting at age 40 years for average risk individuals. Virtual colonoscopy now (Choice D), at the age of 45 years (Choice E), or at the age of 50 years (Choice F) are all incorrect. Virtual colonoscopy, also known at CT colonography, involves placing a rectal tube to distend the colon with gas prior to obtaining CT images of the entire colon. This is a reasonable, although not ideal, alternative screening procedure far natiante at avarana rick af CRC hit ie nat iniead far tha avaliuatinn af natiante with a hinhar rick af CRC e ¢ @ € 6 t Score Report Lab Values Calculator Help Pause ie] fa) starttest.com"
+  },
+  {
+    "id": "SURG-8-25",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 25,
+    "system": "Unknown",
+    "questionStem": "A 67-year-old man with a 2-year history of gastroesophageal reflux disease comes to the physician for a follow-up examination. Treatment with the maximum dosage of proton pump inhibitors has not relieved his symptoms. He also has hypertension and hypercholesterolemia. His only other medication is hydrochlorothiazide. His blood pressure is 135/85 mm Hg. Examination shows no other abnormalities. Esophagogastroduodenoscopy (EGD) shows grade Ill esophagitis and Barrett esophagus. A biopsy specimen of the esophagus shows mild dysplasia. He undergoes Nissen fundoplication, and his symptoms resolve. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Continue proton pump inhibitor therapy",
+      "B": "Repeat the EGD if the patient's symptoms recur",
+      "D": "Perform laser ablation of Barrett esophagus",
+      "E": "No further treatment is indicated"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Repeat the EGD and biopsy in 6 months is the most appropriate next step in management. Barret esophagus refers to intestinal metaplasia of squamous epithelium in the esophagus and is usually a consequence of prolonged gastroesophageal reflux disease (GERD), which occurs when acidic gastric contents reflux backward through the lower esophageal sphincter (LES) into the esophagus. The mucosa of the esophagus is comprised of squamous epithelium and does not traditionally encounter such an acidic environment. Constant exposure to acidic intraluminal contents induces a change in cell type from squamous epithelium to the columnar glandular epithelium found in the intestines as an adaptive response. Metaplasia can eventually lead to dysplasia, which is premalignant. Patients with confirmed Barrett esophagus should be evaluated at regular intervals determined by the presence and/or grade of dysplasia. This patient who has undergone Nissen fundoplication still requires follow up EGD in 6 months to assess for the presence of dysplasia. If dysplasia is still present, treatment involves ablation of the dysplastic cells via endoscopy.",
+    "incorrectExplanation": "nd E. Continue proton pump inhibitor (PPI) therapy alone (Choice A) is incorrect. The prior presence of esophageal dysplasia still requires follow-up EGD. Repeat the EGD in the patient’s symptoms recur (Choice B) is incorrect. The presence of dysplasia on this patient’s prior EGD necessitates a repeat EGD regardless of symptoms. Perform laser ablation of Barrett esophagus (Choice D) may be necessary if repeat EGD demonstrates dysplasia, but repeat EGD with biopsy is the initial requisite step. ¢ G € 6 t Score Report Lab Values Calculator Help Pause ie] fa) starttest.com"
+  },
+  {
+    "id": "SURG-8-26",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 26,
+    "system": "Unknown",
+    "questionStem": "A 67-year-old woman is admitted to the hospital through the emergency department for evaluation of rectal bleeding that began 6 hours ago. Results of colonoscopy 2 years ago showed several scattered diverticula. On admission, vital signs are within normal limits. The abdomen is nontender, and she has not had any abdominal pain. Digital rectal examination discloses gross blood. Results of laboratory studies show: Hemoglobin 6.8 g/dL Leukocyte count 8000/mm3 Platelet count 215,000/mm$ Colonoscopy is done and shows maroon blood and stool throughout the colon. Radiolabeled erythrocyte scan shows activity in the right lower quadrant. Visceral angiography does not demonstrate active contrast extravasation. During the procedure, the patient receives a transfusion of 3 units of packed red blood cells; repeat hemoglobin concentration obtained after transfusion is 6.6 g/dL. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Capsule endoscopy",
+      "B": "Left hemicolectomy",
+      "C": "Repeat angiography",
+      "D": "Repeat radiolabeled erythrocyte scan"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Endoscopic management has not been successful at achieving hemostasis, and the patient continues to have a high rate of hemorrhage given the hemoglobin concentration did not change with the transfusion of 3 units of packed red blood cells. The radiolabeled erythrocyte scan has localized the bleed to the right lower quadrant, but angiography has not revealed the exact site. Without a known site, angiographic interventions (such as arterial embolization) cannot be performed. Given the rate of hemorrhage, the next step is surgical management. Though the bleed is localized to the right lower quadrant, segmental colectomy is associated with high rates of rebleeding and mortality in the absence of an identified lesion. The next appropriate step in management is total abdominal colectomy.",
+    "incorrectExplanation": "nd D. Capsule endoscopy (Choice A) is more appropriate for stable, chronic gastrointestinal bleeding. If the site of bleeding is not evident from endoscopic work-up, lesions in the mid- distal small bowel can be evaluated using capsule endoscopy. @ eG € 6 o Score Report Lab Values Calculator Help Pause starttest.com"
+  },
+  {
+    "id": "SURG-8-27",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 27,
+    "system": "Unknown",
+    "questionStem": "A 62-year-old woman has had halitosis and progressive dysphagia with spontaneous regurgitation of undigested food over the past 2 years; she has lost 2.3 kg (5 Ib) during this period. There are no lesions in the mouth. Abdominal examination shows no tenderness or masses. Test of the stool for occult blood is negative. Which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "24-Hour esophageal pH monitoring",
+      "B": "Esophageal manometry",
+      "D": "Ultrasonography of the abdomen",
+      "E": "Esophagogastroduodenoscopy"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "The most appropriate next step in diagnosis is performing a barium swallow. Progressive dysphagia requires a prompt diagnostic workup. Dysphagia is caused by structural/anatomic lesions and/or neuromuscular/motility problems. Most patients will undergo esophagogastroduodenoscopy (EGD) initially; however, patients with a history suggesting a lesion that is at risk for esophageal perforation should be evaluated with a barium swallow first. This includes patients with known or suspected laryngeal or esophageal cancer, history of caustic injury or radiotherapy to the esophagus, or clinical features suggestive of pharyngoesophageal (Zenker) diverticulum. Pharyngoesophageal (Zenker) diverticulum occurs within the hypopharynx between the cricopharyngeus muscle and inferior pharyngeal constrictor muscle. The mechanism of formation includes an uncoordinated swallowing mechanism, which results in muscle spasms of the cricopharyngeus leading to pulsion diverticula as the wall of the hypopharynx and superior esophagus weakens. Symptoms include halitosis, regurgitation of undigested food, and progressive dysphagia. Barium swallow shows a posterior, midline outpouching above or at the level of the cricopharyngeus. Treatment includes surgical repair and resection (diverticulectomy), as well as dietary modifications to include soft or liquid foods.",
+    "incorrectExplanation": "nd E. 24-Hour esophageal pH monitoring (Choice A) can be used to confirm the diagnosis of gastroesophageal reflux disease (GERD) and to monitor response to treatment. GERD typically presents with burning epigastric and lower chest pain that worsens with large meals, trigger foods, and supine positioning. Dysphagia as a symptom of GERD does occur; however, diagnostic evaluation for structural and motility abnormalities should be performed first. Esophageal manometry (Choice B) is used to evaluate for esophageal motility disorders. It is typically performed after an EGD and barium swallow if the etiology of dysphagia is still uncertain. e (5 fal > mm ay Score Report Lab Values Calculator Help Pause starttest.com"
+  },
+  {
+    "id": "SURG-8-28",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 28,
+    "system": "Unknown",
+    "questionStem": "A 57-year-old man comes to the physician because of a 4-week history of mild epigastric pain and nausea 1 hour after meals. He has not had vomiting, heartburn, a bitter taste in his mouth, weight loss, or change in the color of his stools. He has no history of serious illness and takes no medications. He drinks coffee with dinner. He does not smoke. Examination shows no abnormalities. Test of the stool for occult blood is positive. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Recommend avoidance of caffeine",
+      "B": "Serum Helicobacter pylori antibody assay",
+      "C": "Upper gastrointestinal series",
+      "D": "CT scan of the abdomen"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "The most appropriate next step in management is esophagogastroduodenoscopy (EGD). Mild epigastric pain and nausea after eating is commonly caused by gastroesophageal reflux disease (GERD); however, this patient also has occult blood in the stool. Evidence of a gastrointestinal bleed (melena, hematochezia, hematemesis, positive occult blood in stool, unexplained iron deficiency anemia) with these symptoms is an indication for EGD to rule out malignancy. Unexplained weight loss, anorexia, progressive dysphagia, and a first-degree relative with cancer are additional red flags. EGD can rule out additional diagnoses, such as esophagitis, and collect biopsy samples at the time of the procedure. Biopsy samples may look for Helicobacter pylori infection, malignancy, or autoimmune disorders.",
+    "incorrectExplanation": "nd D. Recommend avoidance of caffeine (Choice A), and other dietary changes, would be appropriate following a diagnosis of gastritis or GERD. However, the patient needs further workup to identify the etiology of his symptoms. Serum Helicobacter pylori antibody assay (Choice B) is not commonly used, as serology cannot distinguish between an active or past infection. Urea breath testing or stool antigen testing may be useful if the initial EGD and biopsy are nondiagnostic. Upper gastrointestinal series (Choice C) should be performed prior to an EGD for patients at risk of esophageal perforation. This includes patients with known or suspected laryngeal or esophageal cancer, history of caustic injury or radiotherapy to the esophagus, or clinical features suggestive of Zenker diverticulum. This patient does not have any concerning history, and EGD should be the initial diagnostic test. ¢ G € 6 t Score Report Lab Values Calculator Help Pause ie] fa) starttest.com"
+  },
+  {
+    "id": "SURG-8-29",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 29,
+    "system": "Unknown",
+    "questionStem": "A 53-year-old woman comes to the emergency department because of increasingly severe abdominal cramping and malaise. She has a 3-year history of ulcerative pancolitis, treated with sulfasalazine. Four days ago she had hematochezia and an increase in the frequency and volume of bowel movements; treatment with prednisone resulted in no significant improvement. Her temperature is 37.6°C (99.6°F), pulse is 110/min, respirations are 24/min, and blood pressure is 110/70 mm Hg. Abdominal examination shows moderate distention, diminished bowel sounds, and diffuse tenderness without rigidity on palpation. Supine and erect x-rays of the abdomen show gas distending the colon. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Carcinoma of the colon with obstruction",
+      "B": "Dysplasia of the colon with hemorrhage",
+      "C": "Enterocolonic fistula",
+      "D": "Gastroenteritis"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "This patient’s presentation is highly concerning for toxic megacolon, a rare but known complication of ulcerative colitis. Toxic megacolon is a life-threatening medical emergency caused by extensive inflammation of the colon. The classic constellation of clinical manifestations includes high fever, tachycardia, hypotension, leukocytosis, enlarged and dilated bowel, and impaired colonic motility. More generally, ulcerative colitis is a chronic inflammatory condition within the spectrum of inflammatory bowel disease that results in inflammation and ulcers of the colonic mucosa, typically beginning with the rectum and advancing proximally. Symptoms include chronic abdominal pain, weight loss, bloody diarrhea, abdominal bloating, and tenesmus. Extraintestinal manifestations such as uveitis also occur. In addition, because of the chronic inflammation of the colon, patients are at increased risk of developing colorectal carcinoma. Treatment of ulcerative colitis flares includes supportive care, immunomodulators, biologics, and steroids. In severe cases, a partial or total colectomy may be required, especially in cases of toxic megacolon.",
+    "incorrectExplanation": "nd D. Carcinoma of the colon with obstruction (Choice A) is another potential complication of chronic inflammatory bowel disease but is less likely to explain the patient’s current presentation. Large bowel obstruction typically presents with abdominal pain, distension, obstipation, and constipation. X-rays typically show proximal colonic dilation with a transition point at the site of the obstruction. Dysplasia of the colon with hemorrhage (Choice B), also called angiodysplasia, is a common cause of gastrointestinal bleeding and could explain the patient’s hematochezia. However, the patient’s other symptoms are more suggestive of toxic megacolon. e ¢ @ € 6 t Score Report Lab Values Calculator Help Pause ie} fa) starttest.com"
+  },
+  {
+    "id": "SURG-8-30",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 30,
+    "system": "Unknown",
+    "questionStem": "A 72-year-old man who is in the hospital has had abdominal cramps and bright red rectal bleeding for the past 6 hours. During this period, he has passed three bloody, moderately sized stools. Two days ago, he underwent surgical resection of an infrarenal abdominal aortic aneurysm. He had a hemorrhage during dissection of the aneurysm and had hypotension for the first 20 minutes of the operation. He received 6 units of packed red blood cells. His initial postoperative course was uncomplicated, and he was extubated within 24 hours. Current medications are intravenous cefazolin and subcutaneous heparin. His current temperature is 38.2°C (100.8°F), pulse is 100/min, and blood pressure is 124/80 mm Hg. Abdominal examination shows mild distention and moderate left lower quadrant tenderness. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Aortoenteric fistula",
+      "B": "Cecal angiodysplasia",
+      "C": "Diverticulosis",
+      "E": "Pseudomembranous colitis"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Ischemic colitis refers to insufficient blood flow to an area of the intestine and should be suspected in a patient with abdominal pain and hematochezia. It can be caused by an occlusion of the mesenteric vasculature, such as from thromboembolism or dissection, or from hypotension or limited blood flow causing a watershed infarction. Aortic surgery is a known risk factor for ischemic colitis, often because of dislodgement of endovascular plaques with subsequent embolization, or because of hypotension. Risk factors for acute ischemic colitis include older age, coronary artery disease, hypercoagulability, peripheral arterial disease, or recent endovascular surgery. Typical symptoms of patients with acute ischemic colitis include crampy abdominal pain, tenderness over the affected bowel, and hematochezia. Ischemic colitis can be complicated by necrosis, viscus perforation, or ileus. Treatment typically involves supportive care, anticoagulation, antibiotics, and surgery in cases of bowel infarction, necrosis, or perforation.",
+    "incorrectExplanation": "nd E. Aortoenteric fistula (Choice A) is an abnormal communication between the aorta and gastrointestinal lumen commonly caused by compression or inflammation of the aorta or bowel in proximity to each other, often in the setting of an abdominal aortic aneurysm. Patients may present with gastrointestinal bleeding, which may be mild or may lead to rapid exsanguination. This patient’s history of recent surgery complicated by hypotension is more suggestive of ischemic colitis. Cecal angiodysplasia (Choice B) refers to an abnormal dilation and ectasia of a cecal blood vessel. Cecal angiodysplasia is often acquired and presents in older adults with gastrointestinal bleeding. It would not be expected to cause acute gastrointestinal bleeding shortly following aortic surgery. e ¢ @ € 6 t Score Report Lab Values Calculator Help Pause ie} fa) starttest.com"
+  },
+  {
+    "id": "SURG-8-31",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 31,
+    "system": "Unknown",
+    "questionStem": "A 77-year-old woman is brought to the emergency department because of abdominal distention and obstipation for 2 days. She has no history of an abdominal operation. She takes 2 mg of diazepam three times daily. Test of the stool for occult blood is negative. An x-ray of the abdomen is shown. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Carcinoma of the colon",
+      "B": "Diverticulitis of the colon",
+      "C": "lleocolic intussusception",
+      "D": "Ischemic colitis",
+      "E": "Volvulus of the sigmoid colon"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Sigmoid volvulus is an uncommon cause of bowel obstruction and presents with acute onset abdominal pain and distention, constipation, and vomiting. Patients are typically elderly. If untreated, volvulus may lead to bowel necrosis or perforation secondary to bowel distention, which in turn may cause sepsis and septic shock. Sigmoid volvulus occurs 4 > @ (a EC © Ww Score Report Lab Values Calculator Help Pause Previous Next starttest.com",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "SURG-8-32",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 32,
+    "system": "Unknown",
+    "questionStem": "A 37-year-old woman comes to the physician because of a 6-month history of moderate rectal pain, rectal itching, and bleeding with bowel movements. She is otherwise healthy and takes no medications. On digital rectal examination, the rectal tissue is tender and inflamed. The remainder of the examination shows no abnormalities. Which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "Barium enema",
+      "B": "Endorectal ultrasonography",
+      "C": "CT scan of the abdomen",
+      "E": "Colonoscopy"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Hemorrhoids occur because of enlargement and distal displacement of the anal cushions, which are normal prominences of the anal mucosa composed of smooth muscle, vascular, and connective tissues, and play an important role in maintaining continence. Hemorrhoids may primarily involve tissue derived from the internal, superior hemorrhoidal plexus or the external, inferior hemorrhoidal plexus. Symptoms include pain with defecation, incontinence, hematochezia, and anal itching. Hemorrhoids may also undergo acute thrombosis and cause acute, often severe pain. The diagnosis is clinical and may be established with a rectal examination, which can be facilitated via anoscopy. Treatment is mainly supportive and includes a high fiber diet, sitz baths, and oral nonsteroidal anti-inflammatory drugs. Band ligation, sclerotherapy, or surgical excision may be used for severe hemorrhoids or those that fail to improve with conservative management.",
+    "incorrectExplanation": "nd E. Barium enema (Choice A) is useful for the diagnosis of colonic polyps, colorectal carcinoma, and diverticulosis, but is not the best step in the evaluation of hemorrhoids. Endorectal ultrasonography (Choice B) is useful for the evaluation of the prostate gland and to assess the depth of mucosal invasion of colorectal carcinoma. It plays no role in the evaluation of hemorrhoids. CT scan of the abdomen (Choice C) is useful for the evaluation of diverticulitis, among other colorectal pathologies, which presents with left lower quadrant abdominal pain, sometimes accompanied by diarrhea, fever, and tenderness to palpation in the left lower quadrant. Diverticulitis does not produce palpable, tender masses at the anal margin. Colonoscopy (Choice E) is the modality of choice for the diagnosis of colorectal carcinoma. Colorectal carcinoma is among the most diagnosed cancers but is uncommon in @ G é > ri Score Report Lab Values Calculator Help Pause ie} fa) starttest.com"
+  },
+  {
+    "id": "SURG-8-33",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 33,
+    "system": "Unknown",
+    "questionStem": "A 42-year-old woman comes to the emergency department because of increasingly severe abdominal pain for the past 4 hours and a temperature of 39°C (102.2°F) and shaking chills for the past 2 hours. The pain began 1 hour after eating dinner. During the past 2 weeks, she has had 30-minute episodes of epigastric and right upper quadrant abdominal pain after eating. Treatment with antacids sometimes relieves the pain. She now is lying still on the examination table. Her temperature is 39.5°C (103.1°F), pulse is 110/min, respirations are 22/min, and blood pressure is 90/60 mm Hg. Examination shows scleral icterus and jaundice. Abdominal examination shows right upper quadrant tenderness to percussion and involuntary guarding; bowel sounds are normal. Urinalysis is positive for bile. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Cholangitis",
+      "B": "Cholecystitis",
+      "C": "Gastritis",
+      "D": "Hepatitis",
+      "E": "Pancreatitis"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Cholelithiasis refers to the presence of a gallstone or gallstones in the gallbladder, and choledocholithiasis refers to the presence of a gallstone located within the biliary tree. Gallstones can result in varying degrees of obstruction, which dictates the severity of presenting symptoms. Cholelithiasis can result in colicky right upper quadrant or epigastric pain (biliary colic), nausea, or vomiting; with obstructive choledocholithiasis, increased direct bilirubin and alkaline phosphatase may be present on laboratory assay, along with persistent, non-colicky discomfort on examination. Hyperbilirubinemia can lead to scleral icterus and jaundice. Depending on the location of the bile duct stone, choledocholithiasis can result in acute pancreatitis, which manifests with epigastric pain and increased pancreatic enzymes (amylase, lipase). Acute cholangitis occurs secondary to acute bacterial infection of the biliary tree, typically in the setting of biliary instrumentation or choledocholithiasis as a precursor. Cholangitis describes a bacterial infection or inflammation of the biliary tree, and commonly presents with fever, right upper quadrant pain, and jaundice (Charcot triad), along with possible shock and altered mental status (Reynold pentad). Treatment includes fluid resuscitation, antibiotic therapy, and procedural intervention to clear any obstruction and permit drainage of infection.",
+    "incorrectExplanation": "nd E. Cholecystitis (Choice B) generally results from obstruction of the cystic duct by a gallstone with resultant bacterial infection of the gallbladder, and presents with right upper quadrant pain, nausea, and vomiting. Since it does not cause obstruction of the common bile duct, it would not typically present with jaundice. Gastritis (Choice C) classically presents with left upper quadrant and epigastric pain, nausea, and vomiting. Gastritis commonly occurs from alcohol abuse, excess use of non- e ¢ @ € 6 t Score Report Lab Values Calculator Help Pause starttest.com"
+  },
+  {
+    "id": "SURG-8-34",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 34,
+    "system": "Unknown",
+    "questionStem": "A 57-year-old woman comes to the emergency department because of a 1-hour history of increasingly severe left-sided chest pain that is worse when she inhales. Six hours ago, she underwent upper gastrointestinal endoscopy because of a 1-month history of progressive dysphagia. Results showed a benign-appearing stricture of the distal esophagus that was balloon-dilated. Her only medication is esomeprazole for gastroesophageal reflux disease. She does not smoke cigarettes or drink alcohol. She appears anxious. Her temperature is 37.9°C (100.3°F), pulse is 110/min, respirations are 20/min, and blood pressure is 110/65 mm Hg. Examination shows splinting of the left chest during inspiration. Cardiac examination shows a regular tachycardia. Abdominal examination shows no abnormalities. Chest x-ray shows a small left pleural effusion. Which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "B": "CT scan of the chest",
+      "C": "Repeat upper gastrointestinal endoscopy",
+      "D": "Thoracentesis",
+      "E": "Thoracostomy"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Upper endoscopy is a generally safe procedure, though complications can include bleeding, aspiration, and perforation; depending on the purpose of the endoscopy, specific complications such as pancreatitis following endoscopic retrograde cholangiopancreatography (ERCP) can occur. In the case of dysphagia in this patient, the endoscopy was performed and dilated an esophageal stricture to promote passage of food bolus. Stretching of smooth muscle, stricture, and connective tissue, especially if chronic inflammation has resulted in compromise of the stromal strength of the esophageal wall, can lead to perforation. A perforated esophagus is diagnosed on water-soluble contrast esophagography. An esophageal perforation permits translocation of gastrointestinal contents such as food, stomach acid, and bacteria into the mediastinum, which can lead to fatal mediastinitis if untreated. Mediastinitis can present with chest pain and a generally toxic appearance (eg, fever, tachycardia, tachypnea, diaphoresis). Management of esophageal perforation is through antibiotics and emergent surgical intervention.",
+    "incorrectExplanation": "nd E. CT scan of the chest (Choice B) can diagnose esophageal perforation if esophageal contrast studies are negative and clinical suspicion remains high. It can also identify intrathoracic fluid collections that may require drainage. However, water-soluble contrast esophagography is the best first step in diagnosis. Repeat upper gastrointestinal endoscopy (Choice C) would not be appropriate, as it may exacerbate the mediastinitis due to air insufflated during endoscopy. ¢ G € 6 t Score Report Lab Values Calculator Help Pause starttest.com"
+  },
+  {
+    "id": "SURG-8-35",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 35,
+    "system": "Unknown",
+    "questionStem": "A 25-year-old man has postoperative pain 6 hours after a mesh repair of an inguinal hernia under local (lidocaine) anesthesia. Which of the following is the most appropriate analgesic pharmacotherapy for the incisional pain?",
+    "choices": {
+      "A": "Oral aspirin",
+      "B": "Oral diazepam",
+      "C": "Oral morphine sulfate",
+      "E": "Transcutaneous fentanyl",
+      "D": "F ) Infiltration of the wound with bupivacaine"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Incisional pain after an abdominal surgery can be moderate to severe and typically lasts for days to weeks. Oral administration of non-opiate medications may be helpful for pain control, but many patients may require opioid analgesics to control severe pain. Typically, the approach to adequately controlling pain is multimodal. While opioid medications can offer strong analgesia, opiates are central nervous system depressants and can lead to dependence, addiction, and death. Opiate intoxication causes sedation, bradycardia and hypotension, depressed respiratory drive, and constricted pupils. Opiates are commonly used for analgesia and act on receptors within the gastrointestinal tract, reducing gut motility and thus causing constipation. Adjunctive pain medications, such as acetaminophen, non-steroidal anti-inflammatory medications, gabapentin, and others, can help reduce the use of opiate medications and reduce the risk for its side effects, tolerance, and dependence. Short-term therapy following surgery with opiate compounds is indicated, though care should be taken to avoid prolonged use due to the risk of side effects and dependence.",
+    "incorrectExplanation": "nd F. Oral aspirin (Choice A) is effective for mild to moderate pain relief but would not adequately address postoperative pain. It also can affect bleeding, clotting, and healing, so would not be the first choice for analgesia in a postoperative patient. Diazepam (Choice B) is a benzodiazepine that may be useful for managing agitation, anxiety, muscle spasms, or seizures. It does not have pain-relieving effects that would be appropriate for treating postoperative pain. Oral morphine sulfate (Choice C) and other opiate medications can be helpful in treating severe acute pain. However, multimodal pain regimens such as those containing arataminnanhan and nthar nan_nniata madiratinne ara cafar and radia tha rick af aniata talarancra ar danandanca ¢ G € 6 t Score Report Lab Values Calculator Help Pause starttest.com"
+  },
+  {
+    "id": "SURG-8-36",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 36,
+    "system": "Unknown",
+    "questionStem": "A 5-week-old boy is brought to the physician because of a 4-week history of progressive jaundice. He was born at term following an uncomplicated pregnancy and delivery. His mother says that his stools are white. He is at the 50th percentiles for height and weight. His temperature is 37.4°C (99.3°F). Examination shows moderate jaundice. The liver edge is palpated 4 cm below the right costal margin and is firm and slightly nodular. Serum studies show: Bilirubin, total 12.4 mg/dL Direct 8.3 mg/dL Alkaline phosphatase 551 U/L AST 51 U/L ALT 48 U/L a.-Antitrypsin normal A TORCH assay is negative. An ultrasonography of the abdomen does not show a gallbladder. A technetium 99m scan shows prompt uptake throughout the liver and no gallbladder; no tracer appears in the bowel. Which of the following is the most likely mechanism of this patient's jaundice?",
+    "choices": {
+      "A": "Decreased bilirubin conjugation by hepatocytes",
+      "B": "Decreased bilirubin excretion by hepatocytes",
+      "C": "Decreased bilirubin uptake by hepatocytes",
+      "E": "Increased bilirubin production"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "In congenital biliary atresia, the common bile duct is occluded, diminutive, or absent, and bile is unable to pass into the duodenum. This precludes the use of bile in the digestion of dietary fats and causes fat malabsorption. In contrast to benign causes of neonatal jaundice, biliary atresia presents with progressively worsening jaundice (conjugated hyperbilirubinemia), pale stools, dark urine, poor weight gain, and, in untreated cases, cirrhosis, coagulopathy, and portal hypertension. Classically, benign etiologies of neonatal jaundice will improve by the second to third week of life, whereas biliary atresia will persist and often worsen within the first 8 weeks of life. Diagnosis consists of history and physical examination, liver function testing, HIDA scan or cholangiography, with definitive diagnosis occurring during exploratory surgery with visualization of atretic bile ducts. Treatment is through hepatoportoenterostomy (Kasai procedure), which restores biliary flow, reduces jaundice, and helps salvage the native liver function. Liver transplant may be required if the procedure is unsuccessful. ¢ G E 6 o Lab Values Calculator Help Pause Score Report starttest.com",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "SURG-8-37",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 37,
+    "system": "Unknown",
+    "questionStem": "Twenty-four hours after undergoing splenectomy for trauma sustained in a motor vehicle collision, a previously healthy 25-year-old woman has oliguria. A urinary catheter is in place, and her urine output has been 20 mL/h during the past 3 hours. Intraoperative complications included a 30-minute period of hypotension and a total blood loss of 2.5 L requiring 4 units of packed red blood cells. Currently, her temperature is 38.0°C (100.4°F), pulse is 100/min, respirations are 14/min, and blood pressure is 120/80 mm Hg. The lungs are clear to auscultation, and breath sounds are heard bilaterally. Abdominal examination shows no distention. Bowel sounds are absent. Laboratory studies show a hematocrit of 28%, serum urea nitrogen concentration of 30 mg/dL, and serum creatinine concentration of 2.5 mg/dL; her serum electrolyte concentrations are within the reference ranges. Central venous pressure is 8 cm H,O (N=5-8). Which of the following is the most appropriate next step to confirm the cause of the oliguria?",
+    "choices": {
+      "A": "Administration of spironolactone",
+      "B": "Measurement of plasma free hemoglobin concentration",
+      "D": "Renal ultrasonography",
+      "E": "Replacement of the urinary catheter"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Acute kidney injury is defined as an acute increase in creatinine by greater than or equal to 0.3 mg/dL or 1.5 times above baseline creatinine, occasionally with oliguria or anuria. Acute kidney injury can be prerenal (because of dehydration, low vascular perfusion states such as congestive heart failure, or intrinsic such as acute tubular necrosis) or postrenal because of obstruction. A common cause is acute tubular necrosis, which can be caused by ischemia in the setting of prolonged hypoperfusion or toxins. A way to distinguish between the causes of acute kidney injury is by measuring the fractional excretion of sodium. The fractional excretion of a solute measures the percentage of the original filtered amount that is present in the excreted urine. The calculations are made using the plasma and urine concentrations of the sodium and creatinine. Prerenal and intrinsic kidney injury can be distinguished by the fractional excretion of sodium, which is <1% in prerenal and >2% in intrinsic kidney injury. In acute tubular necrosis, laboratory evaluation will show a blood urea nitrogen to creatinine ratio of less than 20, a fractional excretion of sodium greater than 2%, and muddy brown casts on urinalysis.",
+    "incorrectExplanation": "nd E. Administration of spironolactone (Choice A) would not likely explain this presentation. Spironolactone is a potassium-sparing diuretic that serves as an aldosterone receptor antagonist. It would not be appropriate to start a diuretic before diagnosing the cause of acute kidney injury, as it can exacerbate the kidney injury. Measurement of plasma free hemoglobin concentration (Choice B), the amount of hemoglobin that is not enclosed in red blood cells, may help diagnose hemolytic anemia and explain renal tubular injury from free hemoglobin. Measurement of free hemoglobin concentration would not be informative in delineating causes of acute kidney injury in the setting 4. a e (a fal > m Previous"
+  },
+  {
+    "id": "SURG-8-38",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 38,
+    "system": "Unknown",
+    "questionStem": "A 32-year-old man is brought to the emergency department 1 hour after sustaining extensive injuries in a motor vehicle collision. His pulse is 100/min, respirations are 15/min, and blood pressure is 120/70 mm Hg. Cardiopulmonary examination shows no abnormalities. The lower abdomen is tender. There is blood at the urethral meatus. On rectal examination, the prostate is not palpable, and there is no blood. Which of the following is the most appropriate next step in evaluation of the urinary tract?",
+    "choices": {
+      "A": "Cystography",
+      "B": "Intravenous pyelography",
+      "D": "Ultrasonography of the pelvis",
+      "E": "CT scan of the pelvis",
+      "F": "Insertion of a urinary catheter"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "A patient with pelvic injury and blood at the urethral meatus raises suspicion for a urethral injury. Urethral injuries are characterized by difficulty voiding, blood at the urethral meatus, perineal ecchymosis, and may be associated with a pelvic fracture. Straddle injuries can cause trauma to the anterior urethra, while pelvic fractures may injure the posterior urethra. Urethral injuries are evaluated by retrograde urethrography, which involves the injection of contrast into the urethra to evaluate for the extravasation of contrast, indicating urethral discontinuity. Depending on the location and severity of urethral injury, patients may require surgical repair or the placement of a urethral catheter to help promote healing and prevent complications of urinary extravasation, infection, urethrocutaneous fistula, or urethral stricture.",
+    "incorrectExplanation": "nd F. Cystography (Choice A) is indicated for evaluation of the urinary bladder when a bladder injury is suspected. This allows for characterization of an intraperitoneal versus extraperitoneal bladder rupture, but it would not be the best first choice in suspected urethral injury. Intravenous pyelography (Choice B) involves the intravenous injection of radiopaque contrast to subsequently visualize the kidney collecting system, ureters, and bladder under fluoroscopy. This allows for the investigation of suspected urinary tract anatomic abnormalities, malignancies, obstruction, malformation, and strictures. Ultrasonography of the pelvis (Choice D) such as that performed in a focused assessment with sonography for trauma (FAST) examination would be able to identify free peritoneal fluid; similarly, a CT scan of the pelvis (Choice E) can identify solid organ injury and the presence of free fluid, but neither would be able to directly identify a urethral injury. ¢ G € 6 t Score Report Lab Values Calculator Help Pause starttest.com"
+  },
+  {
+    "id": "SURG-8-39",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 39,
+    "system": "Unknown",
+    "questionStem": "A 32-year-old woman comes to the physician because of bloody discharge from the right nipple for 2 weeks. There are no breast masses or axillary or supraclavicular adenopathy. Mammography shows normal findings. The nipple and areola appear normal. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Ductal carcinoma in situ",
+      "B": "Fibroadenoma",
+      "D": "Paget disease of the breast",
+      "E": "Prolactin-producing pituitary adenoma"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "The most common cause of unilateral bloody nipple discharge is an intraductal papilloma, which may be associated with focal ductal carcinoma in situ. However, an intraductal papilloma itself is a benign lesion. Nipple discharge may be caused by lactation, physiologic mechanisms such as galactorrhea, or pathologic lesions such as breast cancer or infection. Evaluation includes a careful history and physical examination, with particular attention paid to whether the discharge is unilateral or bilateral, if it is from a single or multiple ducts, and whether it is associated with any breast abnormalities (eg, skin changes, breast lumps). Lactation and physiologic discharge are more commonly bilateral and from multiple ducts, whereas pathological lesions more commonly present unilaterally. Further diagnostic evaluation of pathologic discharge, as in this patient, often involves ultrasonography or mammography based on patient age. If an abnormality is detected, biopsy is recommended.",
+    "incorrectExplanation": "nd E. Ductal carcinoma in situ (Choice A) may present with unilateral bloody nipple discharge, as well as a breast mass, and it may be associated with an intraductal papilloma. However, this patient's mammography showed normal findings, making breast cancer such as ductal carcinoma in situ unlikely. Fibroadenoma (Choice B) is a well-circumscribed, mobile breast mass generally seen in women of reproductive age. Mammography or ultrasonography would show a solid mass. Fibroadenomas do not routinely present with nipple discharge. Paget disease of the breast (Choice D) describes skin changes of the nipple and areola that are often related to underlying malignancy. These skin changes include discoloration, erythema, and ulceration. While Paget disease of the breast can also present with bloody unilateral nipple discharge, this patient does not have the skin findings associated with Paget disease, nor does she have evidence of malignancy on mammography. ¢ G € 6 t Score Report Lab Values Calculator Help Pause ie} fa) starttest.com"
+  },
+  {
+    "id": "SURG-8-40",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 40,
+    "system": "Unknown",
+    "questionStem": "An otherwise healthy 40-year-old woman, gravida 2, para 2, comes to the office 2 weeks after she noticed a tender mass on her left breast while showering. Menarche was at the age of 12 years. The patient had her first child at the age of 28 years and underwent tubal ligation after the birth of her second child 8 years ago. The patient's maternal aunt was diagnosed with breast cancer at the age of 75 years. Examination of the patient shows no lymphadenopathy. The breasts appear normal and symmetric. Palpation of the breasts shows normal breast tissue bilaterally; there is a 2-cm firm mass on the upper outer quadrant of the left breast with no skin or chest wall attachment. Mammography confirms a solitary, well-defined mass in the same location. Ultrasonography of the breasts shows that the mass is fluid-filled and compressible with posterior shadowing. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Excisional biopsy",
+      "B": "Incisional biopsy",
+      "C": "Mammography-localized core needle biopsy",
+      "D": "MRI"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Breast masses are common in women. Evaluation of a new breast mass includes a thorough history and physical examination. Benign masses are commonly small, well- circumscribed, and mobile, whereas malignant lesions are more likely to be large, poorly defined, adherent to underlying tissue, and associated with skin or nipple changes. Further diagnostic evaluation of a breast mass depends on the patient's age, as well as the clinical concern for malignancy. In patients younger than 30 years old, ultrasonography is utilized as the initial imaging modality to further analyze a palpable breast mass. For older patients, mammography is the initial imaging technique of choice. Occasionally, abnormalities on one imaging modality are confirmed with the alternative imaging modality. In this case, the patient's mass visualized on mammography was confirmed with breast ultrasonography, which disclosed a cystic-appearing lesion. Cystic lesions should be carefully observed or undergo needle aspiration for cytologic evaluation or symptomatic benefit. A simple cyst that completely collapses after aspiration requires no further management.",
+    "incorrectExplanation": "nd D. Excisional biopsy (Choice A) involves surgical excision of the entire breast mass, whereas an incisional biopsy (Choice B) removes only a portion of the mass. These procedures may be utilized for solid lesions that have imaging findings or clinical symptoms concerning for malignancy. This patient has a cystic-appearing lesion more suitable for needle aspiration, a less invasive option than biopsy that may provide diagnostic as well as therapeutic benefit. Mammography-localized core needle biopsy (Choice C) may be useful in evaluating a solid lesion that is not evident on physical examination. Mammography localization allows the e ¢ @ € 6 t Score Report Lab Values Calculator Help Pause starttest.com"
+  },
+  {
+    "id": "SURG-8-41",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 41,
+    "system": "Unknown",
+    "questionStem": "A previously healthy 42-year-old woman comes to the office because of a painful mass in the right breast for 3 weeks. Menarche was at the age of 12 years. She had her first child at the age of 22 years. Examination shows a 1-cm, firm, tender mass in the upper outer quadrant of the right breast; there is no lymphadenopathy. Examination of a biopsy specimen shows fibroadenoma and lobular carcinoma in situ. Over the next 10 years, this patient is at greatest risk for which of the following?",
+    "choices": {
+      "A": "Bone metastasis",
+      "B": "Fibrocystic breast condition",
+      "C": "Intraductal papilloma",
+      "E": "Ovarian metastasis"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Breast masses are common in women, and breast cancer is the most common non-dermatologic malignancy in women. Evaluation of a new breast mass includes a thorough history and physical examination. Benign masses are commonly small, well-circumscribed, and mobile, whereas malignant lesions are more likely to be large, poorly defined, adherent to underlying tissue, and associated with skin or nipple changes. Further diagnostic evaluation of a breast mass depends on the patient’s age, as well as the clinical concern for malignancy, and typically includes mammography and/or ultrasonography, in addition to biopsy when indicated. Although a significant portion of breast masses are benign, they may be associated with future malignancy. Lobular carcinoma in situ is a benign proliferative lesion with atypical cell characteristics that most commonly occurs in pre- menopausal women. However, it is associated with an increase in the risk of development of invasive breast carcinoma, which may occur in either the ipsilateral or contralateral breast, although it is not considered a precursor lesion. Therefore, this patient is at greatest risk for developing invasive ductal carcinoma in the next 10 years. Other risk factors for the development of breast cancer include a family history of premenopausal breast cancer, genetic mutation (eg BRCA 1 or 2), early menarche, late menopause, nulliparity, obesity, exogenous estrogen use, and African American ethnicity.",
+    "incorrectExplanation": "nd E. Bone metastasis (Choice A) is often associated with breast, prostate, and lung cancer. Typical presentations include bone pain, hypercalcemia (eg, abdominal pain, altered mental status, nephrolithiasis), and pathologic fractures. Given this patient's history of lobular carcinoma in situ, she is most at risk for the development of invasive breast cancer in the future, which may or may not be associated with metastasis. Fibrocystic breast condition (Choice B) is a benign disease of the breasts characterized by multiple cystic masses that are often hormonally responsive and fluctuate in size. It may present with a palpable, painful breast mass that appears fluid-filled on imaging. Lobular carcinoma in situ is associated with the future development of invasive ductal carcinoma, Cc 7 @ € 6 m Score Report Lab Values Calculator Help Pause"
+  },
+  {
+    "id": "SURG-8-42",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 42,
+    "system": "Unknown",
+    "questionStem": "A previously healthy 21-year-old man is brought to the emergency department 45 minutes after falling 12 feet from a barn loft. He landed straddling a wooden beam. His pulse is 120/min; other vital signs are within normal limits. Examination of the scrotum and penis shows edema and ecchymoses. Urinalysis shows numerous RBCs. Doppler ultrasonography of the testes shows a scrotal hematoma; there is no blood flow to the testes. An analgesic is administered. Which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "Renal ultrasonography",
+      "B": "MRI of the pelvis",
+      "C": "Intravenous pyelography",
+      "D": "Cystoscopy"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Blunt trauma of the external genitalia in a male can lead to injury to the testes, penis, and anterior urethra. Specifically, blunt trauma to the penis can result in penile fracture, whereas trauma to the scrotum can cause rupture of the testes, vascular injury, and testicular torsion and hematoma. A straddle injury, as in this patient, causes injury to the perineum with subsequent disruption of the bulbar urethra. Penile fractures result with pain, edema, and ecchymoses, whereas testicular rupture or vascular injury presents with testicular swelling and ecchymoses, with disruption of the testicular anatomy. Disruption of the bulbar urethra presents with hematuria on urinalysis. This patient has many genitourinary abnormalities following his straddle injury, including a possible penile fracture, scrotal hematoma, and possible testicular vascular injury and urethral injury. The absence of blood flow to the testes is a surgical emergency and requires prompt evaluation by surgical exploration to try to restore blood flow and prevent testicular necrosis and resultant infertility. The next most appropriate step in management of this patient is surgical exploration.",
+    "incorrectExplanation": "nd D. Renal ultrasonography (Choice A) may be used to evaluate the kidney if there was suspicion of upper genitourinary tract injury. This more commonly occurs following blunt or penetrating trauma to the abdomen or retroperitoneum or on rapid deceleration injuries. It is less common with a straddle injury and would be likely to present with hematuria, flank pain, and hemodynamic instability. MRI of the pelvis (Choice B) may be useful to evaluate for other occult injuries following this patient’s fall. However, given the absence of blood flow to his testes, the time required for an MRI of the pelvis would likely lead to permanent damage to or possible necrosis of the testes. ¢ G € 6 t Score Report Lab Values Calculator Help Pause ie} fa) starttest.com"
+  },
+  {
+    "id": "SURG-8-43",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 43,
+    "system": "Unknown",
+    "questionStem": "A 32-year-old man has a 6-month history of irritability, frequent bowel movements, and a 5.4-kg (12-Ib) weight loss. Examination shows a single thyroid nodule. Serum thyroxine (T,) concentration is 16.1 g/dL, and serum thyroid-stimulating hormone concentration is less than 0.1 yU/mL. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Defect in thyroxine (T 4) biosynthesis",
+      "B": "Graves disease",
+      "C": "Multinodular goiter",
+      "D": "Riedel thyroiditis",
+      "E": "Thyroid carcinoma",
+      "F": "Thyroid cyst",
+      "G": "Thyroiditis",
+      "H": "| ) Triiodothyronine (T3) thyrotoxicosis"
+    },
+    "correctAnswer": "H",
+    "correctExplanation": "Toxic adenoma is the most likely diagnosis in this patient with increased serum thyroxine, low serum thyroid-stimulating hormone, and a palpable, single thyroid nodule on examination. Additionally, the patient has symptoms consistent with thyrotoxicosis, including irritability, weight loss, and diarrhea. A toxic adenoma presents as a solitary thyroid nodule accompanied by symptoms of hyperthyroidism such as heat intolerance, sweating, hair loss, warm, flushed skin, amenorrhea, diarrhea, palpitations, and weight loss. Vital signs may show hyperthermia, tachycardia, tachypnea, and hypertension. The adenoma autonomously produces triiodothyronine (T) and thyroxine (T,), unregulated by the normal negative feedback mechanism. Thyroid-stimulating hormone (TSH) will be low, as it remains governed by the levels of serum T, and T,. Definitive diagnosis requires evaluation with ultrasonography to identify the thyroid nodule and a radioactive iodine uptake scan, which will demonstrate a solitary hyperfunctioning (‘hot’) nodule. Treatment generally requires partial thyroidectomy.",
+    "incorrectExplanation": "nd I. Defect in thyroxine (T ,) biosynthesis (Choice A) is incorrect, as this would lead to decreased levels of thyroxine, not increased levels. Graves disease (Choice B) is unlikely in 1 this case. Patients with Graves disease have symptoms of thyrotoxicosis but usually demonstrate a diffusely enlarged thyroid on G @A > am Lab Values Calculator Help Pause National Board of Medical Examiners® Surgery Self-Assessment Incorrect Answers: A, B, C, D, E, F, G, and I. Defect in thyroxine (T ,) biosynthesis (Choice A) is incorrect, as this would lead to decreased levels of thyroxine, not increased levels. Graves disease (Choice B) is unlikely in this case. Patients with Graves disease have symptoms of thyrotoxicosis but usually demonstrate a diffusely enlarged thyroid on examination, rather than a solitary nodule. Multinodular goiter (Choice C) typically does not cause thyrotoxicosis, and the physical examination would disclose numerous thyroid nodules, not a single nodule. Riedel thyroiditis (Choice D) is incorrect, as patients with this condition are most often euthyroid or hypothyroid. Physical examination usually discloses a diffusely enlarged, firm thyroid. Thyroid carcinoma (Choice E) refers to one of several different types of thyroid cancer, including papillary and medullary thyroid carcinoma, among others. Thyroid malignancies typically do not secrete thyroxine. Thyroid cyst (Choice F) describes a type of thyroid lesion that can occasionally be palpated or visualized on thyroid ultrasonography. Cysts are nonfunctioning and do not secrete thyroxine, thus they do not cause hyperthyroidism. Thyroiditis (Choice G) refers to inflammation of the thyroid gland that can occur because of several conditions, including subacute thyroiditis, postpartum thyroiditis, and medication- induced thyroiditis. Patients may become transiently hyperthyroid, but these symptoms rarely last longer than 2 months before patients return to a euthyroid or hypothyroid state. This patient has demonstrated symptoms for 6 months. Triiodothyronine (T) thyrotoxicosis (Choice |) is common in patients with Graves disease and results from the increased secretion of Tin addition to increased peripheral conversion of T, to T3. As well, this may occur in patients taking T3 supplements. Educational Objective: Patients with toxic thyroid adenomas present with signs and symptoms of hyperthyroidism, while examination may disclose a dominant thyroid nodule. Differentiating between toxic adenomas and other causes of hyperthyroidism is usually straightforward and is aided by using thyroid ultrasonography, radioactive iodine uptake scan, and measurement of anti-thyroid antibodies. Treatment usually involves resection of the toxic nodule. ¢ G € 6 t Score Report Lab Values Calculator Help Pause 08 starttest.com"
+  },
+  {
+    "id": "SURG-8-44",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 44,
+    "system": "Unknown",
+    "questionStem": "Twenty-four hours after undergoing total thyroidectomy and lymph node dissection for metastatic papillary thyroid carcinoma, a 57-year-old woman has circumoral paresthesia and tingling of the fingertips. Examination shows hyperreflexia when the facial nerve is tapped. Which of the following is the most appropriate pharmacotherapy?",
+    "choices": {
+      "B": "Intravenous magnesium sulfate",
+      "C": "Oral calcium carbonate",
+      "D": "Oral magnesium oxide",
+      "E": "Oral vitamin D3"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Intravenous calcium gluconate should be given to this patient with signs and symptoms of hypocalcemia following thyroidectomy. The parathyroid glands are located along the posterior aspect of the thyroid gland and, while not frequent, can sometimes be inadvertently removed during a thyroidectomy. The parathyroid glands secrete parathyroid hormone (PTH), which has numerous actions, including the stimulation of vitamin D activation in the kidneys and resorption of calcium from the bones to maintain calcium homeostasis. Loss of appropriate PTH production leads to hypocalcemia, with resultant symptoms that include perioral paresthesia, carpopedal spasm, laryngospasm, and prolonged QT interval. The Chvostek sign, in which tapping of the facial nerve leads to spasm of the facial muscles, and Trousseau sign, in which an inflated blood pressure cuff occluding the brachial artery causes carpopedal spasm, are two physical examination findings that may indicate hypocalcemia. Treatment is with intravenous calcium gluconate. For these reasons, calcium and PTH are often monitored immediately following total thyroidectomy to aid in the early detection and treatment of hypocalcemia.",
+    "incorrectExplanation": "nd E. Intravenous magnesium sulfate (Choice B) is the treatment of choice for patients with symptomatic hypomagnesemia or QT prolongation with risk of dysrhythmia. Signs and symptoms of hypomagnesemia may include tremor, weakness, delirium, and arrhythmias. Hypocalcemia is frequently encountered in conjunction with hypomagnesemia, but this patient’s recent surgery and current symptoms are more suggestive of hypocalcemia. Oral calcium carbonate (Choice C) can be used for the treatment of chronic hypoparathyroidism with mild hypocalcemia, but this patient has symptoms of severe hypocalcemia that warrant treatment with intravenous calcium. Oral magnesium oxide (Choice D) is sometimes used as an antacid or as treatment for chronic hypomagnesemia. Treatment with magnesium oxide would not be beneficial to this patient with symptoms of hypocalcemia. e ¢ @ € 6 t Score Report Lab Values Calculator Help Pause National Board of Medical Examiners® Surgery Self-Assessment Correct Answer: A. Intravenous calcium gluconate should be given to this patient with signs and symptoms of hypocalcemia following thyroidectomy. The parathyroid glands are located along the posterior aspect of the thyroid gland and, while not frequent, can sometimes be inadvertently removed during a thyroidectomy. The parathyroid glands secrete parathyroid hormone (PTH), which has numerous actions, including the stimulation of vitamin D activation in the kidneys and resorption of calcium from the bones to maintain calcium homeostasis. Loss of appropriate PTH production leads to hypocalcemia, with resultant symptoms that include perioral paresthesia, carpopedal spasm, laryngospasm, and prolonged QT interval. The Chvostek sign, in which tapping of the facial nerve leads to spasm of the facial muscles, and Trousseau sign, in which an inflated blood pressure cuff occluding the brachial artery causes carpopedal spasm, are two physical examination findings that may indicate hypocalcemia. Treatment is with intravenous calcium gluconate. For these reasons, calcium and PTH are often monitored immediately following total thyroidectomy to aid in the early detection and treatment of hypocalcemia. Incorrect Answers: B, C, D, and E. Intravenous magnesium sulfate (Choice B) is the treatment of choice for patients with symptomatic hypomagnesemia or QT prolongation with risk of dysrhythmia. Signs and symptoms of hypomagnesemia may include tremor, weakness, delirium, and arrhythmias. Hypocalcemia is frequently encountered in conjunction with hypomagnesemia, but this patient’s recent surgery and current symptoms are more suggestive of hypocalcemia. Oral calcium carbonate (Choice C) can be used for the treatment of chronic hypoparathyroidism with mild hypocalcemia, but this patient has symptoms of severe hypocalcemia that warrant treatment with intravenous calcium. Oral magnesium oxide (Choice D) is sometimes used as an antacid or as treatment for chronic hypomagnesemia. Treatment with magnesium oxide would not be beneficial to this patient with symptoms of hypocalcemia. Oral vitamin D, (Choice E) is a dietary supplement used to treat patients with mild vitamin D deficiency. Patients with mild vitamin D deficiency usually have normal calcium levels, although profoundly low vitamin D levels can occasionally lead to secondary hyperparathyroidism. This patient's history suggests hypoparathyroidism secondary to surgical resection and vitamin D supplementation would be of little value at this time. Educational Objective: Parathyroid hormone concentrations are decreased in the setting of hypoparathyroidism, which results in subsequent hypocalcemia. This may be caused by the inadvertent removal of one or more parathyroid glands during a thyroidectomy. Symptoms of hypocalcemia include perioral paresthesia, carpopedal spasm, laryngospasm, prolonged QT interval, Chvostek sign, and Trousseau sign. Treatment is with intravenous calcium gluconate. ¢ G € 6 t Score Report Lab Values Calculator Help Pause 08 starttest.com"
+  },
+  {
+    "id": "SURG-8-45",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 45,
+    "system": "Unknown",
+    "questionStem": "Two days after undergoing thoracotomy for a stab wound to the right hemithorax, a 25-year-old woman has oliguria despite adequate fluid replacement. During the operation, she received 4 units of packed red blood cells. Her hematocrit is 35%, serum urea nitrogen concentration is 12 mg/dL, and serum creatinine concentration is 0.9 mg/dL. Her oliguria is most likely caused by an increased concentration of which of the following hormones?",
+    "choices": {
+      "B": "Cortisol",
+      "C": "Epinephrine",
+      "D": "Glucagon",
+      "E": "Norepinephrine"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Antidiuretic hormone (vasopressin, ADH) is a hormone secreted by the posterior pituitary that leads to water reabsorption in the collecting duct of the renal tubule by increasing the amount of aquaporin channels. It also increases systemic vascular resistance by causing peripheral vasoconstriction and consequently increases blood pressure. Its secretion is stimulated by increased plasma osmolality and decreased arterial blood volume. The syndrome of inappropriate secretion of ADH (SIADH) occurs when ADH is secreted independently of plasma osmolality or arterial blood volume. This most commonly occurs in neurologic injury, as a medication side effect, or because of ectopic production by a malignant tumor or lung disease. However, surgery can also cause an increase in secretion of ADH, thought to be secondary to pain. Inappropriate secretion of ADH in relation to plasma osmolality and blood volume results in decreased urine output; when this occurs, the residual urine is concentrated, with urine studies showing a urine osmolality above 100 mOsmol/kg and urine sodium above 40 mEq/L. While hypovolemia or obstruction can cause oliguria, these would likely also increase the patient’s serum urea nitrogen and creatinine. As these parameters are normal, this patient's oliguria is most likely secondary to an increased concentration of ADH.",
+    "incorrectExplanation": "nd E. Cortisol (Choice B) is increased in Cushing syndrome, which presents with hypertension, central adiposity, moon facies, hirsutism, striae, proximal muscle weakness, and insulin resistance. This can be caused by Cushing disease, exogenous glucocorticoids, or a variety of other etiologies. However, Cushing syndrome more commonly presents with polyuria than oliguria. Epinephrine (Choice C) and norepinephrine (Choice E) excess would be expected to present with signs of sympathetic nervous system activation, such as tachycardia and hypertension. This consequently would lead to increased cardiac output and theoretically increased renal perfusion, which may be associated with increased rather than decreased urine output. Cc ¢ G € 6 o Score Report Lab Values Calculator Help Pause ie} fa) starttest.com"
+  },
+  {
+    "id": "SURG-8-46",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 46,
+    "system": "Unknown",
+    "questionStem": "A 14-year-old girl has several generalized tonic-clonic seizures and a decreased urine output 24 hours after undergoing revision of an obstructed ventriculoperitoneal shunt. She is being mechanically ventilated, and she is receiving continuous morphine infusion for pain. She appears well hydrated. Her temperature is 37°C (98.6°F), pulse is 85/min, and blood pressure is 118/70 mm Hg; the ventilatory rate is 16/min. Laboratory studies show: Serum Nat 118 mEq/L K+ 4 mEq/L Urea nitrogen 3 mg/dL Osmolality 248 mOsmol/kg Urine Specific gravity 1.032 Sodium 192 mEq/L Osmolality 800 mOsmol/kg Urea nitrogen 600 mg/dL Pulmonary artery catheterization shows a central venous pressure of 9 cm H,O (N=5-8). Intravenous administration of which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Desmopressin",
+      "B": "Glucose",
+      "C": "Naloxone",
+      "D": "Pentobarbital"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Hyponatremia, or serum sodium values less than 135 mEq/L, can be acute or chronic and is caused by a variety of etiologies. Acute hyponatremia is generally considered hyponatremia that develops in less than 48 hours and is more commonly symptomatic, whereas chronic hyponatremia has been present for more than 48 hours and may be asymptomatic. Mild hyponatremia can present with confusion, nausea, and fatigue, whereas severe hyponatremia can cause obtundation, seizures, and respiratory arrest. The syndrome of inappropriate antidiuretic hormone secretion (SIADH) is one common etiology of hyponatremia, caused by an increase in antidiuretic hormone (ADH) independent of C ¢ G E 6 ri Score Report Lab Values Calculator Help Pause starttest.com",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "SURG-8-47",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 47,
+    "system": "Unknown",
+    "questionStem": "A 52-year-old man undergoes a transurethral resection of the prostate for urinary hesitancy and urgency. His postoperative diagnosis is benign prostatic hyperplasia. The operation was complicated by a 30-minute episode of hypotension that ultimately responded to treatment with fluids and vasopressors. Forty-eight hours after the operation, he is alert and in no acute distress. His temperature is 37.8°C (100°F), pulse is 80/min, respirations are 16/min, and blood pressure is 130/80 mm Hg. He is oriented to person, place, and time. Serum studies show a potassium concentration of 6.6 mEq/L, urea nitrogen concentration of 20 mg/dL, and creatinine concentration of 3 mg/dL. Preoperative laboratory studies showed normal findings. An ECG shows a normal sinus rhythm with a rate of 100/min, PR interval of 0.122 sec (N=0.12-0.20), QRS interval of 0.084 sec (N=0.10), and QT interval of 0.4 sec (Ns 0.44). There are peaked T waves across the precordium. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Repeat measurement of serum potassium concentration",
+      "B": "Low-potassium diet",
+      "C": "Rectal sodium polystyrene sulfonate (Kayexalate) therapy",
+      "E": "Immediate hemodialysis"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Postoperative kidney injury is a risk of surgery, particularly in patients with pre-existing renal disease. This risk is further increased by surgeries that are associated with significant fluid shifts, such as intra-abdominal surgeries and cardiac surgeries, prolonged hypotension, and in elderly patients. This patient is demonstrating symptomatic hyperkalemia with peaked T-waves on ECG and increased creatinine and urea nitrogen, indicative of postoperative renal failure, likely secondary to acute tubular necrosis in the setting of intraoperative hypotension. Hyperkalemia can be a deadly consequence of renal failure, as it can lead to cardiac arrhythmias and arrest. The first step in management of hyperkalemia includes administration of intravenous calcium to prevent cardiac cell excitability. Subsequent management includes medications that cause the transfer of potassium out of the serum and into the cells (eg, insulin, albuterol, sodium bicarbonate) along with agents that move potassium out of the body through the urine (eg, loop diuretics) and stool (eg, exchange resins). Hemodialysis may be required in emergent and severe cases.",
+    "incorrectExplanation": "nd E. Repeat measurement of serum potassium concentration (Choice A) may be appropriate in some cases of hyperkalemia, such as that due to hemolysis of the specimen. However, this patient has symptomatic hyperkalemia with peaked T-waves on ECG. Thus, he should be treated urgently with calcium chloride to prevent cardiac dysrhythmias. Low-potassium diet (Choice B) may be appropriate for patients with chronic hyperkalemia in the setting of chronic renal disease. However, a low-potassium diet would require a eC @ G E 6 O Score Report Lab Values Calculator Help Pause National Board of Medical Examiners® Surgery Self-Assessment Correct Answer: D. Postoperative kidney injury is a risk of surgery, particularly in patients with pre-existing renal disease. This risk is further increased by surgeries that are associated with significant fluid shifts, such as intra-abdominal surgeries and cardiac surgeries, prolonged hypotension, and in elderly patients. This patient is demonstrating symptomatic hyperkalemia with peaked T-waves on ECG and increased creatinine and urea nitrogen, indicative of postoperative renal failure, likely secondary to acute tubular necrosis in the setting of intraoperative hypotension. Hyperkalemia can be a deadly consequence of renal failure, as it can lead to cardiac arrhythmias and arrest. The first step in management of hyperkalemia includes administration of intravenous calcium to prevent cardiac cell excitability. Subsequent management includes medications that cause the transfer of potassium out of the serum and into the cells (eg, insulin, albuterol, sodium bicarbonate) along with agents that move potassium out of the body through the urine (eg, loop diuretics) and stool (eg, exchange resins). Hemodialysis may be required in emergent and severe cases. Incorrect Answers: A, B, C, and E. Repeat measurement of serum potassium concentration (Choice A) may be appropriate in some cases of hyperkalemia, such as that due to hemolysis of the specimen. However, this patient has symptomatic hyperkalemia with peaked T-waves on ECG. Thus, he should be treated urgently with calcium chloride to prevent cardiac dysrhythmias. Low-potassium diet (Choice B) may be appropriate for patients with chronic hyperkalemia in the setting of chronic renal disease. However, a low-potassium diet would require a significant period to reliably reduce this patient's potassium to normal levels, during which time he may have complications of hyperkalemia, such as cardiac dysrhythmias. Rectal sodium polystyrene sulfonate (Kayexalate) therapy (Choice C) would not be an inappropriate choice in the management of this patient, as it takes hours to days to be effective and the patient would remain at risk for the complications of hyperkalemia during that time. Additionally, Kayexalate is associated with ischemic colitis and is being replaced by safer agents (eg, sodium zirconium sulfate) in practice. Immediate hemodialysis (Choice E) is an appropriate treatment for severe metabolic acidosis, electrolyte disturbances such as hyperkalemia, certain intoxications, fluid overload, and uremia. However, prior to its initiation, less invasive measures should be attempted and may sufficiently avoid the need for dialysis. Additionally, the initiation of dialysis requires placement of a hemodialysis line and consultation with a nephrologist, time during which the patient may develop cardiac dysrhythmias. Educational Objective: Severe hyperkalemia may present with peaked T-waves on ECG, as well as cardiac arrhythmia. The first step in management of hyperkalemia includes the administration of intravenous calcium to prevent cardiac cell excitability. Subsequent management includes medications that cause the transfer of potassium out of the serum and into the cells (eg, insulin, albuterol, sodium bicarbonate) along with agents that move potassium out of the body through the urine or stool. a C 7 G E Previous"
+  },
+  {
+    "id": "SURG-8-48",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 48,
+    "system": "Unknown",
+    "questionStem": "Eight hours after laparoscopic cholecystectomy, an obese 55-year-old man has a pulse of 150/min and blood pressure of 60/40 mm Hg. Hematocrit is 28% (42% preoperatively). Serum creatine kinase activity is 200 U/L. MB isoenzyme of creatine kinase fraction is less than 2% (N<5% of total). Arterial Po, is 70 mm Hg. An ECG shows sinus tachycardia without other changes. Central venous pressure is 2 mm Hg. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Addisonian crisis",
+      "B": "Myocardial infarction",
+      "D": "Pulmonary embolus",
+      "E": "Septic shock"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Sudden postoperative hypotension is presumed to be caused by bleeding until determined otherwise. Other causes of postoperative hypotension include under-resuscitation during the procedure, medication side effects, and sepsis. Hypovolemia, whether due to anemia or fluid depletion, results in a compensatory tachycardia to try to maintain mean arterial pressure (MAP). However, with significant enough hypovolemia, the tachycardia is unable to maintain the MAP, the blood pressure subsequently falls, and the patient becomes hypotensive. Other evidence of postoperative bleeding in this patient includes a decrease in hematocrit from 42% to 28% (although a decrease in hematocrit may not always be present with an acute bleed), and a low central venous pressure indicating hypovolemia. Other signs of bleeding include pallor and swelling or ecchymoses of the surgical site. Management of postoperative hypotension caused by bleeding includes fluid resuscitation, blood product transfusion, pressor therapy, and prompt surgical re-exploration.",
+    "incorrectExplanation": "nd E. Addisonian crisis (Choice A) occurs in adrenal insufficiency. Adrenal insufficiency (depending on level — primary, secondary, tertiary) presents variably with weight loss, nausea, vomiting, abdominal pain, hyperpigmentation, hypotension, hyponatremia, and hyperkalemia. Patients with Addison disease may develop an Addisonian crisis in response to a variety of stressors, such as severe infection or a surgical procedure. This often presents with lethargy, confusion, and hypotension. This patient has no other symptoms of Addison disease but does have a decreased central venous pressure and hematocrit, making postoperative bleeding a more likely cause of this patient's hypotension. Myocardial infarction (Choice B) classically presents with crushing substernal chest pain that radiates to the left shoulder and jaw, associated with shortness of breath, diaphoresis, and nausea. If the myocardial ischemia and infarction areas includes a significant portion of the myocardium, a decrease in cardiac output can occur with consequent hypotension. However, a myocardial infarction would be associated with a significantly higher concentration of CK-MB, which is an isoenzyme specific for myocardial damage. ¢ G € 6 o Score Report Lab Values Calculator Help Pause"
+  },
+  {
+    "id": "SURG-8-49",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 49,
+    "system": "Unknown",
+    "questionStem": "A 45-year-old man is brought to the emergency department by paramedics 30 minutes after he was involved in a motor vehicle collision. He was the unrestrained driver. On arrival, he is oriented to person but not to place or time. He has no documentation in his wallet regarding his religious affiliation, but his friend says she thinks he might be a Jehovah's Witness. His family cannot be contacted. His temperature is 36.7°C (98°F), pulse is 110/min, respirations are 20/min, and blood pressure is 90/50 mm Hg. Fifteen minutes later, his pulse is 135/min, and blood pressure is 75/40 mm Hg. Abdominal examination shows distention and tenderness with rebound. Abdominal ultrasonography for trauma (FAST) shows blood in the hepatorenal recess. His hematocrit is 15%. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Immediate consultation with the hospital ethics committee",
+      "B": "Intravenous administration of fluids only",
+      "D": "Withholding treatment until the patient’s Jehovah's Witness status can be confirmed"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "An informed, competent adult has the right to refuse blood transfusion, even if the blood may be lifesaving. One of the most common reasons for declining blood transfusion is identification as a Jehovah's witness. Many Jehovah’s witnesses will not accept transfusions of whole blood, red blood cells, platelets, or plasma, although many will accept albumin. Additionally, they often decline autologous blood transfusions, although they often accept cardiopulmonary bypass. This patient is most likely experiencing traumatic hemorrhagic shock, based on his tachycardia, hypotension, positive focused assessment with sonography for trauma (FAST) exam, and hematocrit, and appropriate resuscitation should occur with fluid and blood products to restore hemodynamic stability while he undergoes emergent surgical exploration. This patient is unable to consent, as he is only alert and oriented to self, and has no records that identify him as being a Jehovah's witness. While his friend believes he may be a Jehovah’s witness, she is unsure, and there is no way to confirm this as his family is unable to be reached. Therefore, the most appropriate next step in management of this patient is transfusion of packed red blood cells, as a delay in providing blood products in this hemodynamically unstable patient would likely lead to significant morbidity and mortality.",
+    "incorrectExplanation": "nd D. Immediate consultation with the hospital ethics committee (Choice A) would not be warranted in this patient. A delay in providing care to this patient to consult the ethics committee would lead to worsening of this patient's shock and a significant increase in his mortality. As this patient’s status as a Jehovah’s witness cannot be confirmed, he should receive a blood transfusion. Intravenous administration of fluids only (Choice B) may be initially warranted in hypovolemic shock. However, with significant enough blood loss, hemoglobin and hematocrit decrease, and the patient will continue to be hypotensive despite fluid administration. This patient has hypotension with a hematocrit of 15% and ongoing blood loss, which warrants a @ G € e cr Previous"
+  },
+  {
+    "id": "SURG-8-50",
+    "section": "Surgery",
+    "subsection": "CMS-8",
+    "questionNumber": 50,
+    "system": "Unknown",
+    "questionStem": "A 37-year-old woman remains ventilator-dependent 3 weeks after undergoing a gastric restrictive procedure. She has obstructive sleep apnea and restrictive lung disease. Preoperative arterial blood gas analysis on room air showed a pH of 7.35, PCO, of 65 mm Hg, and Po, of 45 mm Hg. She is currently receiving fentanyl and lorazepam for sedation to maintain acceptable arterial blood gas concentrations. Attempts to reduce the dosages of medication have resulted in life-threatening hypoxia and carbon dioxide retention. Tracheostomy is recommended to prevent permanent vocal cord damage from continued orotracheal intubation. Prior to the operation, no discussions took place concerning tracheostomy placement. She is unmarried, and her only living relative is a sister who resides in another state. Which of the following is the most appropriate course of action?",
+    "choices": {
+      "A": "Continue current ventilator support with orotracheal intubation",
+      "C": "Contact the hospital ethics committee to give consent",
+      "D": "Discontinue sedation and determine if the patient can communicate her wishes",
+      "E": "Proceed with tracheostomy as a medical necessity"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Scenarios frequently arise in healthcare in which patients are unable to consent for themselves. For example, patients with altered mental status or who are intubated and sedated lack the capacity to make decisions, which may be caused by the inability to understand the consent process or the inability to vocalize their desires. In this situation, the healthcare provider must receive consent from the patient's health care proxy. While different states have varying laws about the hierarchy of decision-makers, spouses, parents, and siblings are often included. This patient has had ongoing mechanical ventilatory requirements, and she is unlikely to wean from the mechanical ventilator soon given her recurrent hypoxia and hypercarbia. Prolonged orotracheal intubation can lead to laryngeal edema, tracheal stenosis, and oropharyngeal ulcers, whereas the placement of a tracheostomy improves patient comfort, allows them to communicate, and facilitates the ventilator weaning process. Thus, it would be in this patient's best interest to undergo tracheostomy placement. As her wishes are unknown, the most appropriate next step in management would be to reach out to her next of kin, in this case her sister, to obtain consent for the procedure.",
+    "incorrectExplanation": "nd E. Continuing current ventilator support with orotracheal intubation (Choice A) may be appropriate until her next of kin can be contacted. However, ongoing orotracheal intubation and mechanical ventilation can lead to patient discomfort, laryngeal edema, tracheal stenosis, and oropharyngeal ulcers. Transitioning this patient to ventilation through a tracheostomy tube would be in her best interest. Contact the hospital ethics committee to give consent (Choice C) is not necessary, as this patient still has next of kin that could be contacted to make decisions for her. If the nr @ ol © © m ay Score Report Lab Values Calculator Help Pause starttest.com"
+  }
+]

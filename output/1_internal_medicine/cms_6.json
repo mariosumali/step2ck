@@ -1,0 +1,586 @@
+[
+  {
+    "id": "IM-6-1",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 1,
+    "system": "Musculoskeletal, Skin, & Subcutaneous Tissue",
+    "questionStem": "A 67-year-old white man comes to the physician because his wife is concerned about a freckle on the back of his neck. He says he has had the freckle for many years, but he has noticed that it has grown during the past 6 months. His brother died of liver cancer at the age of 50 years. Examination shows a 3-cm lesion at the base of the skull. A photograph of the lesion is shown . The remainder of the examination shows no abnormalities. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Follow-up examination in 6 months",
+      "B": "Topical application of retinoic acid",
+      "C": "Full-thickness biORSY",
+      "D": "Shave biopsy",
+      "E": "Cryoablation"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "IM-6-2",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 2,
+    "system": "Blood & LY.mP-horeticular and Immune",
+    "questionStem": "A 24-year-old woman has had intermittent fever, malaise, and a generalized rash for 2 weeks. Her temperature is 37.2°C (99°F), pulse is 80/min, respirations are 14/min, and blood pressure is 124/76 mm Hg. There is a generalized erythematous maculopapular rash over the palms and soles. She has patchy alopecia of the scalp and eyebrows. Hematocrit is 36%, and leukocyte count is 9000/mm 3 (70% segmented neutrophils and 30% lymphocytes) . She is given intravenous aqueous penicillin G. Two hours later, she has severe chills, headache, tachycardia , flushing , and hyperventilation . Her temperature is 39.4 °C (103°F), and blood pressure is 90/60 mm Hg. Which of the following is the most likely cause of her acute condition?",
+    "choices": {
+      "A": "Chronic meningococcemia",
+      "B": "Jarisch-Herxheimer reaction",
+      "C": "Rocky Mountain spotted fever",
+      "D": "Systemic lupus erythematosus",
+      "E": "Toxic shock syndrome"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "There is no clinical evidence to suggest this is toxic shock syndrome, which may initially present as a similar diffuse erythematous macular rash that includes involvement of the palms and soles, but it typically progresses to desquamation of the palms and soles one to two weeks later and is often accompanied by multiorgan system involvement. ,. \"' , ~ r-- r ,,, Previous",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "IM-6-3",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 3,
+    "system": "Endocrine",
+    "questionStem": "A 53-year-old man notices a lump in his neck. Examination shows a hard 2-cm nodule in the lower left pole of the thyroid gland. Needle biopsy shows papillary carcinoma , and he undergoes total thyroidectomy . Five days later, he reports facial numbness and tingling , muscle pain, and hoarseness . Physical examination shows laryngeal stridor and a positive Chvostek sign. Which of the following is the most appropriate management?",
+    "choices": {
+      "A": "Hydration with 0.9% isotonic saline intravenously",
+      "B": "Administration of calcium gluconate intravenousl}l",
+      "C": "Administration of glucocorticoids",
+      "D": "Administration of 50,000 U of vitamin D",
+      "E": "Endotracheal intubation"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "IM-6-4",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 4,
+    "system": "Gastrointestinal",
+    "questionStem": "A 77-year-old man comes to the physician because of a 3-month history of intermittent mild abdominal pain. He also has had rectal pain with bowel movements and occasionally notices traces of red blood in his stool. He has type 2 diabetes mellitus, benign prostatic hyperplasia , and hypertension . Current medications include insulin, tamsulosin , lisinopril , and hydrochlorothiazide ; verapamil was added 4 months ago. A colonoscopy performed 1 year ago showed no abnormalities . He is not in distress . His blood pressure is 108/72 mm Hg. Examination shows moist mucous membranes . The abdomen is slightly distended and nontender. The prostate is enlarged, and there is an external hemorrhoid . Rectal examination shows hard stool in the rectal vault. Sensation to light touch and vibration is intact over the distal lower extremities. An x-ray of the abdomen shows multiple air-fluid levels and stool throughout the bowel. Which of the following is the most likely cause of this patient's current symptoms?",
+    "choices": {
+      "A": "Adverse effect of verapamil",
+      "B": "Colon cancer",
+      "C": "Dehydration",
+      "D": "Diabetic neuropathy of the colon",
+      "E": "Metastatic prostate cancer"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "IM-6-5",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 5,
+    "system": "Nervous SY.stems and SP-ecial Senses",
+    "questionStem": "A 52-year-old woman with hypertension and type 2 diabetes mellitus is admitted to the hospital because of a 2-day history of increasing confusion. She is left-hand dominant. Her medications are lisinopril and metformin. On admission , she is awake and alert. Her temperature is 38.3°C (101°F), pulse is 100/min, and blood pressure is 130/70 mm Hg. On examination , muscle strength is 5/5 bilaterally. Sensation to light touch and pinprick is intact. Coordination is normal. She cannot recall a name and address after 5 minutes . A T2-weighted MRI of the brain is shown. Which of the following is the most appropriate pharmacotherapy?",
+    "choices": {
+      "A": "AcY,clovir",
+      "B": "Ceftriaxone",
+      "C": "Dexamethasone",
+      "D": "Low-molecular-weight heparin",
+      "E": "Mannitol",
+      "F": "Pyrimethamine-sulfadiazine"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "There is no suggestion of brain edema , so mannitol is not necessary.",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "IM-6-6",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 6,
+    "system": "ResP-iratorY.",
+    "questionStem": "A previously healthy 52-year-old man comes to the physician because of a 6-month history of cough productive of white sputum. He has had no chest pain. He has smoked one pack of cigarettes daily for 25 years. His pulse is 80/min and regular, respirations are 18/min, and blood pressure is 136/86 mm Hg. Breath sounds are decreased throughout with a prolonged expiratory phase. Cardiac examination shows no abnormalities . Spirometry shows an FEV 1: FVC ratio of 0.65. Which of the following is the most likely explanation for these findings?",
+    "choices": {
+      "A": "Alveolar destruction and fibrosis",
+      "B": "Diffuse infiltrative disease of the lung parenchyma",
+      "C": "Diffuse thickening of the pleura",
+      "D": "Histamine-mediated bronchospasm and edema",
+      "E": "Mass effect in peripheral lung parenchyma"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "IM-6-7",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 7,
+    "system": "Renal/UrinarY. and Male and Female ReP-roductive",
+    "questionStem": "A previously healthy 22-year-old man is brought to the emergency department 1 hour after he was hit in his right flank by a hockey stick. He reports no blood in his urine. He rates his pain as a 6 on a 10-point scale. His pulse is 100/min, and blood pressure is 140/90 mm Hg. Examination shows moderate tenderness to palpation over the right flank. His hematocrit is 42%. Urinalysis shows no abnormalities. Which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "Diagnostic laparoscopy",
+      "B": "Renal arteriography",
+      "C": "Retrograde urethrography",
+      "D": "Spiral CT scan of the abdomen",
+      "E": "No further testing is indicated"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "IM-6-8",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 8,
+    "system": "Blood & LY.mP-horeticular and Immune",
+    "questionStem": "A 24-year-old woman , gravida 1, para 1, comes to the physician because of a 3-month history of fatigue. Menses occur at regular intervals with no excessive bleeding. She takes no medications or vitamin supplements. Examination shows no abnormalities except for pale conjunctivae . Her hemoglobin concentration is 9 g/dl. A blood smear is shown. This patient most likely has a deficiency of which of the following?",
+    "choices": {
+      "A": "Folic acid",
+      "B": "Iron",
+      "C": "Niacin",
+      "D": "Vitamin B1 (thiamine)",
+      "E": "Vitamin Be"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "A premenopausal woman with anemia who has regular menses and no other history of nutritional deficiencies would most likely have iron deficiency anemia caused from blood loss. Blood smear shows hypochromia and supports this diagnosis.",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "IM-6-9",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 9,
+    "system": "Nervous SY.stems and SP-ecial Senses",
+    "questionStem": "A 62-year-old woman comes to the physician 8 days after she had loss of consciousness while combing her hair. She says she felt light-headed before she passed out. During the past 3 months, she has had two similar episodes and has noticed that her left arm tires easily. She is left-handed . She has hypertension treated with hydrochlorothiazide and atenolol. She has smoked one pack of cigarettes daily for 40 years . Her pulse is 76/min and regular, and blood pressure is 148/92 mm Hg in the right arm. Heart sounds are normal. The radial and brachia! pulses are absent on the left and present on the right. Pedal pulses are decreased bilaterally. Muscle strength and sensation are normal. Which of the following is the most likely cause of this patient's symptoms?",
+    "choices": {
+      "A": "Coarctation of the aorta",
+      "B": "Left cervical rib",
+      "C": "Raynaud disease",
+      "D": "Subclavian steal syndrome",
+      "E": "Thromboangiitis obliterans",
+      "F": "Transient ischemic attack"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "The \"steal\" comes from retrograde vertebral artery flow to aid blood flow to the affected arm, which leads to a loss of consciousness.",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "IM-6-12",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 12,
+    "system": "Nervous SY.stems and SP-ecial Senses",
+    "questionStem": "A 32-year-old man comes to the physician because of a 4-week history of moderate numbness and weakness of his left hand. There is no history of trauma to the hand . He has hypertension treated with enalapril and type 1 diabetes mellitus treated with insulin . He is 173 cm (5 ft 8 in) tall and weighs 63 kg (140 lb); BMI is 21 kg/m 2• His temperature is 37°C (98.6°F), pulse is 84/min , respirations are 16/min, and blood pressure is 146/88 mm Hg. Examination shows atrophy of the hypothenar muscles . The middle , ring, and small fingers are held in flexion ; there is weakness of abduction of the small finger. The patient cannot prevent paper from being pulled through his fingers. All other intrinsic hand muscles are normal. Deep tendon reflexes are 1 + at the left brachioradialis, biceps , and triceps muscles . Sensation to pinprick is decreased over the palmar aspect of the left ring and small fingers and the hypothenar region of the hand. The remainder of the examination shows no other abnormalities . Which of the following is the most likely cause of these findings?",
+    "choices": {
+      "A": "Cervical syringomyelia",
+      "B": "CB nerve root compression",
+      "C": "Lesion of the lower trunk of the brachia! plexus",
+      "D": "Lesion of the medial cord of the brachia! plexus",
+      "E": "Ulnar nerve compression"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "This is most likely caused by neuropathy from the ulnar nerve .",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "IM-6-13",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 13,
+    "system": "Cardiovascular",
+    "questionStem": "A 77-year-old woman comes to the physician because of a 3-week history of light-headedness . She states that she feels as if she is going to pass out when she gets out of bed in the morning. She has not had chest pain, shortness of breath, or palpitations . She has hypertension and hypothyroidism . Current medications include hydrochlorothiazide, enalapril, and levothyroxine . She appears fatigued . She is 183 cm (6 ft) tall and weighs 86 kg (190 lb); BMI is 26 kg/m2• Her temperature is 37.2°C (99°F), pulse is 64/min and irregularly irregular, respirations are 16/min, and blood pressure is 150/90 mm Hg while supine and 135/85 mm Hg while standing . Examination shows dry skin. The thyroid gland is symmetrically enlarged, nodular, and nontender. Jugular venous pulsations are present 3 cm above the sternal angle and decrease by 2 cm with inspiration. The lungs are clear to auscultation . A grade 1/6 systolic murmur is heard best at the left sternal border without radiation. There is trace pitting edema of the ankles. Neurologic examination shows no focal findings. Results of a complete blood count are within the reference range. Her serum potassium concentration is 3.4 mEq/L, and serum thyroid-stimulating hormone concentration is 1.5 µU/ml. An ECG shows atrial fibrillation with a ventricular rate of 64/min and is otherwise unchanged from an ECG 1 year ago. Which of the following is the most appropriate next step to determine the cause of this patient's light-headedness?",
+    "choices": {
+      "A": "Measurement of serum free thyroxine concentration",
+      "B": "Serial measurements of serum creatine kinase activity",
+      "C": "Thyrotropin-releasing hormone stimulation test",
+      "D": "Ambulatory ECG monitoring",
+      "E": "Exercise stress test"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "IM-6-14",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 14,
+    "system": "Renal/UrinarY. and Male and Female ReP-roductive",
+    "questionStem": "A 52-year-old woman has decreased urine output 6 hours after admission to the hospital for treatment of a 3-day history of nausea and vomiting . She has type 2 diabetes mellitus and peripheral neuropathy. Her outpatient medications were glipizide, atorvastatin , lisinopril, and 81-mg aspirin; all medications were held on admission . Her blood pressure was 82/40 mm Hg on admission . After beginning intravenous administration of fluids, her blood pressure increased to 110/70 mm Hg. On examination now, the abdomen is soft, and there is diffuse mild tenderness with no guarding or rebound. Bowel sounds are decreased. There is decreased sensation to light touch over the feet. Laboratory studies show: On Admission Now Fingerstick blood glucose 4+ 4+ Serum Urea nitrogen (mg/dl) 38 54 Creatinine (mg/dl) 1.8 2.6 Urine Specific gravity 1.028 1.011 RBC (/hpf) 0-2 0-2 Casts None coarse granular Which of the following is the most likely explanation for this patient's decreased urine output?",
+    "choices": {
+      "A": "Acute glomerulonephritis",
+      "B": "Acute interstitial nephritis",
+      "D": "Bilateral hydronephrosis",
+      "E": "Rhabdomyolysis"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "IM-6-15",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 15,
+    "system": "Gastrointestinal",
+    "questionStem": "A 42-year-old man with alcoholism is admitted to the hospital 12 hours after the onset of severe epigastric pain that radiates to the back. He has had several episodes of vomiting. His temperature is 38.5°C (101.3°F), pulse is 102/min, respirations are 20/min, and blood pressure is 110/70 mm Hg. There is tenderness to palpation in the epigastrium and right upper quadrant of the abdomen ; there are no signs of peritonitis. Bowel sounds are decreased . After 2 days, laboratory studies show: Hemoglobin 13 g/dL Mean corpuscular volume102 µm3 Leukocyte count 12,000/mm 3 Segmented neutrophils 76% Bands 4% Lymphocytes 20% Serum Ca2• Urea nitrogen Creatinine Albumin Amylase 6 mg/dL 20 mg/dL 1.4 mg/dL 3.5 g/dL 500 U/L His serum electrolyte concentrations are within the reference range. Which of the laboratory findings in this patient is associated with the worst prognosis?",
+    "choices": {
+      "A": "Leukocyte count",
+      "B": "Mean corpuscular volume",
+      "C": "Serum albumin concentration",
+      "D": "Serum amylase activity",
+      "E": "Serum calcium concentration"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "IM-6-16",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 16,
+    "system": "ResP-iratorY.",
+    "questionStem": "A 32-year-old woman comes to the emergency department because of fever and cough with increasing production of purulent sputum for 24 hours. She has had asthma since childhood that is characterized by episodes of coughing and wheezing . Treatment with inhaled corticosteroids was begun 8 months ago. She has been hospitalized twice over the past 2 months for low-grade fever, increased sputum production , and a poorly resolving infiltrate in the left lower lobe; sputum cultures at that time grew normal flora and Aspergillus fumigatus . She is in moderate respiratory distress. Her temperature is 38°C (100.4°F) , pulse is 95/min, respirations are 22/min, and blood pressure is 110/68 mm Hg. Diffuse expiratory wheezes and crackles are heard at the left lung base. Cardiac examination shows a normal S 1 and S2 with no murmurs . Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Allergic bronchopulmonary aspergillosis",
+      "B": "a 1-Antitrypsin deficiency",
+      "C": "Cystic fibrosis",
+      "D": "Pertussis",
+      "E": "Wegener granulomatosis"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "IM-6-18",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 18,
+    "system": "Cardiovascular",
+    "questionStem": "A 62-year-old man comes to the physician because of moderate right leg pain for 2 days. He has metastatic non-small cell carcinoma of the lung and completed palliative chemotherapy 3 weeks ago . He takes no other medications . His temperature is 37°C (98.6°F), pulse is 90/min, respirations are 22/min, and blood pressure is 146/80 mm Hg. Cardiopulmonary examination shows no abnormalities . Laboratory studies show: Hemog~~n 13g~L Platelet count 367,000/mm 3 Prothrombin time 12 sec (INR=1) Partial thromboplastin time28 sec Serum creatinine 1.1 mg/dL Venous duplex ultrasonography of the right lower extremity shows thrombosis in the common femoral vein. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Oral administration of aspirin",
+      "B": "Oral administration of warfarin",
+      "C": "Subcutaneous administration of enoxaparin",
+      "D": "CT angiography of the chest",
+      "E": "Placement of an inferior vena cava filter"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "An inferior vena cava filter would not treat the deep venous thrombosis and has not been shown to alter outcomes for patients with malignancy and thrombus . ,. \"' , ~ r-- r ,,, Previous",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "IM-6-19",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 19,
+    "system": "Musculoskeletal, Skin, & Subcutaneous Tissue",
+    "questionStem": "A moderately obese 35-year-old woman has a 4-year history of recurrent abscesses in both axillae. These are progressively more frequent and severe. The episodes are interfering with her ability to work. She has type 2 diabetes mellitus that is fairly well controlled by diet and the use of oral hypoglycemic agents. Which of the following is the most appropriate management?",
+    "choices": {
+      "A": "Institution of insulin therapy to improve glucose control",
+      "B": "Long-term administration of antibiotics",
+      "C": "Surgical excision of apocrine tissue",
+      "D": "Topical application of silver sulfadiazine",
+      "E": "Washing three times daily with pHisoHex and water"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "In this case, the patient's type 2 diabetes mellitus is well-controlled so insulin therapy is not needed and likely poor glycemic control would not substantially alter her risk for infection.",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "IM-6-20",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 20,
+    "system": "Cardiovascular",
+    "questionStem": "1\\.~ I- v-- I Ill a VF V3 V6 20. A 23-year-old woman comes to the emergency department 2 hours after the sudden onset of sharp anterior chest pain. She says that the pain is worse with inspiration and when she is supine and is relieved somewhat when she sits up. She took two acetaminophen tablets 1 hour ago, but they have not relieved the pain. She has no history of similar symptoms or serious illness. She takes no other medications. Her temperature is 37 .8°C (100°F), pulse is 100/min and regular, respirations are 16/min, and blood pressure is 114/76 mm Hg. A two-component friction rub is heard at the apex . The remainder of the examination shows no abnormalities . An ECG is shown . Which of the following is the most appropriate initial step in pharmacotherapy?",
+    "choices": {
+      "A": "Oral ibuRrofen",
+      "B": "Oral prednisone",
+      "C": "Sublingual nitroglycerin",
+      "D": "Intravenous heparin",
+      "E": "Intravenous morphine"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "IM-6-21",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 21,
+    "system": "MultisY.stem Processes/Disorders,M9al/Ethical, Biostats/EP-idemiologY.",
+    "questionStem": "A 77-year-old woman with osteoporosis and hypertension is admitted to the hospital because of progressive confusion during the past 5 days. Her husband reports that she has had constipation for the past week and abdominal pain for the past 3 days. She had right breast cancer treated with lumpectomy and radiation therapy 2 years ago. Medications are alendronate , hydrochlorothiazide, and a calcium supplement containing vitamin D. She is alert. Her temperature is 36.4°C (97.5°F}, pulse is 78/min, respirations are 20/min, and blood pressure is 156/82 mm Hg. Pulmonary examination shows no abnormalities. Abdominal examination shows mild distention and tenderness throughout; there is no guarding or rebound. Rectal examination shows hard brown stool. Neurologic examination shows no focal findings . On mental status examination , she appears anxious and is not oriented to person , place, or time. Her serum calcium concentration is 14.8 mg/dl, and serum albumin concentration is 3 g/dl. A CT scan of the head without contrast shows multiple skull metastases. Which of the following is the strongest contributing factor for this patient's hypercalcemia?",
+    "choices": {
+      "A": "Alendronate therapy",
+      "B": "Constipation",
+      "C": "Hydrochlorothiazide therapy",
+      "D": "Overuse of calcium supplement",
+      "E": "Postradiation bronchogenic carcinoma",
+      "F": "Recurrence of breast cancer"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "IM-6-22",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 22,
+    "system": "Gastrointestinal",
+    "questionStem": "A 26-year-old man is brought to the emergency department after vomiting bright red blood twice in the past hour. He appears robust and comfortable. His pulse is 116/min, and blood pressure is 100/80 mm Hg while supine. There is mild epigastric tenderness. Test of the stool for occult blood is negative. Hematocrit is 40%. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Discharge him with instructions to return if the pain or vomiting recurs",
+      "B": "Repeat the hematocrit",
+      "C": "Measurement of serum amylase activity",
+      "D": "Intravenous administration of 0.9% saline",
+      "E": "Surgical consultation"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "IM-6-23",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 23,
+    "system": "Renal/UrinarY. and Male and Female ReP-roductive",
+    "questionStem": "A 55-year-old woman comes to the emergency department because of fever, nausea, vomiting, diarrhea, and decreased urine output over the past 48 hours. She has an 8-year history of type 2 diabetes mellitus treated with glipizide . She has no history of renal disease . Her temperature is 39°C (102.2°F), and respirations are 24/min . While supine, her pulse is 106/min, and blood pressure is 116/70 mm Hg. While sitting, her pulse is 120/min, and blood pressure is 88/58 mm Hg. She appears acutely ill and slightly lethargic . Examination shows decreased skin turgor, dry mucous membranes, and flat neck veins. There is mild, generalized abdominal tenderness without guarding or rebound tenderness. Laboratory studies show: Leukocyte count 15,000/mm 3 Serum Na+ c1- K+ HC0 3- Urea nitrogen Glucose Creatinine Urine Na+ pH Specific gravity Glucose Ketones 146 mEq/L 100 mEq/L 2.9 mEq/L 28 mEq/L 72 mg/dL 254 mg/dL 3.4 mg/dL 8 mEq/L 5.0 1.028 2+ trace Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Acute interstitial nephritis",
+      "B": "Acute tubular necrosis",
+      "C": "Obstructive uropathy",
+      "D": "Postinfectious glomerulonephritis"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "IM-6-25",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 25,
+    "system": "Cardiovascular",
+    "questionStem": "Two days after a myocardial infarction, a previously asymptomatic 60-year-old woman develops pulmonary edema. A grade 4/6 systolic murmur is heard at the apex. Oxygen saturation in the right atrium and pulmonary artery is 65%, and pulmonary artery diastolic pressure is 35 mm Hg. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Ruptured interventricular septum",
+      "B": "Ruptured left ventricular free wall",
+      "D": "Ruptured pulmonary valve",
+      "E": "Torn chordae tendineae of the tricuspid valve"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "A ruptured interventricular septum might produce similar symptoms, but oxygenated blood from the left ventricle would enter the right and would make the oxygen saturation higher.",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "IM-6-27",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 27,
+    "system": "Endocrine",
+    "questionStem": "A 37-year-old woman comes to the physician because she has been amenorrheic for 3 months. She has also had increased facial hair growth and multiple episodes of acne over the past year; she has had a 27-kg (60-lb) weight gain during this time despite no change in appetite . Menses had occurred at regular intervals until 1 year ago, when they became increasingly irregular . She is not sexually active. She is 163 cm (5 ft 4 in) tall and weighs 95 kg (210 lb); BMI is 36 kg/m 2• Her blood pressure is 160/100 mm Hg. Examination shows truncal obesity with pink striae. The remainder of the examination shows no abnormalities . Urine 13-hCG test is negative . Measurement of which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "Serum dehydroepiandrosterone sulfate concentration",
+      "B": "Serum estradiol concentration",
+      "C": "Serum progesterone concentration",
+      "D": "Urine catecholamine concentration",
+      "E": "Urine free cortisol concentration in a 24-hour specimen"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "IM-6-28",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 28,
+    "system": "Musculoskeletal, Skin, & Subcutaneous Tissue",
+    "questionStem": "A 67-year-old man with type 2 diabetes mellitus comes to the physician because of a 2-day history of increasing pain and redness of his left knee. Ten days ago, he spent several hours on his knees waxing a floor. His knee has been somewhat swollen and painful since then. His temperature is 38.1°C (100.6°F), pulse is 88/min, and blood pressure is 120/85 mm Hg. The anterior aspect of the knee overlying the patella is erythematous , and there is fluctuance in this area. There is no effusion. Range of motion of the knee is full, and any movement of the knee produces minor discomfort . Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Deep venous thrombosis",
+      "B": "Gout",
+      "C": "Inflamed Baker cyst",
+      "D": "Inflammatory bursitis of the pes anserinus",
+      "E": "Osgood-Schlatter disease",
+      "F": "Prepatellar septic bursitis",
+      "G": "Septic arthritis of the knee"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "This suggests patellar septic bursitis, common for those on their knees for some time, and the fever suggests infection.",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "IM-6-29",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 29,
+    "system": "Musculoskeletal, Skin, & Subcutaneous Tissue",
+    "questionStem": "A previously healthy 24-year-old woman comes to the physician because of an itchy rash on her face, arms, and hands for 2 days. She notes that the rash appeared 2 days after working in her garden. Examination shows urticaria! and vesicular lesions over the face, upper extremities , and hands. Which of the following is the most likely pathologic process of this patient's rash?",
+    "choices": {
+      "A": "Chemotaxis of eosinophils caused by direct antibody reaction with plant sap",
+      "B": "Destruction of adhesion among epidermal cells caused by circulating lgG autoantibodies directed against the cell",
+      "D": "Photosensitivity of the epidermis caused by plant sap",
+      "E": "Squamous epithelial cell damage caused by plant sap"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "This dermatitis is a Type IV hypersensitivity reaction to the toxin, which is a cell-mediated hypersensitivity, caused by helper T lymphocytes.",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "IM-6-34",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 34,
+    "system": "ResP-iratorY.",
+    "questionStem": "A 62-year-old man with severe obstructive pulmonary disease has chronic disabling dyspnea . His pulse is 90/min, respirations are 30/min, and blood pressure is 150/85 mm Hg. He is plethoric, and jugular veins are distended . Breath sounds are distant, and the second component of S2 is accentuated. His FEV 1 is 0.5 L. An x-ray of the chest shows prominent pulmonary arteries. The pulmonary hypertension in this patient is most likely the result of which of the following?",
+    "choices": {
+      "A": "Decreased cardiac output",
+      "B": "Decreased expiratory flow rate",
+      "C": "Increased residual volume",
+      "D": "Severity of hypercarbia",
+      "E": "Severity of hyP,oxemia"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "IM-6-36",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 36,
+    "system": "MultisY.stem Processes/Disorders,M9al/Ethical, Biostats/EP-idemiologY.",
+    "questionStem": "A 62-year-old woman comes to the physician because of increasingly severe pain of the fingers over the past 6 months. She has a 6-year history of cold sensitivity of the hands. On cold exposure , her fingers become initially pale and then turn blue; there is redness with recovery. She has a 3-year history of gastroesophageal reflux disease . Examination shows tightening of the skin of the fingers, with erythema , scaling, and telangiectasias . Dry crepitant crackles are heard at both lung bases. X-rays of the hands show loss of tufts of some distal phalanges and scattered soft tissue calcifications . Serum antinuclear antibody testing is most likely to show which of the following?",
+    "choices": {
+      "A": "Negative findings",
+      "B": "Positive findings for anticentromere antibody",
+      "C": "Positive findings for antineutrophil cytoplasmic antibody and negative findings for antinuclear antibody",
+      "D": "Positive findings for antiribonuclear protein antibody",
+      "E": "Positive findings for double-stranded DNA"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "IM-6-37",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 37,
+    "system": "Cardiovascular",
+    "questionStem": "A 62-year-old man comes to the physician for a preoperative evaluation . He is scheduled to undergo partial colectomy in 5 days because of recurrent diverticulitis. He can carry groceries up two flights of stairs without stopping . He has no history of chest pain or heart disease. Two months ago, his serum total cholesterol concentration was 162 mg/dl. He takes no medications. He is adopted and has no information about his family history. He smoked one-half pack of cigarettes daily for 30 years but stopped 3 years ago. He is 175 cm (5 ft 9 in) tall and weighs 93 kg (205 lb); BMI is 30 kg/m2• His pulse is 78/min and regular, and blood pressure is 138/84 mm Hg. The lungs are clear to auscultation . S 1 and S2 are normal. A grade 2/6 holosystolic murmur is heard at the apex with radiation toward the left axilla. The abdomen is soft. An ECG shows a normal sinus rhythm and left bundle branch block. Echocardiography shows mitral valve thickening with mild regurgitation . Which of the following diagnostic tests is indicated prior to the operation?",
+    "choices": {
+      "A": "Exercise stress test",
+      "B": "24-Hour ambulatory ECG monitoring",
+      "C": "Electron beam (ultrafast) CT scan",
+      "D": "Coronary angiography",
+      "E": "No further tests are indicated"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "IM-6-38",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 38,
+    "system": "Musculoskeletal, Skin, & Subcutaneous Tissue",
+    "questionStem": "A 52-year-old woman comes for a routine health maintenance examination . She feels well. Over the past 6 months, menses have occurred at irregular 2- to 3-month intervals . She takes no medications . She has smoked one pack of cigarettes daily for 30 years and drinks alcohol socially. Her father has hypertension , and her mother has osteoarthritis of the knees and is scheduled for bilateral knee replacements . The patient is 157 cm (5 ft 2 in) tall and weighs 72 kg (160 lb); BMI is 29 kg/m 2. Her pulse is 80/min and regular and blood pressure is 115/70 mm Hg. Range of motion of all joints is full and does not produce pain . She is concerned about her risk for arthritis . Which of the following is most likely to decrease this patient's risk for osteoarthritis?",
+    "choices": {
+      "A": "Begin a swimming program 30 minutes daily three times weekly",
+      "B": "Begin a walking program 30 minutes daily three times weekly",
+      "C": "Smoking cessation",
+      "D": "Weight loss",
+      "E": "Estrogen replacement therapy",
+      "F": "Nonsteroidal anti-inflammatory drug therapy",
+      "G": "No preventive measures available"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "There is no data that estrogen prevents osteoarthritis as well. ,. \"' , ~ r-- r ,,, Previous",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "IM-6-43",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 43,
+    "system": "ResP-iratorY.",
+    "questionStem": "A47-year-old woman comes to the physician because of a 2-day history of soreness in the back of her throat and pain on swallowing. She has had recurrent episodes of tonsillitis during the past 2 years. Examination shows massive edema of the soft palate and enlarged tonsils with a purulent discharge from the right tonsil. Without treatment , this patient is at increased risk for which of the following?",
+    "choices": {
+      "A": "Airway compromise",
+      "B": "Brain abscess",
+      "C": "Necrosis of the tonsils",
+      "D": "Paralysis of the facial nerve",
+      "E": "Rupture of the tympanic membrane"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "IM-6-47",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 47,
+    "system": "ResP-iratorY.",
+    "questionStem": "A 77-year-old man is brought by his wife for a follow-up examination 3 weeks after an episode of right middle lobe pneumonia. The pneumonia is improving with antibiotic therapy. Three months ago, he had a similar episode . His wife says that he swallows his food well, but he has had a slight increase in his chronic cough after meals. He has multi-infarct (vascular) dementia. He smoked two packs of cigarettes daily for 40 years, but he quit 15 years ago. He has never had chronic obstructive pulmonary disease . Rhonchi are heard over the right midlung field on auscultation ; the diaphragm has poor excursion . His speech is mildly dysarthric. His Mini-Mental State Examination score is 20/30. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Recommendation of a full liquid diet with liquid supplements",
+      "B": "Swallowing study",
+      "C": "CT scan of the chest",
+      "D": "Bronchoscopy",
+      "E": "Inhaled bronchodilator therapy"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "IM-6-48",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 48,
+    "system": "Blood & LY.mP-horeticular and Immune",
+    "questionStem": "A healthy 39-year-old man of German descent comes for a routine examination . He had a cholecystectomy at the age of 25 years. He has had several episodes of mild jaundice over the past 10 years that resolved spontaneously . He appears healthy . Examination shows no abnormalities except for splenomegaly . His hematocrit is 39%, mean corpuscular hemoglobin concentration is 36% Hb/cell, and mean corpuscular volume is 80 µm 3. Direct antiglobulin (Coombs) test is negative . A blood smear shows erythrocytes with loss of central pallor. Which of the following is the most likely cause of this patient's anemia?",
+    "choices": {
+      "A": "Abnormal red blood cell membrane",
+      "F": "Globin chain mutation",
+      "B": "Autoimmune hemolytic anemia",
+      "G": "Glucose 6-phosphate dehydrogenase deficiency",
+      "C": "Congenital dihydrofolate reductase deficiency",
+      "H": "Lead poisoning",
+      "D": "Decreased erythropoietin concentration",
+      "I": "Pyruvate kinase deficiency",
+      "E": "Folic acid deficiency",
+      "J": "Vitamin B12 (cobalamin) deficiency"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "There is no evidence of any autoimmune disease, and the negative result of the Coombs test makes autoimmune conditions unlikely.",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "IM-6-49",
+    "section": "Internal Medicine",
+    "subsection": "CMS-6",
+    "questionNumber": 49,
+    "system": "Renal/UrinarY. and Male and Female ReP-roductive",
+    "questionStem": "A 4 7-year-old man comes to the physician because of a 1-month history of progressive swelling of both legs and generalized weakness . He says he now has some difficulty performing his usual activities . Last year, he received the diagnosis of hepatitis B and C. He has a long-standing history of intravenous drug use. He refused treatment for hepatitis C and currently takes no medications. He is not in acute distress. He is 183 cm (6 ft) tall and weighs 55 kg (121 lb); BMI is 16 kg/m2. His temperature is 37°C (98.6°F), pulse is 70/min, respirations are 12/min, and blood pressure is 160/99 mm Hg. Cardiopulmonary examination shows no abnormalities. The abdomen is nontender. There is no hepatomegaly. Muscle strength is normal. Laboratory studies show: Hemoglobin 10 g/dL Leukocyte count 9000/mm 3 Platelet count 260,000/mm 3 Serum Urea nitrogen Creatinine Albumin Total bilirubin AST ALT Urine 22 mg/dL 2.1 mg/dL 3.8 g/dL 0.6 mg/dL 70 U/L 60 U/L Blood 3+ Protein 4+ Microscopic examination of urine shows numerous RBCs, which are mostly acanthocytes with irregular membrane protrusions . Which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "Second set of laboratory studies in 1 month",
+      "B": "Urine protein electrophoresis",
+      "C": "Urine culture",
+      "D": "Cystoscopy",
+      "E": "Renal biopsy"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "",
+    "incorrectExplanation": ""
+  }
+]

@@ -13,11 +13,11 @@ venv/
 .venv/
 
 # Output files (can be regenerated)
-output/
+# output/
 
 # PDF source files
-CMS/
-*.pdf
+# CMS/
+# *.pdf
 
 # IDE
 .idea/

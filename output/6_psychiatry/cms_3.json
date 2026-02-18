@@ -1,0 +1,557 @@
+[
+  {
+    "id": "PSYCH-3-1",
+    "section": "Psychiatry",
+    "subsection": "CMS-3",
+    "questionNumber": 1,
+    "system": "Unknown",
+    "questionStem": "A 27-year-old man comes to student health services because of a 6-week history of increasingly severe insomnia and persistent fatigue. During this time, he also has had feelings of guilt, emptiness, hopelessness, and profound sadness. He is a graduate student and has withdrawn from most social activity. He says that during the past 4 years he has heard \"Sauron\" from a fantasy novel instructi ng him to renounce his family and forswear all sexual activity. He notes that he has had two episodes of depressed mood during the past 2 years. He began sertraline therapy during the second episode and had improvement in his mood; he discontinued the therapy 6 months ago because he was feeling well apart from intermittent hallucinations. He has no other history of serious illness and currently takes no medicat ions. Physical examination shows no abnormalities. On mental status examinat ion, he has a depressed mood and restricted affect. His thought processes are mildly tangential. He does not appear to be responding to internal stimuli. He has not had suicidal ideatio n. Which of the following is the most likely diagnos is?",
+    "choices": {
+      "A": "Dysthymic disorder",
+      "B": "Major depressive disorder with psychotic features",
+      "C": "Schizoaffective disorde ri",
+      "D": "Schizoph renia",
+      "E": "Schizotypal personality disorde r"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "According to the DSM-5, patients with schizophrenia spectrum disorders (eg, schizophrenia, schizoaffective disorder) demonstrate at least two of the following five symptoms: delusions, hallucinations, disorganized speech, disorganized behavior, or negative symptoms (eg, flat affect, apathy, alogia). Many patients also illustrate prodroma l periods of strange behavior and social withdrawal. To meet diagnostic criteria, patients must demonstrate functional deficits, and the total duration of symptoms must exceed 6 months. Patients with schizoaffective disorder must demonstrate mood episodes (eg, major depressive episodes as in this patient, manic episodes) for a substantial portion of the duration of the illness. Major depressive episodes include depressed mood, anhedonia, guilt or feelings of worthlessness, difficulty concentrating, suicidal thoughts, and/or neurovegetative symptoms (decreased energy, sleep disturbance, appetite disturbance). However, patients with schizoaffective disorder must also experience psychotic symptoms (eg, delusions, hallucinations) in the absence of mood symptoms for at least 2 weeks. Management requires antipsychotic medication and may also include adjunctive antidepressant medication (if depressive episodes are predominant) or mood stabilizer medication (if manic episodes are predominant).",
+    "incorrectExplanation": "nd E. Dysthymic disorder (Choice A), more commonly known as persistent depressive disorder, refers to depressive symptoms lasting longer than 2 years. Patients with dysthymic disorder do not meet major depressive disorder criteria (as in this patient) and do not typically demonstrate psychotic symptoms. \\ j - - - - - - - - - - - - - - - - - - - - - - - - - - - - - • - - - - - - -- - - - - - - - - - - - - - - -- - - -- - - - - - - - - - - ~, ~ ~ r,"
+  },
+  {
+    "id": "PSYCH-3-2",
+    "section": "Psychiatry",
+    "subsection": "CMS-3",
+    "questionNumber": 2,
+    "system": "Unknown",
+    "questionStem": "An 8-year-old boy is brought to the physician for evaluation of difficulty reading. His teache r reports that he cannot keep up with his classmates. His mother reports that he is genera lly well behaved but frequently flaps his hands when he is nervous. Physical exam ination shows a high forehead, prominent supraorbital ridges, protruding ears, and a prominent jaw. Psychoed ucational testing of the patient shows an IQ of 65. Academ ic achievement testing is consistent with his IQ. Which of the following is the most likely explanation for these findings?",
+    "choices": {
+      "A": "Congenital rubella",
+      "B": "Decreased numbers of trinucleotide repeats of the X chromosome",
+      "C": "Decreased serum hypoxanth ine phosphoribosy ltransfe rase activity",
+      "D": "Fragile site on the X chromosome",
+      "E": "Increased expression of the homeobox A 1 (HOXA 1) gene",
+      "F": "Increased serum concentratio ns of phenylpyruv ic acid",
+      "G": "Increased serum concentratio ns of pyruvate",
+      "H": "Trisomy of chromosome 21",
+      "I": "XXY karyotype"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "This patient's constellation of findings, including intellectual disabi lity, an elongated face, and large ears, is suggestive of fragile X syndrome. Patients may also present with macroorchidism, hyperextensible joints, and a high-arched palate. Fragile X syndrome is the second most common cause of inherited intellectual disability after Down syndrome and is inherited in an X-linked dominant fashion. It is caused by a CGG-trinucleotide repeat expansion within the FMR1 gene on the X chromosome. On karyotype, the end of the X chromosome appears truncated, leading to the name fragile X syndrome. Patients with fragile X syndrome are at increased risk for mitral valve prolapse and educational difficulties. They are often diagnosed with autism. As with all trinucleotide repeat expansions, genetic anticipation is seen, wherein future generations have increased severity and/or earlier onset of disease.",
+    "incorrectExplanation": "nd I. Congenital rubella (Choice A) presents in newborns with the classic triad of cataracts, sensorineura l deafness, and patent ductus arteriosus. It is unlikely to be a cause of intellectual disability presenting in childhood. Increased, not decreased (Choice B), numbers of trinucleotide repeats of the X chromosome are seen in fragile X syndrome. Decreased serum hypoxanthine phosphoribosy ltransferase activity (Choice C) is seen in Lesch-Nyhan syndrome. This condition is ··- -· . . . -· ..... ·- -. - ·- -.. . .. . .. - . -· .. .. . ·- . - - . . .. - -r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "PSYCH-3-3",
+    "section": "Psychiatry",
+    "subsection": "CMS-3",
+    "questionNumber": 3,
+    "system": "Unknown",
+    "questionStem": "A 28-year-o ld man is brought to the emergency department because of flu-like symptoms and cough productive of clear sputum for 24 hours. He has been hospitalized eight times over the past 5 years because of bizarre delusions and hallucinations during which a voice tells him what to do. He has a 9-year history of type 1 diabetes mellitus. In addition to insulin, he is receiving clozapi ne therapy (400 mg daily) for his psychotic condition. During mental status examination, he is hallucinating and says that h,e is being pursued by special agents of the government. Leukocyte count is 2750/mm 3, and serum glucose concentration is 140 mg/dl. Urinalysis is within normal limits. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Add lithium carbonate therapy",
+      "B": "Add penicillin therapy",
+      "C": "Decrease the dose of clozapine",
+      "D": "Discontinue clozapine therapYi",
+      "E": "Increase the dose of clozapine"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "This patient's leukopenia may be related to agranulocytosis, a rare but life-threatening adverse effect of clozapine therapy that leads to increased susceptibility to infection. The pathogenesis may be related to the production of reactive oxygen species in the bone marrow. Patients on clozapine therapy must have their absolute neutrophil count monitored regularly. In suspected clozapine-induced agranulocytosis, clozapine should be discontinued. Clozapine is an atypical antipsychotic medication effective in treatment- refractory schizophrenia. Though clozapine carries a lower risk than many antipsychotics of causing extrapyramidal symptoms, clozapine is associated with serious adverse effects such as agranulocytosis, myocarditis, and seizure. Clozapine may also lead to severe sedation and constipation (as a result of its anticholinergic activity) along with sialorrhea (potentially also related to modulation of acetylcholine signaling).",
+    "incorrectExplanation": "nd E. Adding lithium carbonate therapy (Choice A) would be ineffective in acute agranulocytosis. In patients who experience agranulocytosis but require clozapine for psychiatric stability, physicians may choose to rechallenge patients with clozapine. During a clozapine rechallenge specifically, adjunctive lithium may mitigate clozapine-related myelosuppression. Adding penicillin therapy (Choice B) would be premature in this patient without a diagnosed bacterial infection. His symptoms may be attributable to a viral upper respiratory infection. Decreasing the dose of clozapine (Choice C) would be insufficient to allow the recovery of leukocyte counts. Clozapine should be discontinued. r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "PSYCH-3-5",
+    "section": "Psychiatry",
+    "subsection": "CMS-3",
+    "questionNumber": 5,
+    "system": "Unknown",
+    "questionStem": "A 16-year-old boy comes to the physician because of a 1-year history of progressive headaches that have caused him to miss several days of school. They now occur daily and are always present on awakening in the morning. He describes the headaches as a diffuse, constant pressure that occasionally throbs. He feels better after taking acetaminophen and resting in front of the television for 10 to 20 minutes. He has not noticed any particular events that cause the headaches, and he says that they are not exacerbated by light, sound, coughing, or straining. He has not had nausea or vomiting. Two months ago, he sustained a whiplash injury in a motor vehicle collision. His parents say that he snores loudly. His mother and maternal aunt have migraines, and his father has major depressive disorder. The patient is 168 cm (5 ft 6 in) tall and weighs 86 kg (189 lb); BMI is 31 kg/m2. He breathes throug h his mouth. Respirations are 20/min. Examination shows 3 to 5 beats of jerk nystagmus with far lateral gaze bilateral ly. Which of the following is the most likely cause of this patient's headaches? ~-",
+    "choices": {
+      "A": "Hydrocep halus",
+      "B": "Idiopathic intracranial hypertension",
+      "C": "Major depressive disorder",
+      "D": "Migraine",
+      "E": "School-related anxiety",
+      "F": "Sleep-related hypoventilation"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "Headaches that occur in the morning, resolve minutes to hours after awakening, have a pressure or squeezing type quality, and an absence of other symptoms are frequently reported by patients with untreated obstructive sleep apnea (OSA). This patient is likely experiencing sleep-related hypoventilation caused by OSA. Clinical features of untreated OSA include excessive daytime fatigue, falling asleep at inappropriate times, loud snoring, and a disrupted sleep-wake cycle. Risk factors include male sex, obesity, congenital or traumatic anatomic abnormalities of the oropharynx and upper airway, neuromuscular disorders, and use of sedating medications. Untreated OSA is associated with hypertension. Management consists of lifestyle changes (weight loss, dietary modifications, increased activity, changing sleep position), avoiding sedating medications and substances, and continuous positive airway pressure (CPAP) while sleeping. Second-line therapies include oral appliances such as mandibular advancement devices for symptoms refractory to CPAP use, and surgery for cases with obstructing lesions of the airway.",
+    "incorrectExplanation": "nd E. Hydrocephalus (Choice A) refers to abnormal enlargement of the ventricles and subarachnoid space caused by cerebrospina l fluid (CSF) accumulation, which may be a result of increased CSF production, decreased CSF absorption, or obstruction of CSF flow. Patients present with findings caused by increased intracranial pressure, which include headache, nausea, papilledema on retinal examination, ataxia, and encephalopathy. Severely increased pressure results in the Cushing triad of bradycardia, widened pulse ressure and h ertension, and irre ular breathin . Score Report Lab Values Calculator Help Pause"
+  },
+  {
+    "id": "PSYCH-3-6",
+    "section": "Psychiatry",
+    "subsection": "CMS-3",
+    "questionNumber": 6,
+    "system": "Unknown",
+    "questionStem": "A 24-year-o ld woman reports a 3-week history of recurrent fevers. She has a 4-year history of major depress ive disorder. Her temperature is 42°C (107.6°F), pulse is 80/min, respirations are 14/min, and blood pressure is 110/70 mm Hg. Physical examinat ion is otherwise normal. Her leukocyte count is 7500/mm 3 with a normal differential. Liver functio n tests and serum creatine kinase activity are normal. Which of the following is the most appropriate next step in patient care?",
+    "choices": {
+      "A": "Administer broad-spectrum antibiotics",
+      "B": "Administer corticosteroids",
+      "C": "Obtain a rectal temperature under supervision",
+      "D": "Order a bone marrow biopsy",
+      "E": "Order a CT scan of the abdomen"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "In factitious disorder, patients consciously produce symptoms (eg, purposely injure themselves, fake a fever by eating something warm) for primary gain. Primary gain is the motivation to be cared for, which constitutes an unconscious motivator for the patient's conscious production of symptoms. Early losses, neglect, or abuse may disrupt patients ' identity and relationships, and adopting the sick role may represent patients ' attempts to cope with stress and stabilize their identity and relationships. Psychiatric comorbidities (eg, depression, substance use disorders, personality disorders) are common but not present in all patients. Diagnosis is supported by inconsistencies in the history or physical examination and a history of extensive clinical evaluations. This patient's isolated, severe hyperthermia without other associated vital sign changes (eg, tachycardia, hyper- or hypotension, and/or tachypnea) or physical examination or laboratory evidence of severe hyperthermia (eg, acute distress, diaphoresis, flushed skin, sequela of rhabdomyolysis such as increased creatinine or creatine kinase) is likely attributable to factitious disorder. To exclude a true fever and assist in establishing the factitious disorder diagnosis, a rectal temperature may be obtained in this patient. Treatment includes regular follow-up with one physician who oversees management (as opposed to symptom-triggered appointments) and possible psychotherapy.",
+    "incorrectExplanation": "nd E. Administering broad-spectrum antibiotics (Choice A) or ordering a CT scan of the abdomen (Choice E) are likely unnecessary in this patient without focal infectious symptoms or vital signs indicative of sepsis physiology (eg, tachycardia and hypotension). The patient's temperature should be confirmed before evaluating or treating for infectious causes. Administering corticosteroids (Choice B) may treat recurrent fevers related to rare autoimmune or autoinflammatory conditions. However, it has not yet been established that the patient has a true fever, and this patient does not demonstrate other evidence of autoimmune disease on history or physical examination. -- - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "PSYCH-3-8",
+    "section": "Psychiatry",
+    "subsection": "CMS-3",
+    "questionNumber": 8,
+    "system": "Unknown",
+    "questionStem": "One month after undergo ing liver transp lantation, a 4 7-year-old woman is admitted to the hospital for treatment of organ rejection . Twenty-four hours after intravenous methylprednisolone therapy is begun, she begins to have visual hallucinations that her organ donor has entered her hospita l room naked and is drawing symbols on her skin with an eyebrow pencil. Current medications include tacrolimus, mycophenolate mofetil, omeprazo le, trimethoprim-s ulfamethoxazo le, acyclov ir, and nystatin. The patient has no history of psychiatric illness. She is awake and alert. Physical examination shows a well-healing surgical incision over the abdomen. On mental status examination, she says she is worried about her visual hallucinations. She is oriented to person, place, and time. Which of the following is the most likely explanation for this patient's psychiatric symptoms?",
+    "choices": {
+      "A": "Adjustment disorder with anxious mood",
+      "B": "Corticosteroid-induced psychotic disorder.",
+      "C": "Delirium",
+      "D": "Malingering",
+      "E": "Schizophrenia"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Systemic corticosteroids have many adverse effects, including neuropsychiatric effects such as psychosis and mood disorders. These adverse effects are usually reversible with reduction of dosing, although some require treatment. Psychosis describes an episode in which a patient may experience delusions, hallucinations, disorganized thought and speech, and agitation or hyperarousal. It may be caused by a primary psychiatric disorder (eg, schizophrenia), a primary medical condition, or substance use, including medications. Common causes of substance-induced psychosis include alcohol, anticholinergics, antiparkinsonian medications, and corticosteroids. This patient without a psychiatric history is experiencing visual hallucinations in the context of recent corticosteroid exposure, making corticosteroid-induced psychotic disorder the most likely explanation for her symptoms.",
+    "incorrectExplanation": "nd E. Adjustment disorder with anxious mood (Choice A) is characterized by symptoms of anxiety (eg, excessive worrying, hyperactivity, disordered sleep, fatigue, trouble relaxing) that occurs within 3 months of an identifiable stressor. The symptoms are not severe enough to meet diagnostic criteria for genera lized anxiety disorder. Visual hallucinations do not occur in adjustment disorder. Delirium (Choice C) is an acute confusional state typically associated with acute medical illness in older patients. Delirium presents with acute disturbances in awareness, attention, and baseline cognition that fluctuate in severity over the course of the day. This patient is completely oriented to person, place, and time, making delirium unlikely. Malingering (Choice D) is defined by falsification of symptoms to obtain a secondary gain. This patient has nothing to gain from her - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "PSYCH-3-9",
+    "section": "Psychiatry",
+    "subsection": "CMS-3",
+    "questionNumber": 9,
+    "system": "Unknown",
+    "questionStem": "A 42-year-o ld man comes to the physician for a routine examination. He is accompanied by his wife. During the examination, his wife states that he is competitive, rigid, stubborn, and opinionated. She feels he has difficulty making simple decisions and discarding old items that are of no use and is anxious and obsessed with being early for everything. He is a successful lawyer, and his coworkers have said that he believes that his way is the only way of getting things done. When asked about this, he does not think there is a problem. Examination shows no abnorma lities. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Generalized anxiety disorder",
+      "B": "Narcissistic persona lity disorder",
+      "C": "Obsessive-compulsive personality disorde r.",
+      "D": "Panic disorder",
+      "E": "Schizoid personality disorder"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Obsessive-compulsive personality disorder is a cluster C personality disorder, the anxious or fearful cluster. It is characterized by excessively rigid routines and perfectionism. Patients often display an obsession with control and the belief that their approach to a specific problem or situation is the only correct approach. A patient 's family, friends, or coworkers often note rigid, stubborn thought patterns. This rigidity and obsession with perfection may occur at the expense of a patient's social relationships or career, as evidenced by this patient's difficulty making simple decisions. Patients with obsessive-compulsive personality disorder do not display intrusive, recurrent thoughts or compulsive behaviors as seen in obsessive-compulsive disorder, which is an anxiety disorder, not a personality disorder. Personality disorders are persistently maladaptive ways of relating to the self and to society that typically appear by early adulthood.",
+    "incorrectExplanation": "nd E. Generalized anxiety disorder (Choice A) features excessive and persistent worrying that may be associated with sympathetic hyperactivity. Patients do not typically display excessive orderliness, rigidity, or perfectionism. Narcissistic personality disorder (Choice B) is a cluster B personality disorder, the emotional or dramatic cluster, that is characterized by fragile self-esteem and compensatory arrogant, self-aggrandizing behavior to gain admiration, sometimes at others' expense. Panic disorder (Choice D) features acute fear or anxiety that peaks within minutes and is associated with symptoms of sympathetic hyperactivity such as tachycardia, heart palpitations, sweating, and trembling along with shortness of breath, chest pain, dizziness, gastrointestina l distress, and paresthesias. Panic disorder is characterized by recurrent panic attacks that are unexpected and associated with worry about future panic attacks or avoidance of panic attack triggers. r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "PSYCH-3-12",
+    "section": "Psychiatry",
+    "subsection": "CMS-3",
+    "questionNumber": 12,
+    "system": "Unknown",
+    "questionStem": "A previous ly healthy 23-year-old man is brought to the emergency department by friends 20 minutes after the onset of bizarre behavior that began at a party. His friends say that he became paranoid and started threate ning them. His temperature is 38.3°C (100.9°F). Physical examination shows agitation, diaphoresis, horizontal nystagmus , and occasional myoclonus. Mental status examination shows dysarthric speech and combativeness. His thoughts are disorganized, and he is unable to give a coherent history. He believes that the physician is trying to kill him. Thirty minutes later, he becomes somnolent. Administration of naloxone does not improve his condition. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Alcohol intoxication",
+      "B": "Amphetamine intoxication",
+      "C": "Opioid intoxication",
+      "D": "PCP intoxication",
+      "E": "Schizophrenia"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Phencyclidine, also known as PCP, is an NMDA glutamatergic receptor antagonist that is used recreationally for its euphoria-inducing and dissociative effects. PCP intoxication is often characterized by signs and symptoms including hyperthermia, hypertension, tachycardia, erratic behavior, paranoia, psychosis, aggression, decreased sensation, ataxia, nystagmus, myoclonus, and dysarthria. Patients may require sedation, treatment with antipsychotic medications, or physical restraint until their symptoms subside. Withdrawa l symptoms following PCP intoxication are uncommon. Naloxone has no effect on the pathways involved in PCP intoxication.",
+    "incorrectExplanation": "nd E. Alcohol intoxication (Choice A) presents with sedation, altered mentation, dysarthria, and vomiting. Alcohol withdrawal may lead to severe complications including delirium tremens and seizures. Alcoho l intoxication does not typically present with nystagmus; hyperthermia and autonomic instability would also be uncommon in acute intoxication, though the vasodepressive and sedating effects can result in hypotension and bradypnea. Amphetamine intoxication (Choice B) may resemb le PCP intoxication and also presents with hyperthermia, hypertension, tachycardia, erratic behavior, and paranoid or delusional thinking. However, it does not typically present with nystagmus, ataxia, or myoclonus. Opioid intoxication (Choice C) may result in erratic behavior, miosis, respiratory depression, and obtundation but should respond rapidly to administration of naloxone. Failure of respiratory depression and mental status to improve following naloxone administration should lead to consideration of alternative diagnoses. - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - -- - r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "PSYCH-3-13",
+    "section": "Psychiatry",
+    "subsection": "CMS-3",
+    "questionNumber": 13,
+    "system": "Unknown",
+    "questionStem": "A 37-year-o ld man comes to the physician because of increasing distress about his procrast ination and indecision. He has been late for work often because he is easily distracted by any task; as a result, he has received poor job performance ratings. He arrived late for today's examination because he was awake late last night creating a new computer folder system and then had to refold the clothes in his closet several times this morning. He says he becomes nervous if he is unable to finish similar minor projects. He somet imes daydreams about projects and must complete them in his daydreams before attending to other tasks . He reports that his family is exasperated by his behavior. He has no history of serious illness and takes no medications. He appears fatigued. Physical examinat ion shows no abnorma lities. On mental status exam ination, he is fully oriented. He is cooperative but fidgets and has poor eye contact. He is able to repeat six digits forwa rd, spell \"world\" backward, and perform serial sevens. He gives four interpretations of a proverb and is unable to decide on a final answer. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Attention-deficit /hyperact ivity disorder",
+      "B": "Delusiona l disorder",
+      "C": "Generalized anxiety disorder",
+      "D": "Obsessive-compulsive disorde~",
+      "E": "Schizotypal personality disorder"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Obsessive-compulsive disorder (OCD) manifests as recurrent, iintrusive urges or thoughts (obsessions) that the patient tries to relieve or neutralize by repetitive rituals (compulsions). These symptoms are time-consuming and cause significant anxiety to the patient and markedly impair functioning. Compulsions can occur in response to a fear of \"incompleteness, \" which requires repetitive actions until a task is considered complete, as in this patient. Other common obsessive-compulsion symptoms are related to cleaning, symmetry, harm to self or others, and taboo thoughts or ideas. For example, a classic case of OCD is a patient with obsessions regarding cleanliness and contamination, whose compulsions include excessive bathing or hand washing. Patients with OCD also commonly experience anxiety or major mood disorders. It typical ly presents relatively early in life, with most cases present by age 20 years. It is common ly treated with selective serotonin reuptake inhibitors, clomipramine, or venlafaxine, in addition to cognitive behavioral therapy.",
+    "incorrectExplanation": "nd E. Attention-deficit/hyperactivity disorder (Choice A) is a childhood disorder that presents with hyperactivity, impulsivity, and/or inattention. It can persist into adulthood with similar symptoms but does not cause obsessions or compu lsions, as in this patient. Delusional disorder (Choice B) features the presence of one or more delusions for a month or longer without other schizophrenia symptoms. Prominent obsession and compu lsions would be atypical of delusional disorder. Generalized anxiety disorder (Choice C) presents with excessive and difficult to control worrying, hyperactivity, disordered sleep, - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "PSYCH-3-14",
+    "section": "Psychiatry",
+    "subsection": "CMS-3",
+    "questionNumber": 14,
+    "system": "Unknown",
+    "questionStem": "A 37-year-old man is brought to the emergency departme nt by police after he was found wandering on the street. The officers say that the patient was screaming and talking to himself. He is unkempt and agitated , and he is wearing winter clothes on a hot summer day. Neurologic examination shows no focal findings. During the examination, he says that he is not going to take any medicine, and the \"television told me about the murders.\" Which of the following is the most likely additional finding in this patient?",
+    "choices": {
+      "A": "Cerebra l edema o n CT scan of the head",
+      "B": "Enlarged lateral and third ventricles on CT scan of the head",
+      "C": "Increased serum dopam ine concentratio n",
+      "D": "Increased serum and urine copper concentrations",
+      "E": "Temporal spikes on EEG"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "According to the DSM-5, patients with schizophrenia demonstrate at least two of the following five symptoms: delusions, hallucinations, disorganized speech, disorganized behavior, or negative symptoms (eg, flat affect, apathy, alogia). Many patients also illustrate prodromal periods of strange behavior and social withdrawal. To meet diagnostic criteria, patients must demonstrate functiona l deficits, and the total duration of symptoms must exceed 6 months. In recent decades, schizophrenia has been postulated to result from excessive pruning of glutamatergic synapses in the cerebral cortex during critical periods of development, explaining the negative and cognitive symptoms of schizophrenia (glutamatergic hypofunction may then dysregu late mesolimbic dopamine to produce the positive symptoms of schizophrenia). As a result of synapse loss and neurona l atrophy in the cortex, enlarged lateral and third ventricles may be demonstrated on neuroimaging. Treatment requires antipsychotic medications.",
+    "incorrectExplanation": "nd E. Cerebral edema on CT scan of the head (Choice A) arises from a variety of causes including trauma, ischemic stroke, intracranial masses, and hydrocepha lus. Cerebral edema does not typical ly occur in schizophrenia. Increased serum dopamine concentration (Choice C) is unlikely, since dopamine increases in schizophrenia are specific to certain regions of the brain only (eg, mesolimbic pathway). Dopamine in the central nervous system (CNS) does not cross the blood-brain barrier to the systemic vasculature. Increased serum and urine copper concentrations (Choice D) are typical of Wilson disease. Wilson disease is a rare condition of copper accumulation throughout the body (including the CNS) and may present with psychosis. This patient lacks other signs of Wilson disease such as liver disease or ocular findings, and primary psychotic disorders such as schizophrenia are more common. - -- - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "PSYCH-3-16",
+    "section": "Psychiatry",
+    "subsection": "CMS-3",
+    "questionNumber": 16,
+    "system": "Unknown",
+    "questionStem": "A 14-yea r-old girl is brought to the physician by her mother because of poor academic performance since her family relocated to a new town 6 months ago. The patient is halfway through the eighth grade a nd has been earning mostly D's and F's in school. She is having trouble making friends, especia lly since she lost her place on the school track team because of her poor academic performance. In her last school, she earned mostly A's and B's and had many friends. The family moved after the sudden death of the patient's father as a result of a motor vehicle collision in which the patient was a passenger. The patient had sustained minor injuries that were successf ully treated. Since the family moved, she has been having frequent nightmares, is easily startled, and has trouble concentrating. Her mother says that her daughter seems to be \"walking around in a cloud\" much of the time. Physical examination shows no abnormal ities. On mental status examination, the patient fidgets and is somew hat slow to respond to questions. She is oriented to person, place, and time. She says she feels nervous all of the time. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Acute stress disorder",
+      "B": "Adjustment disorder",
+      "C": "Panic disorder",
+      "D": "Post-traumatic stress disorde ~",
+      "E": "Separatio n anxiety disorder"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Post-traumatic stress disorder (PTSD) is a syndrome of psychological consequences of direct or witnessed exposure to serious physical or sexual violence or trauma. Though some patients recover quickly from traumatic events, vulnerable patients may develop PTSD. Patients with PTSD experience intrusive thoughts/memories (eg, nightmares or flashbacks), dysregulation of arousal (eg, restlessness, nervousness, easy startle, decreased concentration), avoidance of reminders, and negative mood/thoughts (eg, psychomotor retardation, feelings of detachment). To meet diagnostic criteria for PTSD, these symptoms must last longer than 1 month and cause social or occupational dysfunction. Treatment typically includes psychotherapy (eg, exposure therapy) and/or antidepressant medication.",
+    "incorrectExplanation": "nd E. Acute stress disorder (Choice A) refers to symptoms of intrusive thoughts, hyperarousal, dissociation, avoidance, and/or negative mood/thoughts that occur within 1 month of a traumatic event such as a life-threatening motor vehicle collision. This patient has been symptomatic for more than 1 month. Adjustment disorder (Choice B) refers to the onset of an emotional disturbance within 3 months of an identifiab le stressor, manifesting as marked distress out of proportion to the stressor and a significant impairment in daily functioning. By definition, patients with adjustment disorder do not meet criteria for other anxiety disorders, and this patient meets diagnostic criteria for PTSD. r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "PSYCH-3-18",
+    "section": "Psychiatry",
+    "subsection": "CMS-3",
+    "questionNumber": 18,
+    "system": "Unknown",
+    "questionStem": "An 87-year-o ld man is adm itted to the hospital because of dehydrat ion and emaciation. He appears catatonic and is unrespons ive to questions. One month ago, he began withdraw ing from relatives and talking constant ly about death. He gradually stopped eating and drinking and has had a 9-kg (20-lb) weight loss during this time. He has a 35-year history of major depress ive disorder and has attempted suicide twice. He has no chron ic medical conditions and current ly takes no medications. He appears cachect ic and is staring into space. He does not respond to verbal stimuli. He is 168 cm (5 ft 6 in) tall and weighs 50 kg (110 lb); BMI is 18 kg/m2. Exami nation shows tem poral wasting. Which of the following is the most appropriate next step in management? --",
+    "choices": {
+      "A": "Biofeedback",
+      "B": "Desipram ine therapy only",
+      "C": "Fluoxetine therapy only",
+      "D": "Desipram ine and risper idone therapy",
+      "E": "Fluoxetine and risperidone therapy",
+      "F": "Electroco nvulsive therapy"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "Catatonia is a syndrome of severe psychomotor disturbances, classically characterized by immobility, mutism, stupor, staring, and absent responses to questions and instructions (negativism). It is frequently associated with an underlying psychiatric or general medical disorder. Delayed diagnosis can lead to poor outcomes. This patient displays evidence of severe malnutrition related to catatonia in the setting of major depressive disorder. He should be admitted to the hospital and treated promptly with a benzodiazepine or electroconvulsive therapy. Fluid resuscitation, electrolyte repletion, and careful monitoring of laboratory studies for refeeding syndrome should be performed as well. Both benzodiazepine and electroconvulsive therapy are considered safe and effective in the treatment of catatonia. Once the acute catatonic episode has resolved, additional treatment for the patient's underlying major depressive disorder shou ld be initiated.",
+    "incorrectExplanation": "nd E. Biofeedback (Choice A) can be an effective outpatient therapy for patients with attention-deficit/hyperactivity disorder, substance use disorders, anxiety, epilepsy, major depressive disorder, and other psychiatric illnesses. it would not be appropriate for a patient with acute catatonia and negativism who is unable to participate. Desipramine therapy only (Choice B), fluoxetine therapy only (Choice C), desipramine and risperidone therapy (Choice D), and fluoxetine and risperidone therapy (Choice E) are incorrect, since management of the patient's acute catatonic state is the priority. All are viable options for treatment of his major depressive disorder, though caution shou ld be used with tricycli c antidepressants (such as desi eciall in older adults, because of si nificant adverse effects. Second- eneration anti s chotics such as ris eridone Score Report Lab Values Calculator Help Pause"
+  },
+  {
+    "id": "PSYCH-3-19",
+    "section": "Psychiatry",
+    "subsection": "CMS-3",
+    "questionNumber": 19,
+    "system": "Unknown",
+    "questionStem": "A 25-year-o ld primigravid woman at 16 weeks' gestation has had increased episodes of crying, difficulty falling asleep, decreased energy, and loss of appetite over the past 6 weeks. She has a history of recurrent major depressive disorder. Her family is concerned that she might inadvertently harm herself or her fetus. Her husband reports that she has lost interest in daily activities. She states that she has no suicidal thoughts. She is concerned about her ability to take care of a newbo rn and is questioni ng her decision not to terminate the pregnancy. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Reassurance with return visit in 2 weeks",
+      "B": "Explanation of the risks and benefits of antidepressant therapYi",
+      "C": "Explanation of the risks and benefits of therape utic abortion",
+      "D": "Support group therapy",
+      "E": "Admiss ion to the hospital"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "This patient meets criteria for major depressive disorder (MOD). Symptoms of MOD in pregnancy include 2 or more weeks of depressed mood, anhedonia, guilt or worthlessness, difficulty concentrating, suicidal or infanticidal thoughts, and/or neurovegetative symptoms (decreased energy, sleep disturbance, appetite disturbance). These symptoms disrupt everyday functioning. It is recommended that patients with recurrent major depressive episodes be treated with antidepressant medication indefinitely. In gravid patients with moderate to severe depressive symptoms, selective serotonin inhibitors (SSRls) and psychotherapy are genera lly recommended, since the risks of untreated depression (eg, neglect, suicide, infanticide) typical ly outweigh the risk of fetal adverse effects related to antidepressant medications. SSRls are not considered major teratogens, though third trimester use may lead to mild neonatal adjustment syndrome and, rarely, persistent pulmonary hypertension of the newborn. In gravid patients with MOD, physicians should discuss the risks and benefits of starting an SSRI medication versus not treating the MOD.",
+    "incorrectExplanation": "nd E. Reassurance with return visit in 2 weeks (Choice A) would be inappropriate in this patient with moderate to severe major depressive disorder. Patients with peripartum depression are at risk for suicide and infanticide and should be actively treated and monitored. A therapeutic abortion (Choice C) is performed to prevent mental or physical health complications. This patient's questioning of her decision not to terminate the pregnancy is likely the result, not the cause, of her MOD. Therefore, the physician should treat the patient's MOD before discussing a therapeutic abortion. Support group therapy (Choice D) is not a validated therapy for major depressive disorder. This patient with moderate to severe depression should instead be offered antidepressant medication and validated forms of psychotherapy (eg, cognitive behavioral ---- -------- ---- , ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "PSYCH-3-20",
+    "section": "Psychiatry",
+    "subsection": "CMS-3",
+    "questionNumber": 20,
+    "system": "Unknown",
+    "questionStem": "A 17-year-old boy is brought to the emergency department by his mother because of a 20-minute episode of severe chest pain and sweating that started 1 hour ago while he was watch ing television. On arrival, he is alert and repeated ly expresses concern that someth ing is \"very wrong.\" He reports that during the episode, his heart was \"pounding,\" he felt short of breath, and he was sure he was having a heart attack and was going to die. One month ago, he had a similar episode that occurred in the evening approximately 30 minutes after his high school football practice. At that time, results of laboratory studies and an ECG obtained in the emer,gency department showed no abnormalities. After the initial episode, he quit the footbal l team, and he has continued to limit his physical activity because he is afraid of bringing on another episode. He reports no insomnia or changes in appetite. His mother states that he was diagnosed with an innocent heart murmur at the age of 6 months, but it has not been noted on examinations since the age of 1 year. His paternal grandfather died of a myocard ial infarction 3 years ago at the age of 68 years. The patient takes no medications. He does not smoke cigarettes, drink alcohol, or use illicit drugs. He performs well in school. He is 180 cm (5 ft 11 in) tall and weighs 73 kg (161 lb); BMI is 23 kg/m2. His temperature is 37°C (98.6°F), pulse is 98/min, respirations are 20/min, and blood pressure is 130/83 mm Hg. Cardiac examination shows a normal S 1 and S2 with variation of S2 on respiration. The remainder of the exam ination shows no abnorma lities. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Acute stress disorder",
+      "B": "Delusiona l disorder",
+      "C": "Generalized anxiety disorder",
+      "D": "Hypertrophic cardiomyopathy",
+      "E": "Idiopathic recurrent pericarditis",
+      "F": "Panic disorde",
+      "G": "Paroxysma l supraventricular tachycardia"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "Panic disorder features panic attacks that occur unexpectedly and are associated with changes in behavior to avoid panic attack triggers. This patient is likely experiencing recurrent panic attacks consistent with panic disorder. Panic attacks feature acute fear or anxiety that peaks within minutes and is associated with four additiona l physical symptoms or associated mental states. These additional symptoms may include heart pa lpitations or tachycardia, shortness of breath, chest pain, dizziness, the sensation of choking, gastrointestina l distress, paresthesias, sweating, chills, trembling, derealization, the fear of dying, and/or the fear of losing control. Panic disorder is a relatively common psychiatric disorder characterized by recurrent panic attacks that are unexpected and associated with worry about future panic attacks or avoidance of panic attack triggers. Treatment typical ly includes psychotherapy, long-term selective serotonin reuptake inhibitors, and short-term benzodiazepines.",
+    "incorrectExplanation": "nd G. . - - - - -- -- - . - - - .. - --- - - - -- -- - -- - - - -- - - - - -- - --- - --r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "PSYCH-3-21",
+    "section": "Psychiatry",
+    "subsection": "CMS-3",
+    "questionNumber": 21,
+    "system": "Unknown",
+    "questionStem": "A 30-year-o ld law school graduate is caught cheating on the bar examinat ion. Further investigation shows previous allegations of cheating in junior high school and an adolescence characterized by occasiona l truancy, freque nt fights, and lying. As an adult, he has not been able to hold a job, has been bankrupt once, and was divorced because of failure to provide proper care for his children. He is angry about the accusation of cheating and insists that the incident is a misunderstanding. He has many friends. Which of the following is the most likely diagnos is?",
+    "choices": {
+      "A": "Antisocial persona lity disorde ~",
+      "B": "Borderline persona lity disorder",
+      "C": "Dissociative fugue",
+      "D": "Dysthymic disorder",
+      "E": "Narcissistic persona lity disorder"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Antisocial persona lity disorder is a cluster B persona lity disorder, the emotiona l or dramatic cluster, that arises from a deficit in empathy, resulting in pervasive violations of others' rights, aggression, and a hostile and manipulative attitude toward others. Similar to other cluster B personality disorders, patients with antisocial personality disorder struggle to regulate their emotions in that their frustration tolerance is low and they frequently behave impulsively. These patients may also be chronically bored and hence sensation seeking, leading to a high rate of substance use disorder and gambling. These personality traits lead to deficits in persona l (extreme ego­ centrism) and interpersonal (empathy, intimacy) functioning. Persona lity disorders are persistently maladaptive ways of relating to the self and to society that typica lly appear by early adulthood.",
+    "incorrectExplanation": "nd E. Borderline personality disorder (Choice B) is a cluster B personality disorder, the emotional or dramatic cluster, that features an unstable sense of self and tumultuous relationships. Patients may demonstrate splitting, and often have a history of self-harm (eg, cutting behavior). Patients with borderline personality disorder may experience transient psychosis when emotionally dysregu lated; delusions and hallucinations are atypical. Dissociative fugue (Choice C) is characterized by discrete episodes of amnesia, including loss of one's identity, in association with sudden travel or bewildered wandering. Dysthymic disorder (Choice D), also known as persistent depressive disorder, is characterized by signs and symptoms of depression that do not meet criteria for major depressive disorder and which occur on most days over a period of at least 2 years. Narcissistic personality disorder (Choice E) is a cluster B personality disorder that is characterized by fragile self-esteem and - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - -- - -- - - - - - - - - - - - - - r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "PSYCH-3-22",
+    "section": "Psychiatry",
+    "subsection": "CMS-3",
+    "questionNumber": 22,
+    "system": "Unknown",
+    "questionStem": "A 37-year-o ld male police officer comes to the physician at the request of his superiors 1 week after he witnessed a terrorist bombing during which several civilians and three fe llow police officers were killed. He sustained only minor injuries and assisted in rescuing survivors and gathering body parts. Since the bombing, he has felt emotionally numb and has been unable to enjoy activities he used to find pleasurab le. He has continued to work but has requested assignments far removed from the site of the attack. He describes his sleep as fitful. Two years ago, he sustained a bullet wound to the right calf, which left him with a slight limp. He has no other history of medical or psychiatric illness. He says he used to drink one to two beers nightly but has been drinking two to three beers nightly for the past week. Physical examination confirms the previous gunshot injury to the calf and shows no other abnormalities. On mental status examination, he is irritable and says he is not depressed. He tells the physician, \"They made me come. I'm not interested in talking with anyone. I just want to spend time with my buddies and be left alone.\" Which of the following is the most appropriate initial step in management?",
+    "choices": {
+      "A": "Encourage the patient to discuss the trauma in detail",
+      "B": "Provide information about the range of reactions to trauma",
+      "C": "Recommend group therapy with other trauma survivors",
+      "D": "Recommend a 1-month medical leave of absence from active duty",
+      "E": "Recommend a physician-led trauma debriefing series",
+      "F": "Recommend a 12-step program",
+      "G": "Begin clonazepam therapy",
+      "H": "Begin fluoxetine therapy"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "This patient has had a recent exposure to trauma 1 week ago and is now experiencing emotional numbness, anhedonia, avoidance, and self-medication with alcohol. These findings suggest a diagnosis of acute stress disorder. Acute stress disorder presents similarly to post-traumatic stress disorder, with symptoms of intrusive thoughts, hyperarousal, dissociation, avoidance, and/or depressed mood. However, acute stress disorder presents within 1 month of a traumatic event whereas post-traumatic stress disorder lasts over a month beyond the event. It typically lasts between 3 days and 1 month. Pharmacotherapy is typically not indicated, but cognitive behavioral therapy may be helpful. In this case, providing information about the range of reactions to trauma will be most helpful as it will educate the patient and may prompt him to seek help for his symptoms.",
+    "incorrectExplanation": "nd H. Encouraging the patient to discuss the trauma in detail (Choice A) is not appropriate at this time. Trauma-focused cognitive behavioral therapy is an effective therapy in treating acute stress disorder but does not include discussing the trauma in detail. r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "PSYCH-3-23",
+    "section": "Psychiatry",
+    "subsection": "CMS-3",
+    "questionNumber": 23,
+    "system": "Unknown",
+    "questionStem": "A previous ly healt hy 27-year-o ld man is brought to the emergency department by his girlfriend because of a 6-week history of daily episodes of hearing a voice telling him that he is Christ. He is convinced that he has the power to heal the sick and requests that he be admitted into the wards to help the patients. During the past 4 weeks , he has had a 10-kg (22-lb) we ight loss. He has not slept more than 2 hours nightly for 2 weeks. When he is awake at night, he watches television or calls strangers on the telephone. He does not drink alcohol or use illicit drugs. He is 173 cm (5 ft 8 in) tall and weighs 80 kg (176 lb); BMI is 27 kg/m2. His tem perature is 37°C (98.6°F), pulse is 110/min, and blood pressure is 160/90 mm Hg. Physical examinat ion shows no other abnormalities . On mental status examinat ion, he appears restless and agitated. He flirts with fema le staff members and tries to convince people of his powers. He has pressured speech and talks incessa ntly. There is no evidence of visual hallucinations. Recall is difficult to assess because he cannot concentrate. Long-term memory is intact. He is oriented to person, place, and time. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Bipolar disorde r.",
+      "B": "Cyclothymic disorder",
+      "C": "Major depressive disorder with psychotic features",
+      "D": "Schizoaffective d isorder",
+      "E": "Schizophrenia"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Bipolar disorder can be divided into two subtypes. Bipolar I disorder presents with episodes of mania and frequent ly includes hypomanic and depressive episodes. Bipolar II disorder, in contrast, always presents with hypomanic and depressive episodes, but no manic episodes. These episodes can transition from one to the other, or the patient can be euthymic between episodes. According to the DSM-5, mania is characterized by a persistently elevated or irritable mood with increased energy that lasts at least 1 week or requires hospitalization. It is accompanied by three or more of the following : increased self-esteem, decreased sleep, pressured speech, racing thoughts, distractibility, psychomotor agitation or hyperactivity, and disinhibition or impulsivity (eg, gambling, unprotected sexual activity, frivolous spending). Delusions and hallucinations can also occur during manic episodes. Hypomanic episodes are similar to manic episodes but are less severe and do not markedly impair social functioning or require hospitalization. Depressive episodes can also occur with bipolar disorder and are classically characterized by depressed mood, anhedonia, excessive feelings of guilt, changes to sleep patterns (eg, sleeping too much or too little), decreased energy, poor concentration, decreased appetite, psychomotor slowing, and suicidal ideation. This patient is experiencing a manic episode with psychotic featu res based on auditory hallucinations, delusions of grandiosity, decreased need for sleep, psychomotor agitation, pressured speech, and flirtatious behavior, making bipolar disorder the likely diagnosis. Severe episodes require hospitalization and are treated with lithium, valproate, or an antipsychotic medication.",
+    "incorrectExplanation": "nd E. - - - -- - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - -- - - -- - - - - - - -- - - - - - - - - - - - - - - r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "PSYCH-3-24",
+    "section": "Psychiatry",
+    "subsection": "CMS-3",
+    "questionNumber": 24,
+    "system": "Unknown",
+    "questionStem": "A 5-year-o ld boy has had temperatures to 38.9°C (102°F), cough, and coryza for 2 days and visual hallucinations of animals and people for 2 hours. His mother has been giving him an over-the-counter cold medicine for 24 hours, but it has not relieved his symptoms. His temperature is 38.8°C (101.8°F). Examination shows a clear nasal discharge. Which of the following is the most likely reason for the child's hallucinations?",
+    "choices": {
+      "A": "Behavio ral abnorma lities",
+      "B": "Drug toxicitYi",
+      "C": "Hyperpyrex ia",
+      "D": "Increased intracranial pressure",
+      "E": "Neuronal inflammatio n"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Dextromethorphan is a common ingredient in antitussive medications such as cough medicine. It antagonizes N-methyl-d-aspartate glutamate receptors and, when used in excess, has mild opioid effects and can act as a dissociative hallucinogen. Patients with toxicity can present with hallucinations, mania, panic, and agitation. Dextromethorphan can also cause adverse effects including nausea, vomiting, insomnia, mydriasis, fever, tachycardia, and sedation. Dextromethorphan should not be given to patients taking monoamine oxidase inhibitors because of its potentia l for severe interaction with resulting autonomic instability. Treatment is supportive, with restraint and sedation for agitation, cooling measures for hyperthermia, and fluids for rhabdomyolysis.",
+    "incorrectExplanation": "nd E. Behaviora l abnormalities (Choice A) would not be an appropriate diagnosis, since there is likely a medical cause for this child's hallucinations. Behavioral disorders such as oppositional defiant disorder, autism spectrum disorder, or attention-deficit/hyperactivity disorder are not characterized by hallucinations and would not present acutely as in this patient. Hyperpyrexia (Choice C) can cause hallucinations in patients, but hyperpyrexia typically refers to hyperthermia greater than 41.0°C (106.0°F). This patient's degree of fever is within the expected range and would be unlikely to cause hallucinations. Increased intracrania l pressure (Choice D) can be caused by tumors, intracranial hemorrhage, meningitis with impaired cerebrospina l fluid drainage, or other pathologies and can present with neurologic deficits, altered mental status, and seizures. Increased intracrania l pressure would be less likely to cause hallucinations. Neuronal inflammation (Choice E) such as in encepha litis can be caused by herpes simplex virus, which may present with fever, headache, seizures, focal neurologic signs, and confusion. Imaging may show inflammation in the tempora l lobe. Patients with encepha litis may hallucinate, but this is rare, and this patient's hallucinations are more likely caused by dextromethorphan. r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "PSYCH-3-25",
+    "section": "Psychiatry",
+    "subsection": "CMS-3",
+    "questionNumber": 25,
+    "system": "Unknown",
+    "questionStem": "A 27-year-o ld man is brought to the emergency department 30 minutes after his brother found him agitated, tremulous, and complaining of a headac he. He had eaten a peanut butter sandwich 12 hours before his symptoms began. He has a 10-year history of severe major depressive disorder. During this period, he has attempted suicide three times despite treatment with both selective serotonin reuptake inhibitors and tricyclic antidepressants. Eight days ago, he went to a new physician because of increasing despondency. This physician immediately discontinued the fluoxetine and substituted tranylcypromine to start 1 week later. He also instructed the patient to start a monoamine oxidase inhibitor diet immediately. Current medications a lso include diphenhydramine as needed for seasonal allergies. He has no history of hypertension, diabetes mellitus, or migraine. On arrival, he is agitated. His temperature is 40.6°C (105°F), pulse is 130/min, respirations are 26/min, and blood pressure is 180/120 mm Hg. Physical examination shows diaphoresis and tremor of the upper extremities. Deep tendon reflexes are 3+ bilaterally; there are no pathologic reflexes. On mental status examination, he is complaining of occipital headache. He is oriented to person but not to place or time. Which of the following is the most likely cause of these findings?",
+    "choices": {
+      "A": "Acute anxiety attack",
+      "B": "Acute fluoxetine withdrawal",
+      "C": "Drug-drug interaction",
+      "D": "Ingestion of peanut butter",
+      "E": "Use of diphenhydrami ne"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Monoamine oxidase inhibitors (MAOls), which are structura lly similar to biogenic amines, bind to monoamine oxidase and inhibit its enzymatic degradation of biogenic amines. This increases synaptic concentrations of serotonin, dopamine, norepinephrine, and epinephrine. The MAOls are effective for depression and anxiety but are typical ly used only after other agents have failed because of the risk for serious adverse effects. The MAOls decrease the peripheral degradation of tyramine (a sympathomimetic biogenic amine that does not cross the blood-brain barrier), which may lead to hypertensive crisis if combined with dietary tyramine (eg, cheese, wine). Therefore, patients on MAOls must adhere to a low-tyramine diet. Combining MAOls with other serotonergic agents or starting MAOls within 2 weeks of discontinuing another serotonergic drug also increases the risk for serotonin syndrome. Serotonin syndrome, the result of serotonin toxicity, can lead to the triad of acute confusion, autonomic hyperactivity (hyperthermia, tachycardia, hypertension), and neuromuscular excitability (tremor, myoclonus, hyperreflexia). As a result of serotonin receptors in the gastrointestinal tract, vomiting and diarrhea can also occur. Management of serotonin syndrome includes discontinuation of all serotonergic agents (the MAOI in this case), supportive care of autonomic instability, sedation with benzodiazepines, intravenous fluid repletion, and cooling measures. Cyproheptadine is an antidote with nonspecific serotonin antagonist properties that can be used, but evidence of efficacy is mixed.",
+    "incorrectExplanation": "nd E. . - - - - - - - - - - - - - . - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "PSYCH-3-26",
+    "section": "Psychiatry",
+    "subsection": "CMS-3",
+    "questionNumber": 26,
+    "system": "Unknown",
+    "questionStem": "A previo usly healt hy 27-year-o ld woma n comes to the physician because of a 2-mo nth history of crying spells, poor concentration, fatigue, and lethargy. She says that she sleeps at least 12 hours daily and is no longer interested in social izing. She recent ly broke up with her boyfriend of 10 months, and her work perfor mance has begun to decline; she is afra id that she will lose her job if it does not improve. She does not drink alcoho l or use illicit drugs. Menses occur at regular 28- to 30-day intervals. Her last menstrual period was 2 wee ks ago. She has had a 9-kg (20-lb) weight gain over the past 9 months. She is 168 cm (5 ft 6 in) tall and weighs 66 kg (145 lb); BMI is 23 kg/m2. Physical exam ination shows no abnorma lities. Menta l status exam ination shows a sad mood and restricted affect. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Adjustment disorder with depressed mood",
+      "B": "Dysthymic disorder",
+      "C": "Gene ralized anxiety disorder",
+      "D": "Major depressive disorde n",
+      "E": "Preme nstrual dyspho ric disorder"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "This patient meets criteria for major depressive disorder (MOD). Symptoms of MOD include 2 or more weeks of depressed mood, anhedonia (eg, decreased interest in socializing), guilt or worthlessness, difficulty concentrating, suicidal thoughts, and/or neurovegetative symptoms (decreased energy, sleep disturbance, appetite disturbance). These symptoms disrupt everyday functioning. Though neurovegetative symptoms typically manifest as decreased appetite and sleep, patients with a subtype of MOD called atypical depression experience hyperphagia and hypersomno lence. Patients with atypical depression may possess an increased symptom burden and an increased risk for suicide. The most effective treatment includes both psychotherapy and antidepressant medication.",
+    "incorrectExplanation": "nd E. Adjustment disorder with depressed mood (Choice A) refers to the onset of disproportionate distress within 3 months of an identifiable stressor with associated depressive symptoms that do not meet the diagnostic criteria for MOD. This patient meets the diagnostic criteria of MOD. Dysthymic disorder (Choice B), more commonly known as persistent depressive disorder, refers to depressive symptoms lasting longer than 2 years. Patients with dysthymic disorder do not meet MOD criteria. Generalized anxiety disorder (Choice C) is an anxiety disorder that features excessive worrying about a range of topics with associated functional impairment. Though this patient is appropriately afraid she will lose her job, she does not demonstrate disproportionate anxiety symptoms. r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "PSYCH-3-28",
+    "section": "Psychiatry",
+    "subsection": "CMS-3",
+    "questionNumber": 28,
+    "system": "Unknown",
+    "questionStem": "An 8-year-old boy is brought for a school physical examination. He was diagnosed with attention-deficit/hyperactiv ity disorder 2 years ago and was treated with methylphenidate therapy for 3 months with moderate symptom resolution. Methylphenidate was discontinued because of persistent loss of appetite and weight loss. Desiprami ne therapy was started at 25 mg daily and gradua lly increased to 100 mg daily. His symptoms have improved, and he has had no adverse effects. An ECG shows a QTc of 0.5 sec (N:s;0.44 ). Which of the following is the most appropriate initial step in management?",
+    "choices": {
+      "A": "24-Hour ambulatory ECG monitoring",
+      "B": "Echocardiograp hy",
+      "C": "Discontinue desipramine therap ~",
+      "D": "Increase desipramine dose",
+      "E": "Switch to bupropion therapy"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Attention-deficit/hyperactivity disorder (ADHD) presents with chronic symptoms of hyperactivity/impulsivity and/or inattention that occur in more than one setting and impair academic, social, and/or emotional function. Children with predominant hyperactivity symptoms are unable to sit still and may have difficulty taking turns (postulated to result from a dysregulated dopamine reward pathway), whereas children with predominant inattentive symptoms tend to daydream, process information slowly, and demonstrate difficulty in completing tasks (related to norepinephrine dysregulation). Stimulants, which include amphetamine salts and methylphenidate, are first-line agents that increase synaptic dopamine and norepinephrine. In patients unable to tolerate stimulants, second-line agents include norepinephrine reuptake inhibitors (eg, atomoxetine), a2-adrenergic agonists (eg, clonidine, guanfacine), serotonin-norepinephrine reuptake inhibitors (eg, venlafaxine), and tricyclic antidepressants (eg, desipramine, imipramine). Tricyclic antidepressants are known to increase the QTc interval. In patients with prolonged QTc intervals, the offending medication should be discontinued (especially in ADHD, for which multiple alternative medication options exist).",
+    "incorrectExplanation": "nd E. 24-Hour ambulatory ECG monitoring (Choice A) or echocardiography (Choice B) would be unnecessary if the offending medication is discontinued. QTc prolongation related to tricyclic antidepressant medication is typically reversible. Further cardiac investigation should be delayed until verifying that the patient's QTc normalizes after desipramine discontinuation. Increasing the desipramine dose (Choice D) would be unnecessary and dangerous, since this patient's ADHD symptoms have remitted and his QTc is prolonged. Switching to bupropion therapy (Choice E), an antidepressant, would be inappropriate. Bupropion is generally used for depression as a -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - . . . - - - - - - - - - - - - - - - r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "PSYCH-3-32",
+    "section": "Psychiatry",
+    "subsection": "CMS-3",
+    "questionNumber": 32,
+    "system": "Unknown",
+    "questionStem": "A 17-year-old girl is brought to the physician by her parents because of a 20-kg (45-lb) weight loss during the past 6 months. She also has become more isolated from her friends and has lost interest in activities she used to enjoy. Her academic performance has deteriorated from excellent to average. She has major depressive disorder treated with fluoxetine for 3 years. She recently stopped taking it because of concern that it was preventing her from losing weight. She is 160 cm (5 ft 3 in) tall and weighs 41 kg (90 lb); BMI is 16 kg/m2. Her pulse is 46/min, and palpable systolic blood pressure is 86 mm Hg. On mental status examinat ion, she says she has been feeling poorly lately but has attributed it to stress at school and pressure from her parents to complete college applicat ions. She is pleased that she has lost weight but feels that she has \"more to lose.\" She says her appetite has not decreased and that she feels hungry a good part of the time. There is no evidence of suicidal ideation. She is adamantly opposed to beginning fluoxetine again. She is not interested in counseling and does not think there is \"anything wrong\" with her. Her parents want her to be admitted to a psychiatric hospita l, but she is opposed. Which of the following is the most appropr iate next step?",
+    "choices": {
+      "A": "Begin outpatient psychotherapy",
+      "B": "Recommend family counseling",
+      "C": "Begin bupropion therapy",
+      "D": "Begin parentera l nutrition",
+      "E": "Admit her to a psychiatric hospital"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Anorexia nervosa is characterized by an intense fear of gaining weight, decreased self-worth related to body weight, and consequent restrictive eating or binging and purging behavior (eg, vomiting, laxative or diuretic misuse). Patients with anorexia nervosa often have a BMI of less than 17 kg/m 2. Physical examination can show bradycardia, hypotension, dry, scaly skin, and fine hair or hair loss. Insufficient nutrition and weight loss may lead to amenorrhea. Anorexia nervosa may lead to serious medical complications including seizure, cardiac arrhythmia, heart failure, liver failure, pancreatitis, and severe electrolyte imbalance. Treatment of anorexia requires a combined medical and psychiatric approach with behavioral and pharmaco logic therapy. First-line pharmacologic therapy is with atypical antipsychotic agents, such as olanzapine. Patients who manifest unstable vital signs or evidence of organ damage require inpatient hospitalization in a psychiatric or combined medical psychiatric hospital.",
+    "incorrectExplanation": "nd D. Outpatient psychotherapy (Choice A) may be appropriate for many patients with anorexia nervosa but is not appropriate for a patient who is medically unstable and who expresses reluctance to seek treatment on an outpatient basis. Family counseling (Choice B) is not necessary but may be helpful as an adjunctive treatment for faci litating this patient's ongoing care. However, this patient's unstable vital signs with anorexia nervosa are an indication for hospitalization. . - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "PSYCH-3-38",
+    "section": "Psychiatry",
+    "subsection": "CMS-3",
+    "questionNumber": 38,
+    "system": "Unknown",
+    "questionStem": "A 22-year-o ld woman is brought to the emergency department because of a 4-hour history of violent, agitated behavior. Her college roommates are concerned that she may have used illicit drugs. She has no known history of similar behavior or serious illness. She takes no medications. Her temperature is 38°C (100.4 °F), pulse is 120/min, respirations are 20/min, and blood pressure is 140/90 mm Hg. On mental status examinat ion, her speech is loud and rapid in rate and rhythm. She describes her mood as \"wild\"; her affect is reactive but primarily exuberant and irritable. Her thought process is tangential. She reports no hallucinations. During the examination, she tries to leave the emergency department, pushing a security guard aside and throwing a clipboard on the floor. Intoxication with which of the following substances is the most likely cause of this patient's symptoms?",
+    "choices": {
+      "A": "Cannabis",
+      "B": "Ecstasy (3,4-methylened ioxymethamphetamine)",
+      "C": "Heroin",
+      "D": "LSD",
+      "E": "Methamphetamine"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Methamphetamine and other amphetamines are central nervous system (CNS) stimulants and sympathomimetics; intoxication is characterized by euphoria, grandiosity, increased wakefulness and attention, agitation, anorexia, and paranoia. On examination, patients can present with signs of sympathomimetic toxicity including hypertension, tachycardia, tachypnea, diaphoresis, and dilated pupils. As a result of increased synaptic dopamine, hallucinations and paranoia can occur. Though appetite suppression and weight loss are common, electro lyte disturbances would be atypical. Chronic methamphetamine abuse can lead to methamphetamine-induced psychotic disorder, which features chronic delusions, paranoia, and hallucinations. Chronic methamphetamine use may also lead to cognitive impairment. Treatment for acute methamphetamine intoxication is supportive, and benzodiazepines have been shown to be effective for management of agitation or seizures in these patients.",
+    "incorrectExplanation": "nd D. Cannabis (Choice A) is a hallucinogen that causes euphoria, paranoia, hallucinations, increased appetite, conjunctiva ! injection, and cognitive slowing. Ecstasy (3,4-methylenedioxymethamphetamine) (Choice B) is a hallucinogenic stimulant that is characterized by euphoria, disinhibition, and hyperactivity. This patient's behavior is aggressive and violent, making methamphetamine more likely. Heroin (Choice C) is an opiate, and opiates are CNS depressants. Opiate intoxication causes sedation, bradycardia and hypotension, depressed respiratory drive, and constricted pupils. Opiates are commonly used for analgesia and act on receptors within the - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "PSYCH-3-39",
+    "section": "Psychiatry",
+    "subsection": "CMS-3",
+    "questionNumber": 39,
+    "system": "Unknown",
+    "questionStem": "A 13-year-old girl is brought to the physician by her father for a well-child exam ination. He is concerned about her weight and eating habits. He says that she is always \"on the go\" and never sits down for a full meal. She will often just grab a piece of fruit when she is on her way to an activity. She will eat a full meal when the family has dinner together every Sunday. She has talked about wanting to become a vegetarian because of her concern for animals. She has had the same group of friends since elementary school. She is the captain of her soccer team and practices 4 days weekly. She is active in an after-schoo l drama program 3 days weekly and is the lead in this season's play. She maintains a B grade average. Her father says that she talks on the telephone \"constant ly\" and is animated and cheerful most of the time. When she is in her bedroom, she prefers to keep the door closed and stops talking if she is on the telephone and her father walks into the room. She has a disorganized bedroom and often falls fast asleep on a bed covered with piles of clothes. Menarche has not occurred. She appears thin and muscular. She is at the 50th percentile for height and 35th percentile for weight, which is unchanged from last year. Vital signs are within normal limits. Breast and pubic hair development are Tanner stage 2. Physical examination shows no abnorma lities. When interviewed alone, she is animated. She shrugs and rolls her eyes when asked about her diet and weight. She thinks she is fine and does not understand why her father is so upset. Which of the following is the most appropriate next step?",
+    "choices": {
+      "A": "Reassure the father that this is normal development",
+      "B": "Recommend individual psychotherapy",
+      "C": "Recommend nutritional counseling",
+      "D": "Recommend that the father keep a log of what his daughter eats",
+      "E": "Schedule week ly examinat ion and weighing"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Reassuring the father that this is normal development is the most appropriate next step, as this patient shows no significant signs of an eating disorder or psychological issue. Young female patients are at increased risk for developing anorexia nervosa and bulimia nervosa. Anorexia nervosa is classically characterized by an intense fear of gaining weight, decreased self-worth related to body weight, and consequent binge eating and purging behavior (eg, vomiting, laxative or diuretic misuse) or overall oral intake restriction. Patients with anorexia nervosa often have a BMI of less than 17 kg/m 2. As a result of insufficient nutrition and weight loss, the hypothalamus decreases gonadotropin-releasing hormone secretion, which leads to amenorrhea and pubertal delay/arrest. The physical examination can show dry, scaly skin and fine hair or hair loss. Bulimia nervosa involves cycles of uncontrollable eating and compensatory behaviors that occur at least once a week over 3 months or more. These patients typically have a normal BMI. Patients that use vomiting as their purging behavior, in either anorexia nervosa or bulimia nervosa, may additional ly have signs of dental erosion, knuckle abrasions, hypovolemia, hypokalemia, and hypochloremic metabolic alkalosis. Treatment of disorders is through a combined medical and psychiatric approach and involves corre,cting fluid and electrolyte derangements alongside behavioral and pharmacologic therapy. Additional ly, both disorders can be accompanied by major depression or generalized anxiety disorder. This patient continues to eat full meals, has a normal and consistent weight percentile, does not exercise excessively, and does not show signs of depression or anxiety. Her other behavioral changes are consistent with normal adolescent development (eg, disorganization, - - - - - -- - - - - - - - - -- - - - - - - - r ~, ~ ~ r, Previous Next Score Report Lab Values Calculator Help Pause ... https://t.me/USMLENBME2CK",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "PSYCH-3-40",
+    "section": "Psychiatry",
+    "subsection": "CMS-3",
+    "questionNumber": 40,
+    "system": "Unknown",
+    "questionStem": "A 3-year-old girl is brought to the emergency department 1 hour after injuring her right arm. This is her third visit to the emergency department in 6 months. The parents say that she fell. The child is too upset to say how she injured herself. Her parents note that she is overly aggressive in day care, where she is not respond ing to instructio ns, and has hit other children. During her previous visit for a wrist injury, an x-ray of the wrist showed normal findings. On examination, the child appears fearful of the examiner, provides limited responses, and is restless and easily distracted. An x-ray of the right humerus shows a closed fracture. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Admit to hospital",
+      "B": "Cognitive behavior therapy",
+      "C": "Contact child protective services",
+      "D": "CT scan of the head",
+      "E": "Family counseling",
+      "F": "Follow-up outpatient appointment in 2 weeks",
+      "G": "Neuropsyc hological testing",
+      "H": "Psychiatric assessment"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Risk factors for child abuse include unstable family situations, prior history of abuse, major birth defects, and parental depression. Child abuse should be suspected when children present repeatedly for several injuries, and especially when the location, severity, pattern, or history are inconsistent with the reported mechanism. While toddlers typically demonstrate occasional defiance, and cooperative play is not expected to develop until 4 years of age, this child's aggressive behavior toward other children at daycare is abnormal and raises suspicion for abuse. Fractures that suggest intentional injury include rib fractures, metaphyseal corner fractures, long bone fractures, and certain skull fractures, or any fracture or bruising sustained in an area or location that could not be reasonably expected on the basis of the child's normal ambulatory and play habits. For example, a femur fracture would never be typical in a nonambulatory 6- month-old patient. If child abuse is suspected, child protective services should be contacted immediately.",
+    "incorrectExplanation": "nd H. Admitting this patient into the hospital (Choice A) would not be immediately medically necessary. However, after a child protective services evaluation of the patient, the patient may need admission for further evaluation for child abuse and social services. Cognitive behavior therapy (Choice B) is a form of psychosocial therapy that focuses on challenging harmful thought s, beliefs, attitudes, and behaviors and developing coping strategies. Therapy may be necessary for the patient or parents at a later time but is not the next immediate step in management. ... r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "PSYCH-3-42",
+    "section": "Psychiatry",
+    "subsection": "CMS-3",
+    "questionNumber": 42,
+    "system": "Unknown",
+    "questionStem": "A 67-year-o ld woman, whose husband died 18 months ago, is admitted to the hospita l because of severe headac hes for 4 weeks. She is quiet and seems sad. She believes that she has brain cancer, deserves to be punished for her sins, and is being punished by God for past misdeeds. She has had fatigue and a 6.8-kg (15-lb) weight loss over the past 4 months. Physical and neurologic examinat ions show no abnorma lities. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Adjustment disorder with mixed disturbance of emotions and conduct",
+      "B": "Delusiona l disorder",
+      "C": "Major depressive disorde n",
+      "D": "Schizophrenia",
+      "E": "Somatization disorder"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Major depressive disorder is the most likely diagnosis. Symptoms of major depressive disorder (MOD) typica lly include 2 or more weeks of depressed mood, anhedonia, guilt or worthlessness, difficulty concentrating, suicida l thoughts, and/or neurovegetative symptoms (decreased energy, sleep disturbance, appetite disturbance). These symptoms disrupt everyday functioning. The presence of somatic symptoms such as headache or gastrointestinal distress are also commonly seen in conjunction with depression. Additiona lly, this patient's delusion that she is being punished by God is consistent with a potentia lly accompanying psychotic feature without meeting criteria for schizoaffective disorder. While feelings of guilt and depressed mood are common within the first few months after the death of a loved one, these symptoms typically resolve and do not interfere with daily functioning. She should be assessed for the presence of suicidality and should be started on pharmacotherapy for her depression.",
+    "incorrectExplanation": "nd E. Adjustment disorder with mixed disturbances of emotions and conduct (Choice A) describes a reaction to a known stressor that occurs within 3 months and presents with a combination of features including depressed mood, anxiety, and abnormal behavior not meeting criteria for a major depressive episode or bipolar disorder. This patient's husband died 18 months ago. Delusional disorder (Choice B) presents with fixed delusions in the absence of other psychiatric symptoms such as hallucinations, disorganization, depression, or mania. Schizophrenia (Choice D) presents with delusions, hallucinations, profound negative symptoms, or disorganized speech or behavior lasting for 6 months, not secondary to substance use, and contributing to profound dysfunction in everyday life. This patient does not meet criteria. Additiona lly, it is uncommon for older adults to deve lop this disorder. - -- - - - - - - - - - - - - - - - - - - - - - - -- - - - -- - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "PSYCH-3-44",
+    "section": "Psychiatry",
+    "subsection": "CMS-3",
+    "questionNumber": 44,
+    "system": "Unknown",
+    "questionStem": "A 47-year-o ld woman comes to the physician because she has had difficulty sleeping at night since her youngest daughter left for college 2 months ago. During the past week, she has been struggling to stay awake at work. She drinks two to three cocktai ls to help her fall asleep and 3 to 4 oz of vodka in the morning to help calm her nerves. She is often anxious and has frequent heartburn . She was told by her physician that the heartburn is likely caused by her alcohol consumption. She does not want to alter her routine because she has become increasingly anxious and irritable when she has tried to do so. Her temperatu re is 37.2°C (99°F), pulse is 90/min, respirations are 12/min, and blood pressure is 150/90 mm Hg. Physical examinat ion shows no other abnormalities. On mental status examinat ion, she is mildly anxious but polite and friendly. She says that she is not depressed but that it was difficult for her to adjust when her daughter first left for college. Laboratory studies show: Erythrocyte count 3500/mm 3 Mean corpuscu lar volume 102 µm 3 Leukocyte count 4500/mm 3 Serum Mg 2+ Thyroid-stimulating hormone AST ALT 1.5 mEq/L 3.5 µU/mL 40 U/L 25 U/L An ECG shows a normal sinus rhythm. Which of the following is the most likely diagnos is?",
+    "choices": {
+      "A": "Adjustment disorder",
+      "B": "Alcohol dependence",
+      "C": "Circadian rhythm sleep disorder",
+      "D": "Generalized anxiety disorder",
+      "E": "Major depressive disorder",
+      "F": "Primary insomnia"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "The patient's presentation is concerning for alcohol use disorder with features suggestive of alcoho l dependence. Alcohol use disorder is a clinical diagnosis made by the presence of personal, professional, social, emotiona l, behavioral, and physical disturbances related to the use of alcohol or attempts to decrease intake. Symptoms may be classified as mild, moderate, or severe depending on the number of domains affected. Alcohol dependence refers to the adaptation of the body to a chronica lly increased blood alcoho l concentration that leads to a withdrawa l syndrome when alcohol intake is ceased or significantly decreased. Withdrawa l symptoms range from mild tremor, irritability, and insomnia to life-threatening autonomic instability, psychosis, delirium, seizures, and death. Patients should be screened for alcohol use disorder with a validated screening tool. Malnutrition and electrolyte abnormalities are r ~, ~ ~ r, Previous Next Score Report Lab Values Calculator Help Pause .... https://t.me/USMLENBME2CK",
+    "incorrectExplanation": ""
+  },
+  {
+    "id": "PSYCH-3-45",
+    "section": "Psychiatry",
+    "subsection": "CMS-3",
+    "questionNumber": 45,
+    "system": "Unknown",
+    "questionStem": "A homeless 27-year-old man who is being treated with antipsychotic and antiparkinson ian drugs comes to the emergency department because he feels anxious and has difficulty urinating. He reports seeing visions. He is hyperactive and disoriented to time and place and has difficulty focusing on nearby objects. Physical examinat ion shows dry mouth, flushed skin, and tachycardia at rest. There is no evidence of muscular rigidity. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Delirium due to anticholinergic medication",
+      "B": "Extrapyramidal syndrome",
+      "C": "Neuroleptic malignant syndrome",
+      "D": "Noncompl iance with antipsychotic drug therapy",
+      "E": "Psychosis due to substance abuse"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Acetylcholine activity in the brain mediates attention and motivation. Anticholinergic agents commonly cause cognitive impairment or delirium. This patient's antiparkinsonian medications are likely anticholinergic agents (eg, benztropine, diphenhydramine) utilized to prevent the extrapyramidal adverse effects of antipsychotic medications. Along with cognitive impairment (leading to this patient's disorientation), anticholinergic effects can include hallucinations, sedation, ataxia, visual disturbances (cycloplegia, or loss of accommodation), dry mouth, tachycardia, urinary retention, constipation, and flushed skin. In patients demonstrating impairing anticholinergic toxicity, anticholinergic medications should be discontinued.",
+    "incorrectExplanation": "nd E. An extrapyramida l syndrome (Choice B) may result from antipsychotic medication use. Patients typically present with acute dystonic reaction, parkinsonism, and/or akathisia without significant disorientation. Neuroleptic malignant syndrome (Choice C) is a life-threatening condition associated with the antagonism of dopamine that presents with altered mental status, muscle rigidity, hyperthermia, and autonomic dysfunction. Dry mouth, flushed skin, difficulty urinating, and vision abnormalities would be atypical. Noncompliance with antipsychotic drug therapy (Choice D) and psychosis due to substance abuse (Choice E) could result in increased hallucinations and/or delusions. Disorientation, dry mouth, flushed skin, difficulty urinating, and vision abnorma lities would be atypical. Educational Objective: Anticholinergic agents (eg, diphenhydramine, benztropine) common ly cause cognitive impairment, hallucinations, sedation, ataxia, visual disturbances (cycloplegia, or loss of accommodation), dry mouth, tachycardia, urinary retention, constipation, and flushed skin. Offending medications should be discontinued. r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "PSYCH-3-46",
+    "section": "Psychiatry",
+    "subsection": "CMS-3",
+    "questionNumber": 46,
+    "system": "Unknown",
+    "questionStem": "A 24-year-o ld woman comes to the phys ician with her husba nd because of an 8-year history of increasing dayt ime fatigue . She says that she has difficulty remaining awake whenever she sits down to relax. She has never been able to drive more than 30 minutes without becomi ng so sleepy that she needs to pull the car over and stop. Her husband says that once every 2 months, she gets up in the middle of the night and does not respo nd when he calls her name . He says that she does not snore. The patient repo rts that in high schoo l she trained herself not to laugh because she felt weak and could not rema in stand ing after her friends told jokes . She has no history of serious illness. Her only medication is an oral contraceptive. Physical examination shows no abnormalities. On mental status examinat ion, she appears concerned and has a reactive affect. She is alert and oriented to person, place, and time . Which of the following is most likely to confirm the diagnosis?",
+    "choices": {
+      "A": "Keeping a sleep log for 2 weeks",
+      "B": "MRI of the brain",
+      "C": "EEG",
+      "D": "Electromyography",
+      "E": "Polysomnography"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Polysomnography is likely to confirm the diagnosis of narcolepsy in this patient. Narcolepsy common ly presents with hypnagogic hallucinations, daytime somnolence, sleep hallucinations, and cataplexy (muscle weakness triggered by strong emotions). The pathogenesis of narco lepsy involves the loss of orexin-A and orexin-B, which are neurotransmitters found primari ly in the hypothalamus that promote wakefulness and inhibit rapid eye movement (REM) sleep. Loss of these neurotransmitters permits abnormal transition from wakefulness to REM sleep with the consequent development of hallucinations and other features of narco lepsy, including cataplexy and sleep paralysis. Diagnosis can be made in patients with daytime somnolence and cataplexy or, in cases where cataplexy is not present, with polysomnography. Polysomnography is a sleep study performed using specialized equipment to measure oxygenation, end-tida l carbon dioxide, and time spent in various sleep stages. Patients with narcolepsy demonstrate decreased sleep latency and rapid entry into REM sleep. Other findings include spontaneous awakening and long stretches of light, non-REM sleep. Pharmacotherapy is directed as promoting wakefu lness and avoiding catap lexy.",
+    "incorrectExplanation": "nd D. Keeping a sleep log for 2 weeks (Choice A) can be helpfu l for patients who are suspected to have poor sleep hygiene and is used to identify behaviors that may be contributing to poor sleep. It is typically used for patients with insomnia, not excessive sleepiness. MRI of the brain (Choice B) is an unnecessary diagnostic test that is unlikely to provide any meaningful information about this patient's condition. This patient has no focal neurologic deficits and no other symptoms of neurologic disease. - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- -- - - - - - - - - - - - - - - r ~, ~ ~ r, Previous"
+  },
+  {
+    "id": "PSYCH-3-50",
+    "section": "Psychiatry",
+    "subsection": "CMS-3",
+    "questionNumber": 50,
+    "system": "Unknown",
+    "questionStem": "A 32-year-o ld woman comes to the physician because of increasingly severe pain that originates in her left shoulder and radiates to her elbow. She describes the pain as constant and burning, rating her current pain as a 7 on a 10-point scale. Eighteen months ago, she sustained a nerve injury of the left upper extremity in a motor vehicle collision. Since that time, she has been unable to return to work. Current medications include oxycodone and gabapentin. Physical examination shows atrophy of the left thenar eminence. Muscle strength in the left forearm and finger flexors is 3/5. On sensory examination, there is severe pain with light stroking of the antero lateral aspect of the left arm. Further sensory testing is deferred. During the examination she tells her physician, \"I'm tired of all this. My medicat ion is not strong enough. It only takes the edge off my pain, which is only getting worse. I'm realizing I'll be like this foreve r.\" Which of the following is the most appropriate response by the physician?",
+    "choices": {
+      "A": "\"Are you worried about more nerve damage developing?\"",
+      "B": "\"Do you ever use more pain medicat ion than is prescribed?\"",
+      "C": "\"Have you been feeling like just giving up?\"",
+      "D": "\"Is the pain caused by touch socially limiting?\"",
+      "E": "\"Let's review your medical concerns.\""
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "In this young patient with severe chronic pain who is expressing despair, the physician should conduct a thorough suicide risk assessment including questions about suicidal ideation or attempts. While she does not meet the criteria for major depressive disorder, which include 2 or more weeks of depressed mood, anhedonia , guilt or feelings of worthlessness, difficulty concentrating, suicidal thoughts, and/or neurovegetative symptoms (decreased energy, sleep disturbance, appetite disturbance), her expression of being \"tired of all this\" and \"realizing I'll be like this forever\" may be indications of depression. Suicide is the most serious and acute risk of patients with depression, so physicians should ask detailed questions about patients ' suicida l ideation and recent or remote suicide attempts. The physician should prioritize this line of questioning with the patient as it pertains to her immediate safety and will build rapport with the patient by helping her feel heard and understood.",
+    "incorrectExplanation": "nd E. \"Are you worried about more nerve damage developing?\" (Choice A) does not address the patient's primary concerns of worsening pain, inadequate relief, and concern for the future. The physician-patient relationship will benefit more if the patient feels understood by the physician. The physician must consider the immediate and future safety of the patient by assessing the risk for suicide. \"Do you ever use more pain medication than is prescribed?\" (Choice B) is important to ascertain from the patient. However, taking this approach to begin the conversation with the patient may imply distrust and prohibit the patient from engaging further with the physician. Asking the patient, \"Is the pain caused by touch socially limiting?\" (Choice D), may open further discussion into the effects of her - - - - - - - - - - - - - - - ... - - - - -- - - - - - - - - - -- - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - r ~, ~ ~ r, Previous"
+  }
+]

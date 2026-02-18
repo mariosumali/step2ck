@@ -1,0 +1,885 @@
+[
+  {
+    "questionNumber": 1,
+    "questionStem": "A 67-year-old white man comes to the physician because his wife is concerned about a freckle on the back of his neck. He says he has had the freckle for many years, but he has noticed that it has grown during the past 6 months. His brother died of liver cancer at the age of 50 years. Examination shows a 3-cm lesion at the base of the skull. A photograph of the lesion is shown. The remainder of the examination shows no abnormalities. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Follow-up examination in 6 months",
+      "B": "Topical application of retinoic acid",
+      "C": "Full-thickness biopsy",
+      "D": "Shave biopsy",
+      "E": "Cryoablation"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "This patient has a long-standing, benign skin lesion that has grown significantly in size on a sun-exposed area during a relatively short time. The patient photograph shows an irregular lesion with different colors which makes this highly suggestive of melanoma. (C) For melanoma, any biopsy technique other than a full-thickness biopsy is inappropriate, as depth of the lesion is important to determine (D, E).",
+    "incorrectExplanation": "Given the danger of melanoma, (A) watching or (B) applying topical therapy is also inappropriate.",
+    "id": "IM-6-1",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 2,
+    "questionStem": "A 24-year-old woman has had intermittent fever, malaise, and a generalized rash for 2 weeks. Her temperature is 37.2\u00b0C (99\u00b0F), pulse is 80/min, respirations are 14/min, and blood pressure is 124/76 mm Hg. There is a generalized erythematous maculopapular rash over the palms and soles. She has patchy alopecia of the scalp and eyebrows. Hematocrit is 36%, and leukocyte count is 9000/mm\u00b3 (70% segmented neutrophils and 30% lymphocytes). She is given intravenous aqueous penicillin G. Two hours later, she has severe chills, headache, tachycardia, flushing, and hyperventilation. Her temperature is 39.4\u00b0C (103\u00b0F), and blood pressure is 90/60 mm Hg. Which of the following is the most likely cause of her acute condition?",
+    "choices": {
+      "A": "Chronic meningococcemia",
+      "B": "Jarisch-Herxheimer reaction",
+      "C": "Rocky Mountain spotted fever",
+      "D": "Systemic lupus erythematosus",
+      "E": "Toxic shock syndrome"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "This patient received penicillin for treatment of a subacute infection that is consistent with tick-borne illnesses such as Rocky Mountain spotted fever. (B) However, the worsening of the condition after penicillin points strongly to the presence of a Jarisch\u2013Herxheimer reaction. This is caused by direct injury to bacteria and results in the release of endotoxin and causes signs of sepsis. Patients are typically at risk of shock, but this is typically self-limiting.",
+    "incorrectExplanation": "(A) Chronic meningococcemia is a possibility but not the cause of the effects noted after penicillin injection; (C) the same applies for Rocky Mountain spotted fever. (D) Systemic lupus would not have this effect following a penicillin injection. (E) There is no clinical evidence to suggest this is toxic shock syndrome, which may initially present as a similar diffuse erythematous macular rash that includes involvement of the palms and soles, but it typically progresses to desquamation of the palms and soles one to two weeks later and is often accompanied by multiorgan system involvement.",
+    "id": "IM-6-2",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 3,
+    "questionStem": "A 53-year-old man notices a lump in his neck. Examination shows a hard 2-cm nodule in the lower left pole of the thyroid gland. Needle biopsy shows papillary carcinoma, and he undergoes total thyroidectomy. Five days later, he reports facial numbness and tingling, muscle pain, and hoarseness. Physical examination shows laryngeal stridor and a positive Chvostek sign. Which of the following is the most appropriate management?",
+    "choices": {
+      "A": "Hydration with 0.9% isotonic saline intravenously",
+      "B": "Administration of calcium gluconate intravenously",
+      "C": "Administration of glucocorticoids",
+      "D": "Administration of 50,000 U of vitamin D",
+      "E": "Endotracheal intubation"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "The patient is exhibiting signs of severe hypocalcemia, due to acute hypoparathyroidism, a known complication of thyroidectomy. Immediate treatment with intravenous calcium gluconate is warranted (B is correct).",
+    "incorrectExplanation": "While the patient has evidence of stridor, he does not yet show signs of respiratory compromise, and treatment of the hypocalcemia should abate the laryngospasm, making endotracheal intubation at this time inappropriate (E is incorrect). High dose vitamin D is often used in the chronic management of hypoparathyroidism but is not indicated in this emergency situation (D is incorrect). Corticosteroids may induce tetany in hypoparathyroid patients and would be inappropriate at this time (C is incorrect). Administration of 0.9% isotonic saline followed by diuresis would be appropriate in the management of hypercalcemia but would not be appropriate in this patient (A is incorrect).",
+    "id": "IM-6-3",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 4,
+    "questionStem": "A 77-year-old man comes to the physician because of a 3-month history of intermittent mild abdominal pain. He also has had rectal pain with bowel movements and occasionally notices traces of red blood in his stool. He has type 2 diabetes mellitus, benign prostatic hyperplasia, and hypertension. Current medications include insulin, tamsulosin, lisinopril, and hydrochlorothiazide; verapamil was added 4 months ago. A colonoscopy performed 1 year ago showed no abnormalities. He is not in distress. His blood pressure is 108/72 mm Hg. Examination shows moist mucous membranes. The abdomen is slightly distended and tender. The prostate is enlarged, and there is an external hemorrhoid. Rectal examination shows hard stool in the rectal vault. Sensation to light touch and vibration is intact over the distal lower extremities. An x-ray of the abdomen shows multiple air-fluid levels and stool throughout the bowel. Which of the following is the most likely cause of this patient's current symptoms?",
+    "choices": {
+      "A": "Adverse effect of verapamil",
+      "B": "Colon cancer",
+      "C": "Dehydration",
+      "D": "Diabetic neuropathy of the colon",
+      "E": "Metastatic prostate cancer"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "With a presentation of abdominal pain, pain with bowel movements, intermittent hematochezia, and external hemorrhoids, constipation is the most likely cause of the patient's symptoms. Dose-dependent constipation is a well-known side effect of verapamil and can be seen in up to 25% of patients, and given the timing of his symptoms after verapamil was started, it is the most likely cause (A is correct).",
+    "incorrectExplanation": "While colon cancer can cause abdominal discomfort, constipation, and hematochezia, a normal colonoscopy just one year ago makes this much less likely (B is incorrect). The presence of moist mucus membranes makes dehydration leading to constipation much less likely as well (C is incorrect). Diabetic neuropathy can lead to motility dysfunction in the GI tract but is more commonly associated with gastroesophageal reflux, gastroparesis, and chronic diarrhea; this is also more likely amongst type 1 diabetics vs. type 2 diabetics (D is incorrect). The most common symptom at presentation of metastatic prostate cancer is bone pain; among other symptoms at presentation, urinary symptoms such as hematuria, inability to void or incontinence are much more likely than constipation (E is incorrect).",
+    "id": "IM-6-4",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 5,
+    "questionStem": "A 52-year-old woman with hypertension and type 2 diabetes mellitus is admitted to the hospital because of a 2-day history of increasing confusion. She is left-hand dominant. Her medications are lisinopril and metformin. On admission, she is awake and alert. Her temperature is 38.3\u00b0C (101\u00b0F), pulse is 100/min, and blood pressure is 130/70 mm Hg. On examination, muscle strength is 5/5 bilaterally. Sensation to light touch and pinprick is intact. Coordination is normal. She cannot recall a name and address after 5 minutes. A T2-weighted MRI of the brain is shown. Which of the following is the most appropriate pharmacotherapy?",
+    "choices": {
+      "A": "Acyclovir",
+      "B": "Ceftriaxone",
+      "C": "Dexamethasone",
+      "D": "Low-molecular-weight heparin",
+      "E": "Mannitol",
+      "F": "Pyrimethamine-sulfadiazine"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "This patient is a 52-year-old woman who comes to the office because of encephalopathy but no other neurologic findings on examination. She is febrile. Meningitis and encephalitis are a concern. (A) MRI shows hyperattenuation in the temporal lobe, making herpes simplex encephalitis the most likely diagnosis and thus acyclovir the best option.",
+    "incorrectExplanation": "(B) Ceftriaxone would treat meningococcal meningitis which is less likely but might be an appropriate empiric therapy before the MRI. (C) Dexamethasone would be appropriate for bacterial meningitis. (E) There is no suggestion of brain edema, so mannitol is not necessary. (D) There is no indication to provide heparin. (F) Pyrimethamine-sulfadiazine is used to treat toxoplasmosis which may cause these symptoms but is more likely in patients that are immunocompromised which this patient is not.",
+    "id": "IM-6-5",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 6,
+    "questionStem": "A previously healthy 52-year-old man comes to the physician because of a 6-month history of cough productive of white sputum. He has had no chest pain. He has smoked one pack of cigarettes daily for 25 years. His pulse is 80/min and regular, respirations are 18/min, and blood pressure is 136/86 mm Hg. Breath sounds are decreased throughout with a prolonged expiratory phase. Cardiac examination shows no abnormalities. Spirometry shows an FEV1/FVC ratio of 0.65. Which of the following is the most likely explanation for these findings?",
+    "choices": {
+      "A": "Alveolar destruction and fibrosis",
+      "B": "Diffuse infiltrative disease of the lung parenchyma",
+      "C": "Diffuse thickening of the pleura",
+      "D": "Histamine-mediated bronchospasm and edema",
+      "E": "Mass effect in peripheral lung parenchyma"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "With chronic cough over 6 months, significant smoking history, and physical exam suggestive of hyperinflation and expiratory obstruction, the patient's history and exam are strongly suggestive of chronic obstructive pulmonary disease/emphysema. The FEV1:FVC ratio of less than 0.7 essentially confirms the diagnosis. The pathophysiology of emphysema is predominately that of alveolar destruction and fibrosis (A is correct).",
+    "incorrectExplanation": "A diffuse infiltrative parenchymal lung disease such as idiopathic pulmonary fibrosis or diffuse thickening of the pleura would most likely lead to a restrictive pattern on spirometry, with decreased FEV1 and FEV1 with a FEV1:FVC ratio > 0.7 (B and C are incorrect). Histamine-mediated bronchospasm and edema is more likely to present as episodes of dyspnea and may be worsened by exercise or by certain triggers; cough may be present but is typically more common at night or in early morning (D is incorrect). A lung mass in the peripheral parenchyma of the lung is not likely to cause changes in spirometry; chronic cough may indeed be a symptom of lung mass but is more common with more central masses that affect the larger airways (E is incorrect).",
+    "id": "IM-6-6",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 7,
+    "questionStem": "A previously healthy 22-year-old man is brought to the emergency department 1 hour after he was hit in his right flank by a hockey stick. He reports no blood in his urine. He rates his pain as a 6 on a 10-point scale. His pulse is 100/min, and blood pressure is 140/90 mm Hg. Examination shows moderate tenderness to palpation over the right flank. His hematocrit is 42%. Urinalysis shows no abnormalities. Which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "Diagnostic laparoscopy",
+      "B": "Renal arteriography",
+      "C": "Retrograde urethrography",
+      "D": "Spiral CT scan of the abdomen",
+      "E": "No further testing is indicated"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "The patient presents with blunt trauma to the flank which may result in renal traumatic injury. In the absence of hematuria on urinalysis, the likelihood of renal trauma is low, and no further imaging or evaluation is required (E is correct). He is not showing any signs of hemodynamic instability or active bleeding, so urgent surgical intervention is not warranted (A is incorrect). If hematuria were present, evaluation with CT scan of the abdomen would be warranted (D is incorrect). Retrograde urethrography would be indicated in the setting of suspected urethral injury in the setting of trauma to the penis, scrotum, perineum, or pelvis, which is not the case here (C is incorrect). Renal arteriography may be warranted in the setting of ongoing bleeding from renal trauma to allow for angioembolization; in the absence of hematuria, it is not warranted here (B is incorrect).",
+    "incorrectExplanation": "",
+    "id": "IM-6-7",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 8,
+    "questionStem": "A 24-year-old woman, gravida 1, para 1, comes to the physician because of a 3-month history of fatigue. Menses occur at regular intervals with no excessive bleeding. She takes no medications or vitamin supplements. Examination shows no abnormalities except for pale conjunctivae. Her hemoglobin concentration is 9 g/dL. A blood smear is shown. This patient most likely has a deficiency of which of the following?",
+    "choices": {
+      "A": "Folic acid",
+      "B": "Iron",
+      "C": "Niacin",
+      "D": "Vitamin B1 (thiamine)",
+      "E": "Vitamin B6"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "(B) A premenopausal woman with anemia who has regular menses and no other history of nutritional deficiencies would most likely have iron deficiency anemia caused from blood loss. Blood smear shows hypochromia and supports this diagnosis.",
+    "incorrectExplanation": "(C) Niacin and (E) B6 would not likely lead to anemia, and (A) folate and (D) B1 deficiencies have macrocytosis.",
+    "id": "IM-6-8",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 9,
+    "questionStem": "A 62-year-old woman comes to the physician 8 days after she had loss of consciousness while combing her hair. She says she felt light-headed before she passed out. During the past 3 months, she has had two similar episodes and has noticed that her left arm tires easily. She is left-handed. She has hypertension treated with hydrochlorothiazide and atenolol. She has smoked one pack of cigarettes daily for 40 years. Her pulse is 76/min and regular, and blood pressure is 148/92 mm Hg in the right arm. Heart sounds are normal. The radial and brachial pulses are absent on the left and present on the right. Pedal pulses are decreased bilaterally. Muscle strength and sensation are normal. Which of the following is the most likely cause of this patient's symptoms?",
+    "choices": {
+      "A": "Coarctation of the aorta",
+      "B": "Left cervical rib",
+      "C": "Raynaud disease",
+      "D": "Subclavian steal syndrome",
+      "E": "Thromboangiitis obliterans",
+      "F": "Transient ischemic attack"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "This patient has subclavian steal syndrome, which is a proximal stenosis of the subclavian artery. Physical examination shows there is absent left-sided pulses, hypertension, a history of smoking (cardiovascular risk factors), and weakened leg pulses which is the likely presence of peripheral vascular disease and together support the diagnosis. (D) The 'steal' comes from retrograde vertebral artery flow to aid blood flow to the affected arm, which leads to a loss of consciousness.",
+    "incorrectExplanation": "(A) Coarctation of the aorta and (B) a cervical rib could cause the vascular symptoms of weakened pulses in the left arm, but typically would not lead to syncope and occur much earlier in life. (C) Raynaud disease is vasocclusion of the small vessels and often has red, blue, and white skin discoloration, which is absent in this patient. (E) Thromboangiitis obliterans is certainly possible in this patient, but this disease affects medium to small vessels and the distribution of symptoms in this patient clearly are in large vessels. (F) A transient ischemic attack could explain the syncope, particularly in the vertebrobasilar system, but would not cause the peripheral symptoms.",
+    "id": "IM-6-9",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 10,
+    "questionStem": "A 62-year-old woman comes to the physician for a follow-up examination. Her blood pressure was 140/90 mm Hg 3 months ago and 138/92 mm Hg 6 months ago. She has a 5-year history of type 2 diabetes mellitus well controlled with metformin. Her only other medication is aspirin. She has tried to limit her sodium intake to 2 g daily and reports moderate success. Her pulse is 80/min, and blood pressure is 145/85 mm Hg. Funduscopic examination shows no abnormalities. An S4 is heard. Urinalysis shows: Glucose negative, Protein 1+, RBC none, WBC none. An ECG shows no abnormalities. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Schedule a follow-up visit in 3 months",
+      "B": "Decrease her sodium intake to 1 g daily",
+      "C": "Begin hydrochlorothiazide therapy",
+      "D": "Begin lisinopril therapy",
+      "E": "Begin metoprolol therapy"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "The patient is a 62-year-old woman who has had two consecutive measurements of elevated blood pressure and a diagnosis of hypertension. (D) Proteinuria was present and, of the available options, lisinopril is the most evidence-based drug to delay the onset of kidney disease in patients with type 2 diabetes mellitus and hypertension.",
+    "incorrectExplanation": "(C) While hydrochlorothiazide and (E) metoprolol would improve her blood pressure, they do not have the same renal effects. (A) Scheduling a follow-up examination or (B) reducing the patient\u2019s sodium intake is incorrect because this patient meets the indications for treatment.",
+    "id": "IM-6-10",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 11,
+    "questionStem": "A 35-year-old man has had recurrent episodes of dysuria and pelvic pain over the past 2 years. He is sexually active. Examination shows a tender prostate. Urinalysis shows 2\u20135 WBC/hpf. A urine culture is negative. Which of the following is the most likely cause?",
+    "choices": {
+      "A": "Chancroid",
+      "B": "Chlamydia trachomatis",
+      "C": "Herpes simplex",
+      "D": "Syphilis",
+      "E": "Trichomonas vaginalis"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "In this patient, the presentation of recurrent dysuria and tender prostate on exam is consistent with chronic prostatitis. While the most common etiologic agents are gram negative rods such as E. coli, a negative urine culture should prompt evaluation for Chlamydia trachomatis in sexually active men (B is correct).",
+    "incorrectExplanation": "Chancroid is caused by Haemophilus ducreyi and causes painful genital ulcerations and does not cause symptoms of dysuria and urethritis (A is incorrect). While primary infection with herpes simplex virus can cause dysuria, chronic, recurrent herpes simplex typically presents with small vesicular and ulcerative genital lesions (C is incorrect). Syphilis, caused by Treponema pallidum, is associated with an ulcerative lesion (chancre) in early infection, which may progress to secondary and tertiary syphilis in chronic infection, which may present with systemic involvement of the cardiovascular or nervous systems (D is incorrect). Trichomonas vaginalis, while a rare cause of urethritis in men, can be identified in a high proportion of male sexual partners of infected women, though the infection is typically asymptomatic and self-limited (E is incorrect).",
+    "id": "IM-6-11",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 12,
+    "questionStem": "A 32-year-old man comes to the physician because of a 4-week history of moderate numbness and weakness of his left hand. There is no history of trauma to the hand. He has hypertension treated with enalapril and type 1 diabetes mellitus treated with insulin. He is 173 cm (5 ft 8 in) tall and weighs 63 kg (140 lb); BMI is 21 kg/m\u00b2. His temperature is 37\u00b0C (98.6\u00b0F), pulse is 84/min, respirations are 16/min, and blood pressure is 146/88 mm Hg. Examination shows atrophy of the hypothenar muscles. The middle, ring, and small fingers are held in flexion; there is weakness of abduction of the small finger. The patient cannot prevent paper from being pulled through his fingers. All other intrinsic hand muscles are normal. Deep tendon reflexes are 1+ at the left brachioradialis, biceps, and triceps muscles. Sensation to pinprick is decreased over the palmar aspect of the left ring and small fingers and the hypothenar region of the hand. The remainder of the examination shows no other abnormalities. Which of the following is the most likely cause of these findings?",
+    "choices": {
+      "A": "Cervical syringomyelia",
+      "B": "C8 nerve root compression",
+      "C": "Lesion of the lower trunk of the brachial plexus",
+      "D": "Lesion of the medial cord of the brachial plexus",
+      "E": "Ulnar nerve compression"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "This patient comes to the office because of weakness and muscle atrophy of the medial aspect of his left hand. (E) This is most likely caused by neuropathy from the ulnar nerve.",
+    "incorrectExplanation": "(A) Syringomyelia might cause similar symptoms but would typically affect both hands and cause deficits to temperature sensation. (B) C8 nerve root compression and (C, D) lesions on the lower trunk and medial cord of the brachial plexus would not cause this constellation of symptoms.",
+    "id": "IM-6-12",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 13,
+    "questionStem": "A 77-year-old woman comes to the physician because of a 3-week history of light-headedness. She states that she feels as if she is going to pass out when she gets out of bed in the morning. She has not had chest pain, shortness of breath, or palpitations. She has hypertension and hypothyroidism. Current medications include hydrochlorothiazide, enalapril, and levothyroxine. She appears fatigued. She is 183 cm (6 ft) tall and weighs 86 kg (190 lb); BMI is 26 kg/m2. Her temperature is 37.2\u00b0C (99\u00b0F), pulse is 64/min and irregularly irregular, respirations are 16/min, and blood pressure is 150/90 mm Hg while supine and 135/85 mm Hg while standing. Examination shows dry skin. The thyroid gland is symmetrically enlarged, nodular, and nontender. Jugular venous pulsations are present 3 cm above the sternal angle and decrease by 2 cm with inspiration. The lungs are clear to auscultation. A grade 1/6 systolic murmur is heard best at the left sternal border without radiation. There is trace pitting edema of the ankles. Neurologic examination shows no focal findings. Results of a complete blood count are within the reference range. Her serum potassium concentration is 3.4 mEq/L, and serum thyroid-stimulating hormone concentration is 1.5 \u03bcU/mL. An ECG shows atrial fibrillation with a ventricular rate of 64/min and is otherwise unchanged from an ECG 1 year ago. Which of the following is the most appropriate next step to determine the cause of this patient's light-headedness?",
+    "choices": {
+      "A": "Measurement of serum free thyroxine concentration",
+      "B": "Serial measurements of serum creatine kinase activity",
+      "C": "Thyrotropin-releasing hormone stimulation test",
+      "D": "Ambulatory ECG monitoring",
+      "E": "Exercise stress test"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "This is a patient with symptoms of near-syncope. She has symptoms perhaps of hypothyroidism but the presence of jugular venous distention and peripheral edema may also support heart failure. However, since the patient has a known tachyarrhythmia, atrial fibrillation, and a slow pulse there is most likely atrioventricular dissociation which would be caused by sick sinus syndrome. Her serum thyroid-stimulating hormone concentration is within reference ranges. Although sick sinus syndrome can be associated with severe hypothyroidism, her current treatment suggests she may be undertreated but not to the point of likely causing the heart block. (D) An ambulatory ECG is needed to confirm bradycardia when she has her current symptoms, and the treatment would ultimately be a pacemaker.",
+    "incorrectExplanation": "(A, B, C, E) None of the other listed diagnostic studies would disclose that diagnosis.",
+    "id": "IM-6-13",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 14,
+    "questionStem": "A 52-year-old woman has decreased urine output 6 hours after admission to the hospital for treatment of a 3-day history of nausea and vomiting. She has type 2 diabetes mellitus and peripheral neuropathy. Her outpatient medications were glipizide, atorvastatin, lisinopril, and 81-mg aspirin; all medications were held on admission. Her blood pressure was 82/40 mm Hg on admission. After beginning intravenous administration of fluids, her blood pressure increased to 110/70 mm Hg. On examination now, the abdomen is soft, and there is diffuse mild tenderness with no guarding or rebound. Bowel sounds are decreased. There is decreased sensation to light touch over the feet. Laboratory studies show: \n\nOn Admission Now\nFingerstick blood glucose 4+ 4+\nSerum\nUrea nitrogen (mg/dL) 38 54\nCreatinine (mg/dL) 1.8 2.6\nUrine\nSpecific gravity 1.028 1.011\nRBC (/hpf) 0\u20132 0\u20132\nCasts None coarse granular\n\nWhich of the following is the most likely explanation for this patient's decreased urine output?",
+    "choices": {
+      "A": "Acute glomerulonephritis",
+      "B": "Acute interstitial nephritis",
+      "C": "Acute tubular necrosis",
+      "D": "Bilateral hydronephrosis",
+      "E": "Rhabdomyolysis"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "The patient presented with hypotension and acute renal failure, which has since worsened and has developed coarse granular casts, suggesting acute tubular necrosis as a cause of her acute renal failure (C is correct). ATN is amongst the most common causes of AKI and is commonly due to hypotension. The fact that the patient's AKI did not improve with fluid resuscitation suggests ATN as the cause as opposed to prerenal azotemia.",
+    "incorrectExplanation": "Acute glomerulonephritis is typically present with hematuria in the absence of a urinary tract infection; proteinuria may also be present (A is incorrect). Acute interstitial nephritis typically presents with eosinophiluria, and urine sediment typically shows white cells, red cells, and white cell casts (B is incorrect). Bilateral hydronephrosis would typically present with hematuria or pyuria depending on cause of obstruction (D is incorrect). Rhabdomyolysis will typically present with dark red to brown urine, with elevated levels of urine myoglobin, and may have a small amount of RBC per high power field; casts are not typically seen (E is incorrect).",
+    "id": "IM-6-14",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 15,
+    "questionStem": "His serum electrolyte concentrations are within the reference range. Which of the laboratory findings in this patient is associated with the worst prognosis?",
+    "choices": {
+      "A": "Leukocyte count",
+      "B": "Mean corpuscular volume",
+      "C": "Serum albumin concentration",
+      "D": "Serum amylase activity",
+      "E": "Serum calcium concentration"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "The patient\u2019s presentation is strongly suggestive of acute pancreatitis given his history of alcoholism and epigastric pain radiating to the back. Several scoring systems can help to predict severity of acute pancreatitis, Ranson\u2019s criteria being one of the earliest and most commonly used. It is based off of 11 factors that are measured, 5 at admission and 6 at 48 hours, each of which are assigned a point value of 1 if present. The table below shows the criteria and their cutoff values. Of the clinical factors present in this patient, hypocalcemia at 48 hours is the greatest predictor of mortality in this patient (E is correct).",
+    "incorrectExplanation": "An elevated leukocyte count > 16,000/mm^3 at admission is associated with higher mortality according to Ranson\u2019s criteria; however, an only mildly elevated leukocyte count at 48h is not associated with increased mortality (A is incorrect). While a fall in hematocrit > 10% at 48h is associated with increased mortality, a slightly increased mean corpuscular volume is not (B is incorrect). While some recent studies have shown that hypoalbuminemia in pancreatitis is associated with organ failure and death in severe hypoalbuminemia, the mildly decreased serum albumin in this patient is well above the cutoff points that have been identified (C is incorrect). While elevated amylase activity can be helpful in the diagnosis of pancreatitis, elevated levels at 48 hours after admission have not been identified as an independent risk factor for mortality (D is incorrect).",
+    "id": "IM-6-15",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 15,
+    "questionStem": "A 42-year-old man with alcoholism is admitted to the hospital 12 hours after the onset of severe epigastric pain that radiates to the back. He has had several episodes of vomiting. His temperature is 38.5\u00b0C (101.3\u00b0F), pulse is 102/min, respirations are 20/min, and blood pressure is 110/70 mm Hg. There is tenderness to palpation in the epigastrium and right upper quadrant of the abdomen; there are no signs of peritonitis. Bowel sounds are decreased. After 2 days, laboratory studies show: Hemoglobin 13 g/dL Mean corpuscular volume 102 \u03bcm\u00b3 Leukocyte count 12,000/mm\u00b3 Segmented neutrophils 76% Bands 4% Lymphocytes 20% Serum Ca\u00b2\u207a 6 mg/dL Urea nitrogen 20 mg/dL Creatinine 1.4 mg/dL Albumin 3.5 g/dL Amylase 500 U/L His serum electrolyte concentrations are within the reference range. Which of the laboratory findings in this patient is associated with the worst prognosis?",
+    "choices": {
+      "A": "Leukocyte count",
+      "B": "Mean corpuscular volume",
+      "C": "Serum albumin concentration",
+      "D": "Serum amylase activity",
+      "E": "Serum calcium concentration"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "The patient\u2019s presentation is strongly suggestive of acute pancreatitis given his history of alcoholism and epigastric pain radiating to the back. Several scoring systems can help to predict severity of acute pancreatitis, Ranson\u2019s criteria being one of the earliest and most commonly used. It is based off of 11 factors that are measured, 5 at admission and 6 at 48 hours, each of which are assigned a point value of 1 if present. The table below shows the criteria and their cutoff values. Of the clinical factors present in this patient, hypocalcemia at 48 hours is the greatest predictor of mortality in this patient (E is correct).",
+    "incorrectExplanation": "An elevated leukocyte count > 16,000/mm\u00b3 at admission is associated with higher mortality according to Ranson\u2019s criteria; however, an only mildly elevated leukocyte count at 48h is not associated with increased mortality (A is incorrect). While a fall in hematocrit > 10% at 48h is associated with increased mortality, a slightly increased mean corpuscular volume is not (B is incorrect). While some recent studies have shown that hypoalbuminemia in pancreatitis is associated with organ failure and death in severe hypoalbuminemia, the mildly decreased serum albumin in this patient is well above the cutoff points that have been identified (C is incorrect). While elevated amylase activity can be helpful in the diagnosis of pancreatitis, elevated levels at 48 hours after admission have not been identified as an independent risk factor for mortality (D is incorrect).",
+    "id": "IM-6-15",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 16,
+    "questionStem": "A 32-year-old woman comes to the emergency department because of fever and cough with increasing production of purulent sputum for 24 hours. She has had asthma since childhood that is characterized by episodes of coughing and wheezing. Treatment with inhaled corticosteroids was begun 8 months ago. She has been hospitalized twice over the past 2 months for low-grade fever, increased sputum production, and a poorly resolving infiltrate in the left lower lobe; sputum cultures at that time grew normal flora and Aspergillus fumigatus. She is in moderate respiratory distress. Her temperature is 38\u00b0C (100.4\u00b0F), pulse is 95/min, respirations are 22/min, and blood pressure is 110/68 mm Hg. Diffuse expiratory wheezes and crackles are heard at the left lung base. Cardiac examination shows a normal S1 and S2 with no murmurs. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Allergic bronchopulmonary aspergillosis",
+      "B": "\u03b11-Antitrypsin deficiency",
+      "C": "Cystic fibrosis",
+      "D": "Pertussis",
+      "E": "Wegener granulomatosis"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "The presence of Aspergillus fumigatus on sputum culture, combined with uncontrolled asthma despite treatment with inhaled corticosteroids, and a fixed infiltrate on chest x-ray, makes allergic bronchopulmonary aspergillosis (ABPA) the most likely diagnosis in this situation (A is correct). A positive skin test against aspergillus antigen and elevated IgE levels would be seen on lab testing. Bronchiectasis is commonly seen on CT scan.",
+    "incorrectExplanation": "\u03b11-Antitrypsin deficiency typically presents with emphysema and can also cause chronic liver disease, neither of which are present in this patient (B is incorrect). Cystic fibrosis may present with chronic, recurrent respiratory infections or symptoms of malabsorption; as this patient's symptoms are more subacute, cystic fibrosis is much less likely (C is incorrect). Pertussis typically presents as a chronic cough (without fever) after an initial 1-2 week period of mild cough, fever, malaise, and increased sputum production; radiographic infiltrates are not common, except in the case of secondary pneumonia (D is incorrect). Wegener granulomatosis (granulomatosis with polyangiitis) may present with cough, pulmonary infiltrates, hemoptysis, and may be associated with renal involvement; a positive sputum culture makes the diagnosis of a vasculitic lung disease, such as Wegener, unlikely (E is incorrect).",
+    "id": "IM-6-16",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 17,
+    "questionStem": "A previously healthy 37-year-old woman comes to the physician because of a 2-year history of progressive shortness of breath. During this period, she also has had intermittent nonproductive cough and wheezing, especially when she has colds during the winter. She has not had night sweats. She takes no medications. She has smoked one-half pack of cigarettes daily for 9 years. She is employed as a landscape architect. Her 60-year-old father has had emphysema since his early 40s. The patient appears well. Her pulse is 80/min, respirations are 16/min, and blood pressure is 120/80 mm Hg. The lungs are clear to auscultation. Breath sounds are mildly decreased at the lung bases. The remainder of the examination shows no abnormalities. Pulse oximetry on room air shows an oxygen saturation of 97%. Spirometry shows an FEV1 of 45% of predicted. X-rays of the chest are shown. Which of the following is the most likely mechanism of this patient's lung injury?",
+    "choices": {
+      "A": "Chronic exposure to environmental allergens",
+      "B": "Chronic infection with Aspergillus fumigatus",
+      "C": "Chronic infection with respiratory syncytial virus",
+      "D": "Chronic irritation and inflammation from cigarette smoking",
+      "E": "Defective chloride secretion from respiratory epithelium",
+      "F": "Insufficient inhibition of neutrophil elastase"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "The patient's chronic dyspnea with bouts of exacerbation, along with a family history of early emphysema, and markedly reduced FEV1 on spirometry, indicates the patient most likely has emphysema secondary to alpha-1 antitrypsin deficiency. Deficiency in alpha-1 antitrypsin leads to unopposed proteolytic activity due to insufficient inhibition of neutrophil elastase (F is correct).",
+    "incorrectExplanation": "Chronic exposure to environmental allergens may lead to chronic hypersensitivity pneumonitis, which would typically lead to bilateral ground glass and reticular infiltrates with centrilobular nodules on imaging (A is incorrect). Chronic infection with Aspergillus fumigatus can be seen in patients with chronic lung disease, such as ABPA in patients with asthma, and is characterized by transient pulmonary infiltrates and bronchiectasis. Lung cavities may also be infected with aspergillus and are classically associated with cavities with air fluid levels or dense fungal balls (B is incorrect). In immunocompetent patients, respiratory syncytial virus can cause subacute/chronic cough, but symptoms typically subside after 8 weeks (C is incorrect). Chronic irritation from cigarette smoking is likely to cause chronic cough and dyspnea but typically does not cause changes in spirometry until development of COPD/emphysema and irreversible damage has occurred (D is incorrect). Cystic fibrosis, which is caused by defective chloride secretion from respiratory epithelium, may present with chronic, recurrent respiratory infections or symptoms of malabsorption; bronchiectasis and mucus impaction are hallmark findings on imaging (E is incorrect).",
+    "id": "IM-6-17",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 18,
+    "questionStem": "A 62-year-old man comes to the physician because of moderate right leg pain for 2 days. He has metastatic non-small cell carcinoma of the lung and completed palliative chemotherapy 3 weeks ago. He takes no other medications. His temperature is 37\u00b0C (98.6\u00b0F), pulse is 90/min, respirations are 22/min, and blood pressure is 146/80 mm Hg. Cardiopulmonary examination shows no abnormalities. Laboratory studies show: Hemoglobin 13 g/dL, Platelet count 367,000/mm\u00b3, Prothrombin time 12 sec (INR=1), Partial thromboplastin time 28 sec, Serum creatinine 1.1 mg/dL. Venous duplex ultrasonography of the right lower extremity shows thrombosis in the common femoral vein. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Oral administration of aspirin",
+      "B": "Oral administration of warfarin",
+      "C": "Subcutaneous administration of enoxaparin",
+      "D": "CT angiography of the chest",
+      "E": "Placement of an inferior vena cava filter"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "This is a patient with a metastatic malignancy which presents with acute leg pain. Deep venous thrombosis stands out as the most likely diagnosis and the femoral ultrasonography confirms the presence of a deep venous thrombosis. (C) Low-molecular weight heparin (LMWH) such as enoxaparin is the treatment of choice to both prevent and treat a deep venous thrombosis in malignancy.",
+    "incorrectExplanation": "(B) Warfarin therapy is a reasonable choice for deep venous thrombosis not related to malignancy but has a delayed onset of effect and may inhibit protein C and S before inhibiting clotting factors. If warfarin is used there must be a bridge with heparin or LMWH. (A) Aspirin is not sufficient treatment for a deep venous thrombosis. (D) CT angiography in the absence of respiratory symptoms or respiratory failure is not warranted because detection of a pulmonary embolus would not alter management. (E) An inferior vena cava filter would not treat the deep venous thrombosis and has not been shown to alter outcomes for patients with malignancy and thrombus.",
+    "id": "IM-6-18",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 19,
+    "questionStem": "A moderately obese 35-year-old woman has a 4-year history of recurrent abscesses in both axillae. These are progressively more frequent and severe. The episodes are interfering with her ability to work. She has type 2 diabetes mellitus that is fairly well controlled by diet and the use of oral hypoglycemic agents. Which of the following is the most appropriate management?",
+    "choices": {
+      "A": "Institution of insulin therapy to improve glucose control",
+      "B": "Long-term administration of antibiotics",
+      "C": "Surgical excision of apocrine tissue",
+      "D": "Topical application of silver sulfadiazine",
+      "E": "Washing three times daily with pHisoHex and water"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "This patient likely has hidradenitis suppurativa, an inflammatory condition of apocrine tissue. This patient's disease pattern demonstrates progressive symptoms and exacerbations that are affecting her quality of life. (A) In this case, the patient's type 2 diabetes mellitus is well-controlled so insulin therapy is not needed and likely poor glycemic control would not substantially alter her risk for infection. (B) Long-term administration of antibiotics would not alter her clinical course and have side effects. (D) Silver sulfadiazine would not have an effect on her symptoms, and (E) daily washing may have a benefit but given her symptoms and disease burden (C) surgical excision would be the treatment of choice.",
+    "incorrectExplanation": "",
+    "id": "IM-6-19",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 20,
+    "questionStem": "A 23-year-old woman comes to the emergency department 2 hours after the sudden onset of sharp anterior chest pain. She says that the pain is worse with inspiration and when she is supine and is relieved somewhat when she sits up. She took two acetaminophen tablets 1 hour ago, but they have not relieved the pain. She has no history of similar symptoms or serious illness. She takes no other medications. Her temperature is 37.8\u00b0C (100\u00b0F), pulse is 100/min and regular, respirations are 16/min, and blood pressure is 114/76 mm Hg. A two-component friction rub is heard at the apex. The remainder of the examination shows no abnormalities. An ECG is shown. Which of the following is the most appropriate initial step in pharmacotherapy?",
+    "choices": {
+      "A": "Oral ibuprofen",
+      "B": "Oral prednisone",
+      "C": "Sublingual nitroglycerin",
+      "D": "Intravenous heparin",
+      "E": "Intravenous morphine"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "This patient is a 23-year-old woman who has sudden, sharp chest pain with positional relief and a friction rub. An ECG shows diffuse concave ST elevations which make pericarditis the most likely diagnosis. A myocardial infarction is not likely based on the lack of risk factors, physical examination, and morphology of the ECG. (A) In the setting of acute pericarditis, non-steroidal anti-inflammatory drugs (NSAIDs), such as ibuprofen, are the initial treatment of choice, usually in conjunction with colchicine.",
+    "incorrectExplanation": "(B) Prednisone may be used for recalcitrant pericarditis or for pericarditis caused by an autoimmune disease, but not for this case as an initial therapy, unless a contraindication for NSAID therapy was present. (C, D, E) Heparin, nitroglycerin, and morphine would be treatments for myocardial infarction and so are not necessary.",
+    "id": "IM-6-20",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 21,
+    "questionStem": "A 77-year-old woman with osteoporosis and hypertension is admitted to the hospital because of progressive confusion during the past 5 days. Her husband reports that she has had constipation for the past week and abdominal pain for the past 3 days. She had right breast cancer treated with lumpectomy and radiation therapy 2 years ago. Medications are alendronate, hydrochlorothiazide, and a calcium supplement containing vitamin D. She is alert. Her temperature is 36.4\u00b0C (97.5\u00b0F), pulse is 78/min, respirations are 20/min, and blood pressure is 156/82 mm Hg. Pulmonary examination shows no abnormalities. Abdominal examination shows mild distention and tenderness throughout; there is no guarding or rebound. Rectal examination shows hard brown stool. Neurologic examination shows no focal findings. On mental status examination, she appears anxious and is not oriented to person, place, or time. Her serum calcium concentration is 14.8 mg/dL, and serum albumin concentration is 3 g/dL. A CT scan of the head without contrast shows multiple skull metastases. Which of the following is the strongest contributing factor for this patient's hypercalcemia?",
+    "choices": {
+      "A": "Alendronate therapy",
+      "B": "Constipation",
+      "C": "Hydrochlorothiazide therapy",
+      "D": "Overuse of calcium supplement",
+      "E": "Postradiation bronchogenic carcinoma",
+      "F": "Recurrence of breast cancer"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "The patient has clinical manifestations of hypercalcemia with altered mental status and constipation, confirmed by elevated serum calcium. Of etiologies of hypercalcemia, malignancy is the most common, with breast cancer being the most common malignancy in the US. Multiple bone metastases to the skull in this patient point further towards malignancy being the cause of her hypercalcemia, and the most likely source being recurrence of her previous breast cancer (F is correct).",
+    "incorrectExplanation": "Post-radiation bronchogenic carcinoma is exceedingly rare (E is incorrect). Alendronate is a bisphosphonate which surpasses bone resorption, thereby decreasing serum calcium levels and is used for treatment of hypercalcemia (A is incorrect). Her constipation is likely a consequence of her hypercalcemia as opposed to a cause of it (B is incorrect). While thiazide diuretics increase calcium reabsorption in the kidney and may lead to hypercalcemia, though this is typically mild in nature, elevation in serum calcium greater than 12 mg/dL should raise suspicion of thiazides exacerbating an underlying cause of hypercalcemia, such as hyperparathyroidism or malignancy (C is incorrect). High calcium intake by itself rarely causes hypercalcemia except in milk-alkali syndrome from excessive use of calcium carbonate or the absence of underlying chronic kidney disease. In the setting, excessive vitamin D intake can lead to hypercalcemia by increasing calcium absorption and bone resorption; however, this is also less common than hypercalcemia of malignancy (D is incorrect).",
+    "id": "IM-6-21",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 22,
+    "questionStem": "A 26-year-old man is brought to the emergency department after vomiting bright red blood twice in the past hour. He appears robust and comfortable. His pulse is 116/min, and blood pressure is 100/80 mm Hg while supine. There is mild epigastric tenderness. Test of the stool for occult blood is negative. Hematocrit is 40%. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Discharge him with instructions to return if the pain or vomiting recurs",
+      "B": "Repeat the hematocrit",
+      "C": "Measurement of serum amylase activity",
+      "D": "Intravenous administration of 0.9% saline",
+      "E": "Surgical consultation"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "In the setting of significant hematemesis and tachycardia, the patient is in class 2 hypovolemic/hemorrhagic shock, with a likely blood loss of 15-30% of their circulating volume. Volume resuscitation is the most appropriate next step with 0.9% saline (D is correct).",
+    "incorrectExplanation": "Discharging the patient without appropriate evaluation would not be appropriate (A is incorrect). A repeat hematocrit is not likely to change significantly at this time and would not change management (B is incorrect). Measurement of serum amylase would be helpful in the evaluation of pancreatitis; however, it would not be the next best step (C is incorrect). While surgical consultation may in fact be required in the course of treatment of this patient, volume resuscitation would take priority at this time (E is incorrect).",
+    "id": "IM-6-22",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 23,
+    "questionStem": "A 55-year-old woman comes to the emergency department because of fever, nausea, vomiting, diarrhea, and decreased urine output over the past 48 hours. She has an 8-year history of type 2 diabetes mellitus treated with glipizide. She has no history of renal disease. Her temperature is 39\u00b0C (102.2\u00b0F), and respirations are 24/min. While supine, her pulse is 106/min, and blood pressure is 116/70 mm Hg. While sitting, her pulse is 120/min, and blood pressure is 88/58 mm Hg. She appears acutely ill and slightly lethargic. Examination shows decreased skin turgor, dry mucous membranes, and flat neck veins. There is mild, generalized abdominal tenderness without guarding or rebound tenderness. Laboratory studies show: Leukocyte count 15,000/mm\u00b3 Serum Na\u207a 146 mEq/L Cl\u207b 100 mEq/L K\u207a 2.9 mEq/L HCO\u2083\u207b 28 mEq/L Urea nitrogen 72 mg/dL Glucose 254 mg/dL Creatinine 3.4 mg/dL Urine Na\u207a 8 mEq/L pH 5.0 Specific gravity 1.028 Glucose 2+ Ketones trace Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Acute interstitial nephritis",
+      "B": "Acute tubular necrosis",
+      "C": "Obstructive uropathy",
+      "D": "Postinfectious glomerulonephritis",
+      "E": "Prerenal azotemia"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "This patient has decreased urine output and increased blood urea nitrogen and creatinine, indicative of acute kidney injury. Her exam shows signs of dehydration with dry mucosa, decreased skin turgor, and intravascular volume depletion, evidenced by her orthostatic hypotension and tachycardia. If available, a urine creatinine would allow for the calculation of the fractional excretion of sodium, which, given the low urine sodium level, is likely to be quite low. With this clinical presentation, prerenal azotemia, one of the most common etiologies of acute kidney injury, is the most likely diagnosis (E is correct).",
+    "incorrectExplanation": "Acute interstitial nephritis is usually seen in the context of initiation of a new medication and is usually associated with eosinophils in the urine, which is not the case in this scenario (A is incorrect). Acute tubular necrosis can arise from a multitude of different clinical scenarios (most commonly ischemia from surgery, trauma, or sepsis), and its diagnosis is reserved until both prerenal and postrenal causes of acute kidney injury are ruled out (B is incorrect). In the absence of physical signs and symptoms of urinary retention or hydronephrosis (readily seen on bedside renal ultrasound), obstructive uropathy is much less likely (C is incorrect). Postinfectious glomerulonephritis typically presents about 2 weeks after streptococcal throat infection or other bacterial or viral infections and is usually associated with significant proteinuria (D is incorrect).",
+    "id": "IM-6-23",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 24,
+    "questionStem": "A 62-year-old woman has had progressively severe midback pain over the past month. She has been fatigued and less mentally alert for 3 weeks. Her temperature is 37\u00b0C (98.6\u00b0F), pulse is 82/min, respirations are 14/min, and blood pressure is 140/80 mm Hg. The remainder of the examination shows no abnormalities except for impaired cognitive function. Laboratory studies show: Hemoglobin 8 g/dL, Hematocrit 24%, Leukocyte count 12,500/mm\u00b3, Serum Ca\u00b2\u207a 12.4 mg/dL, Urea nitrogen 35 mg/dL, Creatinine 2.4 mg/dL. Serum electrolyte concentrations are within normal limits. An x-ray of the chest shows no abnormalities. A lateral x-ray of the skull is shown. Which of the following is the most appropriate next step in evaluation?",
+    "choices": {
+      "A": "Serum protein electrophoresis",
+      "B": "Mammography",
+      "C": "Bone scan",
+      "D": "CT scan of the head",
+      "E": "Renal biopsy"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "This patient is a 62-year-old woman with progressive mid back pain, anemia, and elevated serum creatinine concentration (indicating renal failure) which is a classic triad for multiple myeloma. (A) The elevated calcium concentration supports this diagnosis and the lytic lesion seen on the x-ray of the skull adds further support. The next step in diagnosis would be to measure a urine and serum protein electrophoresis, ideally with immunofixation.",
+    "incorrectExplanation": "(B) Mammography would be reasonable as a routine study but not to diagnose melanoma. (C) Bone scan is not typically done but could be considered if there is concern for marrow uptake or lytic lesions not seen on a skeletal survey but is not typically done. (D) CT scan is not necessary as the lytic lesion is seen on x-ray. (E) A renal biopsy would not be the first diagnostic study to consider in a patient with this presentation, but could be considered if electrophoresis is within normal limits and there is still renal failure without a clear cause.",
+    "id": "IM-6-24",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 25,
+    "questionStem": "Two days after a myocardial infarction, a previously asymptomatic 60-year-old woman develops pulmonary edema. A grade 4/6 systolic murmur is heard at the apex. Oxygen saturation in the right atrium and pulmonary artery is 65%, and pulmonary artery diastolic pressure is 35 mm Hg. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Ruptured interventricular septum",
+      "B": "Ruptured left ventricular free wall",
+      "C": "Ruptured papillary muscle",
+      "D": "Ruptured pulmonary valve",
+      "E": "Torn chordae tendineae of the tricuspid valve"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "This patient has symptoms consistent with mitral valve regurgitation with decompensation - a loud systolic murmur at the apex, pulmonary edema, lower oxygen saturation in the right circulation, and an elevated pulmonary artery pressure. (C) Within 2-3 days after a myocardial infarction, the risk for papillary muscle rupture is the highest, making an acute rupture with the mitral valve the most likely answer.",
+    "incorrectExplanation": "(A) A ruptured interventricular septum might produce similar symptoms, but oxygenated blood from the left ventricle would enter the right and would make the oxygen saturation higher. (B) A ruptured left ventricular free wall would cause shock but not likely pulmonary edema and right-sided pressures would likely be lower. (D) A ruptured pulmonary valve would cause a diastolic murmur and would not lead to elevated pulmonary artery pressures. (E) A ruptured tricuspid valve would typically be heard on the sternal border compared to the apex and also would tend to have elevated vena caval pressure and lower pulmonary artery pressure.",
+    "id": "IM-6-25",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 26,
+    "questionStem": "A 32-year-old man is brought to the emergency department 30 minutes after he was found unconscious on the floor of his apartment next to an open bottle of barbiturates. On arrival, his pulse is 118/min, respirations are 6/min, and blood pressure is 98/64 mm Hg. He is intubated and mechanically ventilated. Examination shows diffuse movement to painful stimuli. Laboratory studies show: Serum Na+ 140 mEq/L, Cl- 106 mEq/L, K+ 6.1 mEq/L, HCO3- 14 mEq/L, Urea nitrogen 27 mg/dL, Creatinine 5.7 mg/dL, Creatine kinase 10,000 U/L. Urine pH 6, Specific gravity 1.010, Blood positive, Glucose negative, Protein trace, RBC 3\u20134/hpf, WBC 0\u20132/hpf, Pigmented granular casts 4\u20135/hpf. Which of the following is the most likely cause of this patient's renal failure?",
+    "choices": {
+      "A": "Acute glomerulonephritis",
+      "B": "Acute interstitial nephritis",
+      "C": "Bladder outlet obstruction",
+      "D": "Cholesterol embolization",
+      "E": "Rhabdomyolysis"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "This is a patient who was found unconscious for an unknown amount of time with anion gap acidosis, high serum potassium concentration, and a moderately elevated creatine kinase concentration. The results of a urine dipstick show blood but results of urinalysis showed erythrocyte count was within reference ranges. (E) This all suggests rhabdomyolysis, a breakdown of muscle and is characterized by a high serum potassium concentration and myoglobin present in urine (which activates the blood assay in a urine dipstick, but results in a negative erythrocyte count in urinalysis).",
+    "incorrectExplanation": "(A) Glomerulonephritis would have evidence of nephritis with either erythrocytes or erythrocyte casts in the urine which is not present. (B) Acute interstitial nephritis is typically an allergic reaction to a drug, which is possible in this case, but would be manifested by leukocytes, leukocyte casts, and eosinophils present on urinalysis. (C) Bladder obstruction would typically have more azotemia and would be improved by removing the obstruction by placing a catheter, if possible. There is no evidence to suggest obstruction in this vignette, however. (D) Cholesterol emboli are usually released from atherosclerotic plaques during an invasive procedure such as angioplasty and are typically diagnosed by biopsy. This would be unlikely given the vignette.",
+    "id": "IM-6-26",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 27,
+    "questionStem": "A 37-year-old woman comes to the physician because she has been amenorrheic for 3 months. She has also had increased facial hair growth and multiple episodes of acne over the past year; she has had a 27-kg (60-lb) weight gain during this time despite no change in appetite. Menses had occurred at regular intervals until 1 year ago, when they became increasingly irregular. She is not sexually active. She is 163 cm (5 ft 4 in) tall and weighs 95 kg (210 lb); BMI is 36 kg/m\u00b2. Her blood pressure is 160/100 mm Hg. Examination shows truncal obesity with pink striae. The remainder of the examination shows no abnormalities. Urine \u03b2-hCG test is negative. Measurement of which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "Serum dehydroepiandrosterone sulfate concentration",
+      "B": "Serum estradiol concentration",
+      "C": "Serum progesterone concentration",
+      "D": "Urine catecholamine concentration",
+      "E": "Urine free cortisol concentration in a 24-hour specimen"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "The patient has secondary amenorrhea and pregnancy has been ruled out. The fairly recent onset and fast progression of weight gain and hirsutism, along with violaceous striae in the absence of exogenous corticosteroids should raise suspicion for Cushing syndrome. First-line testing for Cushing syndrome should include measurement of a 24-hour urine free cortisol concentration (E is correct).",
+    "incorrectExplanation": "This clinical picture also raises concern for hyperandrogenism, which may be a sign of an androgen-secreting tumor which would lead to elevated serum dehydroepiandrosterone sulfate concentration; however, this condition is more common in post-menopausal females (A is incorrect). Measurement of estradiol and progesterone would be warranted in the evaluation of amenorrhea; however, the clinical features of hypercortisolism makes Cushing syndrome more likely and these would not be the first line of testing (B and C are incorrect). Urine catecholamines are elevated in pheochromocytoma, which commonly presents with hypertension, but is not associated with amenorrhea, weight gain, or hirsutism (D is incorrect).",
+    "id": "IM-6-27",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 28,
+    "questionStem": "A 67-year-old man with type 2 diabetes mellitus comes to the physician because of a 2-day history of increasing pain and redness of his left knee. Ten days ago, he spent several hours on his knees waxing a floor. His knee has been somewhat swollen and painful since then. His temperature is 38.1\u00b0C (100.6\u00b0F), pulse is 88/min, and blood pressure is 120/85 mm Hg. The anterior aspect of the knee overlying the patella is erythematous, and there is fluctuance in this area. There is no effusion. Range of motion of the knee is full, and any movement of the knee produces minor discomfort. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Deep venous thrombosis",
+      "B": "Gout",
+      "C": "Inflamed Baker cyst",
+      "D": "Inflammatory bursitis of the pes anserinus",
+      "E": "Osgood-Schlatter disease",
+      "F": "Prepatellar septic bursitis",
+      "G": "Septic arthritis of the knee"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "This patient is a 67-year-old man with type 2 diabetes mellitus who comes to the office because of redness over the anterior knee after working on his hands and knees 10 days ago. He also has a fever, and his joint examination discloses good range of motion but is tender and red on the anterior (patellar) aspect. (F) This suggests patellar septic bursitis, common for those on their knees for some time, and the fever suggests infection.",
+    "incorrectExplanation": "(A) Deep venous thrombosis would show edema distal to where the clot would be. (D) The joint might be red but there are no other skin findings such as varicosities. The range of motion of the knee is intact which makes inflammatory bursitis of the pes anserinus unlikely and also making (B) gout and (G) septic arthritis even less likely. (C) A Baker cyst is located in the popliteal fossa, and (E) Osgood-Schlatter disease (osteochondritis of the tibial tubercle) typically presents in adolescents or young adults as an anterior knee pain that increases gradually over time and is typically not associated with swelling or erythema.",
+    "id": "IM-6-28",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 29,
+    "questionStem": "A previously healthy 24-year-old woman comes to the physician because of an itchy rash on her face, arms, and hands for 2 days. She notes that the rash appeared 2 days after working in her garden. Examination shows urticarial and vesicular lesions over the face, upper extremities, and hands. Which of the following is the most likely pathologic process of this patient's rash?",
+    "choices": {
+      "A": "Chemotaxis of eosinophils caused by direct antibody reaction with plant sap",
+      "B": "Destruction of adhesion among epidermal cells caused by circulating IgG autoantibodies directed against the cell surface of keratinocytes",
+      "C": "Inflammation caused by release of cytokines by effector and memory T lymphocytes",
+      "D": "Photosensitivity of the epidermis caused by plant sap",
+      "E": "Squamous epithelial cell damage caused by plant sap"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "This patient has contact dermatitis that is most likely caused by a plant toxin such as poison ivy. (C) This dermatitis is a Type IV hypersensitivity reaction to the toxin, which is a cell-mediated hypersensitivity, caused by helper T lymphocytes.",
+    "incorrectExplanation": "(D) The sap does not cause photosensitivity or (E) direct injury, and (A) chemotaxis and (B) IgG antibody mediated destruction would be Type I and Type II hypersensitivity reactions.",
+    "id": "IM-6-29",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 30,
+    "questionStem": "A 57-year-old man comes to the physician because of a 3-month history of mild shortness of breath with exertion and episodes of nausea and muscle pain. He received the diagnosis of type 2 diabetes mellitus 8 years ago. Current medications include glyburide and metformin. He is 180 cm (5 ft 11 in) tall and weighs 118 kg (260 lb); BMI is 36 kg/m2. His blood pressure is 165/90 mm Hg. The remainder of the examination shows no abnormalities. Laboratory studies show: Hemoglobin A1c 9.2% Serum Urea nitrogen 43 mg/dL Glucose, fasting 287 mg/dL Creatinine 2.8 mg/dL Total bilirubin 0.8 mg/dL AST 18 U/L ALT 20 U/L Which of the following is the most appropriate change to this patient's drug regimen?",
+    "choices": {
+      "A": "Add intermediate-acting insulin",
+      "B": "Add rosiglitazone",
+      "C": "Discontinue glyburide and increase the dosage of metformin",
+      "D": "Discontinue metformin and increase the dosage of glyburide",
+      "E": "Increase the dosage of glyburide and metformin",
+      "F": "Switch from glyburide and metformin to intermediate-acting insulin"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "- this patient has renal failure which is a contraindication for metformin (the symptoms are likely due to lactic acidosis from metformin). - glyburide would accumulate in renal failure with risk of hypoglycemia, and it also causes weight gain (this patient BMI is 36) - HbA1C is 9.2% so his diabetes is poorly controlled, needs additional therapy. + so the best option is to switch both oral agents to insulin.",
+    "incorrectExplanation": "",
+    "id": "IM-6-30",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 31,
+    "questionStem": "A 62-year-old man comes to the physician because of a 3-week history of progressive fatigue and shortness of breath with exertion. His temperature is 37\u00b0C (98.6\u00b0F), pulse is 56/min, respirations are 16/min, and blood pressure is 150/92 mm Hg. Bilateral basilar crackles are heard on auscultation. Cardiac examination shows a laterally displaced point of maximal impulse. Echocardiography shows left ventricular dilation and an ejection fraction of 32%. In addition to furosemide, which of the following is the most appropriate pharmacotherapy?",
+    "choices": {
+      "A": "Clonidine",
+      "B": "Diltiazem",
+      "C": "Lisinopril",
+      "D": "Metoprolol",
+      "E": "Nifedipine",
+      "F": "Spironolactone"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "This is a patient with systolic heart failure or heart failure with reduced ejection fraction (HFrEF). (D) ACE inhibitors and select \u03b2-adrenergic blockers (metoprolol succinate, carvedilol, and nebivolol) are first-line agents of choice for patients with heart failure, although \u03b2-adrenergic blockers should not be given to patients who are newly diagnosed and in acute failure like this patient. (C) Lisinopril is the best option.",
+    "incorrectExplanation": "(A) Clonidine has no role in HFrEF treatment except in severe cases of uncontrolled hypertension. (B) Diltiazem is a negative inotropic and is contraindicated in HFrEF. (F) Spironolactone can be given in patients without renal failure who are in New York Heart Association class III or class IV cardiac failure on maximal ACE inhibitor and \u03b2-adrenergic blocker therapy. (E) Nifedipine would be appropriate to treat blood pressure or heart failure with preserved ejection fraction (HFpEF) but is not an evidence-based measure to treat HFrEF.",
+    "id": "IM-6-31",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 32,
+    "questionStem": "An asymptomatic 32-year-old woman with HIV infection comes to the physician as a new patient. Her last visit to a physician was 14 months ago. She takes no medications. Examination shows hairy leukoplakia and cervical adenopathy. Her CD4+ T-lymphocyte count is 180/mm3 (Normal\u2265500), and plasma HIV viral load is 20,000 copies/mL. In addition to antiretroviral therapy, which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Mammography and Pap smear",
+      "B": "Mammography, Pap smear, and Pneumocystis jiroveci (formerly P. carinii) prophylaxis",
+      "C": "Pap smear and P. jiroveci prophylaxis",
+      "D": "P. jiroveci and Mycobacterium avium complex prophylaxis",
+      "E": "P. jiroveci prophylaxis only"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "This patient is a 32-year-old woman with AIDS which is defined as having a CD4+ T-lymphocyte count that is less than 200/mm3. Prophylaxis for opportunistic infections such as pneumocystis and mycobacterium avium-intracellulare infection should occur for certain CD4+ T-lymphocyte count thresholds (<200/mm3 for Pneumocystis jiroveci prophylaxis and <50/mm3 for mycobacterium avium-intracellulare infection). (C) Given this patient's CD4+ T-lymphocyte count is 180/mm3, prophylaxis for Pneumocystis jiroveci is warranted.",
+    "incorrectExplanation": "(D, E) Additionally, patients with HIV and AIDS must be screened and treated as the general population. (A, B) A 32-year-old woman with no other risk factors or any family history of early cancer would need their routine pap screening, but mammography is not necessary.",
+    "id": "IM-6-32",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 33,
+    "questionStem": "A 37-year-old woman with type 1 diabetes mellitus and anxiety disorder comes to the physician because of a 6-month history of progressive numbness of her hands that has recently extended to her forearms. During the past 2 months, she has burned her fingers numerous times while cooking; she did not know that she had burned herself until she saw the development of blisters. She has no other neurologic symptoms. Her only medication is insulin. Cranial nerves are intact. Muscle strength is 5/5 in the upper and lower extremities. Deep tendon reflexes are 3+ bilaterally. Babinski sign is absent. Sensation to pinprick and temperature is absent over the hands and upper extremities extending to the neck and posterior scalp but is intact over the trunk and lower extremities. Proprioception and sensation to vibration are normal throughout. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Brachial plexopathy",
+      "B": "Cervical stenosis",
+      "C": "Conversion disorder",
+      "D": "Diabetic polyneuropathy",
+      "E": "Syringomyelia"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "This patient has the diagnosis syringomyelia which is a cyst that occurs in the spinal cord. (E) Syringomyelia can lead to the loss of sensation and the loss of heat or cold sensation particularly in the hands.",
+    "incorrectExplanation": "(C) The presence of hyperreflexia indicates that there are upper motor symptoms and would not likely be conversion disorder. (A) Brachial plexopathy and (D) diabetic polyneuropathy would not have these symptoms and would likely affect vibratory sensation which is intact in this patient. (B) Cervical stenosis is possible, but would not likely affect temperature sensation, and is often accompanied by weakness that is not present in this patient.",
+    "id": "IM-6-33",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 34,
+    "questionStem": "A 62-year-old man with severe obstructive pulmonary disease has chronic disabling dyspnea. His pulse is 90/min, respirations are 30/min, and blood pressure is 150/85 mm Hg. He is plethoric, and jugular veins are distended. Breath sounds are distant, and the second component of S2 is accentuated. His FEV1 is 0.5 L. An x-ray of the chest shows prominent pulmonary arteries. The pulmonary hypertension in this patient is most likely the result of which of the following?",
+    "choices": {
+      "A": "Decreased cardiac output",
+      "B": "Decreased expiratory flow rate",
+      "C": "Increased residual volume",
+      "D": "Severity of hypercarbia",
+      "E": "Severity of hypoxemia"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Hypoxemia is the primary mechanism for development of pulmonary hypertension due to chronic obstructive pulmonary disease, due to the potent vasoconstriction induced by hypoxia. Chronic hypoxia leads to vascular remodeling, leading to chronically elevated pulmonary vascular resistance and pulmonary hypertension. There is direct correlation of severity of hypoxia and development of pulmonary hypertension (E is correct).",
+    "incorrectExplanation": "Severity of hypercarbia in patients with COPD has not been associated with development of pulmonary hypertension (D is incorrect), nor has severity of obstruction or elevated residual volume (B and C are incorrect). While decreased cardiac output can lead to pulmonary hypertension secondary to left sided heart failure, this is not the most likely mechanism of pulmonary hypertension in this patient (A is incorrect).",
+    "id": "IM-6-34",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 35,
+    "questionStem": "A 57-year-old man comes to the emergency department because of a painful, cold right leg for 4 hours. He has hypertension, type 2 diabetes mellitus, and hyperlipidemia. Medications include metformin, triamterene-hydrochlorothiazide, and atorvastatin. He has smoked one pack of cigarettes daily for 40 years. His blood pressure is 140/90 mm Hg. Pulses are decreased in the right lower extremity. His serum creatinine concentration is 1.5 mg/dL. Angiography of the right lower extremity shows occlusion of the common femoral artery. Twenty-four hours later, his serum creatinine concentration increases to 3.6 mg/dL. Which of the following measures prior to his angiography is most likely to have prevented this patient's worsening azotemia?",
+    "choices": {
+      "A": "Discontinuation of metformin",
+      "B": "Hydration",
+      "C": "Pretreatment with mannitol",
+      "D": "Pretreatment with prednisone and diphenhydramine",
+      "E": "There are no known preventive measures"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Contrast induced nephropathy (CIN) is defined as an acute kidney injury developing shortly after exposure to intravenous contrast. Patients with CKD are at significantly higher risk of developing CIN. Multiple studies have looked at pre-treatment with intravenous fluids to reduce the risk of CIN, with similar results with both sodium bicarbonate and normal saline (B is correct, E is incorrect).",
+    "incorrectExplanation": "Treatment with N-acetylcysteine has also been studied but has not been shown to reduce risk. Metformin clearance is impaired in the setting of CKD, which may lead to lactic acidosis which has significantly increased risk of mortality. Acute CIN leading to worsening renal failure and further impaired clearance may further exacerbate this; however, metformin use alone has not been associated with increased risk of CIN, so discontinuation of metformin would not likely decrease incidence of CIN itself but would limit its complications (A is incorrect). Mannitol when studied with or without the use of diuretics has not been shown to decrease the risk of CIN; diuretics, in fact, may be deleterious (C is incorrect). Pretreatment with prednisone and diphenhydramine would be appropriate to prevent an allergic response to intravenous contrast but has no role in preventing CIN (D is incorrect).",
+    "id": "IM-6-35",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 36,
+    "questionStem": "A 62-year-old woman comes to the physician because of increasingly severe pain of the fingers over the past 6 months. She has a 6-year history of cold sensitivity of the hands. On cold exposure, her fingers become initially pale and then turn blue; there is redness with recovery. She has a 3-year history of gastroesophageal reflux disease. Examination shows tightening of the skin of the fingers, with erythema, scaling, and telangiectasias. Dry crepitant crackles are heard at both lung bases. X-rays of the hands show loss of tufts of some distal phalanges and scattered soft tissue calcifications. Serum antinuclear antibody testing is most likely to show which of the following?",
+    "choices": {
+      "A": "Negative findings",
+      "B": "Positive findings for anticentromere antibody",
+      "C": "Positive findings for antineutrophil cytoplasmic antibody and negative findings for antinuclear antibody",
+      "D": "Positive findings for antiribonuclear protein antibody",
+      "E": "Positive findings for double-stranded DNA"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "The patient has symptoms of systemic sclerosis, particularly Reynaud\u2019s phenomenon, sclerodactyly, and telangiectasia, and likely systemic sclerosis. Serology in this patient will typically show positive anticentromere antibody (B is correct); antinuclear antibody (ANA) is also typically positive; and anti-Scl-70 antibody is usually positive in patients with diffuse cutaneous systemic sclerosis.",
+    "incorrectExplanation": "It is not likely that serologies would be negative in this patient (A is incorrect). Antineutrophil cytoplasmic antibody may be elevated in patients with vasculitis, granulomatosis with polyangiitis, microscopic polyangiitis, or eosinophilic granulomatosis with polyangiitis (C is incorrect). Antiribonuclear protein antibody is typically positive in patients with mixed connective tissue disease, with overlap of symptoms of lupus, systemic sclerosis, Sjogren syndrome, polymyositis, and dermatomyositis; patients typically present with fatigue, low grade fevers, myalgias, and arthralgias. Given that the patient has symptoms more consistent with systemic sclerosis alone, RNP is not likely to be elevated at this time (D is incorrect). Anti-double stranded DNA antibodies are typically positive in systemic lupus erythematosus, which typically presents with fatigue, fevers, arthritis, and a typical erythematous rash in malar distribution or \u201cbutterfly rash.\u201d Photosensitivity is also common. (E is incorrect).",
+    "id": "IM-6-36",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 37,
+    "questionStem": "A 62-year-old man comes to the physician for a preoperative evaluation. He is scheduled to undergo partial colectomy in 5 days because of recurrent diverticulitis. He can carry groceries up two flights of stairs without stopping. He has no history of chest pain or heart disease. Two months ago, his serum total cholesterol concentration was 162 mg/dL. He takes no medications. He is adopted and has no information about his family history. He smoked one-half pack of cigarettes daily for 30 years but stopped 3 years ago. He is 175 cm (5 ft 9 in) tall and weighs 93 kg (205 lb); BMI is 30 kg/m2. His pulse is 78/min and regular, and blood pressure is 138/84 mm Hg. The lungs are clear to auscultation. S1 and S2 are normal. A grade 2/6 holosystolic murmur is heard at the apex with radiation toward the left axilla. The abdomen is soft. An ECG shows a normal sinus rhythm and left bundle branch block. Echocardiography shows mitral valve thickening with mild regurgitation. Which of the following diagnostic tests is indicated prior to the operation?",
+    "choices": {
+      "A": "Exercise stress test",
+      "B": "24-Hour ambulatory ECG monitoring",
+      "C": "Electron beam (ultrafast) CT scan",
+      "D": "Coronary angiography",
+      "E": "No further tests are indicated"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "The patient is a man with obesity undergoing an elective surgery. Preoperative evaluations are to risk stratify prior to undergoing an operation and detect problems that may override the need for surgery. (A) The patient has a good exercise tolerance (manifested by walking two flights of stairs without breathlessness) and has a number of cardiovascular risk factors. He has a grade 2/6 systolic murmur. (B) Typically a grade 3/6 murmur or higher would suggest pathology and, as such, the patient has no signs of angina or cardiovascular decline. (C and D) None of the diagnostic studies listed would change immediate management prior to surgery and (E) would not require further testing.",
+    "incorrectExplanation": "",
+    "id": "IM-6-37",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 38,
+    "questionStem": "A 52-year-old woman comes for a routine health maintenance examination. She feels well. Over the past 6 months, menses have occurred at irregular 2- to 3-month intervals. She takes no medications. She has smoked one pack of cigarettes daily for 30 years and drinks alcohol socially. Her father has hypertension, and her mother has osteoarthritis of the knees and is scheduled for bilateral knee replacements. The patient is 157 cm (5 ft 2 in) tall and weighs 72 kg (160 lb); BMI is 29 kg/m2. Her pulse is 80/min and regular and blood pressure is 115/70 mm Hg. Range of motion of all joints is full and does not produce pain. She is concerned about her risk for arthritis. Which of the following is most likely to decrease this patient's risk for osteoarthritis?",
+    "choices": {
+      "A": "Begin a swimming program 30 minutes daily three times weekly",
+      "B": "Begin a walking program 30 minutes daily three times weekly",
+      "C": "Smoking cessation",
+      "D": "Weight loss",
+      "E": "Estrogen replacement therapy",
+      "F": "Nonsteroidal anti-inflammatory drug therapy",
+      "G": "No preventive measures available"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Osteoarthritis is the manifestation of stress on joints over a long period of time. (D) Of all options listed, weight loss is the best modality to reduce stress on the joints. Exercise, particularly load-bearing exercise with weights, is also a good prevention strategy.",
+    "incorrectExplanation": "Neither (B) walking nor (A) swimming provide that. (C) Smoking is a risk factor, but quitting at this stage in a patient at the onset of menopause would have less of an effect and is more of an impact for bone mineral density. (F) Nonsteroidal anti-inflammatory drugs treat osteoarthritic pain but do not prevent it. (E) There is no data that estrogen prevents osteoarthritis as well.",
+    "id": "IM-6-38",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 39,
+    "questionStem": "A 42-year-old man comes to the emergency department because of the recent onset of shortness of breath. He has smoked two packs of cigarettes daily for 25 years. He is emaciated and in moderate respiratory distress. There is dullness to percussion and egophony at the right lung base. He has a leukocyte count of 18,200/mm\u00b3 (60% neutrophils, 17% band forms, 20% lymphocytes, and 3% monocytes). An x-ray of the chest shows a right lower lobe infiltrate with a pleural effusion. Thoracentesis shows purulent, foul-smelling fluid. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Anaerobic empyema",
+      "B": "Chylothorax",
+      "C": "Malignant effusion",
+      "D": "Pneumococcal empyema",
+      "E": "Tuberculous empyema"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Anaerobic empyema (A) is the correct answer in this scenario. The acute onset of shortness of breath, accompanying right lower lobe infiltrate and leukocytosis make an infectious etiology of his pleural effusion more likely. The presence of purulent fluid is diagnostic of empyema.",
+    "incorrectExplanation": "While pneumococcal empyema (option D) is one of the most common causes of community-acquired pneumonia, the foul-smelling nature of the fluid, combined with the location of the pneumonia in the right lower lobe make aspiration pneumonia from an anaerobic organism more likely (D is incorrect). Tuberculous empyema is uncommon, especially in absence of risk factors for tuberculosis, and is usually seen when a cavitary lesion (typically located in the upper lobes) ruptures into the pleural space, causing a hydropneumothorax (E is incorrect). Malignant effusions typically present with slowly progressive shortness of breath, and are typically serous or serosanguinous on thoracentesis (C is incorrect). Chylothorax typically yields a milky fluid on thoracentesis and is usually associated with trauma or tumors of the mediastinum, neither of which are present in this patient (B is incorrect).",
+    "id": "IM-6-39",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 40,
+    "questionStem": "A 62-year-old man is admitted to the hospital for treatment of pneumonia. He has a 3-day history of fever, cough productive of greenish sputum, and mild shortness of breath. He has type 2 diabetes mellitus and coronary artery disease. Current medications include 81-mg aspirin, atenolol, isosorbide, glipizide, metformin, and rosiglitazone. He appears ill and has mild shortness of breath. His temperature is 39\u00b0C (102.2\u00b0F), pulse is 110/min and regular, respirations are 24/min, and blood pressure is 195/64 mm Hg. Moist crackles are heard at the left lung base. Laboratory studies show: Leukocyte count 16,700/mm\u00b3, Segmented neutrophils 90%, Bands 2%, Lymphocytes 8%, Serum Na\u207a 137 mEq/L, K\u207a 4.8 mEq/L, Cl\u207b 97 mEq/L, HCO\u2083\u207b 20 mEq/L, Glucose 180 mg/dL, Creatinine 1.5 mg/dL, AST 18 U/L, ALT 12 U/L. An x-ray of the chest confirms left lower lobe pneumonia. Immediate discontinuation of which of the following is the most appropriate next step?",
+    "choices": {
+      "A": "Aspirin",
+      "B": "Atenolol",
+      "C": "Glipizide",
+      "D": "Isosorbide",
+      "E": "Metformin",
+      "F": "Rosiglitazone"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "The patient has pneumonia with elevated creatinine indicating acute kidney injury. Metformin is mostly excreted by the kidney, and, in the setting of renal impairment, will accumulate increasing the risk of potentially fatal lactic acidosis. Therefore, metformin should be discontinued at this time (E is correct).",
+    "incorrectExplanation": "Given that the patient is hypertensive, it would be inappropriate to discontinue atenolol or isosorbide at this time (B and D are incorrect); in fact, he may require more antihypertensive therapy in this setting. Glipizide and rosiglitazone may be continued at this time for blood glucose control; however, his blood sugars should be monitored closely to ensure the patient doesn't develop significant hypoglycemia and rosiglitazone is no longer indicated for patients with type 2 diabetes mellitus because of cardiovascular risk (C and F are incorrect). There is not an acute indication to discontinue aspirin at this time (A is incorrect).",
+    "id": "IM-6-40",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 41,
+    "questionStem": "A 72-year-old woman comes to the physician because of a 6-day history of increasingly severe left hip pain. She now has difficulty walking because of the pain. She has temporal arteritis and hypertension. Her medications are prednisone and enalapril. Vital signs are within normal limits. Internal and external range of motion of the left hip is limited by pain. The remainder of the examination shows no abnormalities. An x-ray of the left hip shows no abnormalities. An MRI of the hips is shown. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Avascular necrosis",
+      "B": "Hip fracture",
+      "C": "Iliotibial band syndrome",
+      "D": "Osteoarthritis",
+      "E": "Trochanteric bursitis"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "(A) She has lucency in the femoral head on the left compared to right, making avascular necrosis the most likely diagnosis.",
+    "incorrectExplanation": "This is a patient on prednisone with hip pain; (B, D) x-rays show no finding, making hip fracture and osteoarthritis unlikely. (C) Iliotibial band syndrome would have lateral leg pain, likely after physical overuse and is less likely, (E) and trochanteric bursitis would have tenderness along the greater trochanter. Both of these might be seen on MRI but are usually diagnosed clinically by examination and would not show the MRI findings seen in this patient.",
+    "id": "IM-6-41",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 42,
+    "questionStem": "A study is conducted to compare a new stool test with mucosal biopsy for diagnosing Helicobacter pylori infection. A total of 400 patients with suspected H. pylori infection are enrolled. Patients are screened using both methods. Results show that of the 100 patients who tested positive for H. pylori infection on biopsy, 80 also tested positive using the new stool test; 120 patients who tested negative for H. pylori infection on biopsy tested positive using the new stool test. Which of the following represents the sensitivity of the new stool test for H. pylori infection in this study?",
+    "choices": {
+      "A": "10%",
+      "B": "20%",
+      "C": "40%",
+      "D": "60%",
+      "E": "80%"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Sensitivity is a measure of the ability of a test to detect disease when present. In essence, it is a percentage of tests that are positive (true positives) in all patients with disease (true positives plus false negatives). For any given test, all results can be broken down as such:\n\nDisease: Positive Test result - True Positive, Negative test result - False Negative\nNo Disease: Positive Test result - False positive, Negative test result - True negative\n\nSensitivity can be calculated using the formula:\n\nSensitivity = TP/(TP+FN), where TP is true positive and FN is false negative. In this scenario, the test results can be broken down as:\n\nH. Pylori on biopsy: Positive Stool Test - 80, Negative Stool Test - 20\nNo H. Pylori on biopsy: Positive Stool Test - 120, Negative Stool Test - 180\n\nSo the sensitivity can be calculated as: 80/(80+20) = 80% (E is correct; A, B, C, D are incorrect).",
+    "incorrectExplanation": "",
+    "id": "IM-6-42",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 43,
+    "questionStem": "A 47-year-old woman comes to the physician because of a 2-day history of soreness in the back of her throat and pain on swallowing. She has had recurrent episodes of tonsillitis during the past 2 years. Examination shows massive edema of the soft palate and enlarged tonsils with a purulent discharge from the right tonsil. Without treatment, this patient is at increased risk for which of the following?",
+    "choices": {
+      "A": "Airway compromise",
+      "B": "Brain abscess",
+      "C": "Necrosis of the tonsils",
+      "D": "Paralysis of the facial nerve",
+      "E": "Rupture of the tympanic membrane"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "The patient's history of recurrent tonsillitis, along with edema of the soft palate and unilateral purulent discharge raises concern for peritonsillar abscess. Without appropriate treatment, which may include either incision and drainage or needle aspiration, progressive swelling may lead to airway compromise (A is correct). The most common causative organism is Group A streptococcus.",
+    "incorrectExplanation": "Other complications of peritonsillar abscess include aspiration pneumonitis, lung abscess, hemorrhage due to septic necrosis into the carotid sheath, extension of infection into deep neck tissue or posterior mediastinum, and poststreptococcal sequelae such as rheumatic fever or glomerulonephritis (B, C, D, and E are incorrect).",
+    "id": "IM-6-43",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 44,
+    "questionStem": "A previously healthy 27-year-old intern comes to the emergency department 5 minutes after she was stuck in the left middle finger by a 20-gauge needle used on a 22-year-old patient with AIDS. The patient is currently being treated with zidovudine (AZT), indinavir, and lamivudine (3TC); his current plasma HIV viral load is undetectable. The patient's serum studies 2 days ago showed: Total bilirubin 0.8 mg/dL, AST 100 U/L, ALT 80 U/L, Hepatitis B surface antibody positive, Hepatitis B surface antigen negative. The intern had completed hepatitis B immunizations 10 months ago. Examination shows a needle puncture wound. In addition to chemoprophylaxis for HIV exposure, which of the following is the most appropriate intervention for this intern?",
+    "choices": {
+      "A": "Washing the area of involvement",
+      "B": "Administering hyperimmune hepatitis B immune globulin",
+      "C": "Administering immune globulin",
+      "D": "Administering interferon alfa",
+      "E": "No intervention is required"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "In the setting of a needle stick injury, the first priority should be to clean the affected area with soap and water (A is correct, E is incorrect). This should be followed by seeking medical treatment; each healthcare facility has a needle stick injury protocol that should be followed, and recommendations are available through the CDC. As the patient is hepatitis-B surface antigen negative, no post-exposure prophylaxis for hepatitis B is required; this would also be the case if the patient has a documented anti-HBs level > 10mIU/ml after completion of Hepatitis B vaccination (B and C are incorrect). Interferon alfa may be indicated for the treatment of acute hepatitis C after needle stick injury but is not indicated for prophylaxis (D is incorrect).",
+    "incorrectExplanation": "",
+    "id": "IM-6-44",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 45,
+    "questionStem": "A 72-year-old man comes to the physician for a routine examination. He has a 1-year history of hypertension controlled by a thiazide diuretic. He smokes one pack of cigarettes and drinks 3 ounces of alcohol daily. He has gained 6 kg (13 lb) since his last visit 1 year ago. He is 178 cm (5 ft 10 in) tall and now weighs 88 kg (195 lb); BMI is 28 kg/m2. His blood pressure is 156/88 mm Hg. His serum LDL-cholesterol concentration is 150 mg/dL, and serum HDL-cholesterol concentration is 50 mg/dL. Which of the following is the greatest risk factor for coronary artery disease in this patient?",
+    "choices": {
+      "A": "Alcohol consumption",
+      "B": "Blood pressure",
+      "C": "Cigarette smoking",
+      "D": "Use of a thiazide diuretic",
+      "E": "Weight"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "(C) the patient's history of cigarette smoking is far and away the biggest risk factor for cardiovascular disease.",
+    "incorrectExplanation": "This patient is a 72-year-old man with multiple risk factors for heart disease. (B) Although blood pressure and (E) obesity contribute to the risk for heart disease, (A) Excess alcohol consumption may lead to blood pressure elevations and thus may also be a risk. (D) Hydrochlorothiazide is used to treat blood pressure and has been shown to reduce cardiovascular disease risk.",
+    "id": "IM-6-45",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 46,
+    "questionStem": "A 24-year-old woman, gravida 2, para 2, comes to the emergency department because of an uncontrollable nosebleed for 6 hours. This is her fourth nosebleed over the past 2 weeks. Each of the previous nosebleeds stopped within approximately 2 hours. Her menses occur at regular 28-day intervals, but she did have heavier than usual bleeding during her last two menstrual periods. She takes no medications. She has no history of bleeding problems, including during an uncomplicated appendectomy at the age of 10 years and during delivery of her two children. There is no family history of bleeding problems. Examination shows scattered petechiae over the trunk and upper and lower extremities. There is fresh and clotted blood in the nares with continued oozing of blood. Her hemoglobin concentration is 9.8 g/dL, leukocyte count is 9000/mm\u00b3 with a normal differential, and platelet count is 20,000/mm\u00b3. Examination of bone marrow aspirate shows megakaryocytes. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Corticosteroid therapy",
+      "B": "Methotrexate therapy",
+      "C": "Splenic artery embolization",
+      "D": "Splenic irradiation",
+      "E": "Splenectomy"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "This patient has mucocutaneous bleeding and low platelet count with increased megakaryocytes concentration on bone marrow biopsy. These symptoms are fairly pathognomonic for idiopathic thrombocytopenia (ITP). This is thought to be mediated by antibodies to platelets. (A) An initial first step for treatment is steroid therapy.",
+    "incorrectExplanation": "(B) Methotrexate therapy has not been shown to have an effect on ITP. (C/D/E) Interventions on the spleen are reserved for severe cases that persist despite medical treatment and have relapses. This patient has a new diagnosis and thus deserves a course of steroids to see effect.",
+    "id": "IM-6-46",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 47,
+    "questionStem": "A 77-year-old man is brought by his wife for a follow-up examination 3 weeks after an episode of right middle lobe pneumonia. The pneumonia is improving with antibiotic therapy. Three months ago, he had a similar episode. His wife says that he swallows his food well, but he has had a slight increase in his chronic cough after meals. He has multi-infarct (vascular) dementia. He smoked two packs of cigarettes daily for 40 years, but he quit 15 years ago. He has never had chronic obstructive pulmonary disease. Rhonchi are heard over the right midlung field on auscultation; the diaphragm has poor excursion. His speech is mildly dysarthric. His Mini-Mental State Examination score is 20/30. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Recommendation of a full liquid diet with liquid supplements",
+      "B": "Swallowing study",
+      "C": "CT scan of the chest",
+      "D": "Bronchoscopy",
+      "E": "Inhaled bronchodilator therapy"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Recurrent episodes of pneumonia, along with history of increase in cough after meals, should significantly increase suspicion for chronic aspiration secondary to dysphagia and warrants further evaluation with swallowing study (B is correct).",
+    "incorrectExplanation": "Until results of a swallowing study are available, dietary recommendations should not be made, as it will significantly influence choice of diet (A is incorrect). While a CT scan of the chest may be appropriate to ensure resolution of his pneumonia, the timing of this study is more typically done in the 6-8 week range after initial imaging, in order to give ample time for the acute process to resolve (C is incorrect). In the absence of concern for central airway obstruction leading to post-obstructive pneumonia and the fact that the patient is improving on current therapy, a bronchoscopy is not necessary at this time (D is incorrect). In the absence of bronchospasm, bronchodilators are not likely to lead to significant benefit in this patient (E is incorrect).",
+    "id": "IM-6-47",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 48,
+    "questionStem": "A healthy 39-year-old man of German descent comes for a routine examination. He had a cholecystectomy at the age of 25 years. He has had several episodes of mild jaundice over the past 10 years that resolved spontaneously. He appears healthy. Examination shows no hepatomegaly except for splenomegaly. His hematocrit is 39%, mean corpuscular hemoglobin concentration is 36% Hb/cell, and mean corpuscular volume is 80 \u03bcm\u00b3. Direct antiglobulin (Coombs) test is negative. A blood smear shows erythrocytes with loss of central pallor. Which of the following is the most likely cause of this patient's anemia?",
+    "choices": {
+      "A": "Abnormal red blood cell membrane",
+      "B": "Autoimmune hemolytic anemia",
+      "C": "Congenital dihydrofolate reductase deficiency",
+      "D": "Decreased erythropoietin concentration",
+      "E": "Folic acid deficiency",
+      "F": "Globin chain mutation",
+      "G": "Glucose 6-phosphate dehydrogenase deficiency",
+      "H": "Lead poisoning",
+      "I": "Pyruvate kinase deficiency",
+      "J": "Vitamin B12 (cobalamin) deficiency"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "This is a patient with mild anemia with symptoms of intermittent hemolysis that are manifested by bouts of jaundice. (A) Given the patient's northern European descent, hereditary spherocytosis is the most likely diagnosis and is caused by alteration in genes related to membrane proteins.",
+    "incorrectExplanation": "(B) There is no evidence of any autoimmune disease, and the negative result of the Coombs test makes autoimmune conditions unlikely. (C) The patient is in his 30s and takes no supplemental folic acid so a history of congenital dihydrofolate reductase deficiency is not likely. (D) There is no evidence of decreased erythropoietin concentration, and the patient has no known risk factors such as chronic kidney disease. (E) There is no reason to think the patient is deficient in folate or (J) vitamin B12 (cobalamin) because there is no evidence of macrocytosis. (G) Glucose 6-phosphate dehydrogenase deficiency is unlikely in patients of northern European descent and would manifest after taking a substance known to stress the oxidative-reduction system (such as sulfa antibiotics). (F) Globin chain mutations would result in smaller cells, typically a more profound anemia and auto-splenectomy at this age (rather than splenomegaly). (H) Lead poisoning is not likely given the information in the vignette, and (I) while pyruvate kinase deficiency certainly fits the clinical picture, it usually is more problematic in childhood and requires transfusions if the phenotype is significant. Neither has been included in the vignette, making spherocytosis more likely.",
+    "id": "IM-6-48",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 49,
+    "questionStem": "A 47-year-old man comes to the physician because of a 1-month history of progressive swelling of both legs and generalized weakness. He says he now has some difficulty performing his usual activities. Last year, he received the diagnosis of hepatitis B and C. He has a long-standing history of intravenous drug use. He refused treatment for hepatitis C and currently takes no medications. He is not in acute distress. He is 183 cm (6 ft) tall and weighs 55 kg (121 lb); BMI is 16 kg/m\u00b2. His temperature is 37\u00b0C (98.6\u00b0F), pulse is 70/min, respirations are 12/min, and blood pressure is 160/99 mm Hg. Cardiopulmonary examination shows no abnormalities. The abdomen is nontender. There is no hepatomegaly. Muscle strength is normal. Laboratory studies show: Hemoglobin 10 g/dL, Leukocyte count 9000/mm\u00b3, Platelet count 260,000/mm\u00b3, Serum Urea nitrogen 22 mg/dL, Creatinine 2.1 mg/dL, Albumin 3.8 g/dL, Total bilirubin 0.6 mg/dL, AST 70 U/L, ALT 60 U/L, Urine Blood 3+, Protein 4+. Microscopic examination of urine shows numerous RBCs, which are mostly acanthocytes with irregular membrane protrusions. Which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "Second set of laboratory studies in 1 month",
+      "B": "Urine protein electrophoresis",
+      "C": "Urine culture",
+      "D": "Cystoscopy",
+      "E": "Renal biopsy"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "The patient has untreated hepatitis C and now symptoms of nephrotic syndrome with significant edema and marked proteinuria and hematuria with acanthrocytosis, most commonly seen in glomerulonephritis. Hepatitis C can lead to significant renal disease, such as membranoproliferative glomerulonephritis, membranous nephropathy, mixed cryoglobulinemia syndrome, and polyarteritis nodosa. Given his elevated creatinine and hematuria, a renal biopsy is warranted at this time (E is correct).",
+    "incorrectExplanation": "Given the severity of his symptoms and elevated creatinine, a delay in diagnosis with repeat labs at a later time is inappropriate, as the disease is likely to continue to worsen (A is incorrect). Urine protein electrophoresis is useful in the evaluation of monoclonal gammopathy, in diseases such as multiple myeloma or amyloidosis, but would not have a role in the evaluation of this patient (B is incorrect). The patient does not show signs or symptoms of urinary tract infection, therefore urine culture is not appropriate at this time (C is incorrect). While cystoscopy may be warranted in the evaluation of microscopic hematuria, it should be reserved for patients after infection and renal causes have been ruled out; given that the patient has symptoms of a glomerular cause of his microscopic hematuria with proteinuria and elevated creatinine, renal evaluation with kidney biopsy is more appropriate at this time (D is incorrect).",
+    "id": "IM-6-49",
+    "section": "IM",
+    "subsection": "CMS-6"
+  },
+  {
+    "questionNumber": 50,
+    "questionStem": "A 37-year-old man comes to the emergency department because of vomiting for the past 3 days. He says that he cannot hold down liquids or solids. For the past month, he has had early satiety and has not been eating as much as he usually does. He has a 2-year history of peptic ulcer disease, diagnosed by upper endoscopy. Infection with Helicobacter pylori was successfully treated with clarithromycin, amoxicillin, omeprazole, and bismuth subsalicylate therapy. Since then, he has had intermittent epigastric pain for which he takes cimetidine when he remembers to do so. He appears ill and anxious. His temperature is 37\u00b0C(98.6\u00b0F), pulse is 100/min, respirations are 14/min, and blood pressure is 110/60 mm Hg. Physical examination shows dry mucous membranes and a flat, soft, nontender abdomen. Which of the following sets of laboratory abnormalities is most likely in this patient?",
+    "choices": {
+      "A": "Increased, increased, decreased",
+      "B": "Decreased, decreased, decreased",
+      "C": "Increased, decreased, increased",
+      "D": "Decreased, decreased, increased",
+      "E": "Decreased, increased, increased"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "The patient\u2019s symptoms are strongly suggestive of gastric outlet obstruction (GOO), a known complication of peptic ulcer disease, though this has decreased significantly in the modern era of treatment of H. pylori; malignancy is now a much more common cause of GOO. Regardless of etiology of GOO, recurrent vomiting will lead to increased losses of hydrochloric acid from stomach contents, leading to both an increase in serum pH, as well as decrease in serum chloride. Volume depletion (dry mucosa) and metabolic alkalosis lead to increased potassium excretion in the kidneys and resultant hypokalemia (D is correct).",
+    "incorrectExplanation": "A, B, C, E are incorrect.",
+    "id": "IM-6-50",
+    "section": "IM",
+    "subsection": "CMS-6"
+  }
+]

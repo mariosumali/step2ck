@@ -1,0 +1,965 @@
+[
+  {
+    "questionNumber": 1,
+    "questionStem": "A 19-year-old woman comes for a routine follow-up examination for acne vulgaris. She is sexually active and does not use contraception. She has had chronic migraines over the past 3 years. She has a history of early signs of cataracts. There is a family history of hypercholesterolemia and inflammatory bowel disease. Examination shows active acne vulgaris on her face. She says that the various treatments she has received have failed to adequately control her acne, and she asks for a prescription for isotretinoin, a medication that has worked well for many of her friends. Isotretinoin therapy is contraindicated in this patient because of which of the following historic findings?",
+    "choices": {
+      "A": "Chronic migraines",
+      "B": "Early cataracts",
+      "C": "Family history of hypercholesterolemia",
+      "D": "Family history of inflammatory bowel disease",
+      "E": "Sexual activity without contraception"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Isotretinoin (retinoic acid), a derivative of vitamin A, is teratogenic to the fetus and causes multiple malformations often involving the central nervous and musculoskeletal systems. Patients taking isotretinoin for acne vulgaris should be instructed to use at least one form, ideally two forms, of contraception to prevent pregnancy and resulting teratogenic consequences for the fetus. Generally, barrier methods are considered inadequate given higher failure rates; intrauterine devices and oral contraceptive pills are preferred. The patient is sexually active without the current use of contraception, which is a contraindication to using isotretinoin.",
+    "incorrectExplanation": "Chronic migraines, early cataracts, hypercholesterolemia, and inflammatory bowel disease (Choices A, B, C, and D) are not characteristically exacerbated by the use of vitamin A derivatives and would not contraindicate the use of isotretinoin therapy in this patient.",
+    "id": "IM-3-1",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 2,
+    "questionStem": "A 73-year-old man with hypertension is brought to the emergency department by paramedics 1 hour after the onset of moderate chest pain and difficulty breathing. Aspirin was administered en route to the hospital. He takes no other medications. On arrival, he is diaphoretic. His temperature is 37.2\u00b0C (98.9\u00b0F), pulse is 185/min and thready, respirations are 30/min, and blood pressure is 85/45 mm Hg. Pulse oximetry on 100% oxygen by face mask shows an oxygen saturation of 92%. Breath sounds are heard bilaterally. Cardiac examination shows a regular rhythm. A rhythm strip shows a wide complex tachycardia. Which of the following is the most appropriate initial step in management?",
+    "choices": {
+      "A": "Administration of esmolol",
+      "B": "Administration of nitroglycerin by intravenous drip",
+      "C": "Intravenous administration of morphine",
+      "D": "Endotracheal intubation",
+      "E": "Synchronized cardioversion"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Patients with wide-complex (QRS greater than 120 msec) tachycardia require emergent medical attention and intervention. Rapid electrical depolarization of the heart and resultant increased heart rate impairs diastolic filling time resulting in low cardiac output leading to hypotension. Such a condition is accompanied by the high likelihood of degeneration to ventricular fibrillation and cardiac arrest. Any patient with an unstable, wide-complex tachycardia requires immediate synchronized cardioversion to abort the rhythm and permit improved cardiac output. Advanced Cardiac Life Support (ACLS) protocols are well-established for such cases; unstable patients (hypotensive, diaphoretic, tachypneic, with altered mental status) should be immediately cardioverted. Stable, perfusing wide-complex arrhythmias (normotensive, minimally symptomatic, with easily palpable pulses) can be treated with antiarrhythmic medication. As well, any patient with pulseless wide-complex tachycardia or ventricular fibrillation should receive cardiopulmonary resuscitation and be defibrillated.",
+    "incorrectExplanation": "Administration of esmolol (Choice A) may be appropriate for refractory ventricular tachycardia or ventricular fibrillation but would only be used following failure of conventional ACLS protocols. Classically, it is used to rapidly lower blood pressure and heart rate in aortic dissection. Administration of nitroglycerin by intravenous drip (Choice B) would be an appropriate choice for hypertensive emergency, refractory anginal chest pain, or as adjunct usage with a beta blocker to lower blood pressure in settings of aortic dissection. Intravenous administration of morphine (Choice C) is appropriate for treating acute pain; however, it may worsen hemodynamics in an unstable patient. Endotracheal intubation (Choice D) may be necessary for airway protection in a patient with depressed mental status, but this patient is showing no immediate signs of airway compromise; his respiratory symptoms are more likely explained by hypoperfusion which should be addressed immediately.",
+    "id": "IM-3-2",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 3,
+    "questionStem": "A 55-year-old woman comes to the emergency department 30 minutes after the sudden onset of ripping substernal chest pain. She has hypertension treated with hydrochlorothiazide. Her blood pressure is 220/128 mm Hg in both arms. Carotid, radial, femoral, and pedal pulses are within normal limits. An x-ray of the chest shows a widened aortic root and dilated ascending aorta. Which of the following is the most likely cause?",
+    "choices": {
+      "A": "Aortic dissection due to Takayasu arteritis",
+      "B": "Degeneration of the aortic wall from Marfan syndrome",
+      "C": "Medial degeneration of the aorta",
+      "D": "Rupture of a sinus of Valsalva aneurysm",
+      "E": "Traumatic disruption of the aorta from a fall"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "A history of chronic hypertension, especially if poorly controlled, along with acute, tearing, substernal chest pain is suggestive of aortic dissection. The tearing of the tunica intima and media in dissection allows for the creation of a false lumen in which blood can accumulate. Further, branch vessels can become occluded by the false lumen leading to end-organ ischemia. In older patients with a history of hypertension, atherosclerotic disease of the vasa vasorum plus breakdown of normal mural collagen and elastin results in accumulation of basophilic ground substance in place of normal tissue architecture. This process is known as cystic medial necrosis of the aorta. This process occurs predominantly in the tunica media \u2013 the smooth muscle layer of the arterial wall \u2013 and results in progressive weakening that can lead to an increased risk for thoracic aortic aneurysm formation and aortic dissection.",
+    "incorrectExplanation": "Aortic dissection due to Takayasu arteritis (Choice A) is less likely than medial degeneration for this patient as it is characterized by granulomatous inflammation and fibrosis in large arteries and is most commonly seen in younger females, especially those of Asian ethnicity; it is less likely to occur in a patient in the sixth decade of life with a history of chronic hypertension.\n\nDegeneration of the aortic wall from Marfan syndrome (Choice B) results from a genetic mutation leading to impaired synthesis of collagen. Patients with Marfan syndrome characteristically are diagnosed early in life because of lens dislocation, aneurysmal disease, and joint hypermobility. It can also result in early-onset cystic medial degeneration of the aortic root, which places patients at risk for aortic dissection. Marfan syndrome is less likely the cause of this patient's aortic dissection based on the patient's age and history of hypertension.\n\nRupture of a sinus of Valsalva aneurysm (Choice D) would result in exsanguination from the aorta into the surrounding aortic adventitia or mediastinum. Sinus of Valsalva aneurysms occur secondary to a number of pathologies, including syphilis, tuberculosis, and chronic cystic medial degeneration. They are less common than aortic dissection as an explanation of the patient\u2019s symptoms.\n\nTraumatic disruption of the aorta from a fall (Choice E) results from shear forces applied to the aorta during rapid deceleration injury such as a fall or high-energy collision. This typically presents with large-volume acute blood loss and hemorrhagic shock.",
+    "id": "IM-3-3",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 4,
+    "questionStem": "A 27-year-old African American woman comes to the physician because of a 1-week history of a tight sensation in her chest and a nonproductive cough. The cough occurs most frequently at night after she goes to bed. She says she received breathing treatments in the emergency department for acute shortness of breath twice during the past 3 months and was told to stop smoking. She has a long-standing history of frequent upper respiratory tract infections. She currently takes no medications. She has smoked one pack of cigarettes daily for 10 years. Vital signs are within normal limits. End-expiratory wheezes are heard bilaterally. The remainder of the examination shows no abnormalities. A chest x-ray shows no abnormalities. Which of the following is the most likely underlying cause of this patient's symptoms?",
+    "choices": {
+      "A": "Activation of mast cells",
+      "B": "Embolism of intravascular thrombi",
+      "C": "Loss of elastin in the lung matrix",
+      "D": "Necrotizing pulmonary vasculitis",
+      "E": "Noncaseating granulomatous inflammation"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Asthma is characterized by reversible obstruction to airflow caused by spasm of smooth muscle in the bronchi and small airways. It is often triggered by an allergen. Patients will frequently report worsening of symptoms associated with nighttime, seasonal change, exercise, or exposure to smoke, mold, dust, pollen, or cockroaches. It is diagnosed on clinical history, pulmonary function testing, and/or functional challenge testing (e.g., bronchodilator challenge). Treatment is based on severity and involves avoidance of triggers, the use of short- or long-acting beta-agonists (e.g., albuterol, salmeterol), systemic or inhaled glucocorticoids, anticholinergics, mast cell stabilizers, leukotriene inhibitors, and anti-IgE agents. The exact therapeutic regimen depends on severity and frequency of symptoms. Mast cells produce histamines and leukotrienes in response to activation by allergens, which can trigger bronchial smooth muscle reactivity leading to an exacerbation of asthma.",
+    "incorrectExplanation": "Incorrect Answers: B, C, D, and E.\n\nEmbolism of intravascular thrombi (Choice B) describes a pulmonary embolism, often following a deep venous thrombosis, which typically presents with acute onset chest pain, shortness of breath, tachypnea, and tachycardia. This patient is instead showing signs of asthma such as wheezing, nighttime exacerbations, and appropriate response to beta-agonists.\n\nLoss of elastin in the lung matrix (Choice C) describes the pathophysiology of emphysema secondary to chronic inflammation resulting in protease and anti-protease imbalances in the lung, typically from smoking.\n\nNecrotizing pulmonary vasculitis (Choice D) may describe several types of pulmonary vasculitis, for example, Goodpasture syndrome, a vasculitis involving the basement membranes of the lung and kidney, or granulomatosis with polyangiitis (formerly Wegener granulomatosis), a vasculitis involving the upper respiratory mucosa, lungs, and kidneys. Classically, pulmonary vasculitis involves chest pain and hemoptysis, not wheezing.\n\nNoncaseating granulomatous inflammation (Choice E) can occur with several diseases involving the lung, including sarcoidosis and various pneumoconioses. These conditions present with restrictive, not obstructive, lung mechanics.",
+    "id": "IM-3-4",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 5,
+    "questionStem": "Immediately after an episode of massive hematemesis, a 50-year-old man feels faint, cold, and sweaty. His pulse is 130/min, and blood pressure is 80/40 mm Hg; hematocrit is 40%. Which of the following is the most appropriate next step in patient care?",
+    "choices": {
+      "A": "Rapid infusion of 5% dextrose in water",
+      "B": "Rapid infusion of 0.9% isotonic saline",
+      "C": "Insertion of a pulmonary artery catheter via the subclavian vein",
+      "D": "Gastric lavage with ice-cold saline until bleeding stops",
+      "E": "Emergency esophagogastroduodenoscopy"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Rapid infusion of 0.9% isotonic saline is the most appropriate next step in the management of this patient's decompensated hemorrhagic shock. In cases of acute blood loss, small amounts can be tolerated without challenging the ability of the circulatory system to compensate. As the amount of blood loss increases, the circulatory system compensates through fluid retention, increased heart rate, and vasoconstriction. If blood loss continues, these mechanisms become incapable of fully compensating, and shock secondary to hemorrhage occurs. Hemorrhagic shock can be classified by the amount of blood lost, vital signs, physiologic parameters such as falling urine output, exam findings such as diaphoresis, cool extremities, and weak peripheral pulses, and features in the history such as light-headedness. In extreme cases, hypotension occurs, necessitating rapid intravascular volume repletion to prevent circulatory collapse, cardiac arrest, and death. In the emergent setting, the patient's acute hypovolemia should be replaced with isotonic saline. In hemorrhage, both red blood cells and plasma are lost equivalently; this results in a normal hematocrit, though overall blood volume is decreased.",
+    "incorrectExplanation": "Rapid infusion of 5% dextrose in water (Choice A) may be appropriate if normal saline or blood is unavailable, though the osmolality of this fluid results in extravascular losses, making it suboptimal for intravascular volume repletion. Insertion of a pulmonary artery catheter via the subclavian vein (Choice C) is an important diagnostic step in evaluating undifferentiated shock when the cause is not evident from the history and physical exam; this is especially true in the evaluation of cardiogenic shock. This patient demonstrates a clear primary hemorrhagic shock from hematemesis and does not require a pulmonary artery catheter to diagnose or treat at this time. Gastric lavage with ice-cold saline until bleeding stops (Choice D) would not readily replace intravascular volume though it may have an adjunct role in reducing gastrointestinal blood losses; however, emergency esophagogastroduodenoscopy (EGD) (Choice E) is the first choice for definitive hemorrhage control in capable centers. EGD and gastric lavage should not take the place of emergent intravascular volume repletion as the best next step in a patient with decompensated hemorrhagic shock.",
+    "id": "IM-3-5",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 6,
+    "questionStem": "A 72-year-old woman is brought to the emergency department because of a 1-month history of progressive shortness of breath and fatigue. She has had no chest pain. There is no history of heart or pulmonary disease. She is in moderate respiratory distress. Her temperature is 37\u00b0C (98.6\u00b0F), pulse is 100/min, respirations are 22/min, and blood pressure is 135/85 mm Hg. Examination shows jugular venous distention. Crackles are heard halfway up both lungs. A grade 2/6, systolic ejection murmur is heard along the left sternal border. There is an S3. She has 2+ edema of the lower extremities. Rectal examination shows dark stool; test for occult blood is positive. Laboratory studies show: Hemoglobin 5 g/dL, Leukocyte count 9000/mm3, Serum Na+ 140 mEq/L, K+ 4 mEq/L, Cl\u2212 105 mEq/L, HCO3\u2212 25 mEq/L, Urea nitrogen 28 mg/dL, Glucose 120 mg/dL, Creatinine 1.2 mg/dL, Urine protein 1+. An x-ray of the chest shows a mildly enlarged cardiac silhouette with pulmonary vascular congestion. An ECG shows nonspecific ST-segment changes. Echocardiography shows trace mitral regurgitation and an ejection fraction of 70%; there are no wall motion abnormalities. Which of the following is the most likely cause of these findings?",
+    "choices": {
+      "A": "High-output heart failure",
+      "B": "Left ventricular diastolic dysfunction",
+      "C": "Left ventricular systolic dysfunction",
+      "D": "Nephrotic syndrome",
+      "E": "Valvular heart disease"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Shortness of breath, fatigue, tachycardia, tachypnea, jugular venous distention, bilateral basilar crackles, an S3 gallop, ejection murmur, and lower extremity edema raise suspicion for heart failure, either from a primary consequence of ischemic heart disease, or from a nonischemic cardiomyopathy. In this case, dark stools and a hemoglobin concentration of 5 g/dL indicates the patient suffers from high-output heart failure related to underlying severe anemia; the heart must increase cardiac output through an increase in heart rate and potentially in stroke volume to deliver the same amount of oxygen to the body given diminished oxygen carrying capacity from anemia. Oxygen delivery is a function of cardiac output and oxygen content. If oxygen content falls, cardiac output must rise to maintain equivalent delivery. The oxygen content of blood is directly proportional to the amount of hemoglobin and the saturation of that hemoglobin, and to a much lesser extent, directly proportional to the partial pressure of oxygen in the bloodstream.",
+    "incorrectExplanation": "Incorrect Answers: B, C, D, and E. Left ventricular diastolic dysfunction (Choice B) is characterized by impaired relaxation and chamber hypertrophy on echocardiography; it typically presents with pulmonary vascular congestion and is often the consequence of chronic, poorly controlled hypertension or aortic stenosis. Left ventricular systolic dysfunction (Choice C) is often the result of ischemic cardiomyopathy but can also result from many nonischemic causes (e.g., alcohol abuse, beriberi, South American trypanosomiasis, chemotherapies, or peripartum cardiomyopathy). It typically presents with a reduced ejection fraction and is seen on echocardiography as an enlarged, dilated chamber with poor contractility. Nephrotic syndrome (Choice D) presents with edema, proteinuria, hypoalbuminemia, hypercoagulability, and increased susceptibility to infection. This patient's symptoms are more likely explained by heart failure secondary to anemia as opposed to a primary renal process. Valvular heart disease (Choice E) is a common cause of heart failure; however, this patient has no significant valvular dysfunction on echocardiography.",
+    "id": "IM-3-6",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 7,
+    "questionStem": "A 47-year-old man comes to the physician because of a 4-day history of abdominal bloating, increasing flatulence, and diarrhea 6 to 12 times daily despite loperamide therapy. The stool is watery, nonbloody, and foul smelling; he says it is bright yellow and occasionally green. He has not had fever. He recently traveled to the Middle East. His temperature is 37\u00b0C(98.6\u00b0F), pulse is 88/min, respirations are 18/min, and blood pressure is 120/76 mm Hg. Abdominal examination shows slight distention and mild tenderness with no rebound or guarding; bowel sounds are normal. Rectal examination shows no abnormalities. Test of the stool for occult blood is negative. Which of the following is the most likely causal organism?",
+    "choices": {
+      "A": "Campylobacter jejuni",
+      "B": "Clostridium difficile",
+      "C": "Entamoeba coli",
+      "D": "Entamoeba histolytica",
+      "E": "Enterotoxigenic Escherichia coli",
+      "F": "Nontyphoidal Salmonella species",
+      "G": "Norwalk virus",
+      "H": "Rotavirus",
+      "I": "Shigella species",
+      "J": "Yersinia enterocolitica"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Enterotoxigenic Escherichia coli (ETEC) is the most common cause of travelers\u2019 diarrhea. It is one of the most common causes of bacterial diarrhea in the developing world and is transmitted via the fecal-oral route. Symptoms include acute, diffuse, crampy abdominal pain and bloating, and profuse, frequent episodes of watery, nonbloody diarrhea. ETEC causes diarrhea through the production of bacterial exotoxins. Diagnosis is via stool culture and microscopy (typically with an absence of blood and stool leukocytes), and treatment is supportive with rehydration and electrolyte repletion. The infection is often self-limiting, though antibiotics may be required in prolonged or severe cases.",
+    "incorrectExplanation": "Incorrect Answers: A, B, C, D, F, G, H, I, and J.\n\nCampylobacter jejuni (Choice A), Entamoeba histolytica (Choice D), nontyphoidal Salmonella species (Choice F), Shigella species (Choice I), and Yersinia enterocolitica (Choice J) classically present with mucosal inflammation and invasion, leading to a toxic presentation with bloody diarrhea. Clostridium difficile (Choice B), can present with watery or bloody diarrhea depending on the severity of the infection and often follows antibiotic administration. These pathogens are invasive, toxin-producing, and require antibiotic therapy plus supportive care.\n\nEntamoeba coli (Choice C) is a commensal organism that generally does not cause pathologic enteritis or colitis.\n\nNorwalk virus (Choice G) is a cause of self-limited viral gastroenteritis with nausea, vomiting, and diarrhea. It is commonly detected in outbreaks on cruise ships and commonly occurs during winter months.\n\nRotavirus (Choice H) causes self-limited nausea, vomiting, and watery diarrhea in children, with nearly 100% of children having been affected by age five.",
+    "id": "IM-3-7",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 8,
+    "questionStem": "A 32-year-old woman has had polyuria, blurred vision, and rapid breathing for 1 day. Her pulse is 110/min, respirations are 26/min, and blood pressure is 100/50 mm Hg. Examination is otherwise within normal limits. Serum studies show: Na+ 139 mEq/L, Cl- 99 mEq/L, K+ 4.7 mEq/L, HCO3- 18 mEq/L, Glucose 783 mg/dL. Which of the following is the most likely cause of her acidosis?",
+    "choices": {
+      "A": "Accumulation of \u03b2-hydroxybutyric acid",
+      "B": "Accumulation of lactate",
+      "C": "Decreased renal production of ammonium",
+      "D": "Loss of bicarbonate through the kidneys",
+      "E": "Movement of potassium into the cells"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Diabetic ketoacidosis (DKA) occurs due to the accumulation of serum ketones such as \u03b2-hydroxybutyric acid, acetoacetic acid, and acetone in the setting of deficient insulin signaling. Dysregulated fatty acid degradation and ketone synthesis occurs because of the relative state of starvation created through absent insulin signaling. Patients present with fatigue, polyuria, shortness of breath, and diffuse abdominal discomfort. Vital signs may show tachycardia and tachypnea. Kussmaul respirations, rapid and deep, is a classic physical exam finding because of respiratory compensation for the underlying metabolic acidosis. Labs typically show increased glucose, ketones, and a high anion-gap because of the accumulation of unmeasured anions in serum. Anion gap is calculated as the difference between sodium and the sum of bicarbonate and chloride anions. Treatment is through replacement of insulin, volume repletion, correction of electrolyte abnormalities, and treatment of any precipitating conditions.",
+    "incorrectExplanation": "Accumulation of lactate (Choice B), also known as lactic acidosis, can occur in multiple different situations such as shock, metabolic derangements, and in response to medications. It can also occur in DKA; however, it is not the primary cause of acidosis. Decreased renal production of ammonium (Choice C) and loss of bicarbonate through the kidneys (Choice D) are both causes of renal tubular acidosis (RTA). RTAs are not caused by the accumulation of an unmeasured anion and do not present with an increased anion gap. Movement of potassium into the cells (Choice E) occurs because of transcellular potassium-proton exchange. Increased movement of potassium into the cells occurs when the serum is alkalotic, not acidotic. Acidosis in the setting of DKA stimulates movement of potassium out of the cells into the serum.",
+    "id": "IM-3-8",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 9,
+    "questionStem": "A 27-year-old man comes to the physician because of a 3-hour history of muscle swelling and tenderness of the left thigh following minimal trauma. He has severe hemophilia A and has received factor VIII replacement therapy for bleeding episodes since childhood. Over recent months, his bleeding has been poorly controlled; increasing doses of factor VIII have been required to stop bleeding episodes. His platelet count is 125,000/mm\u00b3, and activated partial thromboplastin time is greater than 120 sec. Which of the following is the most appropriate next step in diagnosis of this patient's increased bleeding?",
+    "choices": {
+      "A": "Measurement of bleeding time",
+      "B": "Measurement of factor IX concentration",
+      "C": "Measurement of thrombin time to detect heparin",
+      "D": "Platelet function studies",
+      "E": "Test for factor VIII inhibitor"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Hemophilia A, an X-linked coagulopathy, arises from a genetic deficiency in factor VIII synthesis or activity. Patients often present with easy bruising and hemorrhage involving muscles and joints. Hemorrhage can be life-threatening, often requiring transfusions of factor VIII to replace the deficient protein. Patients can acquire antibodies against exogenous factor VIII, which can necessitate larger transfusions to elicit the same hemostatic effect. With an acquired inhibitor, some of the transfused factor VIII will be bound and neutralized by the inhibitor (typically IgG). Testing for factor VIII inhibitor is indicated in such cases. Exposure to the nonnative protein (transfused factor VIII) promotes this appropriate but countertherapeutic immune response.",
+    "incorrectExplanation": "Bleeding time (Choice A) is a measure of platelet function and is used in the diagnosis of platelet disorders such as thrombocytopenia, von Willebrand disease, disseminated intravascular coagulopathy, Bernard-Soulier syndrome, and Glanzmann thrombasthenia. It does not classically have a role in the workup of hemophilia and does not correlate with coagulation factor deficiencies. Measurement of factor IX concentration (Choice B) is useful in the workup of hemophilia B. This patient has hemophilia A and is presenting with symptoms concerning for the development of an acquired inhibitor of factor VIII. The presence of both hemophilia A and hemophilia B in the same patient is exceedingly rare. Measurement of thrombin time to detect heparin (Choice C) would be appropriate if the patient were using heparin therapeutically. Platelet function tests (Choice D) refer to bleeding time, platelet aggregation, and platelet activation tests. They are classically used to assess qualitative platelet hemostatic defects. This patient presents with a known factor deficiency and progressive under-responsiveness to an exogenously replaced protein, raising suspicion for the presence of an acquired factor inhibitor.",
+    "id": "IM-3-9",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 10,
+    "questionStem": "A 23-year-old African American man comes to the physician because of a 2-month history of increasing pain and swelling above the right knee. There is no history of trauma or recent fever. He had retinoblastoma in infancy that was treated with enucleation. His temperature is 37\u00b0C (98.6\u00b0F). Examination shows moderate swelling of the distal femur. There is mild tenderness to palpation with moderate discomfort on weight bearing. His serum alkaline phosphatase activity is 1350 U/L. An x-ray of the right femur shows a lytic lesion with periosteal new bone at the margins. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Hyperparathyroidism",
+      "B": "Metastatic malignancy",
+      "C": "Multiple myeloma",
+      "D": "Osteitis deformans (Paget disease)",
+      "E": "Osteoid osteoma",
+      "F": "Osteomyelitis",
+      "G": "Osteoporosis",
+      "H": "Osteosarcoma",
+      "I": "Sickle cell disease"
+    },
+    "correctAnswer": "H",
+    "correctExplanation": "Chronic pain, bony swelling, and a history of malignancy in childhood raises suspicion for a diagnosis of osteosarcoma, the most common type of primary bone cancer. It often occurs in persons under age 30 years. Osteosarcoma typically occurs in long bones, frequently above the knee in the distal femur or below the knee in the proximal tibia. The metaphysis is often affected. The initial presentation often includes pain and swelling; sometimes, a fragility fracture is the declaring presentation. Causes include familial cases, especially involving the retinoblastoma or p53 tumor suppressor genes, bony dysplasia such as osteitis deformans (Paget disease) and fibrous dysplasia, and exposure to radiation. Diagnosis occurs via a bone biopsy and is supported by radiographic findings, such as the Codman triangle (an area of reactive periosteum adjacent to a lytic lesion with new bone formation).",
+    "incorrectExplanation": "Hyperparathyroidism (Choice A) presents with bony destruction caused by hyperactive osteoclast activity, known as osteitis fibrosa cystica. It is typically diffuse and is also accompanied by symptoms of hyperparathyroidism and hypercalcemia. Metastatic malignancy (Choice B) is the most common overall source of bone tumors, secondary to spread from a primary malignancy (often lung or prostate). Metastatic lesions would be unlikely to occur in an otherwise healthy young person and would be less likely to present with a localized lesion at the metaphysis of a long bone. Multiple myeloma (Choice C) presents with multiple areas of bony osteolysis and remodeling, caused by local invasive disease and its effect on increased osteoclast activity. Lesions are often in the skull, pelvis, or vertebrae, and often occur in patients in their sixth or greater decades of life. Symptoms also include anemia, renal failure, frequent infections, and diffuse skeletal pain. It would be rare in a young person with an isolated tumor. Osteitis deformans (Paget disease) (Choice D) presents with breakdown, remodeling, and disorganized deposition of new bone, and results in deformity, pain, fragility fractures, and arthritis. It is rare in youth. Osteoid osteomas (Choice E) are benign tumors often occurring most often in the long bones of children and young adults; they tend to be self-limited and cause pain, especially at nighttime. They are generally small and do not have a strong association with tumor suppressor genes. Osteomyelitis (Choice F) is an infection of bone and bone marrow and typically presents acutely, subacutely, or chronically from direct inoculation or hematogenous spread; patients typically describe symptoms of pain, difficulty bearing weight, and overlying erythema. Imaging typically demonstrates localized osseous erosive changes. Osteoporosis (Choice G) occurs in older persons, often female, because of loss of bone density with age. It does not have a lytic appearance or periosteal reaction on imaging. Sickle cell disease (Choice I) can cause bone infarction and avascular necrosis during occlusive crises, though this patient has no history of the condition. It would not present with a tumor or periosteal reaction.",
+    "id": "IM-3-10",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 11,
+    "questionStem": "A previously healthy 21-year-old man comes to the emergency department 2 weeks after the onset of mild cough and runny nose. During the past 3 days, the cough has worsened with episodes so intense that he has vomited. The cough is productive of thick green sputum. He feels well between coughing episodes. He has not had fever, chest pain, or shortness of breath. He takes no medications. He is a college student. His temperature is 37.3\u00b0C (99.2\u00b0F), pulse is 70/min, respirations are 14/min, and blood pressure is 115/65 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 98%. Pulmonary examination shows no abnormalities. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Influenza",
+      "B": "Legionnaires disease",
+      "C": "Pertussis",
+      "D": "Psittacosis",
+      "E": "Q fever"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Episodes of severe coughing followed by emesis, in the setting of a respiratory illness, raises suspicion for pertussis. Pertussis is caused by infection from Bordetella pertussis and classically presents in three stages. The catarrhal stage is first, which presents with fever, rhinorrhea, and a mild cough. This progresses to the paroxysmal stage after 1 to 2 weeks, in which patients experience violent bouts of extreme coughing, at times violent enough to cause secondary traumatic injury such as rib fractures, urinary incontinence, and pneumothoraces. Often, such coughing fits are followed by syncope, emesis, or apnea. The paroxysmal stage can last for weeks to months. Symptoms resolve in the convalescent stage, which lasts from 1 to 4 weeks. Pertussis can be prevented with immunization, and is treated with antibiotics, typically macrolides.",
+    "incorrectExplanation": "Influenza (Choice A) presents with respiratory, gastrointestinal, and systemic symptoms, including cough, nausea, vomiting, diarrhea, fever, chills, headache, myalgias, and arthralgias; it can be complicated by bacterial superinfection causing severe bacterial pneumonia. It typically lasts for less than 1 week and does not have a paroxysmal stage. Legionnaires disease (Choice B) is caused by infection from Legionella pneumophila, which is typically spread through aerosol transmission from a water habitat source (e.g., air conditioning). It often presents with diarrhea and hyponatremia in addition to respiratory symptoms and does not typically have a paroxysmal stage. Psittacosis (Choice D) occurs in persons with exposure to birds, as a vector is typically required to transmit the infection (Chlamydia psittaci); similarly, Q fever (Coxiella burnetii) (Choice E) typically requires exposure to sheep, goats, and cattle as a zoonotic source.",
+    "id": "IM-3-11",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 12,
+    "questionStem": "A 27-year-old woman who is HIV positive comes to the physician because of a 1-day history of fever, shortness of breath, right-sided chest pain, and cough productive of yellow-brown sputum. She had previously been feeling well. She is compliant with her antiretroviral medication regimen and follow-up visits. One month ago, her CD4+ T-lymphocyte count was 400/mm3 (Normal:>500), and plasma HIV viral load was undetectable. She has never used illicit drugs. Her temperature is 39.8\u00b0C (103.6\u00b0F), pulse is 120/min, respirations are 28/min, and blood pressure is 90/40 mm Hg. Bronchial breath sounds and egophony are heard over the lower lobe of the right lung posteriorly; there is dullness to percussion. Pulse oximetry on room air shows an oxygen saturation of 93%. An x-ray of the chest shows a right lower lobe consolidation. A Gram stain of sputum shows many segmented neutrophils and numerous gram-positive diplococci. Cultures of the sputum and blood are pending. In addition to supplemental oxygen and intravenous fluids, which of the following is the most appropriate pharmacotherapy?",
+    "choices": {
+      "A": "Ceftriaxone",
+      "B": "Gentamicin",
+      "C": "Isoniazid, rifampin, and pyrazinamide",
+      "D": "Penicillin",
+      "E": "Prednisone",
+      "F": "Trimethoprim-sulfamethoxazole"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Fever, shortness of breath, cough productive of yellow-brown sputum, focal pleuritic chest pain, toxic vital signs, and a consolidation on chest x-ray are suggestive of lobar pneumonia, often from S. pneumoniae, H. influenzae, M. catarrhalis, or S. aureus (especially if preceded by a viral infection). S. pneumoniae is a gram-positive diplococcus and can be treated using an anti-pneumococcal beta-lactam antibiotic such as ceftriaxone. This patient, while HIV-positive, has acceptable levels of CD4+ T-lymphocytes and an undetectable HIV viral load. She has had no recent hospitalizations and is adherent to her HIV medication regimen. Given her well-controlled disease, she does not require broader spectrum antibiotics or antibiotic prophylaxis at this time.",
+    "incorrectExplanation": "Incorrect Answers: B, C, D, E, and F.\n\nGentamicin (Choice B), an aminoglycoside antibiotic, is commonly used to treat neonatal sepsis, meningitis, and pneumonia, pelvic inflammatory disease, endocarditis, and osteomyelitis; however, it is ototoxic, nephrotoxic, and neurotoxic, making it suboptimal when alternative suitable and safer medications are available.\n\nIsoniazid, rifampin, and pyrazinamide (Choice C) is an appropriate combination of antibiotics for infections caused by Mycobacterium tuberculosis.\n\nPenicillin (Choice D) is a beta-lactam antibiotic, but resistance rates for S. pneumoniae are high, making it less suitable for empiric antibiotic therapy.\n\nPrednisone (Choice E) has an adjunct role in treating pulmonary infections; however, in a patient without chronic obstructive pulmonary disease or pneumonia suspected to be from P. jirovecii, a glucocorticoid is not typically indicated and an antibiotic is the most appropriate next therapy.\n\nTrimethoprim-sulfamethoxazole (Choice F) is commonly used in HIV patients as prophylaxis against P. jirovecii pneumonia when the CD4+ count falls below 200/mm3. It is not first-line antibiotic for suspected lobar pneumonia from S. pneumoniae.",
+    "id": "IM-3-12",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 13,
+    "questionStem": "A 35-year-old woman is brought to the emergency department after collapsing at a restaurant. Her pulse is 120/min, respirations are 30/min, and blood pressure is 90/60 mm Hg. Her breathing is labored, but she can speak. She has diffuse bronchospasm, and she coughs continuously. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Anaphylactic shock",
+      "B": "Aspiration",
+      "C": "Drug overdose",
+      "D": "Pulmonary embolus",
+      "E": "Spontaneous pneumothorax"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Anaphylactic shock, a severe Type 1 hypersensitivity reaction, presents following exposure to an allergen. It is caused by widespread IgE-mediated mast cell degranulation and is characterized by histaminergic responses within multiple organ systems leading to flushing, angioedema, bronchospasm, nausea, vomiting, abdominal discomfort, and vasodilation, which can lead to airway obstruction and circulatory collapse. If not managed promptly, death can occur from hypoxia and/or distributive shock. The diagnosis is made clinically, and treatment requires intramuscular epinephrine, inhaled beta-agonists, glucocorticoids, histamine blockers, fluid resuscitation, and potentially invasive airway or additional vasopressor support.",
+    "incorrectExplanation": "Incorrect Answers: B, C, D, and E.\n\nAspiration (Choice B), the inhalation of oropharyngeal or gastric contents into the airway, occurs because of dysfunction in the swallowing mechanism, commonly from anatomic (e.g., malignancy, tracheoesophageal fistula), neurologic (e.g., post-stroke with cranial nerve dysfunction or impaired swallow coordination, emesis occurring when unconscious and unable to protect airway), or functional mechanisms (e.g., cyclic vomiting, frequent emesis in alcohol use disorder). It classically presents with cough and shortness of breath but would not be expected to result in acute onset tachycardia and hypotension unless a massive volume aspiration took place.\n\nDrug overdose (Choice C) can result in respiratory distress, but more often results in shallow and depressed respirations (opioid overdose), or tachypnea (stimulant overdose). Bronchospasm would be unlikely.\n\nPulmonary embolus (Choice D) presents with acute onset chest pain, tachypnea, tachycardia, and hypoxia, often in a patient with a history of deep venous thrombosis. The lungs are characteristically clear to auscultation early in the course.\n\nSpontaneous pneumothorax (Choice E) presents with chest pain and tachypnea with diminished breath sounds and hyperresonance to percussion on the affected side; it can present with shock in the setting of a tension pneumothorax. Bronchospasm is less likely.",
+    "id": "IM-3-13",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 14,
+    "questionStem": "A 42-year-old woman comes to the physician for a follow-up examination. She has a 5-year history of mild shortness of breath on exertion and cough productive of copious yellow-to-whitish sputum. She has not had fever or chills. She has reactive airways disease treated with daily salmeterol-fluticasone and albuterol and seasonal allergies treated with fexofenadine. She has a chronic cough that is not controlled by her medications. She has a 20-year history of multiple respiratory tract infections, including three episodes of pneumonia during the past 15 years and two episodes of sinusitis during the past 5 years. She usually requires antibiotic therapy for bronchitis three to four times yearly. She does not smoke. Her temperature is 36.9\u00b0C (98.4\u00b0F), pulse is 72/min, respirations are 20/min, and blood pressure is 132/78 mm Hg. Examination shows mild lymphadenopathy. There is mild thrush. Coarse breath sounds are heard bilaterally. Cardiac examination shows no abnormalities except for a slightly increased S2. There is no clubbing or edema. In addition to pulmonary function testing and antifungal therapy, which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "Measurement of CD4+ T-lymphocyte count",
+      "B": "Measurement of serum complement concentrations",
+      "C": "Measurement of serum immunoglobulin concentrations",
+      "D": "Sputum culture",
+      "E": "Ventilation-perfusion lung scans"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "A history of multiple sinopulmonary infections in an otherwise healthy adult along with thrush raises the possibility of a late-presenting primary immunodeficiency, in this case, common variable immunodeficiency (CVID). CVID classically presents in the second to fourth decades of life as multiple, recurrent sinus or pulmonary infections, including pneumonia, bronchitis, and sinusitis. An opportunistic infection like thrush, while potentially related to the patient's use of inhaled corticosteroids, further raises the possibility of an immunodeficiency. The patient should be tested for serum immunoglobulin concentrations.",
+    "incorrectExplanation": "Measurement of CD4+ T-lymphocyte count (Choice A) would be appropriate in the case of known or suspected infection with HIV or AIDS. This patient has no clear risk factors for HIV/AIDS, and her infections are more likely explained by CVID. Measurement of serum complement concentrations (Choice B) would be appropriate if an innate immunodeficiency related to complement were suspected; notably, susceptibility to infection from Neisseria species is associated with deficiencies in the terminal complement proteins C5-C9. Sputum culture (Choice D) would be appropriate in cases where gram stain or culture of an organism would improve diagnostic or therapeutic ability in the management of a pulmonary infection, though sputum culture is often difficult to obtain in nonintubated patients and may be confounded by oral and native respiratory flora. It would not explain her recurrent infections over many years. Ventilation-perfusion lung scans (Choice E) are used in the diagnosis of conditions that affect either pulmonary ventilation or perfusion, notably pulmonary embolism.",
+    "id": "IM-3-14",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 15,
+    "questionStem": "A 42-year-old woman comes to the physician because of a 3-day history of dizziness and progressive difficulty with balance. She has been supporting herself against walls when she walks. She has not had numbness, weakness, or palpitations. She has had nausea and a mild decrease in appetite but is able to drink fluids. There is no history of head trauma. She has mitral valve prolapse. She takes no medications. Her sister has multiple sclerosis. Vital signs are within normal limits. The optic discs appear normal, and ocular movements are full. Tympanic membranes are dull bilaterally. The light reflex is distorted. There are no exudates on the pharynx. A grade 2/6 systolic murmur is heard best at the lower left sternal border. Muscle strength and deep tendon reflexes are normal. Her gait is unsteady. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Acoustic neuroma (vestibular schwannoma)",
+      "B": "Cerebral infarction",
+      "C": "Dehydration",
+      "D": "Endocarditis",
+      "E": "Labyrinthitis",
+      "F": "Multiple sclerosis"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Dizziness and gait instability carry a broad differential diagnosis; these symptoms are often divided into central, peripheral, and secondary causes of symptoms to determine a likely diagnosis. Central causes include cerebrovascular accidents such as ischemic and hemorrhagic strokes, tumors of the brain stem and cerebellum, and multiple sclerosis or similar demyelinating disorders. Peripheral causes include benign paroxysmal positional vertigo, labyrinthitis, Meniere disease, endolymphatic fistula, or temporal bone fractures, tumors, or lesions. Secondary or systemic causes can include electrolyte imbalances, hypovolemia, cardiac arrhythmia, infections, and vitamin deficiencies, among other causes. Labyrinthitis is inflammation of the inner ear, often involving the vestibulocochlear nerve, and is often preceded by an upper respiratory or ear infection. Classic symptoms include vertigo, ataxia, nausea, vomiting, and hearing loss. Treatment is supportive, along with the exclusion of emergent causes of vertigo and ataxia, as the condition is typically self-limited.",
+    "incorrectExplanation": "Acoustic neuroma (vestibular schwannoma) (Choice A) is a known cause of central vertigo secondary to impingement of the vestibulocochlear nerve at the brain stem. These tumors often occur at the cerebellopontine angle and are often subclinical; there is an association with neurofibromatosis, and they may present with hearing loss, vertigo, and nystagmus. Preceding infection or dulling of the tympanic membranes would not be expected.\n\nCerebral infarction (Choice B) can cause vertigo by disrupting normal neurologic equilibrium and proprioceptive pathways, especially when such infarction involves the cerebellum, pons, or brain stem nuclei involving the oculomotor, trochlear, abducens, or vestibulocochlear nerves. Nystagmus, motor or sensory neurologic deficits, and cranial nerve deficits would be expected in such cases, and the presentation is typically acute. Signs of vertebrobasilar insufficiency, such as nausea, vomiting, dysarthria, and impaired brain stem reflexes may also be present.\n\nDehydration (Choice C) may present with dizziness or ataxia in the setting of orthostatic hypotension, with patients often describing feelings of light-headedness when rising from supine to seated or seated to standing. It is caused by decreased cardiac output from diminished preload and resolves with volume resuscitation.\n\nEndocarditis (Choice D) presents with acute or subacute fever, a new or changing heart murmur, septic emboli to the lung or systemic circulation, and vascular and immunologic phenomena such as Roth spots, Osler nodes, Janeway lesions, and splinter hemorrhages.\n\nMultiple sclerosis (MS) (Choice F) presents with neurologic symptoms of varying duration separated in space and time. Common symptoms include optic neuritis, which is often the declaring presentation. Women are more commonly affected than men. Any type of neurologic symptom may occur. MS would not be expected to follow an infection though it may be exacerbated by such, and physical exam findings of tympanic membrane dullness (suggestive of inflammation and fluid in the middle ear) would not be present.",
+    "id": "IM-3-15",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 16,
+    "questionStem": "A 57-year-old man comes to the physician with his wife because of a headache for 3 days. He has had a 6.8-kg (15-lb) weight gain over the past 6 months. His dentist has told him that the space between his teeth is increasing. His wife says that he has started snoring and his voice has deepened over the past 6 months. He is 178 cm (5 ft 10 in) tall and now weighs 91 kg (200 lb); BMI is 29 kg/m2. Examination shows frontal bossing and large feet. Measurement of which of the following is most likely to confirm the diagnosis?",
+    "choices": {
+      "A": "Hemoglobin A1c",
+      "B": "Serum C-peptide concentration",
+      "C": "Serum growth hormone-releasing hormone concentration",
+      "D": "Serum insulin-like growth factor 1",
+      "E": "Serum somatostatin concentration"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Acromegaly results from excess production of growth hormone (GH), typically from a functional pituitary adenoma. GH upregulates production of insulin-like growth factor 1 (IGF-1). Following fusion of growth plates, stimulus from IGF-1 results in enlargement of bones in the head, face, hands, and feet, sparing the long bones. If the derangement occurs prior to puberty, long-bone enlargement also occurs, resulting in gigantism. Symptoms of acromegaly include the development of enlarged hands, feet, forehead, skull, and jaw, and deepening of the voice. Complications include the development of diabetes mellitus. Diagnosis is made by clinical presentation, measured hormonal levels, and cross-sectional imaging to detect the culprit adenoma. Surgical resection is the preferred treatment. If surgery cannot be performed, somatostatin analogues (e.g., octreotide) and antagonists of the GH receptor (e.g., pegvisomant) can be used.",
+    "incorrectExplanation": "Hemoglobin A1c (Choice A) is diagnostic of diabetes mellitus when increased above 6.5%. It results from chronic elevations in blood glucose leading to the production of glycated hemoglobin and can be used for the diagnosis and assessment of treatment efficacy for diabetes mellitus. It has no role in the immediate diagnosis of acromegaly. Serum C-peptide concentration (Choice B) is also used in the diagnosis of diabetes and can be useful in distinguishing whether the cause is due to beta cell destruction (insulin and C-peptide concentration will both be low, type 1 diabetes mellitus) or decreased insulin sensitivity (insulin and C-peptide concentration will both be increased, type 2 diabetes mellitus). It can also be used in diagnosing factitious hypoglycemia, when a patient may be suspected of self-administering insulin; resultant negative feedback on the pancreas will decrease production of native insulin and C-peptide in this scenario. Serum growth hormone-releasing hormone concentration (Choice C) could be useful if a hypothalamic cause was suspected for acromegaly; a pituitary adenoma with resultant loss of normal feedback mechanisms is more common. Serum somatostatin concentration (Choice E) does not play a role in the diagnosis of acromegaly; rather, somatostatin analogues can be used in the treatment of the condition.",
+    "id": "IM-3-16",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 17,
+    "questionStem": "A previously healthy 72-year-old man who is a retired shipyard worker comes to the physician because of a 2-month history of nonproductive cough and shortness of breath. He does not smoke. Breath sounds are decreased, and there is dullness to percussion at the left lung base. An x-ray of the chest shows calcified pleural plaques and a left pleural effusion. A thoracentesis is performed, and analysis of the pleural fluid shows a glucose concentration of 4 mg/dL. The most likely underlying cause of these findings is exposure to which of the following?",
+    "choices": {
+      "A": "Asbestos",
+      "B": "Graphite",
+      "C": "Isocyanates",
+      "D": "Mycobacterium kansasii",
+      "E": "Mycoplasma pneumoniae",
+      "F": "Nocardia asteroides",
+      "G": "Radon",
+      "H": "Silicon"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "A history of working in a shipyard, chronic cough, shortness of breath, and pleural effusion plus calcified pleural plaques on x-ray raises suspicion for malignant mesothelioma. Exposure to asbestos in the shipyard is a known risk factor. Pleural fluid analysis is indicated to characterize the underlying cause, as markers in the pleural fluid can narrow the diagnosis by investigating infection, malignancy, inflammation, and transudative causes of effusion. Pleural fluid pH and glucose are markers of cell metabolism; a low pleural fluid glucose indicates increased cell metabolism and is a negative prognostic indicator in malignant mesothelioma.",
+    "incorrectExplanation": "Exposure to graphite (Choice B) dust has been associated with pneumoconiosis, a cause of restrictive lung disease in the form of pulmonary fibrosis.\n\nIsocyanate exposure (Choice C) occurs from industrial application of paints, varnishes, and foams; exposure has been associated with many pulmonary diseases including hypersensitivity pneumonitis, bronchitis, interstitial pneumonia, asthma, emphysema, and pulmonary edema. Isocyanates are not commonly associated with malignant mesothelioma.\n\nMycobacterium kansasii (Choice D) causes chronic pulmonary infection that resembles tuberculosis, presenting with fever, cough, night sweats, and weight loss, often in patients with immunocompromised states. It would not likely present with pleural plaques following years of working in a shipyard.\n\nMycoplasma pneumoniae (Choice E) is a common cause of atypical pneumonia, and presents with acute cough, fever, chills, and shortness of breath. The chest x-ray would typically demonstrate multifocal infiltrates without pleural plaques.\n\nNocardia asteroides (Choice F) causes nocardiosis, which presents as pulmonary or disseminated infection, often in patients who are immunocompromised. The pulmonary variant presents with fever, night sweats, cough, and weight loss, and chest x-ray demonstrates multifocal infiltrates, often with necrosis.\n\nHousehold dwellers exposed to radon (Choice G) are at risk for malignancy. Exposure typically occurs in the home, especially the basement, in geographic regions of prevalence. Radon diffuses into air within basements and homes, where it is inhaled. The decay products are radioactive, which promotes mutations leading to the development of bronchogenic lung cancer, not mesothelioma.\n\nExposure to silicon (Choice H), similar to graphite, leads to pneumoconiosis, characterized by restrictive lung disease and pulmonary fibrosis.",
+    "id": "IM-3-17",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 18,
+    "questionStem": "A 57-year-old man comes to the physician because of shortness of breath and wheezing for 2 days. He has had swelling of the lower legs since he returned from a 200-mile car trip 3 days ago. He has a 20-year history of poorly controlled hypertension currently treated with hydrochlorothiazide. His temperature is 37\u00b0C (98.6\u00b0F), pulse is 100/min and regular, respirations are 24/min, and blood pressure is 170/100 mm Hg. Examination shows jugular venous distention. Crackles and wheezes are heard in the lower lung fields bilaterally. A prominent S3 gallop is heard at the apex. There is 4+ ankle edema. An x-ray of the chest shows cardiomegaly and cephalization of the pulmonary vessels. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Aspiration pneumonia",
+      "B": "Bronchiectasis",
+      "C": "Chronic bronchitis",
+      "D": "Hypersensitivity pneumonitis",
+      "E": "Pulmonary edema",
+      "F": "Pulmonary embolism"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Shortness of breath, edema, jugular venous distention (JVD), crackles in dependent areas of lung, a history of poorly controlled hypertension, tachypnea, tachycardia, and an x-ray showing cardiomegaly with cephalization of vessels raises suspicion for cardiogenic pulmonary edema because of increased pressures in the left side of the heart, pulmonary veins, and pulmonary capillaries. Pulmonary edema can also occur from non-cardiogenic sources (e.g., acute respiratory distress syndrome, multifocal pneumonia, burns/inhalation injuries, high altitude, and drowning). Because of increased left-heart filling pressures in heart failure, the pulmonary venous pressure rises, which in turn results in increased pressures in pulmonary capillaries. This increased hydrostatic pressure results in interstitial edema and eventually alveolar edema. This is seen clinically as shortness of breath and respiratory distress and is supported by signs of hypervolemia such as peripheral edema, JVD, S3 gallop, and crackles on lung examination. Vital signs typically show tachycardia, hypertension, tachypnea, and hypoxia. Treatment is through diuresis to reduce the patient\u2019s hypervolemic state and lower cardiac filling pressure, pulmonary venous, and pulmonary capillary pressure. Nitroglycerin, a venodilator, can also be utilized to shift fluid into capacitance vessels and lower preload. Positive pressure ventilation can also reduce alveolar and interstitial edema and drive fluid back into circulation.",
+    "incorrectExplanation": "Incorrect Answers: A, B, C, D, and F.\n\nAspiration pneumonia (Choice A) presents as shortness of breath, cough productive of sputum, and fever, with a focal consolidation on chest x-ray, often in the superior segment of the inferior right lobe of lung. This is the most common location for an aspiration event to occur when a patient is supine. An aspiration event must be in the history to diagnose aspiration pneumonia; thus, the patient will often have a history of swallowing dysfunction, stroke, oropharyngeal or laryngeal malignancy, or a condition that causes frequent vomiting and retching such as alcoholism or bulimia.\n\nBronchiectasis (Choice B) presents with signs of obstructive lung disease, and often follows chronic pulmonary necrotizing infections, which can occur in the setting of cystic fibrosis, Kartagener syndrome, or allergic bronchopulmonary aspergillosis. Patients will present with wheezing and mucus plugging, and, unless concomitant right heart failure is present, would not necessarily present with signs of hypervolemia (e.g., edema, JVD). Cephalization of vessels would also be atypical, unless left heart failure were also present. Chest x-ray often shows marked bronchial dilatation and wall thickening.\n\nChronic bronchitis (Choice C) presents with chronic productive cough and signs of obstructive lung disease (e.g., wheezing, air trapping). It often occurs in smokers as a component of the spectrum of chronic obstructive pulmonary disease, in tandem with emphysema. This commonly results in right heart failure from chronic hypoxemic pulmonary arterial vasoconstriction. This would potentially manifest with JVD, ascites, and lower extremity edema, less likely pulmonary edema.\n\nHypersensitivity pneumonitis (Choice D) is caused by an exaggerated immune response (typically type 3 or type 4 hypersensitivity) to an inhaled antigen. It can present in acute, subacute, or chronic forms, with the acute form characterized by shortness of breath, cough, and systemic symptoms such as fever, chills, headache, and, following exposure to an antigen. The chest x-ray may be normal at this stage or may show interstitial infiltrates. The subacute and chronic forms commonly present with dyspnea, cough, fatigue, and weight loss. Lung imaging reveals interstitial inflammation and fibrosis of the lung. Pulmonary function tests generally demonstrate a restrictive pattern. Unless concomitant heart failure were present, signs of volume overload and cephalization of the vessels would be unlikely.\n\nPulmonary embolism (Choice F) is characteristically associated with long periods of immobilization such as orthopaedic surgery, intensive care unit stay, long drives, and long plane flights, because of the association with deep venous thrombosis (DVT) formation from venous stasis. DVT classically presents with unilateral lower extremity edema, and when an embolus travels to the lung, the patient may become symptomatic. Classic symptoms include rapid-onset chest pain and dyspnea; if an infarction has occurred, pleuritic chest pain and hemoptysis may be present. Vital signs are often notable for tachycardia, tachypnea, and hypoxia; hypotension can be present if the embolus is large enough to obstruct blood flow from the right heart. The lungs are typically clear to auscultation, and cardiomegaly and cephalization of the vessels would be unlikely unless concomitant heart failure were present.",
+    "id": "IM-3-18",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 19,
+    "questionStem": "A previously healthy 22-year-old woman comes to the physician because of a 2-day history of fever, chills, and left flank pain. She also has had nausea and vomited four times during this period. Her temperature is 38.9\u00b0C (102\u00b0F), pulse is 110/min, and blood pressure is 90/60 mm Hg. The abdomen is soft with tenderness to percussion over the left flank. The remainder of the examination shows no abnormalities. Laboratory studies show: Hematocrit 39% Leukocyte count 22,000/mm\u00b3 Urine RBC 10\u201320/hpf WBC 20\u201350/hpf Which of the following is the most appropriate pharmacotherapy?",
+    "choices": {
+      "A": "Oral amoxicillin",
+      "B": "Oral azithromycin",
+      "C": "Intravenous amoxicillin",
+      "D": "Intravenous ceftriaxone",
+      "E": "Intravenous metronidazole"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Fever, chills, left flank pain, nausea, and vomiting raises suspicion for pyelonephritis, an infection of the kidney that commonly results from retrograde spread of a urinary tract infection. Urinary tract infections are much more common in women due to the shorter urethra and favorable regional environment for bacterial growth. If untreated, bacteria can travel up the ureter to infect the kidney, resulting in pyelonephritis. Lower urinary tract infection symptoms include dysuria, frequency, urgency, incontinence, and suprapubic pain. Systemic symptoms such as fever, chills, nausea, and vomiting are less likely, and vital signs are often normal. Urine may be dark colored or foul smelling. Upper urinary tract infections more commonly occur with systemic symptoms such as rigors, nausea, vomiting, myalgias, arthralgias, and fatigue; patients with pyelonephritis often present with high fevers, tachycardia, leukocytosis, flank pain, and costovertebral angle tenderness on physical examination. Severe infections can be accompanied by hypotension. Urinalysis in pyelonephritis often shows greater than 10 leukocytes per high power field, may show red cells as evidence of mucosal inflammation (or concomitant nephrolithiasis), and may show white blood cell casts. Bacteria are generally seen on microscopy, with gram-negative rods being the most common pathogen. An antibiotic with sufficient broad coverage of gram-negative rods should be chosen, such as intravenous ceftriaxone, a third-generation cephalosporin.",
+    "incorrectExplanation": "Incorrect Answers: A, B, C, and E. Oral or intravenous amoxicillin (Choices A and C) generally covers gram-positive bacteria, with limited coverage of gram-negative bacteria unless paired with a beta-lactamase inhibitor such as clavulanic acid. Oral azithromycin (Choice B) is generally ineffective in treating urinary tract infections as it has limited spectrum against gram-negative pathogens; it is also primarily excreted hepatically and has not been shown to concentrate in urine. It is much more commonly used in sinusitis, pharyngitis, respiratory, and sexually transmitted infections. Intravenous metronidazole (Choice E) is used primarily to treat anaerobic bacterial and parasitic infections such as Clostridium difficile and infections caused by the Giardia, Clostridia, Gardnerella, and Trichinella species; and amoebic infections. Intravenous metronidazole does not have a primary role in treating pyelonephritis or urinary tract infections.",
+    "id": "IM-3-19",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 20,
+    "questionStem": "A previously healthy 27-year-old woman comes to the physician because of swelling of her face and legs for 2 weeks. As the day progresses, her facial swelling resolves, but her legs become increasingly swollen. Her pulse is 64/min and regular, and blood pressure is 110/70 mm Hg. Cardiopulmonary examination shows no abnormalities. There is 1+ presacral edema and 2+ edema of the lower extremities. Her prothrombin time is 12 seconds (INR=1.1), and serum albumin concentration is 2.3 g/dL. Which of the following is the most likely cause of this patient's edema?",
+    "choices": {
+      "A": "Cellulitis",
+      "B": "Cirrhosis",
+      "C": "Congestive heart failure",
+      "D": "Deep venous thrombosis",
+      "E": "Lymphangitis",
+      "F": "Lymphedema",
+      "G": "Malnutrition",
+      "H": "Nephrotic syndrome",
+      "I": "Postphlebitic syndrome",
+      "J": "Pulmonary hypertension",
+      "K": "Stasis dermatitis",
+      "L": "Varicose veins"
+    },
+    "correctAnswer": "H",
+    "correctExplanation": "Nephrotic syndrome is characterized by edema secondary to excessive proteinuria resulting in hypoalbuminemia and diminished intravascular oncotic pressure. This occurs because of loss of normal size and charge filtration of the glomerular capillary and Bowman's capsule interface. Causes of nephrotic syndrome include minimal change disease, membranous nephropathy, and focal segmental glomerular sclerosis. Patients classically present with dependent edema in the buttocks, lower back, and legs; foamy or dark-colored urine; hypoalbuminemia; and proteinuria. Complications include hypercoagulability caused by urinary loss of antithrombin-3 and infection caused by urinary loss of gamma globulins. Workup includes renal biopsy and treating underlying causes such as HIV, hepatitis, and systemic lupus erythematosus. Treatment involves the use of glucocorticoids and immunomodulators, though treatment-refractory disease is common. Patients may ultimately require renal replacement therapy or transplantation.",
+    "incorrectExplanation": "Incorrect Answers: A, B, C, D, E, F, G, I, J, K, and L.\n\nCellulitis (Choice A) presents with cutaneous erythema, warmth, and induration, often following inoculation from an injury such as an abrasion. It is typically localized and would not present with diffuse dependent edema or hypoalbuminemia.\n\nCirrhosis (Choice B) can present with edema caused by loss of oncotic pressure, though it also presents with ascites, increased bilirubin, jaundice, and signs of portal hypertension such as esophageal varices, splenomegaly, caput medusae, and rectal varices. It typically occurs in patients with preceding conditions such as alcohol abuse or chronic hepatitis.\n\nCongestive heart failure (Choice C) presents with edema caused by increased hydrostatic pressure rather than loss of oncotic pressure.\n\nDeep venous thrombosis (Choice D) is a common cause of lower extremity edema, though it is often unilateral unless the thrombus is large and proximal or bilateral. It would not be expected to cause facial edema or hypoalbuminemia.\n\nLymphangitis (Choice E) occurs because of infection or inflammation traveling within the lymphatic system and presents with streaking, sometimes traveling away from areas of cellulitis or abscess. It does not generally cause diffuse edema or hypoalbuminemia.\n\nLymphedema (Choice F) occurs because of obstruction or excision of lymphatic channels, such as in cases of lymphoma or after lymph node dissection. It is typically localized to a single upper, single lower, or bilateral lower extremities, and would not be expected to cause hypoalbuminemia.\n\nMalnutrition (Choice G) can result in edema because of insufficient dietary protein and resultant impaired synthesis of albumin, as seen in Kwashiorkor syndrome. Kwashiorkor is rare in the developed world and would be noted on exam with signs of malnutrition and muscle loss such as temporal wasting and sunken eyes.\n\nPostphlebitic syndrome (Choice I) is characterized by chronic edema following thrombosis. It occurs in an extremity because of valvular insufficiency and chronic venous hypertension following damage from a deep venous thrombosis.\n\nPulmonary hypertension (Choice J) can be primary (eg, genetic mutation causing smooth muscle hypertrophy and increased pulmonary vascular resistance) or secondary (eg, chronic obstructive pulmonary disease, chronic venous thromboembolic disease, pulmonary fibrosis, or heart failure). It presents with signs of right-sided heart failure including dependent edema, jugular venous distention, and hepatic congestion. Examination typically reveals a loud P2, right ventricular heave, and tricuspid regurgitation murmur.\n\nStasis dermatitis (Choice K) is a chronic condition caused by venous insufficiency and presents with skin changes such as erythema, scaling, and hyperpigmentation. It is not associated with hypoalbuminemia.\n\nVaricose veins (Choice L) are dilated superficial veins caused by venous insufficiency and present with localized swelling and discomfort. They do not cause hypoalbuminemia or diffuse edema.",
+    "id": "IM-3-20",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 20,
+    "questionStem": "A 6-year-old boy is brought to the physician because of a 2-week history of swelling in his legs and buttocks. He has no history of serious illness and takes no medications. His temperature is 37\u00b0C (98.6\u00b0F), pulse is 90/min, respirations are 20/min, and blood pressure is 100/60 mm Hg. Examination shows periorbital edema and pitting edema of the lower extremities. The remainder of the examination shows no abnormalities. Urinalysis shows 4+ proteinuria and no blood. Serum studies show hypoalbuminemia and hyperlipidemia. Which of the following is the most likely cause of this patient's edema?",
+    "choices": {
+      "A": "Cellulitis",
+      "B": "Cirrhosis",
+      "C": "Congestive heart failure",
+      "D": "Deep venous thrombosis",
+      "E": "Lymphangitis",
+      "F": "Lymphedema",
+      "G": "Malnutrition",
+      "H": "Nephrotic syndrome",
+      "I": "Postphlebitic syndrome",
+      "J": "Pulmonary hypertension",
+      "K": "Stasis dermatitis",
+      "L": "Varicose veins"
+    },
+    "correctAnswer": "H",
+    "correctExplanation": "Nephrotic syndrome is characterized by edema secondary to excessive proteinuria resulting in hypoalbuminemia and diminished intravascular oncotic pressure. This occurs because of loss of normal size and charge filtration of the glomerular capillary and Bowman\u2019s capsule interface. Causes of nephrotic syndrome include minimal change disease, membranous nephropathy, and focal segmental glomerular sclerosis. Patients classically present with dependent edema in the buttocks, lower back, and legs; foamy or dark-colored urine; hypoalbuminemia; and proteinuria. Complications include hypercoagulability caused by urinary loss of antithrombin-3 and infection caused by urinary loss of gamma globulins. Workup includes renal biopsy and treating underlying causes such as HIV, hepatitis, and systemic lupus erythematosus. Treatment involves the use of glucocorticoids and immunomodulators, though treatment-refractory disease is common. Patients may ultimately require renal replacement therapy or transplantation.",
+    "incorrectExplanation": "Incorrect Answers: A, B, C, D, E, F, G, I, J, K, and L.\n\nCellulitis (Choice A) presents with cutaneous erythema, warmth, and induration, often following inoculation from an injury such as an abrasion. It is typically localized and would not present with diffuse dependent edema or hypoalbuminemia.\n\nCirrhosis (Choice B) can present with edema caused by loss of oncotic pressure, though it also presents with ascites, increased bilirubin, jaundice, and signs of portal hypertension such as esophageal varices, splenomegaly, caput medusae, and rectal varices. It typically occurs in patients with preceding conditions such as alcohol abuse or chronic hepatitis.\n\nCongestive heart failure (Choice C) presents with edema caused by increased hydrostatic pressure rather than loss of oncotic pressure.\n\nDeep venous thrombosis (Choice D) is a common cause of lower extremity edema, though it is often unilateral unless the thrombus is large and proximal or bilateral. It would not be expected to cause facial edema or hypoalbuminemia.\n\nLymphangitis (Choice E) occurs because of infection or inflammation traveling within the lymphatic system and presents with streaking, sometimes traveling away from areas of cellulitis or abscess. It does not generally cause diffuse edema or hypoalbuminemia.\n\nLymphedema (Choice F) occurs because of obstruction or excision of lymphatic channels, such as in cases of lymphoma or after lymph node dissection. It is typically localized to a single upper, single lower, or bilateral lower extremities, and would not be expected to cause hypoalbuminemia.\n\nMalnutrition (Choice G) can result in edema because of insufficient dietary protein and resultant impaired synthesis of albumin, as seen in Kwashiorkor syndrome. Kwashiorkor is rare in the developed world and would be noted on exam with signs of malnutrition and muscle loss such as temporal wasting and sunken eyes.\n\nPostphlebitic syndrome (Choice I) is characterized by chronic edema following thrombosis. It occurs in an extremity because of valvular insufficiency and chronic venous hypertension following damage from a deep venous thrombosis.\n\nPulmonary hypertension (Choice J) can be primary (eg, genetic mutation causing smooth muscle hypertrophy and increased pulmonary vascular resistance) or secondary (eg, chronic obstructive pulmonary disease, chronic venous thromboembolic disease, pulmonary fibrosis, or heart failure). It presents with signs of right-sided heart failure including dependent edema, jugular venous distention, and hepatic congestion. Examination typically reveals a precordial heave, delayed or loud P2, and tricuspid or pulmonary insufficiency caused by chronic hypertrophy of the right heart.\n\nStasis dermatitis (Choice K) presents as erythema, itching, and hyperpigmentation of skin caused by chronic inflammation from third spacing, and is often seen in the bilateral lower extremities in cases of heart failure or impaired venous return.\n\nVaricose veins (Choice L) are dilated and tortuous superficial venous segments that often occur in the lower extremities. Patients with varicosities would not be expected to have hypoalbuminemia or migratory, dependent edema.",
+    "id": "IM-3-20",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 21,
+    "questionStem": "A 30-year-old woman with systemic lupus erythematosus is brought to the emergency department 2 hours after the onset of severe substernal chest pain that increases with respiration. She appears distressed and is bent over at the waist to decrease the pain. She has no history of cough, chills, or fever. Her temperature is 37.6\u00b0C (99.7\u00b0F), pulse is 100/min and regular, respirations are 20/min, and blood pressure is 120/80 mm Hg. A short, harsh diastolic sound is heard on auscultation of the chest; breath sounds are normal. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Acute myocardial infarction",
+      "B": "Aortic dissection",
+      "C": "Endocarditis",
+      "D": "Pericarditis",
+      "E": "Pulmonary embolus"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Pericarditis classically presents with central chest pain, which is often pleuritic and improves with bending forward. It can occur in patients with inflammatory, infectious, or malignant conditions, such as viral infection, systemic lupus erythematosus, tuberculosis, and lymphoma, and can present as a complication of myocardial infarction. If not treated, pericarditis can lead to the development of pericardial effusions, which if large and quickly accumulating, can result in cardiac tamponade. On exam, pericarditis demonstrates a diastolic friction rub, described as a harsh sound heard in diastole. The condition is diagnosed clinically and supported by increased inflammatory markers such as erythrocyte sedimentation rate and C-reactive protein, along with an echocardiogram, which often shows a pericardial effusion of variable size. Treatment requires anti-inflammatory medications such as indomethacin, glucocorticoids, and/or colchicine.",
+    "incorrectExplanation": "Acute myocardial infarction (Choice A) classically presents with acute onset chest pain, often radiating to the neck, jaw, or arm, along with shortness of breath, nausea, and/or light-headedness. Anginal chest pain does not typically change with respiration or position. Risk factors include age, male gender, obesity, smoking, hypertension, diabetes mellitus, and hyperlipidemia.\n\nAortic dissection (Choice B) classically presents as tearing chest or abdominal pain radiating to the back, often with a peripheral pulse or blood pressure deficit, and with neurologic symptoms such as numbness or tingling in an extremity. If a splanchnic vessel is involved, it can present with mesenteric ischemia, or renal infarction if involving a renal artery.\n\nEndocarditis (Choice C) occurs in infectious and inflammatory states. Right-sided endocarditis often involves the tricuspid valve, following seeding during intravenous drug use. It classically presents with fever, septic emboli, and vascular and immunologic phenomena such as splinter hemorrhages, Osler nodes, and Janeway lesions. Inflammatory endocarditis can occur in systemic lupus erythematosus, such as in Libman-Sacks endocarditis, but is far less common than pericarditis as a cardiac manifestation of the condition.\n\nPulmonary embolism (Choice E) presents with chest pain, tachypnea, tachycardia, and hypoxemia, and often occurs due to a deep venous thrombosis. The chest pain in the setting of a pulmonary embolus does not typically improve with positioning and would not be expected to demonstrate a friction rub on auscultation.",
+    "id": "IM-3-21",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 22,
+    "questionStem": "A 74-year-old woman has a myocardial infarction and is admitted to the intensive care unit. Her blood pressure has decreased from 148/74 mm Hg to 80/62 mm Hg. She is confused and has cool clammy skin. Arterial blood gas analysis is most likely to show which of the following?",
+    "choices": {
+      "A": "Hypoxemia with normal pH",
+      "B": "Primary metabolic acidosis",
+      "C": "Primary metabolic alkalosis",
+      "D": "Primary respiratory acidosis",
+      "E": "Primary respiratory alkalosis"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Cardiogenic shock, demonstrated by hypotension, confusion, and cool, clammy skin (decreased peripheral extremity perfusion), is a potential complication of myocardial infarction. Diminished cardiac output leads to organ hypoperfusion. In the ischemic state, cells convert from aerobic to anaerobic metabolism which results in the production of lactate from pyruvate. The accumulation of lactate leads to a primary metabolic, high-anion-gap, acidosis.",
+    "incorrectExplanation": "Incorrect Answers: A, C, D, and E.\n\nHypoxemia with a normal pH (Choice A) can occur in the setting of early cardiogenic pulmonary edema, and also in chronic, compensated respiratory acidosis (eg, chronic obstructive pulmonary disease).\n\nPrimary metabolic alkalosis (Choice C) can occur from acute hypovolemia, gastrointestinal losses of hydrogen ions, administration of alkali, states of increased aldosterone, use of loop or thiazide diuretics, Bartter or Gitelman syndrome, or in milk-alkali syndrome due to renal losses of hydrogen ions.\n\nPrimary respiratory acidosis (Choice D) occurs due to diminished ventilation and retention of acidic carbon dioxide, most commonly from chronic obstructive pulmonary disease, obesity-hypoventilation syndrome, sleep apnea, or following the use or overdose of sedatives.\n\nPrimary respiratory alkalosis (Choice E) occurs from increased ventilation and respiratory loss of carbon dioxide. For example, it can occur in states of tachypnea such as panic attacks, hypermetabolic states, and pulmonary embolism.",
+    "id": "IM-3-22",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 23,
+    "questionStem": "A 65-year-old man has a positive test of the stool for occult blood during a routine examination. He has no personal or family history of gastrointestinal disorders. Which of the following is the most appropriate next step in evaluation?",
+    "choices": {
+      "A": "Repeat test of the stool for occult blood in 6 weeks",
+      "B": "Measurement of serum carcinoembryonic antigen (CEA) concentration",
+      "C": "CT scan of the abdomen",
+      "D": "Flexible sigmoidoscopy",
+      "E": "Colonoscopy"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Occult blood in stool is sensitive but not specific for many malignant, vascular, infectious, and inflammatory gastrointestinal (GI) conditions, including but not limited to colorectal carcinoma (CRC), arteriovenous malformation, polyposis, diverticulosis, inflammatory bowel disease, gastritis, and peptic ulcer disease. Blood may also be detectable in stool from extraintestinal sources, such as swallowed blood during epistaxis. The test for occult blood is also sometimes confounded by oral iron supplementation, which can lead to false positive results. If a lower GI tract source is suspected, a colonoscopy is indicated. This allows visualization, biopsy, excision, or cautery of any suspicious lesions, which can be both diagnostic and therapeutic. CRC is a common cause of occult GI bleeding, especially in persons over age 50 years and should be investigated via colonoscopy if there is suspicion.",
+    "incorrectExplanation": "Incorrect Answers: A, B, C, and D.\n\nRepeating the test of the stool for occult blood in 6 weeks (Choice A) could delay a life-threatening diagnosis. There is no reason to suspect this test was a transient event or false positive.\n\nCarcinoembryonic antigen is an often-increased tumor marker in CRC, though it is measured once a diagnosis of CRC is made (Choice B). It is used to follow progression of the disease and to screen for recurrence following treatment but should not be used for primary, initial screening of CRC because it is a nonspecific biomarker.\n\nCT scan of the abdomen (Choice C) has a role in diagnosis and staging of CRC, however it may miss sessile and stage one or two tumors. Colonoscopy also permits concomitant sampling of any suspicious areas for biopsy, making it a better choice.\n\nFlexible sigmoidoscopy (Choice D) does not permit investigation of the transverse and ascending colon, evaluation of which should occur during the workup for occult GI bleeding.",
+    "id": "IM-3-23",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 24,
+    "questionStem": "An 82-year-old man has been mechanically ventilated in the hospital for the past 48 hours because of an exacerbation of chronic obstructive pulmonary disease. He has passed no urine since removal of a urinary catheter 12 hours ago. Current medications include intravenous methylprednisolone and albuterol, ipratropium, and fluticasone by inhalation. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Acute interstitial nephritis",
+      "B": "Acute urethral obstruction",
+      "C": "Contrast-induced nephropathy",
+      "D": "End-stage renal disease",
+      "E": "Hepatorenal syndrome",
+      "F": "Ischemic acute tubular necrosis",
+      "G": "Myoglobinuric acute renal failure (rhabdomyolysis)",
+      "H": "Prerenal azotemia"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Urethral obstruction can occur from obstructive, malignant, infectious, structural, or inflammatory lesions in the penile or prostatic urethra, or at the urethral origin at the bladder. Examples include urethral stricture, urethral trauma, urethritis, benign prostatic hyperplasia (BPH), prostatitis, prostatic abscess, tumor, or hematoma, cystitis, bladder tumors, intraluminal thrombus, indwelling catheter malfunction, kinking, or obstruction, or from inflammation following removal of an indwelling catheter. Failure to void following removal of an indwelling urinary catheter raises suspicion for post-catheter urethral inflammation with resultant acute urinary obstruction. Such obstruction is more common in older male patients with diminished caliber of the prostatic urethra secondary to baseline BPH. Acute urinary obstruction is a urologic emergency and should be treated with placement of a Foley catheter to prevent bladder rupture or post-renal azotemia.",
+    "incorrectExplanation": "Incorrect Answers: A, C, D, E, F, G, and H.\n\nAcute interstitial nephritis (AIN) (Choice A) is a cause of intrinsic renal failure and occurs secondary to toxin exposure. Nonsteroidal anti-inflammatory drugs, antibiotics, and sulfas are common precipitants. It is characterized by decreased glomerular filtration rate (GFR), rising creatinine, and eosinophils on biopsy and urinalysis.\n\nContrast-induced nephropathy (CIN) (Choice C) is also a cause of intrinsic renal failure secondary to nephrotoxicity from intravenous contrast dye. Multiple mechanisms have been proposed to explain CIN, and it is clinically seen as rising creatinine and decreased GFR following contrast administration.\n\nAIN and CIN can occasionally lead to severe renal failure requiring renal replacement therapy. Neither would present with an acute inability to void preceded by the discontinuation of an indwelling catheter.\n\nEnd-stage renal disease (Choice D) is characterized by decreased GFR to the extent that remaining renal parenchyma is unable to support physiologic demand for filtration, fluid balance, and electrolyte and acid-base balance, necessitating the use of renal replacement therapy such as dialysis or renal transplant. Apart from catastrophic causes such as acute, severe hypoxia or hypotension, end-stage renal disease typically results from a prolonged natural history related to chronically uncontrolled hypertension, diabetes, inflammatory diseases such as vasculitis and systemic lupus erythematosus, or glomerulonephritis syndromes.\n\nHepatorenal syndrome (Choice E) occurs because of concomitant liver failure and resultant splanchnic vessel shunting; this patient has no evidence of liver failure.\n\nIschemic acute tubular necrosis (Choice F) is a mechanism for intrinsic acute renal failure and can lead to end-stage renal disease. Without a history of hypoxia or hypotension, ischemic acute tubular necrosis would be unlikely; additionally, it does not result in urinary retention, but rather low GFR and decreased urine production by the kidney with characteristic muddy brown casts on urinalysis.\n\nMyoglobinuric acute renal failure (rhabdomyolysis) (Choice G) results in intrinsic renal failure secondary to toxicity of myoglobin on the renal tubular epithelium, resulting in nephrotoxic acute tubular necrosis. It presents with low GFR and decreased urine production by the kidney with muddy brown casts on urinalysis, not acute urinary retention.\n\nPrerenal azotemia (Choice H) describes a state of increased blood urea nitrogen, often associated with increased creatinine, because of insufficient delivery of blood to the kidney in states of hypoperfusion. This patient may have diminished cardiac output caused by positive pressure ventilation impairing venous return; however, diminished urine production and low urine output, not rapid anuria following abrupt removal of an indwelling catheter, would be expected.",
+    "id": "IM-3-24",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 25,
+    "questionStem": "A 52-year-old man with a 5-year history of essential hypertension comes to the physician for a follow-up examination. He has read about a clinical trial for a new medication, drug X, which has shown promise in controlling difficult cases of hypertension, and inquires about participation. His hypertension is moderately controlled with a thiazide diuretic, \u03b2-adrenergic blocking agent, and calcium-channel blocking agent. His temperature is 37\u00b0C (98.6\u00b0F), pulse is 80/min, respirations are 12/min, and blood pressure is 150/95 mm Hg. Examination shows no other abnormalities. Which of the following is the most appropriate study design?",
+    "choices": {
+      "A": "Prospective observational cohort",
+      "B": "Retrospective observational cohort",
+      "C": "Randomized controlled trial of drug X versus a placebo",
+      "D": "Randomized controlled trial of drug X versus standard therapy"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "To evaluate the effectiveness of a new therapy, it should be compared against the current standard. This is classically done using a randomized, double-blinded controlled trial, in which patients are enrolled into two groups: experimental and control. Those in the experimental arm receive the experimental therapy, and outcome measures are assessed. Those in the control arm receive the standard of care, and the same outcome measures are assessed. Neither the participants nor the researchers should be aware of which therapy they are receiving or administering/assessing to prevent the introduction of bias. Finally, analysis is performed to measure the efficacy of the new intervention as compared to the standard of care by looking at the differences in outcomes. A randomized controlled trial, when performed with minimized methodological flaw, is considered one of the highest levels of clinical evidence.",
+    "incorrectExplanation": "Prospective and retrospective observational cohort studies (Choices A and B) evaluate outcomes with respect to exposures within groups of individuals sharing common characteristics. For example, a cohort study could evaluate whether exposure to asbestos increased the risk of mesothelioma by comparing two similar groups of persons: one group of shipyard and aerospace workers in which asbestos was used for flame retardant against another group of shipyard and aerospace workers in which asbestos was not used. Data can be collected as time progresses (prospective) or it can be retroactively collected on exposures and outcomes that have already occurred (retrospective). Cohort studies are primarily used in epidemiology, and relative risk is used to assess the difference between the groups. A randomized controlled trial of drug X versus a placebo (Choice C) would be a suboptimal study. This study would answer the question of whether drug X was an effective antihypertensive but not whether drug X was equivalent to or better than the current standard of care in hypertension management. Additionally, an ethical argument can be made against comparing the new drug to a placebo when an effective drug exists, as placebo comparison would unnecessarily increase the risk of poorly controlled hypertension in the patients assigned to the placebo arm.",
+    "id": "IM-3-25",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 26,
+    "questionStem": "A history of mental retardation/intellectual disability, early satiety, post-prandial emesis, weight loss, and focal alopecia raises the possibility of hair ingestion, which can result in development of a gastric hair bezoar. Bezoars are space-occupying masses of indigestible matter, often hair or chewing gum. Occasionally, large-volume pill ingestion can lead to a pill bezoar. Because of the space-occupying nature of the lesion in the stomach, much smaller amounts of food can be consumed prior to feelings of satiety. If large enough, a bezoar can lead to a gastric outlet obstruction which results in vomiting of undigested food with resultant weight loss from malnutrition. The presence of alopecia raises suspicion for hair ingestion and provides a clue to the contents of the bezoar. Treatment includes supportive care to correct fluid, electrolyte, and nutritional deficiencies, and esophagogastroduodenoscopy or surgery to diagnose and remove the bezoar.",
+    "choices": {
+      "A": "Achalasia",
+      "B": "Brain tumor",
+      "C": "Bulimia nervosa",
+      "D": "Cholecystitis",
+      "E": "Diabetic gastroparesis",
+      "F": "Drug toxicity",
+      "G": "Food poisoning",
+      "H": "Gastric bezoar",
+      "I": "Gastric carcinoma",
+      "J": "Pyloric channel ulcer",
+      "K": "Small-bowel obstruction",
+      "L": "Uremia"
+    },
+    "correctAnswer": "H",
+    "correctExplanation": "A history of mental retardation/intellectual disability, early satiety, post-prandial emesis, weight loss, and focal alopecia raises the possibility of hair ingestion, which can result in development of a gastric hair bezoar. Bezoars are space-occupying masses of indigestible matter, often hair or chewing gum. Occasionally, large-volume pill ingestion can lead to a pill bezoar. Because of the space-occupying nature of the lesion in the stomach, much smaller amounts of food can be consumed prior to feelings of satiety. If large enough, a bezoar can lead to a gastric outlet obstruction which results in vomiting of undigested food with resultant weight loss from malnutrition. The presence of alopecia raises suspicion for hair ingestion and provides a clue to the contents of the bezoar. Treatment includes supportive care to correct fluid, electrolyte, and nutritional deficiencies, and esophagogastroduodenoscopy or surgery to diagnose and remove the bezoar.",
+    "incorrectExplanation": "Achalasia (Choice A) is a type of esophageal dysmotility disorder resulting from deficient peristalsis along the length of the esophagus and impaired relaxation of the lower esophageal sphincter. It manifests as dysphagia, odynophagia, weight loss, halitosis, and regurgitation of undigested food. It is diagnosed through a barium swallow plus esophageal manometry. Brain tumors (Choice B), especially if causing increased intracranial pressure, can result in vomiting and weight loss; however, this patient manifests no additional signs of increased intracranial pressure such as somnolence or altered mental status, headaches when supine, papilledema, and/or new or changing neurologic deficits. He has positive symptoms to suggest an alternate cause such as a bezoar, making brain tumor a less likely diagnosis. Bulimia nervosa (Choice C) is marked by binge-purge behaviors such as eating a large meal, then inducing vomiting. Cholecystitis (Choice D) presents acutely with fever, nausea, vomiting, right upper quadrant pain, and a Murphy sign on exam, often in the presence of gallstones. Diabetic gastroparesis (Choice E) occurs secondary to neurologic dysfunction of the enteric nervous system and typically presents late in the course of chronically uncontrolled diabetes as epigastric and left upper quadrant abdominal pain, nausea, vomiting, and weight loss. Drug toxicity (Choice F) has many manifestations. Several medications have known gastrointestinal adverse effects, for example, metformin, chemotherapeutics, and antibiotics. Phenytoin does have gastrointestinal adverse effects which can include nausea, vomiting, and occasionally hepatitis; however, toxicity of the drug can also include nystagmus, ataxia, vertigo, peripheral neuropathy, megaloblastic anemia, gingival hyperplasia, dysrhythmia, and hirsutism. Food poisoning (Choice G) commonly refers to the ingestion of a preformed toxin, such as Staphylococcus aureus exotoxin, or to the ingestion of food contaminated with a gastrointestinal pathogen such as Salmonella species or rotavirus. Symptoms are typically acute and include nausea, vomiting, abdominal cramping, and diarrhea, and are often self-limited. Gastric carcinoma (Choice I) presents with early satiety, weight loss, nausea, and vomiting if the lesion creates an obstruction to peristalsis. Physical exam may show a palpable mass, or a Sister Mary Joseph nodule. Symptoms are chronic and often occur in older persons, smokers, or those who have frequently ingested nitrate-containing foods. Gastric outlet obstructions can occur from inflammation or structural lesions in the region of the pylorus, such as pyloric channel ulcers (Choice J); however, peptic ulcers often present with coffee-ground or frankly bloody emesis and are classically associated with Helicobacter pylori infections. Small bowel obstruction (Choice K) is typically acute, occurring because of adhesions, inflammatory bowel disease, strictures, malignancies, or hernias, and presents with abdominal pain, nausea, nonbloody and sometimes bilious emesis, hyperactive and high-pitched bowel sounds, and abdominal distention. Uremia (Choice L) can present with gastrointestinal symptoms but is preceded by renal failure, of which this patient has no evidence.",
+    "id": "IM-3-26",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 26,
+    "questionStem": "A 27-year-old man with moderate mental retardation is brought to the physician by his caretaker because of increasingly frequent episodes of intermittent vomiting over the past 3 weeks. The vomiting typically occurs within an hour after eating and usually contains partially digested food; no blood is noted in the vomitus. The patient's appetite seems unaffected, but he stops eating before he completes the meal. He has had a 3.6-kg (8-lb) weight loss since his last visit 6 months ago. He takes phenytoin for a seizure disorder but is otherwise healthy. His vital signs are within normal limits. His speech is not intelligible. Examination shows a 3 x 4-cm area of alopecia in the right occipitoparietal area of the scalp. Bowel sounds are present. The abdominal musculature voluntarily contracts with palpation; no organomegaly or masses are palpated. There are minimal contractures in both upper and lower extremities and increased muscle tone. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Achalasia",
+      "B": "Brain tumor",
+      "C": "Bulimia nervosa",
+      "D": "Cholecystitis",
+      "E": "Diabetic gastroparesis",
+      "F": "Drug toxicity",
+      "G": "Food poisoning",
+      "H": "Gastric bezoar",
+      "I": "Gastric carcinoma",
+      "J": "Pyloric channel ulcer",
+      "K": "Small-bowel obstruction",
+      "L": "Uremia"
+    },
+    "correctAnswer": "H",
+    "correctExplanation": "A history of mental retardation/intellectual disability, early satiety, post-prandial emesis, weight loss, and focal alopecia raises the possibility of hair ingestion, which can result in development of a gastric hair bezoar. Bezoars are space-occupying masses of indigestible matter, often hair or chewing gum. Occasionally, large-volume pill ingestion can lead to a pill bezoar. Because of the space-occupying nature of the lesion in the stomach, much smaller amounts of food can be consumed prior to feelings of satiety. If large enough, a bezoar can lead to a gastric outlet obstruction which results in vomiting of undigested food with resultant weight loss from malnutrition. The presence of alopecia raises suspicion for hair ingestion and provides a clue to the contents of the bezoar. Treatment includes supportive care to correct fluid, electrolyte, and nutritional deficiencies, and esophagogastroduodenoscopy or surgery to diagnose and remove the bezoar.",
+    "incorrectExplanation": "Incorrect Answers: A, B, C, D, E, F, G, I, J, K, and L.\n\nAchalasia (Choice A) is a type of esophageal dysmotility disorder resulting from deficient peristalsis along the length of the esophagus and impaired relaxation of the lower esophageal sphincter. It manifests as dysphagia, odynophagia, weight loss, halitosis, and regurgitation of undigested food. It is diagnosed through a barium swallow plus esophageal manometry.\n\nBrain tumors (Choice B), especially if causing increased intracranial pressure, can result in vomiting and weight loss; however, this patient manifests no additional signs of increased intracranial pressure such as somnolence or altered mental status, headaches when supine, papilledema, and/or new or changing neurologic deficits. He has positive symptoms to suggest an alternate cause such as a bezoar, making brain tumor a less likely diagnosis.\n\nBulimia nervosa (Choice C) is marked by binge-purge behaviors such as eating a large meal, then inducing vomiting.\n\nCholecystitis (Choice D) presents acutely with fever, nausea, vomiting, right upper quadrant pain, and a Murphy sign on exam, often in the presence of gallstones.\n\nDiabetic gastroparesis (Choice E) occurs secondary to neurologic dysfunction of the enteric nervous system and typically presents late in the course of chronically uncontrolled diabetes as epigastric and left upper quadrant abdominal pain, nausea, vomiting, and weight loss.\n\nDrug toxicity (Choice F) has many manifestations. Several medications have known gastrointestinal adverse effects, for example, metformin, chemotherapeutics, and antibiotics. Phenytoin does have gastrointestinal adverse effects which can include nausea, vomiting, and occasionally hepatitis; however, toxicity of the drug can also include nystagmus, ataxia, vertigo, peripheral neuropathy, megaloblastic anemia, gingival hyperplasia, dysrhythmia, and hirsutism.\n\nFood poisoning (Choice G) commonly refers to the ingestion of a preformed toxin, such as Staphylococcus aureus exotoxin, or to the ingestion of food contaminated with a gastrointestinal pathogen such as Salmonella species or rotavirus. Symptoms are typically acute and include nausea, vomiting, abdominal cramping, and diarrhea, and are often self-limited.\n\nGastric carcinoma (Choice I) presents with early satiety, weight loss, nausea, and vomiting if the lesion creates an obstruction to peristalsis. Physical exam may show a palpable mass, or a Sister Mary Joseph nodule. Symptoms are chronic and often occur in older persons, smokers, or those who have frequently ingested nitrate-containing foods.\n\nPyloric channel ulcers (Choice J) are a type of peptic ulcer that can lead to gastric outlet obstruction. They are often associated with Helicobacter pylori infection and/or NSAID use. Symptoms include nausea, vomiting, and weight loss.\n\nSmall-bowel obstruction (Choice K) presents with nausea, vomiting, abdominal pain, and distention. It is often associated with prior abdominal surgery, hernias, or masses.\n\nUremia (Choice L) is a condition of renal failure characterized by elevated blood urea nitrogen and creatinine levels, and can present with nausea, vomiting, anorexia, and weight loss. It is often associated with other signs of renal failure such as edema, hypertension, and electrolyte imbalances.",
+    "id": "IM-3-26",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 27,
+    "questionStem": "A previously healthy 27-year-old woman comes to the emergency department because of a 2-day history of fever and right knee pain. She has not had cough, abdominal pain, or pain with urination. There is no history of intravenous drug use. She appears uncomfortable. Her temperature is 39\u00b0C (102.2\u00b0F), pulse is 110/min, respirations are 12/min, and blood pressure is 110/70 mm Hg. Examination shows a few raised erythematous papules on the palms and soles. The right knee is warm, erythematous, and tender to palpation. There is a moderate-sized effusion. Passive flexion of the knee is limited to 30 degrees because of severe pain. Analysis of synovial fluid aspirated from the right knee shows a leukocyte count of 45,000/mm\u00b3 (80% segmented neutrophils and 20% lymphocytes). A Gram stain of the synovial fluid and microscopic examination for crystals are negative. Which of the following is the most likely underlying cause of these findings?",
+    "choices": {
+      "A": "A contiguous soft tissue infection of the joint by Staphylococcus aureus",
+      "B": "Immunologic-mediated arthritis secondary to Borrelia burgdorferi",
+      "C": "Immunologic-mediated arthritis secondary to group A streptococcus",
+      "D": "Infection of the joint secondary to disseminated Borrelia burgdorferi",
+      "E": "Infection of the joint secondary to disseminated Neisseria gonorrhoeae"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Disseminated gonococcal infection presents with fever, myalgias, tenosynovitis, pustular rash often involving the palms or soles, and septic arthritis, which is occasionally polyarticular and migratory. Diagnosis is made via clinical history and examination plus aspiration of potentially septic joints. Synovial fluid analysis classically shows leukocytosis with neutrophilic predominance, and the leukocyte count is often greater than 50,000/mm\u00b3. Organisms are often visualized on gram stain. Treatment is with antibiotics and further diagnostic investigation to determine the extent of the sexually transmitted infection, including a pelvic exam in sexually active women.",
+    "incorrectExplanation": "Contiguous soft tissue infection spreading to a joint by Staphylococcus aureus (Choice A) is a well-evidenced mechanism of septic arthritis; however, it would not explain the disseminated findings of rash on the palms or soles. Additionally, the history would likely include trauma to the joint in question, or several days of preceding localized skin or soft tissue infection. Immunologic-mediated arthritis secondary to Borrelia burgdorferi or group A streptococcus (Choices B and C) more often demonstrates lymphocytic predominance and an absence of organisms on synovial fluid analysis. Lymphocyte count is typically less than 50,000/mm\u00b3. Infection of a joint secondary to disseminated Borrelia burgdorferi (Choice D) would be expected to be accompanied by a rash in the pattern of erythema migrans, history of tick exposure, and with signs of disseminated Lyme disease such as myocarditis, neuropathy, and meningitis.",
+    "id": "IM-3-27",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 28,
+    "questionStem": "A 36-year-old man comes to the physician because of fever, chills, abdominal pain, and dark urine for 1 day. He was hospitalized for treatment of a similar episode 1 year ago; ultrasonography and CT scan of the abdomen at that time showed no abnormalities. His symptoms resolved after administration of intravenous fluids and antibiotics. He has an 8-month history of pruritus and a 6-year history of ulcerative colitis treated with sulfasalazine. His temperature is 39.3\u00b0C (102.7\u00b0F), pulse is 108/min, respirations are 16/min, and blood pressure is 125/84 mm Hg. Examination shows jaundice and epigastric tenderness without masses or rebound. The liver is firm and slightly tender and has a span of 12 cm. Laboratory studies show: Prothrombin time 18 sec (INR=1.8) Serum Protein Total 8.0 g/dL Albumin 4.0 g/dL Globulin 4.0 g/dL Total cholesterol 320 mg/dL Bilirubin, total 3.0 mg/dL Direct 2.5 mg/dL Alkaline phosphatase 300 U/L ALT 120 U/L HBsAg negative Anti-HBs negative Anti-HBc negative Anti-HCV negative",
+    "choices": {
+      "A": "Acute cholecystitis",
+      "B": "Acute pancreatitis",
+      "C": "Autoimmune chronic active hepatitis",
+      "D": "Budd-Chiari syndrome",
+      "E": "Chronic hepatitis B",
+      "F": "Chronic hepatitis C",
+      "G": "Drug-induced hepatitis",
+      "H": "Hepatolenticular degeneration (Wilson disease)",
+      "I": "Primary biliary cirrhosis",
+      "J": "Sclerosing cholangitis"
+    },
+    "correctAnswer": "J",
+    "correctExplanation": "Sclerosing cholangitis is often seen in association with inflammatory bowel disease and is a progressive inflammatory condition resulting in scarring and obstruction of the intrahepatic and extrahepatic biliary tree, which results in cholestasis and can lead to the development of cirrhosis. It commonly presents as chronic fatigue, itching, jaundice, and epigastric abdominal discomfort, with laboratory evaluation showing an obstructive direct hyperbilirubinemia and increased transaminases. Examination may show excoriation of the skin and/or jaundice. If cirrhosis is present, ascites, caput medusae, and esophageal varices may also occur. The anatomic abnormality increases susceptibility to infectious (ascending) cholangitis. Definitive diagnosis requires a biopsy and is supported by clinical history. There is no effective treatment, although various procedures may be required to relieve the patient's cholestasis. Many affected patients will ultimately require a liver transplant.",
+    "incorrectExplanation": "Incorrect Answers: A, B, C, D, E, F, G, H, and I. Acute cholecystitis (Choice A) presents with fever, abdominal pain, and tenderness to palpation in the right upper quadrant, often in a patient with a history of gallstones. It is occasionally preceded by symptoms of biliary colic. Jaundice is a less common finding and suggests an alternate, or complicated, diagnosis such as choledocholithiasis or ascending cholangitis. Acute pancreatitis (Choice B) presents with epigastric abdominal pain, nausea, and emesis, often in patients with a history of gallstones, alcohol use disorder, trauma, hypertriglyceridemia, or hypercalcemia. It can be complicated by hypoxia, hemorrhage, abscess, or the formation of pseudocysts. Laboratory evaluation often reveals increased lipase.",
+    "id": "IM-3-28",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 29,
+    "questionStem": "A 65-year-old man comes to the physician because of easy fatigability for 2 months. In 1985, he had loss of appetite, mild nausea, and fatigue approximately 2 months after receiving a transfusion for a bleeding peptic ulcer. The liver has a span of 12 cm. Examination shows no other abnormalities. Laboratory studies show: Prothrombin time 12 sec (INR=1.1) Serum Protein Total 7.8 g/dL Albumin 4.5 g/dL Globulin 3.3 g/dL Total cholesterol 185 mg/dL Bilirubin, total 0.8 mg/dL Direct 0.2 mg/dL Alkaline phosphatase 70 U/L ALT 125 U/L HBsAg negative Anti-HBs positive Anti-HBc positive Anti-HCV positive",
+    "choices": {
+      "A": "Acute cholecystitis",
+      "B": "Acute pancreatitis",
+      "C": "Autoimmune chronic active hepatitis",
+      "D": "Budd-Chiari syndrome",
+      "E": "Chronic hepatitis B",
+      "F": "Chronic hepatitis C",
+      "G": "Drug-induced hepatitis",
+      "H": "Hepatolenticular degeneration (Wilson disease)",
+      "I": "Primary biliary cirrhosis",
+      "J": "Sclerosing cholangitis"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "Hepatitis C can present in acute and chronic forms. The acute variant typically presents with symptoms of fatigue, nausea, vomiting, jaundice, and right upper quadrant discomfort. Some patients will recover and show no evidence of ongoing infection, whereas others will never completely eliminate the virus. They may mount chronic symptoms, and untreated infection can eventually lead to cirrhosis and end-stage liver disease. Hepatitis B and C are commonly transmitted via blood or sexual intercourse, with transfusion in the prescreening era being a common source of inoculation. Chronic symptoms are often nonspecific, and include fatigue, nausea, vomiting, and weight loss. Physical examination may show jaundice, an enlarged or tender liver, ascites, and/or encephalopathy depending on the severity. Laboratory evaluation may show elevations in ALT or AST, hyperbilirubinemia, or coagulopathy. Anti-HCV antibodies are usually present, which does not confer immunity, along with a detectable Hepatitis C viral load.",
+    "incorrectExplanation": "Incorrect Answers: A, B, C, D, E, G, H, I, and J. Acute cholecystitis (Choice A) presents with fever, abdominal pain, and tenderness to palpation in the right upper quadrant, often in a patient with a history of gallstones. It is occasionally preceded by symptoms of biliary colic. Jaundice is a less common finding and suggests an alternate, or complicated, diagnosis such as choledocholithiasis or ascending cholangitis. Acute pancreatitis (Choice B) presents with epigastric abdominal pain, nausea, and emesis, often in a patient with a history of gallstones, alcohol use disorder, trauma, hypertriglyceridemia, or hypercalcemia. It can be complicated by necrosis, hemorrhage, abscess, or the formation of pseudocysts. It is not commonly associated with inflammatory bowel disease. Laboratory evaluation often reveals increased lipase. Autoimmune hepatitis (Choice C) presents in a range from asymptomatic to fulminant hepatitis; typically, the presentation includes chronic nonspecific symptoms such as fatigue, weight loss, jaundice, nausea, vomiting, pruritis, and right upper quadrant abdominal discomfort. An enlarged, tender liver is sometimes found on examination. It is most often seen in females, often in middle age. Laboratory evaluation reveals transaminase elevation, and often an increased anti-smooth muscle antibody.",
+    "id": "IM-3-29",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 30,
+    "questionStem": "A 37-year-old man comes to the physician because of fever and rash for 2 days. He just completed a 6-week course of nafcillin for treatment of staphylococcal bacterial endocarditis. His temperature is 37.8\u00b0C (100\u00b0F). Examination shows a faint maculopapular rash. Cardiac examination shows an unchanged murmur of aortic insufficiency and no embolic lesions. Laboratory studies and an x-ray of the chest show no abnormalities. Which of the following is the most likely set of findings on urinalysis?",
+    "choices": {
+      "A": "1.003 - 1+ 30 5 muddy brown tubular epithelial cells",
+      "B": "1.005 trace 2+ 30 5 rare WBC eosinophils",
+      "C": "1.012 - - 2 5 none -",
+      "D": "1.012 - 1+ 3 2-3 WBC 2+ bacteria",
+      "E": "1.012 - 3+ - 100 RBC -",
+      "F": "1.030 4+ 3+ 30 30 none 2+ bacteria"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Interstitial nephritis is a cause of intrinsic renal failure, and often occurs secondary to medication use, with nonsteroidal anti-inflammatory drugs, antibiotics, and sulfas being common precipitants. It is characterized by decreased glomerular filtration rate, rising creatinine, and eosinophilic infiltrates seen on biopsy and detected on urinalysis. Patients will have a history of medication exposure and classically present with low grade fever and diffuse rash. Urinalysis typically reveals eosinophiluria, with occasional WBC casts, increased WBC/hpf, and proteinuria. Treatment involves discontinuing the inciting agent.",
+    "incorrectExplanation": "Acute tubular necrosis often follows an ischemic or nephrotoxic insult and is commonly seen in patients with cardiac arrest following prolonged resuscitation prior to return of spontaneous circulation and in patients with prolonged cardiogenic, obstructive, distributive, or hypovolemic shock. Nephrotoxic agents such as heavy metals and myoglobin can also precipitate acute tubular necrosis. It is characterized on urinalysis by proteinuria, increased WBC/hpf, muddy brown casts, and visualized tubular epithelial cells on urine microscopy (Choice A). Choice C generally reflects a normal urinalysis, with specific gravity, glucose, protein, white and red cells, and casts all within normal limits. Choice D may reflect pyelonephritis, as WBC casts and bacteria are present. Classically, the number of white cells per high power field along with leukocyte esterase and nitrites are also increased in pyelonephritis. Nephritic syndrome typically presents with red blood cell casts and hematuria (Choice E). Choice F may reflect poorly controlled diabetes or a patient taking a sodium-glucose co-transporter 2 inhibitor (e.g., canagliflozin) based on the presence of glucosuria, along with a concomitant urinary tract infection given the presence of increased WBCs and bacteria.",
+    "id": "IM-3-30",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 31,
+    "questionStem": "A 47-year-old man comes to the physician because of a 6-month history of progressive fatigue and shortness of breath on exertion. He has not had difficulty breathing at night or chest pain. In addition to a heart murmur that was diagnosed when he was in high school, he has diverticulosis and mild osteoarthritis. He takes no medications except a daily multivitamin. He is 173 cm (5 ft 8 in) tall and weighs 68 kg (150 lb); BMI is 23 kg/m2. His temperature is 37\u00b0C (98.6\u00b0F), pulse is 82/min, respirations are 18/min, and blood pressure is 135/90 mm Hg. There is no jugular venous distention. The carotid pulse has a slow upstroke. The lungs are clear to auscultation. A grade 2/6 systolic murmur is heard best at the right sternal border and radiates to the apex. There is no change in the murmur with the Valsalva maneuver. There is a paradoxical splitting of S2 and a prominent apical impulse. An ECG shows left ventricular hypertrophy; there is no evidence of infarction. Which of the following is the most likely underlying cause of this patient's heart murmur?",
+    "choices": {
+      "A": "Atrial septal defect",
+      "B": "Congenital bicuspid aortic valve",
+      "C": "Hypertrophic obstructive cardiomyopathy",
+      "D": "Myxomatous degeneration of mitral valve",
+      "E": "Rheumatic heart disease"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Congenital bicuspid aortic valve classically presents with early signs and symptoms of aortic stenosis and left-sided diastolic heart failure. Patients may complain of fatigue, shortness of breath, cough, diminished exercise tolerance, or syncope with exertion. Exam findings include a crescendo-decrescendo systolic murmur best heard at the upper right sternal border, and pulsus parvus et tardus (weak and delayed) may be noted on examination of peripheral pulses. Because of the chronic increased afterload from a fixed obstruction by the valve, left ventricular hypertrophy and resultant diastolic dysfunction can occur. If early aortic stenosis occurs, the patient may be a candidate for aortic valve replacement.",
+    "incorrectExplanation": "Atrial septal defect (Choice A) presents with fixed splitting of the S2 heart sound and is caused by a failure of closure of the embryologic connection between the right and left atria. Blood generally flows from the left atrium into the right atrium, increasing the amount within the right heart and pulmonary circuit. Hypertrophic obstructive cardiomyopathy (Choice C) classically presents with a systolic murmur loudest in the lower left sternal border, which is quieter with increased preload and afterload. It is caused by hypertrophy of the septum, creating an outflow obstruction within the left ventricular outflow tract. It classically presents with syncope or sudden cardiac death in an exercising young athlete with a family history of a similar event. Myxomatous degeneration of the mitral valve (Choice D) can eventually lead to mitral insufficiency, which presents with a holosystolic murmur; however, this condition would not be expected to cause left ventricular hypertrophy or pulsus parvus et tardus. Rheumatic heart disease (Choice E) commonly causes insufficiency murmurs in the acute phase and stenotic murmurs later in life, predominantly affecting the mitral valve. Rheumatic fever typically presents with joint inflammation, pancarditis, subcutaneous inflammatory nodules, erythema marginatum, and Sydenham chorea. Mitral stenosis itself presents with a diastolic murmur radiating to the axilla. If severe enough, it can result in left atrial enlargement, cardiogenic pulmonary edema, and arrhythmias such as atrial fibrillation and flutter.",
+    "id": "IM-3-31",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 32,
+    "questionStem": "A 47-year-old woman is brought to the emergency department because of a 1-day history of temperatures to 39.4\u00b0C (103\u00b0F) and shortness of breath and a 6-hour history of chest pain exacerbated by cough or inspiration. Three days ago, she started treatment with erythromycin for fever and cough productive of yellow sputum, but she discontinued the medication 24 hours later because of nausea and vomiting. She has autoimmune hepatitis that has been in remission for 3 years. She appears lethargic. Her temperature is 39\u00b0C (102.2\u00b0F), pulse is 120/min, respirations are 32/min, and blood pressure is 110/70 mm Hg. There is dullness to percussion over the left hemithorax two thirds of the way up from the lung bases. Breath sounds are decreased at the left base. Cardiac examination shows a hyperdynamic precordium with no rubs, gallops, or murmurs. Thoracentesis is performed. Laboratory studies show: Hematocrit 40% Leukocyte count 20,000/mm\u00b3 Segmented neutrophils 80% Bands 15% Lymphocytes 5% Pleural fluid Leukocyte count 50,000/mm\u00b3 pH 7.11 Glucose 20 mg/dL Total protein 4 g/dL Lactate dehydrogenase 400 U/L Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Admission to the coronary care unit",
+      "B": "Chest tube placement",
+      "C": "Instillation of talc in the pleural space",
+      "D": "Intravenous corticosteroid therapy",
+      "E": "Intravenous heparin therapy",
+      "F": "Oral naproxen therapy",
+      "G": "Pericardiocentesis",
+      "H": "Surgical repair"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Pleural effusions are caused by multiple underlying conditions including infection such as pneumonia, malignancy such as lung cancer or mesothelioma, and increased hydrostatic pressure such as left-sided heart failure. They are clinically suspected on exam in the setting of dullness to percussion and diminished breath sounds and can be visualized on imaging including chest x-ray, CT scan, or ultrasound. Analyzing the pleural fluid can reveal an underlying cause to guide therapy. Fluid is inspected for cell counts, organisms, pH, glucose, total protein, and enzyme levels. Low pH and low glucose are indicative of increased cellular metabolism in the fluid and may indicate underlying malignancy and/or infection. Effusions can be further categorized as transudates (eg, serous fluid resulting from imbalanced hydrostatic or oncotic pressure) or exudates (eg, complex fluid resulting from pneumonia, empyema, malignancy, or inflammatory disease) using Light\u2019s criteria, which compares the pleural fluid protein and lactate dehydrogenase levels to those found in serum. Pneumonia can be complicated by simple parapneumonic exudative effusions, which, if sufficiently large, can compress lung parenchyma and impair respiratory mechanics. If not treated, secondary infection can occur within the pleural space leading to an empyema which requires evacuation via a chest tube or surgery in addition to continued antibiotic therapy. Empyema is characterized by an exudative effusion with increased pleural fluid leukocytes, low pH, low glucose, increased protein, and increased lactate dehydrogenase.",
+    "incorrectExplanation": "Incorrect Answers: A, C, D, E, F, G, and H. This patient may require admission to an intensive care unit due to the severity of illness and potential requirement for advanced therapy and frequent monitoring; however, she would not likely require admission to the coronary care unit (Choice A) as she does not present with a primary cardiac pathology. Instillation of talc in the pleural space (Choice C) is used to fuse the visceral and parietal pleura (pleurodesis) in patients with recurrent pneumothoraces or symptomatic malignant pleural effusions. It has no role in the management of empyema.",
+    "id": "IM-3-32",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 32,
+    "questionStem": "Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Admission to the coronary care unit",
+      "B": "Chest tube placement",
+      "C": "Instillation of talc in the pleural space",
+      "D": "Intravenous corticosteroid therapy",
+      "E": "Intravenous heparin therapy",
+      "F": "Oral naproxen therapy",
+      "G": "Pericardiocentesis",
+      "H": "Surgical repair"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Pleural effusions are caused by multiple underlying conditions including infection such as pneumonia, malignancy such as lung cancer or mesothelioma, and increased hydrostatic pressure such as left-sided heart failure. They are clinically suspected on exam in the setting of dullness to percussion and diminished breath sounds and can be visualized on imaging including chest x-ray, CT scan, or ultrasound. Analyzing the pleural fluid can reveal an underlying cause to guide therapy. Fluid is inspected for cell counts, organisms, pH, glucose, total protein, and enzyme levels. Low pH and low glucose are indicative of increased cellular metabolism in the fluid and may indicate underlying malignancy and/or infection. Effusions can be further categorized as transudates (eg, serous fluid resulting from imbalanced hydrostatic or oncotic pressure) or exudates (eg, complex fluid resulting from pneumonia, empyema, malignancy, or inflammatory disease) using Light's criteria, which compares the pleural fluid protein and lactate dehydrogenase levels to those found in serum. Pneumonia can be complicated by simple parapneumonic exudative effusions, which, if sufficiently large, can compress lung parenchyma and impair respiratory mechanics. If not treated, secondary infection can occur within the pleural space leading to an empyema which requires evacuation via a chest tube or surgery in addition to continued antibiotic therapy. Empyema is characterized by an exudative effusion with increased pleural fluid leukocytes, low pH, low glucose, increased protein, and increased lactate dehydrogenase.",
+    "incorrectExplanation": "Incorrect Answers: A, C, D, E, F, G, and H. This patient may require admission to an intensive care unit due to the severity of illness and potential requirement for advanced therapy and frequent monitoring; however, she would not likely require admission to the coronary care unit (Choice A) as she does not present with a primary cardiac pathology. Instillation of talc in the pleural space (Choice C) is used to fuse the visceral and parietal pleura (pleurodesis) in patients with recurrent pneumothoraces or symptomatic malignant pleural effusions. It has no role in the management of empyema. Intravenous corticosteroid therapy (Choice D) may be a useful adjunct to reduce the burden of pulmonary inflammation and improve respiratory mechanics, though it offers no benefit for infectious source control and is not the most appropriate next step. Intravenous heparin therapy (Choice E) is used to treat thrombotic states such as myocardial infarction and thromboembolic disease (eg, deep venous thrombosis and pulmonary embolism). It does not have an immediate role in the management of pneumonia, pleural effusion, or empyema. Oral naproxen therapy (Choice F) has a role in the treatment of pleurisy and fever but offers only symptomatic benefit in this case. Pericardiocentesis (Choice G) is appropriate for pericardial tamponade or in the workup of a pericardial effusion. Surgical repair (Choice H) would be appropriate if an esophageal or diaphragmatic rupture were suspected as the cause of the patient's pleural effusion or if a bronchopleural fistula, lung abscess, or persistent empyema developed.",
+    "id": "IM-3-32",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 33,
+    "questionStem": "A 68-year-old man is brought to the emergency department because of severe substernal chest pain for 2 hours and severe shortness of breath for 30 minutes. He has a history of type 2 diabetes mellitus treated with an oral hypoglycemic agent and hypertension treated with a diuretic. His temperature is 37.5\u00b0C (99.5\u00b0F), pulse is 104/min, respirations are 28/min, and blood pressure is 100/78 mm Hg. Jugular venous pressure is increased. Bilateral crackles are heard throughout all lung fields. An S3 and S4 gallop are heard. Pulse oximetry on room air shows an oxygen saturation of 88%. An x-ray of the chest shows bilateral perihilar infiltrates and a slightly enlarged cardiac silhouette. An ECG shows ST-segment elevation and T-wave inversion in leads V2 through V6. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Acute pericarditis",
+      "B": "Myocardial infarction",
+      "C": "Pericardial tamponade",
+      "D": "Pneumonia",
+      "E": "Pulmonary embolism"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Myocardial infarction classically presents with acute-onset chest pain, often radiating to the neck, jaw, or arm, along with shortness of breath, nausea, and/or light-headedness. Risk factors include a history of smoking, diabetes mellitus, hypertension, hyperlipidemia, and/or obesity. If the infarction results in left ventricular dysfunction, patients may experience cardiogenic pulmonary edema resulting in shortness of breath, tachypnea, hypoxia, audible crackles, and an S3 or S4 gallop. Diagnosis is made using clinical history, analysis of cardiac biomarkers, and an ECG which may show ST-segment elevation or depression, inverted T-waves, or Q-waves. Treatment requires the use of antiplatelet agents (eg, aspirin, clopidogrel) plus anticoagulants (eg, heparin), pain control, and revascularization through angioplasty, thrombolysis, or coronary artery bypass grafting. Complications include dysrhythmias, cardiogenic shock, pulmonary edema, wall rupture, and post-infarction pericarditis.",
+    "incorrectExplanation": "Incorrect Answers: A, C, D, and E.\n\nAcute pericarditis (Choice A) occurs because of an infectious, inflammatory, or malignant precipitant, and presents as pleuritic chest pain that is exacerbated with lying down. ECG findings include diffuse (not focal) ST elevations and PR depressions.\n\nPericardial tamponade (Choice C) presents with hypotension, shortness of breath, distant heart sounds, jugular venous distention, and pulsus paradoxus. It occurs following accumulation of either a large volume or rapid-onset pericardial effusion. Rapid decompression of the pericardial space is required to prevent ongoing shock. The ECG is typically low voltage and can demonstrate electrical alternans.\n\nPneumonia (Choice D) presents with cough, shortness of breath, pleuritic chest pain, fever, and abnormal breath sounds. It often follows an upper respiratory infection or aspiration event and is more common in immunocompromised persons. The ECG is often unremarkable, and the chest x-ray can be normal early in the course but may show patchy multifocal infiltrates or a single area of consolidation.\n\nPulmonary embolism (Choice E) presents with acute chest pain, shortness of breath, and hypoxia, often in a patient with deep venous thrombosis or a known hypercoagulable state. Small pulmonary emboli are often undetectable on chest x-ray, and the ECG may be normal or show sinus tachycardia. Large emboli with infarction are often seen on chest x-ray by secondary signs such as wedge-shaped areas of infarction or via the Westermark sign of unilateral oligemia. The ECG in a pulmonary embolus often shows sinus tachycardia, and if there is right heart strain can also exhibit right axis deviation, S wave in lead 1, Q wave in lead 3, and inverted T wave in lead 3 ('S1Q3T3'). ST segment elevation would not be expected.",
+    "id": "IM-3-33",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 34,
+    "questionStem": "An 87-year-old man is admitted to the hospital for treatment of a right femoral neck fracture sustained when he fell down a staircase. He has osteoarthritis of the knees treated with ibuprofen (400 mg three times daily). He takes no other medications. He also reports memory loss, particularly in remembering the names of people he has met recently. He first noted the problem 4 years ago, and he states that it is slowly becoming worse. There is no family history of dementia. He lives alone, drives a car, does his own shopping and cooking, and manages his own finances. He does not smoke cigarettes. He drinks one beer daily. His blood pressure is 138/88 mm Hg. Examination shows shortening and external rotation of the right lower extremity. Neurologic examination shows no focal findings. His Mini-Mental State Examination score is 27/30. Which of the following is the most likely cause of this patient's memory loss?",
+    "choices": {
+      "A": "Dementia, Alzheimer type",
+      "B": "Medication adverse effect",
+      "C": "Mild cognitive impairment",
+      "D": "Multi-infarct (vascular) dementia",
+      "E": "Vitamin B12 (cobalamin) deficiency"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Mild forgetfulness without significant impairment in ability to perform instrumental activities of daily living, with a Mini-Mental State Examination (MMSE) score of 27/30, is most consistent with mild cognitive impairment (MCI). MCI is often seen prior to a diagnosis of dementia, especially Alzheimer type, and includes amnestic (memory-related) and non-amnestic (language, spatial, executive functional impairment) MCI with generally preserved ability to function independently without significant impairment.",
+    "incorrectExplanation": "Dementia, Alzheimer type (Choice A) is defined by the Diagnostic and Statistical Manual of Mental Disorders \u2013 fifth edition (DSM-5) as loss of intellectual function within multiple domains: language, memory, perception, motor skills, attention, orientation, problem solving, and executive function. Presumptive diagnosis involves demonstrating cognitive impairment, often through the MMSE, excluding similar syndromes (e.g., vascular dementia, Lewy Body dementia) and secondary causes such as toxic (e.g., heavy metal poisoning), metabolic (e.g., electrolyte disturbances, uremia, hyperammonemia, vitamin deficiencies), endocrine (e.g., thyroid, adrenal, and parathyroid derangement), infectious (e.g., neurosyphilis, HIV encephalopathy, meningoencephalitis), polypharmaceutical (e.g., sedative-hypnotic and anticholinergic use), and superimposed psychiatric causes (e.g., major depressive disorder).\n\nMedication adverse effect (Choice B) is a well-recognized cause of cognitive impairment that is often reversible in elderly persons. Anticholinergics and sedative-hypnotics are frequently cited as causing depressed mental status or delirium when administered to persons with limited cognitive reserve. This patient does not clearly have an abrupt cognitive decline correlated with initiating such medications.\n\nMulti-infarct (vascular) dementia (Choice D) is characterized as a stepwise decline in cognitive functioning following vascular phenomena, for example, presenting as progressive loss of function after each cerebrovascular accident in a series of ischemic strokes.\n\nVitamin B12 (cobalamin) deficiency (Choice E) presents with dementia resulting from nutritional deficiency and is often accompanied by megaloblastic anemia.",
+    "id": "IM-3-34",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 35,
+    "questionStem": "A 64-year-old woman with a 4-year history of type 2 diabetes mellitus controlled with insulin comes to the emergency department because of exertional chest pressure for 3 weeks. The first episode occurred while she was walking upstairs and was relieved by 5 minutes of rest. The second episode occurred 1 week ago while she was mowing the lawn and was relieved after 10 minutes of rest. She had two episodes yesterday, each lasting 15 minutes; both occurred with exertion and were accompanied by shortness of breath and nausea. Today she had a 10-minute episode starting while she was in the shower and another while she was walking into the emergency department. Examination and an ECG show no abnormalities. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Self-monitoring of blood glucose concentration during the next episode of chest pain",
+      "B": "Dipyridamole-thallium-201 scintigraphy",
+      "C": "Exercise stress test within 24 hours",
+      "D": "Antianginal drug therapy now and an exercise stress test in 5 days",
+      "E": "Admit the patient to the hospital"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Exertional chest pain accompanied by shortness of breath that improves with rest is suggestive of stable angina pectoris, caused by cardiac ischemia from insufficient perfusion during exertion through narrowed coronary arteries. This patient presents with worsening symptoms of angina, occurring more frequently and for a longer duration of time. This is consistent with unstable angina, defined by anginal symptoms that are new, occur at rest, or are worsening in severity. Unstable angina is a type of acute coronary syndrome, which requires admission to the hospital and urgent diagnostic workup, including serial ECGs, troponin testing, cardiology consultation, and stress test or cardiac catheterization. Patients with unstable angina are stratified based upon the Thrombolysis in Myocardial Infarction (TIMI) score, which assists in identifying the need for therapeutic anticoagulation and coronary angiography.",
+    "incorrectExplanation": "Self-monitoring of blood glucose concentration during the next episode of chest pain (Choice A) would not be sufficient for workup of this patient's unstable angina and acute coronary syndrome. This patient's symptoms are unlikely to be associated with hyper- or hypoglycemia. The patient will require admission to the hospital for further monitoring and diagnostic workup. Nonexertional tests, such as dipyridamole-thallium-201 scintigraphy (Choice B), are used to evaluate cardiac perfusion in patients who are unable to exercise. Exercise stress test within 24 hours (Choice C) may be indicated, but first, the patient must be urgently admitted to the hospital for further diagnostic workup and management of unstable angina and acute coronary syndrome. Once further diagnostic tests are completed, the patient's risk can be further delineated using the TIMI score to determine the next most appropriate step in management, which may include stress testing and/or coronary angiography. Antianginal drug therapy now and an exercise stress test in 5 days (Choice D) would unnecessarily delay diagnostic workup of this patient's acute coronary syndrome, which may require coronary angiography and revascularization.",
+    "id": "IM-3-35",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 36,
+    "questionStem": "A 48-year-old man with alcoholism is brought to the emergency department confused and drowsy 1 hour after he was found on the ground in a park. Examination shows a lateral gaze defect. He has a wide-based ataxic gait. His blood alcohol concentration is less than 0.10 mg/dL. Administration of which of the following is the most appropriate intervention?",
+    "choices": {
+      "A": "Folic acid",
+      "B": "Glucose",
+      "C": "Vitamin B1 (thiamine)",
+      "D": "Vitamin B6",
+      "E": "Vitamin B12 (cyanocobalamin)"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Wernicke encephalopathy is characterized by the triad of confusion, ophthalmoplegia, and ataxia. It occurs due to the neurologic consequences from deficiency of vitamin B1 (thiamine). Patients with alcohol use disorder may mount symptoms of Wernicke encephalopathy because of malnutrition secondary to preferential and chronic alcohol consumption. Wernicke encephalopathy is theoretically reversible with administration of high-dose thiamine; if untreated, it can progress to Korsakoff syndrome which is characterized by dementia, confabulation, hallucinations, and psychosis. The symptoms of Wernicke encephalopathy can mimic alcohol intoxication; however, patients will have a low or undetectable serum ethanol level.",
+    "incorrectExplanation": "Incorrect Answers: A, B, D, and E.\n\nPatients with alcohol use disorder often have deficiencies in folic acid (Choice A), though folic acid deficiency presents with megaloblastic anemia in the setting of impaired DNA synthesis and would not be expected to present with confusion, ophthalmoplegia, and ataxia.\n\nThe symptoms of hypoglycemia (Choice B) often include confusion and neurologic deficits such as ataxia; however, this patient\u2019s presentation is more likely related to a deficiency in vitamin B1. It is important to replenish thiamine with glucose in any patient with alcohol use disorder and hypoglycemia, as relative deficiency of thiamine can theoretically precipitate Wernicke encephalopathy.\n\nVitamin B6 (Choice D) deficiency is also common in alcohol use disorder; however, it more commonly presents with neuropathy, dermatitis, glossitis, and seizures.\n\nVitamin B12 (Choice E) deficiency presents with megaloblastic anemia and neurologic deficits including presentations such as subacute combined degeneration of the spinal cord and possible dementia, often in a patient with risk factors for vitamin B12 deficiency such as patients presenting with veganism, malnutrition, Crohn disease, or pernicious anemia.",
+    "id": "IM-3-36",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 37,
+    "questionStem": "A 57-year-old man with a 5-year history of hypertension comes to the physician for a routine examination. He has a 10-year history of throbbing frontal headaches that occur once to twice monthly and are associated with nausea and sometimes with vomiting. Occasionally, he sees halos around objects during an episode. He attributes the headaches to stress at work. His only medication is enalapril. He does not smoke or drink alcohol. He is 178 cm (5 ft 10 in) tall and weighs 100 kg (220 lb); BMI is 32 kg/m2. His temperature is 37.2\u00b0C (99\u00b0F), pulse is 80/min and regular, respirations are 12/min, and blood pressure is 130/85 mm Hg. Examination shows no abnormalities. Serum studies show: Na+ 140 mEq/L, K+ 4 mEq/L, Cl- 100 mEq/L, HCO3- 24 mEq/L, Urea nitrogen 18 mg/dL, Glucose 265 mg/dL, Creatinine 1.2 mg/dL, Ketones negative. Which of the following is the most likely explanation for this patient's increased serum glucose concentration?",
+    "choices": {
+      "A": "Cushing syndrome",
+      "B": "Glucagonoma",
+      "C": "Pheochromocytoma",
+      "D": "Somatostatinoma",
+      "E": "Type 2 diabetes mellitus"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Type 2 diabetes mellitus is common and is caused by increased resistance to insulin signaling. It most frequently occurs in older, obese, and sedentary persons. Type 2 diabetes can be asymptomatic until complications arise as a result of increased blood sugar, which makes screening important. It can be diagnosed through increased Hemoglobin A1c, oral glucose tolerance testing, a random glucose greater than 200 mg/dL with symptoms, or via increased fasting blood glucose greater than 126 mg/dL. Control of blood sugar is important to prevent microvascular complications such as retinopathy, nephropathy, and neuropathy.",
+    "incorrectExplanation": "Cushing syndrome (Choice A) occurs because of increased cortisol levels and presents with truncal weight gain, fatty deposits around the face and neck, striae, acne, and muscle weakness; vital signs are notable for hypertension, and laboratory workup often reveals hyperglycemia, leukocytosis, and derangements in sodium, bicarbonate, and potassium. Glucagonoma (Choice B) is a rare functional malignancy that secretes glucagon, which raises blood glucose through its normal mechanism of action. Occasionally, glucagonoma can present as a component of multiple endocrine neoplasia. Symptoms are nonspecific and include mild diabetes mellitus and occasionally peranepolastic rash (e.g., necrolytic migratory erythema) and weight loss. It is not the most likely cause of increased glucose in an older, overweight person with a history of hypertension. Pheochromocytoma (Choice C) is a rare adrenal malignancy that produces catecholamines. Symptoms include paroxysms of anxiety, agitation, diaphoresis, palpitations, tachycardia, tachypnea, and hypertension. Somatostatinoma (Choice D) is an uncommon pancreatic malignancy that presents with weight loss, mild diabetes mellitus caused by the suppression of insulin by somatostatin, steatorrhea caused by limited cholecystokinin release, and achlorhydria from inhibition of gastrin. As with many pancreatic malignancies, it is often diagnosed late in its course.",
+    "id": "IM-3-37",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 38,
+    "questionStem": "A 27-year-old man is found to have a total serum cholesterol concentration of 190 mg/dL at a routine examination. He has no family history of hypertension or premature coronary artery disease. His grandmother was diagnosed with type 2 diabetes mellitus at the age of 65 years. Examination shows no abnormalities. In addition to general dietary advice and education concerning risk factors, which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Repeat measurement of serum cholesterol concentration in 5 years",
+      "B": "Recommend the American Heart Association Step 2 cholesterol-lowering diet",
+      "C": "Glucose tolerance test",
+      "D": "X-ray of the chest",
+      "E": "ECG"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Atherosclerotic Cardiovascular Disease (ASCVD) has multiple risk factors, including uncontrolled hypertension, hyperlipidemia, diabetes mellitus, obesity, excess alcohol consumption, family history, age, and smoking. Reducing ASCVD is a key step in reducing the likelihood of delayed complications such as heart attacks and strokes. The 2019 guideline from the American Heart Association and American College of Cardiology (AHA/ACC Guideline on the Primary Prevention of Cardiovascular Disease) states that persons with known ASCVD, such as those having experienced a heart attack or stroke, should be started on a high-intensity statin. The guideline makes several recommendations of moderate or high-intensity statin therapy for persons ages 40 to 75 years at risk for ASCVD based on personal medical history, family history, and laboratory evaluation. Routine screening for persons under age 40 years is generally not recommended apart from reasonable surveillance every 4 to 6 years. Those persons ages 20 to 39 years who are not at an increased risk (below 7.5% risk in the next 10 years), a lifetime or 30-year risk target is reasonable in deciding whether or not to initiate lipid-lowering therapy. Lifestyle modification should always be recommended including weight loss, cardiovascular exercise, smoking cessation, safe alcohol consumption, sleep hygiene, and dietary modification for all persons with an increased level of cholesterol or those at risk for ASCVD. While this patient has increased cholesterol, he has no other obvious personal or family risk factors. Lifestyle modifications should be recommended with routine screening and initiation of lipid lowering therapy if his risk subsequently rises.",
+    "incorrectExplanation": "Incorrect Answers: B, C, D, and E.\n\nRecommending the American Heart Association Step 2 cholesterol-lowering diet (Choice B) is aligned to 2019 recommendations from the American Heart Association. General dietary advice and education has already been provided to the patient.\n\nGlucose tolerance testing (Choice C) is appropriate for patients in whom a diagnosis of diabetes mellitus is in question. In 2015, the United States Preventive Services Task Force presented a Grade B recommendation for screening for diabetes mellitus in adult patients ages 40 to 70 years. This patient may eventually require screening or diagnosis but does not meet criteria at this time.\n\nX-ray of the chest (Choice D) is used to diagnose various cardiothoracic conditions; it is no longer recommended for routine screening.\n\nECG (Choice E) is used to diagnose conditions including but not limited to cardiac arrhythmias, conduction deficits, and myocardial ischemia. ECGs are occasionally used as preoperative screening but are not currently recommended for routine screening in asymptomatic individuals not under investigation for cardiovascular disease.",
+    "id": "IM-3-38",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 39,
+    "questionStem": "A 65-year-old woman has fatigue, pallor, and glossitis. Hemoglobin concentration is 8 g/dL, and mean corpuscular volume is 115 \u03bcm\u00b3. Leukocyte and platelet counts are normal. A blood smear is shown. Which of the following is the most likely primary pathophysiologic mechanism causing her anemia?",
+    "choices": {
+      "A": "Defective porphyrin metabolism",
+      "B": "Faulty protein transcription",
+      "C": "Impaired DNA synthesis",
+      "D": "Inadequate erythropoietin",
+      "E": "Unbalanced synthesis of \u03b1- and \u03b2-globulin chains"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Impaired DNA synthesis occurs in the setting of megaloblastic anemia, characterized by the presence of hypersegmented neutrophils, anemia, and increased mean cell volume (macrocytosis). Commonly, the impairment is due to the absence of required cofactors such as folic acid and cobalamin (vitamin B12). Malnutrition and alcohol use disorder are common causes of folic acid deficiency, while conditions such as pernicious anemia, Crohn disease, and veganism can result in cobalamin deficiency. Symptoms include fatigue and reduced exercise tolerance, with pallor and glossitis found on physical examination. Laboratory evaluation reveals anemia, increased mean cell volume, and normal white cell and platelet indices. The presence of hypersegmented neutrophils on peripheral smear is a characteristic finding in megaloblastic anemia. Treatment includes replacing the deficient vitamin and resolving nutritional deficiencies.",
+    "incorrectExplanation": "Defective porphyrin metabolism (Choice A) is seen in porphyria. Porphyria can arise from genetic mutations, heavy metal poisoning, and as an adverse effect of some medications. It presents with anemia, and often blistering of the skin when exposed to sunlight. Faulty protein transcription (Choice B) can cause many types of anemia; examples include sickle cell anemia and pyruvate kinase deficiency, both of which typically result in hemolytic, normocytic anemias. Inadequate erythropoietin (Choice D) occurs in chronic end-stage kidney disease because of insufficient production from the peritubular capillary interstitial cells. Without erythropoietin, progenitor cells in the bone marrow are not appropriately stimulated to produce red blood cells, resulting in the development of normocytic, non-hemolytic anemia. Unbalanced synthesis of \u03b1- and \u03b2-globulin chains (Choice E) defines thalassemia, which classically presents as a microcytic anemia in persons of Mediterranean, Asian, and African descent.",
+    "id": "IM-3-39",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 40,
+    "questionStem": "A 77-year-old woman comes to the emergency department because of a 3-month history of shortness of breath when she climbs stairs. Her shortness of breath resolves after 5 minutes of rest. Her last episode was 3 days ago. She has not had chest pain, palpitations, orthopnea, cough, wheezing, swelling, or difficulty sleeping. She has hypertension and gastroesophageal reflux disease. Current medications include hydrochlorothiazide, omeprazole, and a multivitamin. She is 168 cm (5 ft 6 in) tall and weighs 63 kg (140 lb); BMI is 23 kg/m\u00b2. Her temperature is 37.2\u00b0C (99\u00b0F), pulse is 72/min, respirations are 12/min, and blood pressure is 144/92 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 98%. There are jugular venous pulsations 3 cm above the sternal angle. The remainder of the examination shows no abnormalities. An ECG shows a left bundle branch block and no primary T-wave changes, which is unchanged from an ECG 1 year ago. Which of the following is the most appropriate next step to determine the cause of this patient's dyspnea?",
+    "choices": {
+      "A": "Measurement of serum troponin I concentration",
+      "B": "ECG exercise stress test",
+      "C": "Exercise stress echocardiography",
+      "D": "Ventilation-perfusion lung scans",
+      "E": "Coronary angiography"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Stable angina is defined as chest pain (or an anginal equivalent) that occurs with exertion or stress and resolves with rest or nitroglycerin. It indicates that an obstruction to flow exists within a coronary artery (coronary artery disease), which results in myocardial ischemia during a period of increased myocardial oxygen demand. Classically, this occurs from atherosclerotic plaque causing narrowing of a coronary artery, with resultant insufficient supply of blood during periods of increased demand. If such a plaque ulcerates and a thrombus forms, complete occlusion of a coronary artery can result, which can lead to myocardial infarction. Diagnosing inducible cardiac ischemia is first attempted by way of a stress test, either through exercise or pharmacologic stress. An exercise stress echocardiography scan is appropriate for patients who are able to exercise but who have a baseline-abnormal ECG that would make a stress ECG difficult to analyze for ischemia (e.g., such as a baseline bundle-branch block that results in ST-segment repolarization change, or inverted T waves). A stress echocardiogram evaluates for regional wall motion abnormalities suggestive of regional ischemia following induction of stress on the heart via exercise.",
+    "incorrectExplanation": "Incorrect Answers: A, B, D, and E.\n\nMeasurement of serum troponin I concentration (Choice A) is appropriate in the diagnosis of an acute coronary syndrome, blunt cardiac injury, myocarditis, or pulmonary embolism. It does not have a role in the diagnosis of stable angina if infarction, injury, or strain on the heart is not suspected.\n\nECG exercise stress test (Choice B) is a first-line screening test in the diagnosis of cardiac ischemia from coronary artery disease, but in patients with an ST-segment baseline ECG abnormality (left or right bundle-branch block, left ventricular hypertrophy, early repolarization, or ventricular aneurysm), it lacks appropriate sensitivity and specificity.\n\nVentilation-perfusion lung scans (Choice D) are used to assess for mismatches in pulmonary ventilation and perfusion and are most commonly used as a second-line study for pulmonary embolus when a contrast-enhanced CT angiogram cannot be performed.\n\nCoronary angiography (Choice E) is an invasive means of identifying coronary artery disease and is performed through arterial catheterization; it may be required in the diagnosis or treatment of coronary artery disease but would occur following initial noninvasive evaluation in patients not experiencing an acute coronary syndrome.",
+    "id": "IM-3-40",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 41,
+    "questionStem": "Immediately after undergoing an upper gastrointestinal endoscopy and dilatation for achalasia, a 32-year-old woman has moderate substernal and midback pain. She has no history of serious illness. Her temperature is 37\u00b0C (98.6\u00b0F), pulse is 90/min, respirations are 22/min, and blood pressure is 110/80 mm Hg. The lungs are clear to auscultation. The abdomen is soft and nondistended. Esophagography shows a small leak of contrast from the distal esophagus into the left chest. In addition to intravenous antibiotic therapy, which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Placement of an intraluminal esophageal stent",
+      "B": "Placement of a left chest tube",
+      "C": "Nissen fundoplication",
+      "D": "Esophagogastrectomy",
+      "E": "Operative repair of the esophageal injury"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "The benefits and risks of any procedure must be considered prior to undertaking the procedure. Upper endoscopy is a generally safe procedure, though complications can include bleeding, aspiration, and perforation, and depending on the purpose of the endoscopy, specific complications such as pancreatitis following endoscopic retrograde cholangiopancreatography (ERCP) can occur. In the case of achalasia, the endoscopy was performed to dilate the narrowed lower esophageal sphincter to promote passage of food. Stretching of smooth muscle, stricture, and connective tissue, especially if chronic inflammation from food bolus impaction led to compromise of the stromal strength of the esophageal wall, can lead to perforation. A perforated esophagus is diagnosed on water-soluble contrast esophagography. An esophageal perforation permits translocation of gastrointestinal contents such as food, stomach acid, and bacteria into the mediastinum, which if untreated, can lead to a fatal mediastinitis infection. Management of esophageal perforation is through antibiotics plus emergent surgical repair.",
+    "incorrectExplanation": "Incorrect Answers: A, B, C, and D.\n\nPlacement of an intraluminal esophageal stent (Choice A) is used to manage an esophageal obstruction, for example, from an esophageal web, stricture, or malignancy. It does not have a primary role in the management of an acute esophageal perforation.\n\nPlacement of a left chest tube (Choice B) may be necessary if translocated gastric contents develop into an empyema; however, such complication would not be evident for several days and may be avoided altogether with the use of antibiotics.\n\nNissen fundoplication (Choice C) is a primary surgical treatment for gastroesophageal reflux disease due to incompetence of the lower esophageal sphincter and involves plication of the gastric fundus around the lower esophagus. It does not have an immediate role in repairing an esophageal perforation.\n\nEsophagogastrectomy (Choice D) constitutes the removal of a portion of the esophagus and stomach and is often performed in cases of malignancy; it would not have an immediate role in the management of an esophageal perforation.",
+    "id": "IM-3-41",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 42,
+    "questionStem": "A 33-year-old woman comes to the physician because of a lesion on the thigh for 6 months. The lesion is shown. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Observation",
+      "B": "Radiation therapy",
+      "C": "Laser ablation",
+      "D": "Electrodesiccation and curettage",
+      "E": "Surgical excision"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Malignant melanoma is likely to be present when a skin lesion demonstrates asymmetry, irregular-appearing borders, variable coloration, a diameter greater than 6 mm, and rapid evolution in characteristics. Malignant melanoma has the ability to rapidly invade and metastasize, which carries a poor prognosis when diagnosed late. Any lesion with features suggestive of malignant melanoma should be surgically excised with negative margins and pathologically examined for the depth of dermal invasion.",
+    "incorrectExplanation": "Observation (Choice A) is inappropriate, as it may result in delay in diagnosis of a potentially lethal malignancy.\n\nRadiation therapy (Choice B) may be necessary in treating malignant melanoma, but a diagnosis must first be established.\n\nLaser ablation (Choice C) is more frequently used to treat benign cosmetic lesions and would not have a role in the immediate management of malignant melanoma.\n\nElectrodesiccation and curettage (Choice D) may not effectively examine the margins of the lesion, which are important in determining extent of invasion and prognosis.",
+    "id": "IM-3-42",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 43,
+    "questionStem": "A 67-year-old man comes to the physician because of pain of the fingertips for 1 month. Examination shows plethora and splenomegaly. Laboratory studies show: Hemoglobin 20.2 g/dL Leukocyte count 14,500/mm^3 with a normal differential Platelet count 400,000/mm^3 Arterial blood gas analysis on room air shows: P_O2 92 mm Hg O_2 saturation 94% Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Administration of chlorambucil",
+      "B": "Administration of heparin",
+      "C": "Thrombopheresis",
+      "D": "Phlebotomy",
+      "E": "Splenectomy"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Polycythemia vera is a chronic myeloproliferative disorder resulting in increased production of all cell lineages (erythrocyte, leukocyte, and thrombocyte) secondary to a JAK2 mutation. It presents with pruritus, especially after hot showers, secondary to increased mast cell production and degranulation. Additionally, it can present with episodic severe, burning pain with red-blue discoloration secondary to blood clot formation in extremity vessels, referred to as erythromelalgia. The marked increase in red blood cell production and hematocrit can lead to the development of hyperviscosity syndrome, which presents with blurred vision and central nervous system symptoms related to vascular congestion. Examination can show splenomegaly and congestion of vessels seen as plethora. Therapeutic phlebotomy results in decreased red blood cell mass and blood volume, which is the best initial treatment for the patient's symptoms.",
+    "incorrectExplanation": "Incorrect Answers: A, B, C, and E. Administration of chlorambucil (Choice A) is used to treat chronic lymphocytic leukemia, Hodgkin disease, and non-Hodgkin lymphoma. This patient's presentation is most consistent with polycythemia vera. Administration of heparin (Choice B) is appropriate in cases of arterial or venous thrombosis; while this patient may eventually develop a thrombus that requires anticoagulation, at this time there is no evident role for this medication. Thrombopheresis (Choice C) is the selective removal of platelets from blood and is performed during platelet-specific donation or to treat conditions of excess platelets such as essential thrombocythemia when other cell lines are not similarly increased. Splenectomy (Choice E) may have a role in treating patients with polycythemia vera if they have painful splenomegaly or splenic infarction, but barring such complications, it is not a routine next step in the management of polycythemia vera.",
+    "id": "IM-3-43",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 44,
+    "questionStem": "A 67-year-old man comes to the physician because of increasing nocturnal incontinence that began 2 months ago and now occurs nightly. He has a 20-year history of hypertension treated with verapamil. He has been taking amitriptyline for major depressive disorder since his wife died 3 months ago. His blood pressure is 158/78 mm Hg. There is lower abdominal distention with diffuse tenderness to palpation. Rectal examination shows a moderately enlarged, smooth prostate with no stool in the vault. Neurologic examinations show no abnormalities. Laboratory studies show: Serum creatinine 1.6 mg/dL, Urine Protein 1+, WBC 1\u20132/hpf, RBC 2\u20134/hpf. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Benign prostatic hyperplasia",
+      "B": "Cauda equina syndrome",
+      "C": "Dementia, Alzheimer type",
+      "D": "Normal-pressure hydrocephalus",
+      "E": "Urinary tract infection"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Benign prostatic hyperplasia (BPH) affects middle-aged and elderly male patients, occurring because of excess growth of tissue in the central prostate causing a lower urinary tract obstruction. BPH presents with urinary dribbling and incontinence, difficulty starting or maintaining a urinary stream, nocturia, the need to frequently urinate, and incomplete voiding. These symptoms are typically insidious in onset, chronic, and progressive. Diagnosis is made on history, physical, and urodynamic testing, along with ruling out alternate diagnoses (eg, prostatic malignancy). Treatment is with supportive care, alpha blockers, 5-\u03b1-reductase inhibitors, and/or surgery.",
+    "incorrectExplanation": "Incorrect Answers: B, C, D, and E. Cauda equina syndrome (Choice B) is caused by compression of the spinal nerve roots comprising the cauda equina. Often, such compression occurs because of malignancy, trauma (eg, compression fractures with fragment retropulsion), disc herniation, spinal stenosis, spinal epidural abscess, or spinal epidural or subdural hematoma. Symptoms include lower extremity numbness, weakness, paralysis, hyporeflexia, perineal anesthesia, fecal incontinence with poor rectal tone, and overflow incontinence marked by inability to void. Dementia, Alzheimer type (Choice C) may present with urinary symptoms in a behavioral context such as volitional voiding at inappropriate times or in inappropriate locations. This patient is not showing any signs of dementia. Normal-pressure hydrocephalus (Choice D) presents with symptoms of dementia, urinary incontinence, and ataxia. Urinary tract infection (Choice E) presents with urinary incontinence, dysuria, frequency, urgency, and suprapubic discomfort. It is more common in women than men. Urinalysis typically demonstrates greater than 10 leukocytes per high-power field.",
+    "id": "IM-3-44",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 45,
+    "questionStem": "A 52-year-old woman comes to the physician because of a 2-month history of pain and swelling of her knees. She says she also has had stiffness of her knees, which is worse in the morning. During the past month, she has had progressive, generalized fatigue. On examination, the knees are warm, swollen, and tender. Any attempt at passive movement of the knees produces pain. Her hemoglobin concentration is 10 g/dL, leukocyte count is 10,000/mm\u00b3, and erythrocyte sedimentation rate is 50 mm/h. X-rays of the knees show osteopenia and subcartilaginous cysts around the joints. The joint spaces are intact. Which of the following is the most appropriate pharmacotherapy?",
+    "choices": {
+      "A": "Oral alendronate",
+      "B": "Oral colchicine",
+      "C": "Oral ibuprofen",
+      "D": "Intra-articular injection of methylprednisolone",
+      "E": "Intravenous cefazolin"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Pain and swelling of joints, morning stiffness, fatigue, mild anemia, increased erythrocyte sedimentation rate, and x-rays showing periarticular osteopenia and erosions is concerning for an inflammatory arthropathy such as rheumatoid arthritis, pseudogout, reactive arthritis, psoriatic arthritis, or similar rheumatologic or immunologic disorder. Once secondary causes such as disseminated gonococcal arthritis, Lyme disease, and septic arthritis have been excluded, the first-line treatment is generally with a nonsteroidal anti-inflammatory drug (NSAID) such as ibuprofen.",
+    "incorrectExplanation": "Oral alendronate (Choice A), a bisphosphonate osteoclast inhibitor, is used in the treatment of osteoporosis and hypercalcemia. It does not have a primary role in the management of an inflammatory arthropathy. Oral colchicine (Choice B) is used in the management of gout, pseudogout, and pericarditis. Gout and pseudogout result from deposition of crystals into the joint space, which trigger an intense inflammatory reaction. Symptoms are more often acute, monoarticular, and severe. Diagnosis is via arthrocentesis. Intra-articular injection of methylprednisolone (Choice D) may have a role in the treatment of inflammatory arthritis but would generally occur after a trial of NSAIDs; additionally, this local treatment would require multiple injections, increasing the risk of infection and discomfort to the patient. Intravenous cefazolin (Choice E) would be appropriate in some cases of septic arthritis if a susceptible pathogen were diagnosed; this patient does not clearly have septic arthritis and antibiotics are inappropriate at this time.",
+    "id": "IM-3-45",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 46,
+    "questionStem": "A 32-year-old woman, gravida 1, para 1, comes to the physician because of spontaneous discharge from her nipples during the past 3 months. She discontinued breast-feeding her child 1 year ago. She takes no medications. Menses occur at regular 28-day intervals. On physical examination, a milky white discharge can be expressed from both nipples. Examination shows no other abnormalities. Her fasting serum prolactin concentration is 40 ng/mL, and serum thyroid-stimulating hormone concentration is within the reference range. Which of the following is the most appropriate recommendation for this patient?",
+    "choices": {
+      "A": "Application of ice packs to the breasts",
+      "B": "Wearing tight bras",
+      "C": "Bromocriptine therapy",
+      "D": "Tamoxifen therapy",
+      "E": "Vitamin E therapy"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "An inappropriate elevation in serum prolactin is defined as hyperprolactinemia and causes production of breast milk and growth of glandular breast tissue. After cessation of breast-feeding, serum prolactin levels typically return to pre-pregnancy levels. Inappropriate elevation of prolactin often arises from a hyperfunctioning anterior pituitary microadenoma and presents with unexpected production of breast milk. Prolactin is negatively regulated by dopamine. Various dopaminergic blocking medications can have galactorrhea as an adverse effect. Further, prolactin is positively regulated by thyrotropin-releasing hormone (TRH) and in states of hypothyroidism with upregulated TRH, galactorrhea can also occur. With exclusion of the thyroid and any contributions from dopamine antagonists, further diagnostic evaluation should include an MRI of the brain to assess for the presence of a pituitary adenoma. Treatment is with dopamine agonists such as bromocriptine or cabergoline, and if such medications fail or if a macroadenoma is found, surgical resection of the adenoma is required.",
+    "incorrectExplanation": "Incorrect Answers: A, B, D, and E.\n\nApplication of ice packs to the breasts (Choice A) and wearing tight bras (Choice B) are recommendations offered to lactating women approaching the end of breast-feeding or for postpartum women who do not wish to pursue breast-feeding. These measures provide relief of discomfort from engorged breast tissue but have no role in treating hormonal dysregulation from pathologic hyperprolactinemia.\n\nTamoxifen therapy (Choice D), a selective estrogen receptor modulator, is used in the treatment of estrogen receptor-positive breast cancer by blocking the trophic action of estrogen on the tumor. It has no role in treating hyperprolactinemia or a pituitary prolactinoma.\n\nVitamin E therapy (Choice E) has been shown to lower prolactin levels in patients with uremia on hemodialysis and has been shown to have an inhibitory effect on pituitary gland hypertrophy; in spite of these findings, it has not been shown to be as effective when compared to dopamine agonists and surgical resection.",
+    "id": "IM-3-46",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 47,
+    "questionStem": "Four days after undergoing a left total hip replacement, a 75-year-old woman has the rapid onset of chest pain, severe dyspnea, and confusion. Her pulse is 120/min, respirations are 28/min, and blood pressure is 94/60 mm Hg. A pleural rub is heard at the right lung base. The surgical incision appears to be healing well. There is moderate edema of the left leg. Arterial blood gas analysis on room air shows: pH 7.46, PCO2 28 mm Hg, PO2 62 mm Hg. Which of the following postoperative treatments is most likely to have prevented this condition?",
+    "choices": {
+      "A": "Administration of aspirin",
+      "B": "Administration of cefoxitin",
+      "C": "Administration of oxygen",
+      "D": "Administration of warfarin",
+      "E": "Use of incentive spirometry"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Post-operative complications can include infection, bleeding, wound dehiscence, and thromboembolic disease. Care to prevent these complications should be taken during the perioperative period. Deep venous thrombosis (DVT) classically presents with pain and swelling, typically involving one leg, often with a palpable superficial venous cord, and with pain when the extremity is passively flexed at the ankle (the \u2018Homan\u2019 sign). DVT can occur because of venous stasis in an immobilized, post-operative patient, which is often exacerbated by the hypercoagulable inflammatory state following a surgical procedure. If untreated or unrecognized, a DVT can embolize to the lungs, causing a pulmonary embolism (PE), which can present as sudden chest pain, dyspnea, tachycardia, and tachypnea. If the PE is large enough to obstruct the outflow from the right side of the heart, hypotension can occur, which is defined as a \u2018massive\u2019 PE. Patients are typically tachypneic, hypoxemic, and demonstrate an acute respiratory alkalosis on arterial blood gas analysis. Postoperative anticoagulation using pharmacologic (eg anticoagulant therapy) or mechanical prophylaxis (eg frequent ambulation, sequential lower extremity compression) can reduce the incidence of DVT and PE.",
+    "incorrectExplanation": "Incorrect Answers: A, B, C, and E. Aspirin (Choice A) is an antiplatelet agent commonly used as prophylaxis against arterial thrombotic phenomena involving the coronary arteries (eg, myocardial infarction) and cerebral arteries (eg, cerebrovascular accidents). It does not have a recognized role in the prevention of DVT/PE. Administration of cefoxitin (Choice B), a second-generation cephalosporin, can be used for the treatment of common gram-positive, and some gram-negative pathogens, such as in pelvic inflammatory disease. It does not have a role in the prevention of DVT/PE. Administration of oxygen (Choice C) has a role in treating hypoxemia secondary to PE but has no role in the prevention of DVT/PE. Use of incentive spirometry (Choice E) has been shown to prevent post-operative atelectasis along with post-operative pneumonia. It does not have a role in the prevention of DVT/PE.",
+    "id": "IM-3-47",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 48,
+    "questionStem": "A 57-year-old woman is brought to the emergency department 15 minutes after being involved in a motor vehicle collision. She was the restrained front seat passenger. Her neck was immobilized in a cervical collar at the scene. On arrival, she reports neck pain and pain in her right forearm. Her pulse is 80/min, respirations are 16/min, and blood pressure is 150/70 mm Hg. Examination of the right upper extremity shows swelling and crepitus. She is able to actively extend the proximal and distal interphalangeal joints but not the metacarpophalangeal joints of her right hand or wrist. The remainder of the examination shows no other abnormalities. Plain x-rays show a midshaft fracture of the humerus. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Brachial plexus injury",
+      "B": "Compartment syndrome",
+      "C": "Herniated cervical disc",
+      "D": "Median nerve injury",
+      "E": "Radial nerve injury"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "The radial nerve courses posterior to the humerus at the midshaft within the radial groove. It is often injured in displaced midshaft humerus fractures, with resulting wrist drop. The radial nerve supplies motor fibers to the triceps brachii and the extensor muscles within the posterior compartment of the forearm and sensory fibers to the dorsum of the forearm, wrist, and hand. It does not innervate the intrinsic muscles of the hand. Injury to the nerve at the mid-diaphyseal humerus causes extensor muscle loss at the hand and wrist, weakness of forearm supination, the presence of wrist drop, and sensory loss over the posterior forearm, dorsum of the hand, and posterior thumb, index, middle, and radial-half of the ring finger.",
+    "incorrectExplanation": "Brachial plexus injury (Choice A), depending on the location within the plexus, would involve motor and sensory loss of multiple nerves. A mononeuropathy would be unlikely. Compartment syndrome (Choice B) presents with pain, paresthesia, paresis, poikilothermia, pallor, and pulselessness. It occurs because of increased pressure from swelling or hemorrhage within a fixed-space myofascial compartment. When the pressure approaches or exceeds diastolic blood pressure, blood flow becomes impaired. The compartment and any downstream-supplied structures can become ischemic. With an otherwise normal exam, the localization of the patient\u2019s findings to radial nerve injury is much more likely. Herniated cervical disc (Choice C) can occur from traumatic injury and is a known cause of cervical radiculopathy. Usually, one single nerve root is affected, and it commonly presents with pain in a radicular pattern. Weakness of muscles innervated by multiple cervical spinal levels would be less likely outside of catastrophic injury to the cervical spine. Median nerve injury (Choice D) presents with weakness involving the flexor compartment of the forearm, thenar eminence, and first two lumbrical muscles, along with diminished sensation over the anterior forearm and lateral hand.",
+    "id": "IM-3-48",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 49,
+    "questionStem": "A 77-year-old woman is brought to the emergency department by her husband because of confusion and sleepiness for the past 12 hours. She has mild hypertension treated with hydrochlorothiazide but is otherwise healthy. Her temperature is 37\u00b0C (98.6\u00b0F), pulse is 90/min, respirations are 14/min, and blood pressure is 150/100 mm Hg. On examination, she is obtunded and confused. There is no jugular venous distention when she is supine. Cardiopulmonary examination shows no abnormalities. There are no focal neurologic signs. Serum studies show: Na+ 146 mEq/L, K+ 5.0 mEq/L, Ca2+ 15 mEq/L, Urea nitrogen 40 mg/dL, Glucose 105 mg/dL, Creatinine 1.8 mg/dL, Albumin 3.1 g/dL. Intravenous infusion of which of the following is the most appropriate initial therapy?",
+    "choices": {
+      "A": "Albumin",
+      "B": "Furosemide",
+      "C": "Glucose and insulin",
+      "D": "0.9% Saline",
+      "E": "Sodium phosphate"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Acute hypercalcemia can present with a broad spectrum of symptoms and can be life-threatening because of its effect on neuronal conduction, the cardiac action potential, kidney function, and volume status. It can result from an exacerbation of known hypercalcemia (e.g., in cases of bony metastatic disease with increased osteoclast activity) or as a new diagnosis caused by an acute electrolyte derangement (e.g., excessive intake of calcium in the form of antacid medication). Hypercalcemia can induce nephrogenic diabetes insipidus resulting in excessive renal water losses. Treatment includes fluid resuscitation to prevent renal failure, promoting renal excretion of calcium, reducing intestinal absorption of calcium, inhibiting bony destruction, and, if necessary, renal replacement therapy with dialysis. Treatment therefore begins with infusion of 0.9% saline to restore intravascular volume and dilute serum calcium, followed by administration of osteoclast inhibitors such as bisphosphonates and possibly calcitonin if further medications are required to reduce calcium levels.",
+    "incorrectExplanation": "Albumin (Choice A) is used as a resuscitation colloid in cases of known hypoalbuminemia, such as liver failure or nephrotic syndrome. It supplies minimal intravascular volume directly, but rather, draws fluid into the intravascular space through oncotic pressure. Such equilibration takes time, making it a suboptimal colloid in managing symptomatic hypercalcemia. Furosemide (Choice B), a loop diuretic, acts at the kidney to promote fluid and electrolyte losses, including calcium. It has a role in the management of hypercalcemia but would be used following adequate volume resuscitation, not before. Glucose and insulin (Choice C) are a combined therapy used to shift potassium into cells in cases of acute hyperkalemia while maintaining normoglycemia. This patient's potassium level is within normal limits; immediate intervention is not required at this time. Oral sodium phosphate (Choice E) has an adjunct role in binding calcium in the GI tract, preventing further absorption, but does not have a role in the abrupt lowering of serum calcium levels. Intravenous phosphate has also been shown to bind calcium in the serum; however, the resulting insoluble calcium-phosphate product can deposit throughout tissues. This treatment may lead to additional organ dysfunction and should be avoided if possible.",
+    "id": "IM-3-49",
+    "section": "IM",
+    "subsection": "CMS-3"
+  },
+  {
+    "questionNumber": 50,
+    "questionStem": "A 40-year-old man with alcoholism has had a low-grade fever, malaise, and cough productive of purulent sputum for 2 weeks and hemoptysis for 24 hours; during this period, he has had a 4-kg (9-lb) weight loss. His temperature is 37.8\u00b0C (100\u00b0F). Hematocrit is 33%, and leukocyte count is 15,000/mm3. An x-ray of the chest shows a large cavitary lesion with an air-fluid level in the superior segment of the right lower lobe of the lung. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Aspergilloma",
+      "B": "Bronchiectasis",
+      "C": "Lung abscess",
+      "D": "Lung cancer",
+      "E": "Tuberculosis"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Aspiration pneumonia is characterized by fever, cough productive of foul-smelling sputum, malaise, and chest discomfort following an aspiration event; untreated or complicated aspiration pneumonia can lead to the development of a lung abscess, especially with the pathogen Klebsiella pneumoniae. Patients at higher risk for aspiration include those with impaired airway-protective reflexes (eg, stroke, myasthenia gravis, depressed mental status), those with frequent or forceful emesis (eg, alcohol use disorder, cyclic vomiting syndrome), or those with abnormal pharyngeal or airway anatomy (eg, malignancy, tracheo-esophageal fistula). These patients are more likely to aspirate gastric contents into the lung, which results in bacterial seeding with gastrointestinal or oral flora and can lead to pneumonia. Frequently, aspiration occurs in a dependent segment of the lung such as bilateral lower lobes when erect or the lingula, right middle lobe, and superior segments of the lower lobes while lying down. Pulmonary abscesses often present with low-grade fevers, weight loss, anemia, and leukocytosis. On chest x-ray, air-fluid levels are seen within the abscess cavity. Treatment is with antibiotics, prevention of recurrent aspiration, and source control with surgical resection or percutaneous drainage.",
+    "incorrectExplanation": "Incorrect Answers: A, B, D, and E.\n\nAspergillomas (Choice A) are fungal masses that often arise within existing cavitary lesions of the lung, such as those caused by previous infection with tuberculosis or from cavitary squamous cell lung carcinoma.\n\nBronchiectasis (Choice B) is abnormal dilatation of the bronchi that results from recurrent necrotizing infections. Risk factors for bronchiectasis are cystic fibrosis, Kartagener syndrome, and allergic bronchopulmonary aspergillosis.\n\nThere are many types of lung cancer (Choice D), such as small cell and non-small cell carcinoma. Lung cancer often presents with hemoptysis and weight loss, but unless a superinfection were present, an air-fluid level would not be expected. Rather, a solitary nodular, mass-like opacity on a chest x-ray or CT would be a more likely presentation.\n\nHomeless persons, patients suffering from alcohol use disorder, incarcerated patients, those from endemic areas (eg, Africa, South America), and those living in close contact are more likely to contract tuberculosis (Choice E). Tuberculosis classically presents with fever, night sweats, weight loss, and hemoptysis. The chest x-ray in reactivation tuberculosis classically shows cavitary lesions in the apices of the lung, with possible evidence of a Ghon complex (pulmonary calcified granulomas and hilar adenopathy) from the prior primary tuberculous infection.",
+    "id": "IM-3-50",
+    "section": "IM",
+    "subsection": "CMS-3"
+  }
+]
