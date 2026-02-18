@@ -1,0 +1,41 @@
+{
+  "_instructions": "Fill in the empty strings (\"\") below. Delete any entries you want to skip. Then run:  python3 scripts/merge_fixes.py",
+  "_source_pdf": "CMS/2 Surgery/3A.pdf",
+  "_q_pdf": "CMS/2 Surgery/3 Q.pdf",
+  "_target": "Parsed/2_surgery/cms_3.json",
+  "fixes": [
+    {
+      "questionNumber": 22,
+      "_context": {
+        "stem_preview": "A 51-year-old surgeon comes to the physician because of neck pain and not being able to hold a pair of forceps in her le...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 24,
+      "_context": {
+        "stem_preview": "A previously healthy 67-year-old man comes to the physician because of intermittent gross hematuria , fever, and fatigue...",
+        "existing_choices": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "H",
+          "I",
+          "G"
+        ]
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    }
+  ]
+}

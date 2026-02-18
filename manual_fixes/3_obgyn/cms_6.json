@@ -1,0 +1,134 @@
+{
+  "_instructions": "Fill in the empty strings (\"\") below. Delete any entries you want to skip. Then run:  python3 scripts/merge_fixes.py",
+  "_source_pdf": "CMS/3 OBGYN/6A.pdf",
+  "_q_pdf": "CMS/3 OBGYN/6 Q.pdf",
+  "_target": "Parsed/3_obgyn/cms_6.json",
+  "fixes": [
+    {
+      "questionNumber": 14,
+      "_context": {
+        "stem_preview": "A 27-year-old primigravid woman at 31 weeks' gestation comes to the physician because of a 3-day history of shortness of...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 17,
+      "_context": {
+        "stem_preview": "A 4 ?-year-old woman comes for a routine health maintenance examination . She smoked one pack of cigarettes daily for 30...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 24,
+      "_context": {
+        "stem_preview": "A 32-year-old woman , gravida 1, para 1, is brought to the emergency department because of headaches for 4 days and slur...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 27,
+      "_context": {
+        "stem_preview": "A 37-year-old primigravid woman comes to the physician for a routine prenatal visit. She conceived 17 weeks ago by in vi...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 28,
+      "_context": {
+        "stem_preview": "Immediately after cesarean delivery because of abruptio placentae , a 25-year-old woman loses consciousness . She had an...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 30,
+      "_context": {
+        "stem_preview": "A 16-year-old girl is brought to the physician by her mother because of an 18-month history of increasingly severe menst...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 31,
+      "_context": {
+        "stem_preview": "A previously healthy 23-year-old primigravid woman at 10 weeks' gestation has had nausea and vomiting for 4 weeks . She ...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 32,
+      "_context": {
+        "stem_preview": "A 27-year-old primigravid woman at 8 weeks' gestation comes to the physician because of a 1-day history of a migraine . ...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 39,
+      "_context": {
+        "stem_preview": "A 77-year-old woman , gravida 7, para 5, aborta 2, comes to the physician because of a mass protruding from the vagina f...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    }
+  ]
+}

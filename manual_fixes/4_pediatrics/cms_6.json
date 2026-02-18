@@ -1,0 +1,247 @@
+{
+  "_instructions": "Fill in the empty strings (\"\") below. Delete any entries you want to skip. Then run:  python3 scripts/merge_fixes.py",
+  "_source_pdf": "CMS/4 Pediatrics/6A.pdf",
+  "_q_pdf": "CMS/4 Pediatrics/6 Q.pdf",
+  "_target": "Parsed/4_pediatrics/cms_6.json",
+  "fixes": [
+    {
+      "questionNumber": 4,
+      "_context": {
+        "stem_preview": "A 10-month-old girl is brought to the physician because of a 5-day history of a rash over the cheeks and diaper area tha...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 5,
+      "_context": {
+        "stem_preview": "An otherwise healthy 6-year-old boy is brought to the physician because of the growth of pubic hair over the past 2 year...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 8,
+      "_context": {
+        "stem_preview": "A 2-month-old boy is brought to the physician for a well-child examination . Pregnancy was uncomplicated . He was born a...",
+        "correctAnswer": "G"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 9,
+      "_context": {
+        "stem_preview": "A previously healthy 7-year-old girl is admitted to the hospital because of an 11-day history of fever, fatigue , and pr...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 13,
+      "_context": {
+        "stem_preview": "A 5000-g (11-lb 1-oz) male infant is born at term to a 35-year-old woman following an uncomplicated pregnancy and delive...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 15,
+      "_context": {
+        "stem_preview": "An 8-year-old boy is brought to the physician because of a 4-day history of pallor. He has not had cough , rash, abdomin...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 16,
+      "_context": {
+        "stem_preview": "A 7-year-old boy is brought to the emergency department 30 minutes after the onset of confusion , decreased awareness , ...",
+        "correctAnswer": "H"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 19,
+      "_context": {
+        "stem_preview": "A 2-week-old female newborn is brought to the physician because of bruising on her arms and legs for 2 days . She was bo...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 21,
+      "_context": {
+        "stem_preview": "A 3-year-old boy is brought to the emergency department because of a 1-day history of increasingly severe abdominal pain...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 25,
+      "_context": {
+        "stem_preview": "A 17-year-old girl comes to the physician for a routine health maintenance examination prior to beginning college . She ...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 28,
+      "_context": {
+        "stem_preview": "A previously healthy 16-year-old girl is brought to the emergency department by friends after they found her unresponsiv...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 32,
+      "_context": {
+        "stem_preview": "A 2-year-old girl is brought to the emergency department 30 minutes after a syncopal episode . At the time of the episod...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 41,
+      "_context": {
+        "stem_preview": "A female newborn has mild cyanosis and a cardiac murmur 4 hours after an uncomplicated vaginal delivery. Heart sounds ar...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 43,
+      "_context": {
+        "stem_preview": "A 15-year-old girl is brought to the emergency department 2 hours after she attempted suicide by taking an overdose of a...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 47,
+      "_context": {
+        "correctAnswer": "D",
+        "existing_choices": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "questionStem": ""
+    },
+    {
+      "questionNumber": 48,
+      "_context": {
+        "stem_preview": "A female newborn is found to have mild cyanosis periorally and of the hands and feet 4 hours after birth. She was born a...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 49,
+      "_context": {
+        "stem_preview": "A 9-year-old boy is admitted to the hospital for treatment of status asthmaticus . He is intubated and mechanically vent...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "_instructions": "Fill in the empty strings (\"\") below. Delete any entries you want to skip. Then run:  python3 scripts/merge_fixes.py",
+  "_source_pdf": "CMS/2 Surgery/5A.pdf",
+  "_q_pdf": "CMS/2 Surgery/5 Q.pdf",
+  "_target": "Parsed/2_surgery/cms_5.json",
+  "fixes": [
+    {
+      "questionNumber": 6,
+      "_context": {
+        "stem_preview": "A 60-year-old woman comes to the emergency department 1 hour after the acute onset of a severe diffuse headache . She ha...",
+        "existing_choices": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ]
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 7,
+      "_context": {
+        "stem_preview": "A 67-year-old man comes to the physician because of a lesion on the left ear for 2 years . The lesion has gradually enla...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 12,
+      "_context": {
+        "stem_preview": "A hospitalized 67-year-old man has chest pain 3 days after undergoing a left colectomy for adenocarcinoma of the sigmoid...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 18,
+      "_context": {
+        "stem_preview": "A previously healthy 27-year-old primigravid woman at 28 weeks' gestation is admitted to the hospital 2 days after the o...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 21,
+      "_context": {
+        "stem_preview": "A 67-year-old woman is brought to the emergency department because of a 2-day history of increasingly severe abdominal c...",
+        "correctAnswer": "F"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 26,
+      "_context": {
+        "stem_preview": "A previously healthy 47-year-old woman comes to the physician because of a 3-month history of mild hearing loss and ring...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 28,
+      "_context": {
+        "stem_preview": "A previously healthy 42-year-old woman , gravida 2, para 2, comes to the physician because of a 1-month history of disch...",
+        "correctAnswer": "H"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 39,
+      "_context": {
+        "stem_preview": "A 51-year-old man comes to the physician 10 days after discovering a nontender mass in his neck. His father and two olde...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 41,
+      "_context": {
+        "stem_preview": "One week after undergoing laparotomy for a gunshot wound to the right upper quadrant of the abdomen , a 35-year-old man ...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 42,
+      "_context": {
+        "stem_preview": "A 57-year-old man comes to the physician because of a 4-week history of mild abdominal cramps, foul-smelling stools, and...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 44,
+      "_context": {
+        "stem_preview": "A 32-year-old man is brought to the emergency department 45 minutes after being involved in a motorcycle collision . On ...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 45,
+      "_context": {
+        "stem_preview": "A 10-month-old boy is brought to the physician for a follow-up examination . He has had a mass on the back of his neck t...",
+        "correctAnswer": "F"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 47,
+      "_context": {
+        "stem_preview": "A 42-year-old woman comes to the physician because of a 3-month history of episodes of headache , sweating , and rapid h...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 48,
+      "_context": {
+        "stem_preview": "A 57-year-old man is admitted to the hospital because of a 1-month history of profuse , watery diarrhea with facial flus...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    }
+  ]
+}

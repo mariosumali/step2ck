@@ -1,0 +1,23 @@
+{
+  "_instructions": "Fill in the empty strings (\"\") below. Delete any entries you want to skip. Then run:  python3 scripts/merge_fixes.py",
+  "_source_pdf": "CMS/2 Surgery/2A.pdf",
+  "_q_pdf": "CMS/2 Surgery/2 Q.pdf",
+  "_target": "Parsed/2_surgery/cms_2.json",
+  "fixes": [
+    {
+      "questionNumber": 18,
+      "_context": {
+        "stem_preview": "A 27-year-old woman is brought to the emergency department 30 minutes after she sustained a deep, 10-cm laceration to he...",
+        "correctAnswer": "A",
+        "existing_choices": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "correctExplanation": ""
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "_instructions": "Fill in the empty strings (\"\") below. Delete any entries you want to skip. Then run:  python3 scripts/merge_fixes.py",
+  "_source_pdf": "CMS/5 Neurology/1A.pdf",
+  "_q_pdf": "CMS/5 Neurology/1 Q.pdf",
+  "_target": "Parsed/5_neurology/cms_1.json",
+  "fixes": [
+    {
+      "questionNumber": 1,
+      "_context": {
+        "correctAnswer": "A"
+      },
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 2,
+      "_context": {
+        "correctAnswer": "I"
+      },
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 5,
+      "_context": {
+        "correctAnswer": "E"
+      },
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 6,
+      "_context": {
+        "correctAnswer": "E"
+      },
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 8,
+      "_context": {
+        "correctAnswer": "C"
+      },
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 9,
+      "_context": {
+        "correctAnswer": "D"
+      },
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 11,
+      "_context": {
+        "correctAnswer": "A"
+      },
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 13,
+      "_context": {
+        "correctAnswer": "C"
+      },
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 15,
+      "_context": {
+        "correctAnswer": "C"
+      },
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 17,
+      "_context": {
+        "correctAnswer": "H"
+      },
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 19,
+      "_context": {
+        "correctAnswer": "A"
+      },
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 20,
+      "_context": {
+        "correctAnswer": "B"
+      },
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 22,
+      "_context": {
+        "correctAnswer": "E"
+      },
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 23,
+      "_context": {
+        "correctAnswer": "C"
+      },
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 25,
+      "_context": {
+        "correctAnswer": "B"
+      },
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 27,
+      "_context": {
+        "correctAnswer": "F"
+      },
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 29,
+      "_context": {
+        "correctAnswer": "C"
+      },
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 31,
+      "_context": {
+        "correctAnswer": "A"
+      },
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 33,
+      "_context": {
+        "correctAnswer": "B"
+      },
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 34,
+      "_context": {
+        "correctAnswer": "B"
+      },
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 36,
+      "_context": {
+        "correctAnswer": "D"
+      },
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 38,
+      "_context": {
+        "correctAnswer": "F"
+      },
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 39,
+      "_context": {
+        "correctAnswer": "B"
+      },
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 41,
+      "_context": {
+        "correctAnswer": "A"
+      },
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 43,
+      "_context": {
+        "correctAnswer": "G"
+      },
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 45,
+      "_context": {
+        "correctAnswer": "B"
+      },
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 46,
+      "_context": {
+        "correctAnswer": "C"
+      },
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 50,
+      "_context": {
+        "correctAnswer": "E"
+      },
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    }
+  ]
+}

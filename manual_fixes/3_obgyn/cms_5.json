@@ -1,0 +1,288 @@
+{
+  "_instructions": "Fill in the empty strings (\"\") below. Delete any entries you want to skip. Then run:  python3 scripts/merge_fixes.py",
+  "_source_pdf": "CMS/3 OBGYN/5A.pdf",
+  "_q_pdf": "CMS/3 OBGYN/5 Q.pdf",
+  "_target": "Parsed/3_obgyn/cms_5.json",
+  "fixes": [
+    {
+      "questionNumber": 1,
+      "_context": {
+        "stem_preview": "Thirty minutes after an uncomplicated spontaneous vaginal delivery of a newborn at term, a 22-year-old primigravid woman...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 2,
+      "_context": {
+        "stem_preview": "A previously healthy 19-year-old woman comes to the physician because of a 2-day history of fever, chills, and severe bu...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 4,
+      "_context": {
+        "stem_preview": "A healthy 32-year-old primigravid woman at 8 weeks' gestation comes for her first prenatal visit. She has achondroplasia...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 5,
+      "_context": {
+        "stem_preview": "A 47-year-old nulligravid woman comes to the physician because of two episodes of heavy vaginal bleeding during the past...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 11,
+      "_context": {
+        "stem_preview": "A 52-year-old nulligravid woman comes to the physician for a routine health maintenance examination . She feels well and...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 15,
+      "_context": {
+        "stem_preview": "An otherwise healthy 22-year-old woman comes to the physician 4 months after noticing a painless lump in her right breas...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 16,
+      "_context": {
+        "stem_preview": "A 32-year-old woman , gravida 3, para 2, at 34 weeks' gestation comes to the physician for a routine prenatal visit. She...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 17,
+      "_context": {
+        "stem_preview": "During a routine health maintenance examination , an asymptomatic 65-year-old woman is found to have a second-degree cys...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 18,
+      "_context": {
+        "stem_preview": "A 22-year-old primigravid woman at 27 weeks ' gestation is brought to the emergency department because of a 2-day histor...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 20,
+      "_context": {
+        "stem_preview": "A previously healthy 12-year-old girl is brought to the physician because of a 7-day history of vulvar and vaginal itchi...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 21,
+      "_context": {
+        "stem_preview": "A 26-year-old woman , gravida 2, para 2, has increasing fatigue , depression , dry skin, constipation , and cold intoler...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 29,
+      "_context": {
+        "stem_preview": "A 4508-g (9-lb 15-oz) male newborn is delivered at 41 weeks' gestation to a 37-year-old woman , gravida 2, para 1. Pregn...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 33,
+      "_context": {
+        "stem_preview": "A previously healthy 19-year-old woman , gravida 1, para 0, aborta 1, comes to the emergency department because of a 2-d...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 34,
+      "_context": {
+        "stem_preview": "An 11-year-old girl is brought to the physician because of vague abdominal discomfort for 3 days. She has never had a me...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 35,
+      "_context": {
+        "stem_preview": "Seven days after undergoing an abdominal hysterectomy , a 27-year-old woman is brought to the emergency department becau...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 37,
+      "_context": {
+        "stem_preview": "An obese 35-year-old woman , gravida 3, para 2, with type 2 diabetes mellitus has a cesarean delivery because of fetal m...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 38,
+      "_context": {
+        "stem_preview": "A 22-year-old college student comes to student health services because of vulvar irritation for 14 days . She is sexuall...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 39,
+      "_context": {
+        "stem_preview": "A 68-year-old woman has dysuria , nocturia , and frequent urination . Several urine cultures have been negative . Her co...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 42,
+      "_context": {
+        "stem_preview": "During a routine health maintenance examination , a 54-year-old woman is found to have a 2-cm left axillary lymph node. ...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 45,
+      "_context": {
+        "stem_preview": "A 24-year-old woman , gravida 2, para 1, at 14 weeks' gestation comes for her first prenatal visit. She has a history of...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "_instructions": "Fill in the empty strings (\"\") below. Delete any entries you want to skip. Then run:  python3 scripts/merge_fixes.py",
+  "_source_pdf": "CMS/6 Psychiatry/4A.pdf",
+  "_q_pdf": "CMS/6 Psychiatry/4 Q.pdf",
+  "_target": "Parsed/6_psychiatry/cms_4.json",
+  "fixes": [
+    {
+      "questionNumber": 4,
+      "_context": {
+        "stem_preview": "A 52-year-old homeless man with alcoholism is brought to the emerge ncy department by police after being found agitated ...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 6,
+      "_context": {
+        "stem_preview": "A 25-year-old man comes to the physician with his wife because of bizarre behavior for the past 3 months . She reports t...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 8,
+      "_context": {
+        "stem_preview": "A 14-yea r-old boy is brought to the phys ician for a well-child examinat ion. His mother says her son is self-centered ...",
+        "correctAnswer": "I"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 12,
+      "_context": {
+        "stem_preview": "An 18-year-o ld man is brought to the emergency department by friends 1 hour after they found him on the couch at a part...",
+        "correctAnswer": "F"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 14,
+      "_context": {
+        "stem_preview": "A 47-year-o ld woman comes to the physician 2 hours after the onset of heart palpitations. She had a myocardial infarct ...",
+        "correctAnswer": "H"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 19,
+      "_context": {
+        "stem_preview": "A 46-year-old man is brought to the emergen cy department following a self-inflicted gunshot wound to the right upper he...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 21,
+      "_context": {
+        "stem_preview": "A 32-year-o ld man is admitted to the hospita l because of refusal to speak or move since he returned home after being r...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 26,
+      "_context": {
+        "stem_preview": "A 37-year-o ld woman is brought to the emergency depart ment 30 minutes after the onset of a severe occipital headac he,...",
+        "correctAnswer": "G"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 34,
+      "_context": {
+        "stem_preview": "A 47-year-o ld woman is brought to the emergency department by her husband because of increasing confusion during the pa...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 35,
+      "_context": {
+        "stem_preview": "A 26-year-o ld man comes to the physician because of increasing daytime sleepiness over the past 3 years. He has begun t...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 36,
+      "_context": {
+        "stem_preview": "A 77-year-o ld man comes to the physician at his wife's insistence because of a 2-year history of progressive memory pro...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 37,
+      "_context": {
+        "stem_preview": "A 37-year-o ld man is brought to the emergency department by the police after they found him sitting in an alley unawa r...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 41,
+      "_context": {
+        "stem_preview": "An unconscious ?-year-old boy is brought to the emergency department by his parents. The family emigrated from rural Sou...",
+        "correctAnswer": "G"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 44,
+      "_context": {
+        "stem_preview": "A 16-yea r-old girl is brought to the physician by her father because of unusual behavior since return ing from a party ...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    }
+  ]
+}

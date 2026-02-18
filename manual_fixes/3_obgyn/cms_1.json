@@ -1,0 +1,30 @@
+{
+  "_instructions": "Fill in the empty strings (\"\") below. Delete any entries you want to skip. Then run:  python3 scripts/merge_fixes.py",
+  "_source_pdf": "CMS/3 OBGYN/1A.pdf",
+  "_q_pdf": "CMS/3 OBGYN/1 Q.pdf",
+  "_target": "Parsed/3_obgyn/cms_1.json",
+  "fixes": [
+    {
+      "questionNumber": 29,
+      "_context": {
+        "stem_preview": "A 32-year-old woman, gravida 2, para 1, at 26 weeks' gestation is brought to the emergency department 2 hours after she ...",
+        "correctAnswer": "L",
+        "existing_choices": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ]
+      },
+      "correctExplanation": ""
+    }
+  ]
+}

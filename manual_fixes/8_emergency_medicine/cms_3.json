@@ -1,0 +1,659 @@
+{
+  "_instructions": "This file is ENTIRELY MISSING from parsed output. Fill in all fields. The source PDF is image-only. Then run:  python3 scripts/merge_fixes.py",
+  "_source_pdf": "CMS/8 Emergency Medicine/3A.pdf",
+  "_q_pdf": "CMS/8 Emergency Medicine/3 Q.pdf",
+  "_target": "Parsed/8_emergency_medicine/cms_3.json",
+  "_new_file": true,
+  "fixes": [
+    {
+      "questionNumber": 1,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 2,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 3,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 4,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 5,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 6,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 7,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 8,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 9,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 10,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 11,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 12,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 13,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 14,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 15,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 16,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 17,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 18,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 19,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 20,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 21,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 22,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 23,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 24,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 25,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 26,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 27,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 28,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 29,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 30,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 31,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 32,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 33,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 34,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 35,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 36,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 37,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 38,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 39,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 40,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 41,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 42,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 43,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 44,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 45,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 46,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 47,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 48,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 49,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 50,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "_instructions": "Fill in the empty strings (\"\") below. Delete any entries you want to skip. Then run:  python3 scripts/merge_fixes.py",
+  "_source_pdf": "CMS/2 Surgery/6A.pdf",
+  "_q_pdf": "CMS/2 Surgery/6 Q.pdf",
+  "_target": "Parsed/2_surgery/cms_6.json",
+  "fixes": [
+    {
+      "questionNumber": 7,
+      "_context": {
+        "stem_preview": "A 60-year-old woman has had left shoulder and arm pain for 2 weeks . She has smoked two packs of cigarettes daily for 35...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 13,
+      "_context": {
+        "stem_preview": "A 57-year-old woman with metastatic cancer of the sigmoid colon is admitted to the hospital because of a 2-day history o...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 14,
+      "_context": {
+        "stem_preview": "An 82-year-old man comes to the emergency department because of a 2-day history of extreme difficulty voiding and urinar...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 18,
+      "_context": {
+        "stem_preview": "Thirty-six hours after hospitalization for treatment of multiple fractures sustained in a motor vehicle collision , a 47...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 21,
+      "_context": {
+        "stem_preview": "A 35-year-old woman has newly diagnosed pancreatitis . Physical examination shows fibrocystic changes of the breasts . S...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 23,
+      "_context": {
+        "stem_preview": "An 82-year-old man comes to the physician because of a growth on his face for 6 months . It bleeds easily when touched ....",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 29,
+      "_context": {
+        "stem_preview": "A 25-year-old woman has a 2-year history of episodic bloody diarrhea , sometimes productive of blood and mucus without s...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 30,
+      "_context": {
+        "stem_preview": "A previously healthy 47-year-old man comes to the emergency department 2 hours after the sudden onset of constant , seve...",
+        "correctAnswer": "H"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 37,
+      "_context": {
+        "stem_preview": "An asymptomatic 72-year-old woman comes to the physician for a routine health maintenance examination . Her pulse is 76/...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 42,
+      "_context": {
+        "stem_preview": "A 42-year-old woman has had fatigue , exertional dyspnea , and palpitations for 4 months . She has a history of frequent...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 43,
+      "_context": {
+        "stem_preview": "A 42-year-old woman comes to the physician after finding a mass in her left breast on breast self-examination . She has ...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 47,
+      "_context": {
+        "stem_preview": "A 72-year-old man is admitted to the hospital because of hematochezia for 12 hours. He has mild chronic obstructive pulm...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 48,
+      "_context": {
+        "stem_preview": "A hospitalized 37-year-old woman with type 1 diabetes mellitus and chronic renal failure has the sudden onset of shortne...",
+        "correctAnswer": "F"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    }
+  ]
+}

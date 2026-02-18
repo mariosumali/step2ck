@@ -1,0 +1,53 @@
+{
+  "_instructions": "Fill in the empty strings (\"\") below. Delete any entries you want to skip. Then run:  python3 scripts/merge_fixes.py",
+  "_source_pdf": "CMS/3 OBGYN/2A.pdf",
+  "_q_pdf": "CMS/3 OBGYN/2 Q.pdf",
+  "_target": "Parsed/3_obgyn/cms_2.json",
+  "fixes": [
+    {
+      "questionNumber": 1,
+      "_context": {
+        "stem_preview": "A 32-year-old woman, gravida 3, para 2, delivers a 4111-g (9-lb 1-oz) newborn at term following a 2-hour second stage of...",
+        "correctAnswer": "D",
+        "existing_choices": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 13,
+      "_context": {
+        "stem_preview": "A 21-year-old primigravid woman at 40 weeks' gestation is admitted in labor. The cervix is 100% effaced and 5 cm dilated...",
+        "correctAnswer": "E",
+        "existing_choices": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 23,
+      "_context": {
+        "stem_preview": "A 17-year-old primigravid patient at 41 weeks' gestation comes to the physician for a routine prenatal visit. She is acc...",
+        "correctAnswer": "D",
+        "existing_choices": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "correctExplanation": ""
+    }
+  ]
+}

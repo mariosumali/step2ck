@@ -1,0 +1,177 @@
+{
+  "_instructions": "Fill in the empty strings (\"\") below. Delete any entries you want to skip. Then run:  python3 scripts/merge_fixes.py",
+  "_source_pdf": "CMS/4 Pediatrics/5A.pdf",
+  "_q_pdf": "CMS/4 Pediatrics/5 Q.pdf",
+  "_target": "Parsed/4_pediatrics/cms_5.json",
+  "fixes": [
+    {
+      "questionNumber": 1,
+      "_context": {
+        "stem_preview": "A 1-year-old girl is brought to the emergency department because of a 3-day history of low-grade fever and watery diarrh...",
+        "existing_choices": [
+          "A",
+          "B",
+          "C",
+          "E",
+          "D"
+        ]
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 3,
+      "_context": {
+        "stem_preview": "A 10-day-old male newborn is brought to the emergency department because of poor feeding and drowsiness for the past day...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 8,
+      "_context": {
+        "stem_preview": "A 2-year-old boy is brought to the emergency department 30 minutes after he was found in his grandmother's bedroom , sur...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 13,
+      "_context": {
+        "stem_preview": "A previously healthy 14-month-old girl is brought to the physician by her mother because of a 2-month history of the lef...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 14,
+      "_context": {
+        "stem_preview": "A 10-year-old boy develops a rash on the chest 2 days after returning from a beach vacation . Over the next 2 weeks , th...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 21,
+      "_context": {
+        "stem_preview": "A previously healthy 8-year-old boy is brought to the emergency department because of fever, abdominal pain, and bloody ...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 22,
+      "_context": {
+        "stem_preview": "A 2-year-old boy is brought to the emergency department 30 minutes after he fell approximately 8 feet from a backyard po...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 25,
+      "_context": {
+        "stem_preview": "A 16-year-old girl is brought to the physician because she has not had a menstrual period for 4 months. Menarche was at ...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 38,
+      "_context": {
+        "stem_preview": "A 1-day-old newborn is jittery and irritable . He was born at term to a 25-year-old primigravid woman who received irreg...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 42,
+      "_context": {
+        "stem_preview": "A previously healthy 7-year-old girl is brought to the physician by her father because of a 4-month history of episodes ...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 44,
+      "_context": {
+        "stem_preview": "A 15-year-old girl is brought to the physician because of a 2-week history of a facial rash and fatigue . She has a 9-da...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 48,
+      "_context": {
+        "stem_preview": "A previously healthy 6-year-old girl is brought to the emergency department because of severe abdominal pain, nausea , a...",
+        "correctAnswer": "F"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    }
+  ]
+}

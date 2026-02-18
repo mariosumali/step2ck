@@ -1,0 +1,42 @@
+{
+  "_instructions": "Fill in the empty strings (\"\") below. Delete any entries you want to skip. Then run:  python3 scripts/merge_fixes.py",
+  "_source_pdf": "CMS/5 Neurology/2A.pdf",
+  "_q_pdf": "CMS/5 Neurology/2 Q.pdf",
+  "_target": "Parsed/5_neurology/cms_2.json",
+  "fixes": [
+    {
+      "questionNumber": 22,
+      "_context": {
+        "stem_preview": "An 18-year-old man comes to the physician because of difficulty walking for 1 week. Examination shows visual fields that...",
+        "correctAnswer": "C",
+        "existing_choices": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ]
+      },
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 36,
+      "_context": {
+        "stem_preview": "A 79-year-old woman comes to the physician because of a 4-month history of severe headaches located in the right tempora...",
+        "correctAnswer": "D",
+        "existing_choices": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F"
+        ]
+      },
+      "correctExplanation": ""
+    }
+  ]
+}

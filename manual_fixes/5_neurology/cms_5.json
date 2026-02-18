@@ -1,0 +1,218 @@
+{
+  "_instructions": "Fill in the empty strings (\"\") below. Delete any entries you want to skip. Then run:  python3 scripts/merge_fixes.py",
+  "_source_pdf": "CMS/5 Neurology/5A.pdf",
+  "_q_pdf": "CMS/5 Neurology/5 Q.pdf",
+  "_target": "Parsed/5_neurology/cms_5.json",
+  "fixes": [
+    {
+      "questionNumber": 2,
+      "_context": {
+        "stem_preview": "An 8-month-old girl is brought to the physician by her parents because of increased irritability over the past month. Du...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 3,
+      "_context": {
+        "stem_preview": "A 57-year-o ld woman is brought to the emergency department 20 minutes after a simple partial seizure. Examination shows...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 8,
+      "_context": {
+        "stem_preview": "A 62-year-o ld man is brought to the emergency department because of progressive weakness of his legs during the past we...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 16,
+      "_context": {
+        "stem_preview": "A 52-year-o ld woman comes to the physician because of facial numbness for 2 weeks. Her symptoms began as a \"funny feeli...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 19,
+      "_context": {
+        "stem_preview": "A 37-year-o ld woman comes to the physician for a follow-up examination 3 weeks after operative repair of a circle of Wi...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 24,
+      "_context": {
+        "stem_preview": "A 72-year-o ld man comes to the physician because of a 2-month history of a progressive tremo r of his hands. He and his...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 25,
+      "_context": {
+        "stem_preview": "A 52-year-o ld man comes to the physician because of a 2-hour history of a diffuse , bilateral, dull headac he. He has h...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 26,
+      "_context": {
+        "stem_preview": "A 67-year-o ld woman comes to the physician because of excessive sleepiness and fatigue. She has required more sleep for...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 27,
+      "_context": {
+        "stem_preview": "A 72-year-o ld right-ha nded woman is brought to the emergency department 30 minutes after the onset of double vision an...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 28,
+      "_context": {
+        "stem_preview": "Over the past 3 months, a 40-year-o ld woman has had multiple 1- to 2-minute episodes of numbness and tingling that begi...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 29,
+      "_context": {
+        "stem_preview": "A 72-year-o ld man comes to the physician because of a 3-month histo ry of increasingly depressed mood, fatigue, difficu...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 31,
+      "_context": {
+        "stem_preview": "A 77-year-o ld man comes to the physician because of increasingly severe low back pain for 3 months. He has had poor con...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 32,
+      "_context": {
+        "stem_preview": "A 47-year-o ld man is brought to the emergency department by his friend 30 minutes after being found unconscious in his ...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 40,
+      "_context": {
+        "stem_preview": "A 72-year-o ld woman is brought to the emergency department 6 hours after the onset of double vision, loss of balance , ...",
+        "correctAnswer": "G"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 45,
+      "_context": {
+        "stem_preview": "A 6-year-o ld boy is brought to the emergency department 20 minutes after a motor vehicle collision in which he was the ...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    }
+  ]
+}

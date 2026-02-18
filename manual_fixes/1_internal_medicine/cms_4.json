@@ -1,0 +1,228 @@
+{
+  "_instructions": "Fill in the empty strings (\"\") below. Delete any entries you want to skip. Then run:  python3 scripts/merge_fixes.py",
+  "_source_pdf": "CMS/1 Internal Medicine/4A.pdf",
+  "_q_pdf": "CMS/1 Internal Medicine/4 Q.pdf",
+  "_target": "Parsed/1_internal_medicine/cms_4.json",
+  "fixes": [
+    {
+      "questionNumber": 1,
+      "_context": {
+        "stem_preview": "A 42-year-old man has had the gradual onset of greasy, diffuse scaling of the scalp with variable itching over the past ...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "Exfoliative dermatitis",
+        "B": "Lichen simplex chronicus",
+        "C": "Pediculosis capitis",
+        "D": "Psoriasis",
+        "E": "Seborrheic dermatitis"
+      }
+    },
+    {
+      "questionNumber": 3,
+      "_context": {
+        "stem_preview": "An otherwise healthy 30-year-old man has had recurrent aching right shoulder pain initiated by reaching overhead ; it al...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "Biceps tendon",
+        "B": "Cervical nerve root",
+        "C": "Deltoid muscle",
+        "D": "Proximal humerus",
+        "E": "Supraspinatus tendon"
+      }
+    },
+    {
+      "questionNumber": 4,
+      "_context": {
+        "stem_preview": "A 72-year-old woman comes to the physician because she is concerned about her high blood pressure . Two days ago, her bl...",
+        "correctAnswer": "I"
+      },
+      "choices": {
+        "A": "Acute glomerulonephritis",
+        "B": "Acute porphyria",
+        "C": "Coarctation of the aorta",
+        "D": "Cushing syndrome",
+        "E": "Hyperaldosteronism",
+        "F": "Hyperparathyroidism",
+        "G": "Hyperthyroidism",
+        "H": "Pheochromocytoma",
+        "I": "Renal artery stenosis"
+      }
+    },
+    {
+      "questionNumber": 14,
+      "_context": {
+        "stem_preview": "A 62-year-old man is brought to the emergency department 45 minutes after the sudden onset of shortness of breath. When ...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "Hypercarbia",
+        "B": "Hypoxemia",
+        "C": "Metabolic acidosis",
+        "D": "Oxygen toxicity",
+        "E": "Respiratory alkalosis"
+      }
+    },
+    {
+      "questionNumber": 16,
+      "_context": {
+        "stem_preview": "A 20-year-old woman comes for a routine health maintenance examination . Her temperature is 37°C (98.6°F), pulse is 80/m...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "Aortic insufficiency",
+        "B": "Atrial septal defect",
+        "C": "Mistral insufficiency",
+        "D": "Patent ductus arteriosus",
+        "E": "Pulmonic insufficiency",
+        "F": "Tetralogy of Fallot",
+        "G": "Tricuspid insufficiency",
+        "H": "Ventricular septal defect"
+      }
+    },
+    {
+      "questionNumber": 17,
+      "_context": {
+        "stem_preview": "A 52-year-old woman with hypertension comes to the emergency department 45 minutes after the onset of tearing pain that ...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "Labetalol",
+        "B": "Morphine",
+        "C": "Nitroglycerin",
+        "D": "Phenylephrine",
+        "E": "Sodium nitroprusside"
+      }
+    },
+    {
+      "questionNumber": 20,
+      "_context": {
+        "stem_preview": "The life table shown compares the natural disease history of groups A and B. Which group at which time has the poorest 1...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "Group A at Time 0-1",
+        "B": "Group B at Time 0-1",
+        "C": "Group A at Year 2-3",
+        "D": "Group B at Year 3-4",
+        "E": "Group B at Year 4-5"
+      }
+    },
+    {
+      "questionNumber": 25,
+      "_context": {
+        "stem_preview": "A 67-year-old man is brought to the emergency department because of a 2-day history of episodes of vomiting blood. He ha...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "Adenocarcinoma",
+        "B": "Coronary artery disease",
+        "C": "Decreased activity",
+        "D": "Prosthetic aortic valve",
+        "E": "Radiation therapy"
+      }
+    },
+    {
+      "questionNumber": 27,
+      "_context": {
+        "stem_preview": "A 62-year-old man is admitted to the hospital for treatment of pneumonia . Ceftriaxone therapy is started . He also take...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "Acute glomerulonephritis",
+        "B": "Acute tubular necrosis",
+        "C": "Diabetic nephropathy",
+        "D": "Interstitial nephritis",
+        "E": "Prerenal azotemia",
+        "F": "Urethral obstruction"
+      }
+    },
+    {
+      "questionNumber": 29,
+      "_context": {
+        "stem_preview": "A 47-year-old man comes to the emergency department 18 hours after the sudden onset of pain and swelling of the left kne...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "Gout",
+        "B": "Osteoarthritis",
+        "C": "Psoriatic arthritis",
+        "D": "Rheumatoid arthritis",
+        "E": "Septic arthritis",
+        "F": "Systemic lupus erythematosus"
+      }
+    },
+    {
+      "questionNumber": 38,
+      "_context": {
+        "stem_preview": "A 19-year-old man comes to the physician because of a 5-day history of pain with urination and a watery urethral dischar...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "Chlamydia trachomatis",
+        "B": "Herpes simplex virus 1",
+        "C": "HIV-1",
+        "D": "Neisseria gonorrhoeae",
+        "E": "Treponema pallidum"
+      }
+    },
+    {
+      "questionNumber": 40,
+      "_context": {
+        "stem_preview": "An 85-year-old woman is brought to the emergency department by paramedics 45 minutes after being found on the floor of h...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "Glomerulonephritis",
+        "B": "Infective endocarditis",
+        "C": "Nephrolithiasis",
+        "D": "Rhabdomyolysis",
+        "E": "Urinary tract infection"
+      }
+    },
+    {
+      "questionNumber": 42,
+      "_context": {
+        "stem_preview": "A 56-year-old woman has a 1-day history of epigastric pain and vomiting. She has scleral icterus and a tender epigastriu...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "Alcoholism",
+        "B": "Cholecystitis",
+        "C": "Choledocholithiasis",
+        "D": "Hepatoma",
+        "E": "Pancreatic carcinoma"
+      }
+    },
+    {
+      "questionNumber": 43,
+      "_context": {
+        "stem_preview": "A 57-year-old woman with a history of alcohol abuse is brought to the emergency department by police after she was found...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "Acute alcohol intoxication",
+        "B": "Acute tubular necrosis",
+        "C": "Allergic interstitial nephritis",
+        "D": "Glomerulosclerosis",
+        "E": "Pyelonephritis"
+      }
+    },
+    {
+      "questionNumber": 46,
+      "_context": {
+        "stem_preview": "A 42-year-old man is brought to the emergency department because of the sudden onset of worsening headache and left-side...",
+        "correctAnswer": "F"
+      },
+      "choices": {
+        "A": "Alcohol cessation",
+        "B": "Smoking cessation",
+        "C": "Weight loss",
+        "D": "Atorvastatin therapy",
+        "E": "Clopidogrel therapy",
+        "F": "Lisinopril therapy"
+      }
+    }
+  ]
+}

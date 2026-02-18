@@ -1,0 +1,232 @@
+{
+  "_instructions": "Fill in the empty strings (\"\") below. Delete any entries you want to skip. Then run:  python3 scripts/merge_fixes.py",
+  "_source_pdf": "CMS/6 Psychiatry/3A.pdf",
+  "_q_pdf": "CMS/6 Psychiatry/3 Q.pdf",
+  "_target": "Parsed/6_psychiatry/cms_3.json",
+  "fixes": [
+    {
+      "questionNumber": 4,
+      "_context": {
+        "stem_preview": "A 15-year-old boy is brought to the physician by his parents because \"he does whatever he wants and comes and goes as he...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 7,
+      "_context": {
+        "stem_preview": "A 37-year-o ld man comes to the physician because of a 3-week history of fatigue, insomnia, and anxiety. His divorce was...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 10,
+      "_context": {
+        "stem_preview": "A 24-year-o ld man is brought to the emergency department from a psychiatr ic hospita l because of a decreasing level of...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 11,
+      "_context": {
+        "stem_preview": "A 57-year-o ld woman comes to the phys ician because of difficulty sleeping, tearf ulness, and restless ness since her d...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 15,
+      "_context": {
+        "stem_preview": "A 42-year-o ld woman, gravida 1, para 1, comes to the physician because of a 5-month history of increasi ngly severe epi...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 17,
+      "_context": {
+        "stem_preview": "A 27-year-o ld woman is brought to the emergency department 2 hours after cutting her arms superficially with a razor bl...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 27,
+      "_context": {
+        "stem_preview": "A 15-yea r-old boy is brought to the emergency department by his two friends because of unusual behav ior that began at ...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 29,
+      "_context": {
+        "stem_preview": "A 67-year-o ld man is brought to the physician by his wife because of a 1-month history of increasingly \"paranoid\" behav...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 30,
+      "_context": {
+        "stem_preview": "A previous ly healthy 57-year-old woman comes to the physician with her husband because of an 8-week history of progress...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 31,
+      "_context": {
+        "stem_preview": "An 82-year-o ld man with dementia, Alzheimer type, is brought to the physician because of a 4-day history of visua l hal...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 37,
+      "_context": {
+        "stem_preview": "A 25-year-o ld woman comes to the physician at her husband's request because of increasing irritability and tense mood o...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 41,
+      "_context": {
+        "stem_preview": "An 8-year-old boy is brought to the physician because of a 1-year history of increasingly freque nt episodes of eye blin...",
+        "correctAnswer": "F"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 43,
+      "_context": {
+        "stem_preview": "A 23-year-o ld man is brought to the phys ician by his mother because of increasing conflict between the two of them ove...",
+        "correctAnswer": "I"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 47,
+      "_context": {
+        "stem_preview": "A 32-year-o ld woman with schizoaffect ive disorder is brought to the emergency department because of a ?-day history of...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 48,
+      "_context": {
+        "stem_preview": "A 29-year-o ld man comes to the physician because of the inability to maintain an erection throug h completion of sexual...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 49,
+      "_context": {
+        "stem_preview": "A ?-year-o ld boy is brought to the physician by his adoptive parents because of ongoing concern about his behavior and ...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    }
+  ]
+}

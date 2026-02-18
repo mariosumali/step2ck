@@ -1,0 +1,69 @@
+{
+  "_instructions": "Fill in the empty strings (\"\") below. Delete any entries you want to skip. Then run:  python3 scripts/merge_fixes.py",
+  "_source_pdf": "CMS/1 Internal Medicine/5A.pdf",
+  "_q_pdf": "CMS/1 Internal Medicine/5 Q.pdf",
+  "_target": "Parsed/1_internal_medicine/cms_5.json",
+  "fixes": [
+    {
+      "questionNumber": 2,
+      "_context": {
+        "correctAnswer": "E"
+      },
+      "questionStem": "An unconscious 37-year-old woman is brought to the emergency department after being found in an abandoned house. On arrival, her temperature is 36°C (96.8°F), pulse is 100/min, respirations are 24/min, and blood pressure is 100/70 mm Hg. She is unresponsive to painful stimuli. The remainder of the examination shows no abnormalities. Her serum creatinine concentration is 3 mg/dl, and blood alcohol concentration is 200 mg/dl. The remainder of the toxicology screening is negative. Urinalysis shows pigmented casts. Serum studies are most likely to show which of the following?",
+      "choices": {
+        "A": "Decreased phosphorus",
+        "B": "Decreased sodium concentration",
+        "C": "Increased bicarbonate concentration",
+        "D": "Increased calcium concentration",
+        "E": "Increased creatine kinase activity",
+      }
+    },
+    {
+      "questionNumber": 11,
+      "_context": {
+        "correctAnswer": "E"
+      },
+      "questionStem": "A 67-year-old man with type 2 diabetes mellitus is admitted to the hospital because of a 1-day history of fever and severe
+abdominal pain. His only medication is glyburide. His temperature is 39°C (102.2°F). Abdominal examination shows
+moderate left lower quadrant tenderness with guarding but no rebound. His serum creatinine concentration is 1.4 mg/dl.
+Urinalysis shows no abnormalities. This patient should receive which of the following prior to a CT scan of the abdomen with
+intravenous contrast?",
+      "choices": {
+        "A": "Atrial natriuretic peptide",
+        "B": "Dopamine",
+        "C": "Furosemide",
+        "D": "Mannitol",
+        "E": "0.9% Saline",
+      }
+    },
+    {
+      "questionNumber": 28,
+      "_context": {
+        "correctAnswer": "E"
+      },
+      "questionStem": "A 27 year old woman comes to the physician because of a 3 month history of fatigue, heat intolerance, generalized anxiety, and intermittent palpitations; she has had a 6.8 kg (15 lb) weight loss during this period. Her only medication is an oral contraceptive. Her pulse is 104/min, respirations are 12/min, and blood pressure is 112/78 mm Hg. Examination shows a 2 cm, discrete, firm nodule in the left lobe of the thyroid gland. There is no cervical adenopathy. Her serum thyroid-stimulating hormone concentration is less than 0.3 μU/mL. Which of the following is the most likely diagnosis?",
+      "choices": {
+        "A": "Graves disease",
+        "B": "Medullary carcinoma of the thyroid gland",
+        "C": "Papillary carcinoma of the thyroid gland",
+        "D": "Riedel thyroiditis",
+        "E": "Toxic adenoma of the thyroid gland",
+        "F": "Toxic multinodular goiter",
+      }
+    },
+    {
+      "questionNumber": 31,
+      "_context": {
+        "correctAnswer": "E"
+      },
+      "questionStem": "A 47-year-old woman with hypertension comes to the physician for a follow-up examination. One month ago, her blood pressure was 200/120 mm Hg, and daily treatment with an oral ACE inhibitor was started. Examination at that visit showed no other abnormalities, and results of serum electrolyte concentrations and renal function studies were within the reference range. Her blood pressure today is 170/90 mm Hg. Examination shows no other abnormalities. Her serum creatinine concentration is 2.5 mg/dL. Which of the following is the most appropriate next step in management?",
+      "choices": {
+        "A": "Measurement of plasma renin activity",
+        "B": "Measurement of urine catecholamine concentration",
+        "C": "Addition of thiazide diuretic therapy to the current regimen",
+        "D": "Increase in the dose of ACE inhibitor",
+        "E": "MR angiography of the renal arteries",
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "_instructions": "Fill in the empty strings (\"\") below. Delete any entries you want to skip. Then run:  python3 scripts/merge_fixes.py",
+  "_source_pdf": "CMS/7 Family Medicine/1A.pdf",
+  "_q_pdf": "CMS/7 Family Medicine/1 Q.pdf",
+  "_target": "Parsed/7_family_medicine/cms_1.json",
+  "fixes": [
+    {
+      "questionNumber": 17,
+      "_context": {
+        "stem_preview": "A 12-year-old boy is brought to the physician for evaluation of bed wetting; he was toilet trained for daytime voiding a...",
+        "correctAnswer": "B",
+        "existing_choices": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 50,
+      "_context": {
+        "stem_preview": "One hundred patients participate in a health education program designed to teach health benefits of a high-fiber, low-ch...",
+        "correctAnswer": "D",
+        "existing_choices": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "correctExplanation": ""
+    }
+  ]
+}

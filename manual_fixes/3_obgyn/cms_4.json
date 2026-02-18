@@ -1,0 +1,282 @@
+{
+  "_instructions": "Fill in the empty strings (\"\") below. Delete any entries you want to skip. Then run:  python3 scripts/merge_fixes.py",
+  "_source_pdf": "CMS/3 OBGYN/4A.pdf",
+  "_q_pdf": "CMS/3 OBGYN/4 Q.pdf",
+  "_target": "Parsed/3_obgyn/cms_4.json",
+  "fixes": [
+    {
+      "questionNumber": 1,
+      "_context": {
+        "stem_preview": "A previously healthy 39-year-old woman at 37 weeks' gestation comes to the emergency department 2 hours after the onset ...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 2,
+      "_context": {
+        "stem_preview": "A 52-year-old woman comes to the physician for a routine examination . She has mild hypothyroidism well controlled with ...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 4,
+      "_context": {
+        "stem_preview": "A 25-year-old woman comes to the physician because of a 4-week history of right-sided pelvic pain. She has been sexually...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 6,
+      "_context": {
+        "stem_preview": "A 36-year-old woman , gravida 1, para 1, has been unable to conceive for 1 year. Her vaginal delivery 2 years ago was co...",
+        "correctAnswer": "G"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 12,
+      "_context": {
+        "stem_preview": "A 21-year-old primigravid woman at 8 weeks' gestation comes to the physician for her first prenatal visit. She has sickl...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 14,
+      "_context": {
+        "stem_preview": "A 57-year-old woman , gravida 3, para 3, comes to the physician because of loss of urine for 2 weeks . She now wears an ...",
+        "correctAnswer": "F"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 15,
+      "_context": {
+        "stem_preview": "A 57-year-old woman , gravida 6, para 6, comes to the physician because of a 6-month history of immediate loss of urine ...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 19,
+      "_context": {
+        "stem_preview": "A 27-year-old woman, gravida 2, para 1, aborta 1, comes to the physician because of a 3-day history of increasing abdomi...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 24,
+      "_context": {
+        "stem_preview": "A 23-year-old primigravid woman at 33 weeks' gestation is admitted to the hospital because she has not felt fetal moveme...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 29,
+      "_context": {
+        "stem_preview": "A 36-year-old woman , gravida 2, para 1, at 41 weeks' gestation has had ruptured membranes without contractions for 8 ho...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 31,
+      "_context": {
+        "stem_preview": "A 32-year-old primigravid woman at term has a cervix that has remained 5 cm dilated over the past 4 hours despite the ad...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 33,
+      "_context": {
+        "stem_preview": "A 25-year-old primigravid woman is admitted in labor at 39 weeks' gestation . The cervix is 6 cm dilated and 100% efface...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 34,
+      "_context": {
+        "stem_preview": "An asymptomatic 52-year-old nulligravid woman comes to the physician for a routine health maintenance examination. Her l...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 39,
+      "_context": {
+        "stem_preview": "A 14-year-old girl is brought to the physician because of painful episodes of menstrual cramping over the past 5 months;...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 40,
+      "_context": {
+        "stem_preview": "A 32-year-old woman , gravida 1, para 1, at 34 weeks' gestation is admitted to the hospital in labor. Pregnancy had been...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 41,
+      "_context": {
+        "stem_preview": "A 52-year-old postmenopausal woman comes to the physician for a health maintenance examination . She does not smoke ciga...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 46,
+      "_context": {
+        "stem_preview": "A 27-year-old woman, gravida 3, para 3, had the sudden onset of severe, sharp pain in the right lower quadrant of the ab...",
+        "existing_choices": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ]
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 47,
+      "_context": {
+        "stem_preview": "A previously healthy 37-year-old woman comes to the physician because of a 5-week history of bloody nipple discharge fro...",
+        "correctAnswer": "F"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 49,
+      "_context": {
+        "stem_preview": "A 42-year-old woman , gravida 5, para 5, comes to the physician requesting advice regarding contraception . Menses occur...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    }
+  ]
+}

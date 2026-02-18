@@ -1,0 +1,288 @@
+{
+  "_instructions": "Fill in the empty strings (\"\") below. Delete any entries you want to skip. Then run:  python3 scripts/merge_fixes.py",
+  "_source_pdf": "CMS/5 Neurology/6A.pdf",
+  "_q_pdf": "CMS/5 Neurology/6 Q.pdf",
+  "_target": "Parsed/5_neurology/cms_6.json",
+  "fixes": [
+    {
+      "questionNumber": 3,
+      "_context": {
+        "stem_preview": "A 57-year-o ld woman comes to the physician because of a 2-day history of dribbling fluid from her mouth every time she ...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 8,
+      "_context": {
+        "stem_preview": "A 25-year-o ld woman has had generalized weakness for 2 days. On quest ioning, she reports numerous hosp ital adm ission...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 9,
+      "_context": {
+        "stem_preview": "A 62-year-o ld woman comes to the physician because of a 6-week history of stiffness and pain of her neck, shoulders, an...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 10,
+      "_context": {
+        "stem_preview": "A 57-year-o ld woman comes to the physician because of daily headac hes for 8 months. The headac hes are localized to th...",
+        "correctAnswer": "F"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 12,
+      "_context": {
+        "stem_preview": "A previous ly healthy 82-year-o ld man is brought to the emergency department because of a 3-hour history of difficulty ...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 15,
+      "_context": {
+        "stem_preview": "A 67-year-o ld man with hypertension is brought to the emergency department 30 minutes after a stroke. Examination shows...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 16,
+      "_context": {
+        "correctAnswer": "C"
+      },
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 19,
+      "_context": {
+        "stem_preview": "A 67-year-o ld woman is brought to the physician because of progressive imbalance and memory difficult ies over the past...",
+        "correctAnswer": "G"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 21,
+      "_context": {
+        "stem_preview": "An 18-year-old woman is brought to the emergency department 30 minutes after a 5-minute genera lized tonic-clonic seizur...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 25,
+      "_context": {
+        "stem_preview": "A 62-year-o ld man with amyotrophic latera l sclerosis comes to the physician because of a 1-month history of progressiv...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 26,
+      "_context": {
+        "stem_preview": "A 14-month-old infant is brought to the physician because of four episodes of loss of consciousness over the past month....",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 27,
+      "_context": {
+        "stem_preview": "A 22-year-o ld woman comes to the phys ician beca use she has had a b lack spot that occludes her vision in her right ey...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 30,
+      "_context": {
+        "stem_preview": "A 62-year-o ld man is brought to the emergency department because of a 1-week history of urinary hesitancy, leg weakness...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 31,
+      "_context": {
+        "stem_preview": "A 67-year-o ld woman is brought to the emergency department 1 hour after the sudden onset of right facia l weakness. She...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 32,
+      "_context": {
+        "stem_preview": "A 52-year-o ld man is brought to the emergency department from work 30 minutes after the sudden onset of blindness. He i...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 36,
+      "_context": {
+        "stem_preview": "A 25-year-o ld woman comes to the phys ician because of a 1-year history of depressed mood and episodes of daytime sleep...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 37,
+      "_context": {
+        "stem_preview": "A 56-year-o ld woman is brought to the emergency depart ment 20 minutes after a simple partial seizure. A CT scan of the...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 42,
+      "_context": {
+        "stem_preview": "A 47-year-o ld man is brought to the emergency department by police after he was found in a state of confusion outside a...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 43,
+      "_context": {
+        "stem_preview": "A 6-month-o ld boy is adm itted to the hospital for evaluation of spasms. The child's father and a paternal aunt are mil...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 49,
+      "_context": {
+        "stem_preview": "A 45-year-o ld woman is brought to the emergency department 30 minutes after a generalized tonic-clonic seizure lasting ...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    }
+  ]
+}

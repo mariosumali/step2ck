@@ -1,0 +1,288 @@
+{
+  "_instructions": "Fill in the empty strings (\"\") below. Delete any entries you want to skip. Then run:  python3 scripts/merge_fixes.py",
+  "_source_pdf": "CMS/5 Neurology/3A.pdf",
+  "_q_pdf": "CMS/5 Neurology/3 Q.pdf",
+  "_target": "Parsed/5_neurology/cms_3.json",
+  "fixes": [
+    {
+      "questionNumber": 1,
+      "_context": {
+        "stem_preview": "A 25-year-o ld woman comes to the physician because of growths on her lips and tongue for severa l years. Examination sh...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 4,
+      "_context": {
+        "stem_preview": "One day after undergo ing an elective cholecystectomy, a 67-year-o ld woman becomes confused and belligerent. She has a ...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 7,
+      "_context": {
+        "stem_preview": "An 11-year-old girl is brought to the emergency department by her mother because of a 2-day history of increasing weakne...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 8,
+      "_context": {
+        "stem_preview": "A 42-yea r-old woman with alcoholism has severe burning paresthesias of both feet and decreased vibratory sensation in b...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 11,
+      "_context": {
+        "stem_preview": "A 47-year-o ld man with a history of alcoho lism is brought to the emergency department by his fam ily because of confus...",
+        "correctAnswer": "F"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 13,
+      "_context": {
+        "stem_preview": "An otherwise healthy 27-year-old man comes to the physician because of a 3-month history of decreased libido and delayed...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 14,
+      "_context": {
+        "stem_preview": "A previous ly healt hy 27-year-o ld man comes to the physician because of a 2-week history of pain in his neck and left ...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 15,
+      "_context": {
+        "stem_preview": "A 72-year-old man comes to the physician because of a ?-day history of increas ingly severe pain around the waist. He sa...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 18,
+      "_context": {
+        "stem_preview": "A 13-year-old girl is brought to the physician because of headac hes accompanied by nausea and vomiting over the past 2 ...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 21,
+      "_context": {
+        "stem_preview": "A 67-year-o ld woman is brought to the emergency depart ment 1 hour after a 25-m inute episode of right facia l droop, w...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 28,
+      "_context": {
+        "stem_preview": "A 68-year-o ld woman comes to the physician because of a 3-month history of a spinning sensation. She reports feeling as...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 31,
+      "_context": {
+        "stem_preview": "A 42-year-o ld woman is brought to the emergency department by her husband after he found her in a confused state when h...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 32,
+      "_context": {
+        "stem_preview": "A previous ly healt hy 62-year-o ld man comes to the physician because of a 3-week history of intermittent drooping of h...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 33,
+      "_context": {
+        "stem_preview": "Over the past 3 months, a 60-year-o ld woman has had 2-minute episodes characterized by a rising sensation in the abdome...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 36,
+      "_context": {
+        "stem_preview": "A 32-year-o ld man is brought to the emergency department by ambulance 20 minutes after he was found by a janito r on th...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 39,
+      "_context": {
+        "stem_preview": "A 32-year-o ld woman is brought to the emergency depart ment because of progress ive visual dimming in her right eye sin...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 43,
+      "_context": {
+        "stem_preview": "An otherw ise healthy 52-year-old financia l advisor comes to the phys ician because of a 6-week history of progressive ...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 45,
+      "_context": {
+        "stem_preview": "A 57-year-o ld man comes to the physician because of progressive weakness in both legs over the past 5 months. He has tr...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 47,
+      "_context": {
+        "correctAnswer": "D",
+        "existing_choices": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "questionStem": ""
+    },
+    {
+      "questionNumber": 48,
+      "_context": {
+        "stem_preview": "A 77-year-o ld woman is brought to the physician by her husba nd because of a 3-day history of visua l difficult ies. He...",
+        "correctAnswer": "F"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    }
+  ]
+}

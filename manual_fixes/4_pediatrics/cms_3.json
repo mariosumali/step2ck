@@ -1,0 +1,268 @@
+{
+  "_instructions": "Fill in the empty strings (\"\") below. Delete any entries you want to skip. Then run:  python3 scripts/merge_fixes.py",
+  "_source_pdf": "CMS/4 Pediatrics/3A.pdf",
+  "_q_pdf": "CMS/4 Pediatrics/3 Q.pdf",
+  "_target": "Parsed/4_pediatrics/cms_3.json",
+  "fixes": [
+    {
+      "questionNumber": 2,
+      "_context": {
+        "stem_preview": "A 3-year-old boy is brought to the emergency department because of a 1-day history of fever, abdominal pain, and diarrhe...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 7,
+      "_context": {
+        "stem_preview": "A 16-year-old girl comes to the physician because of headaches that have increased in frequency and severity over the pa...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 10,
+      "_context": {
+        "stem_preview": "A healthy 1-year-old girl is brought to the physician because of pallor for 2 weeks . Her immunizations are up-to-date ....",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 11,
+      "_context": {
+        "stem_preview": "A 3-month-old boy is brought to the physician by his mother because of a 1-day history of fever, vomiting , and fussines...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 12,
+      "_context": {
+        "stem_preview": "A 16-year-old boy is brought to the emergency department 20 minutes after the onset of a generalized tonic-clonic seizur...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 15,
+      "_context": {
+        "stem_preview": "A previously healthy 5-year-old girl is brought to the physician 24 hours after the onset of fever and increasingly seve...",
+        "existing_choices": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H",
+          "I",
+          "J",
+          "K",
+          "L"
+        ]
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 18,
+      "_context": {
+        "stem_preview": "A 16-year-old girl comes to the physician because of a 2-month history of a mass in the right side of the neck, progress...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 20,
+      "_context": {
+        "stem_preview": "A 9-month-old boy has pneumonia for the fourth time . He was born at 28 weeks' gestation with a grade 4 intraventricular...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 21,
+      "_context": {
+        "stem_preview": "Over the past 48 hours, an 8-week-old boy has been vomiting continuously after each meal. The emesis is projectile and d...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 23,
+      "_context": {
+        "stem_preview": "A 12-hour-old male newborn has not urinated since birth. He was born at 36 weeks' gestation to a 15-year-old primigravid...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 25,
+      "_context": {
+        "stem_preview": "An 18-month-old girl is brought to the emergency department 1 hour after the onset of vomiting and drooling . She had be...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 26,
+      "_context": {
+        "stem_preview": "A 5-year-old boy is brought to the emergency department by his parents because of left hip pain for 2 days and an associ...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 31,
+      "_context": {
+        "stem_preview": "A 3-year-old boy is brought to the emergency department because of intermittent severe abdominal cramping over the past ...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 34,
+      "_context": {
+        "stem_preview": "A 12-month-old girl is brought to the physician because of chickenpox for 4 weeks . She developed vesicular lesions on h...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 35,
+      "_context": {
+        "stem_preview": "A 2-year-old girl is brought to the physician by her mother because she has developed several brown spots on the skin si...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 40,
+      "_context": {
+        "stem_preview": "A 5-year-old girl with a 1-year history of chronic nonproductive cough is brought for a follow-up examination . The coug...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 43,
+      "_context": {
+        "stem_preview": "A 4-day-old newborn is brought to the physician because of a 2-day history of progressive jaundice . He was born at 36 w...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 48,
+      "_context": {
+        "stem_preview": "A 2-month-old boy is brought to the physician for a well-child examination . He is feeding well. Growth and development ...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    }
+  ]
+}

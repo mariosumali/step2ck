@@ -2,7 +2,13 @@
   {
     "questionNumber": 1,
     "questionStem": "A 42-year-old man has had the gradual onset of greasy, diffuse scaling of the scalp with variable itching over the past year. Yellowish red scaling papules appear along the hairline and behind the ears; there is no hair loss. Which of the following is the most likely diagnosis?",
-    "choices": null,
+    "choices": {
+      "A": "Exfoliative dermatitis",
+      "B": "Lichen simplex chronicus",
+      "C": "Pediculosis capitis",
+      "D": "Psoriasis",
+      "E": "Seborrheic dermatitis"
+    },
     "correctAnswer": "E",
     "correctExplanation": "Seborrheic dermatitis is a chronic inflammatory skin disease, which occurs in regions containing sebaceous glands. In adults, it typically presents as yellowish-red, scaly patches of the scalp and forehead, around the ears, nasolabial folds, and chest. In infants, it presents as \"cradle cap,\" with the appearance of a diaper rash and yellow scaling on the scalp. Diffuse, severe seborrheic dermatitis can occur in immunosuppressed patients. Treatment consists of zinc pyrithione or selenium sulfide shampoo applied to the scalp along with topical antifungals such as ketoconazole. Topical corticosteroids can also be used for severe cases to decrease the inflammatory reaction and pruritus.",
     "incorrectExplanation": "nd D. Exfoliative dermatitis (Choice A) is a severe inflammatory skin condition characterized by the development of generalized, diffuse erythema, and scaling with desquamation involving large areas of the body. This often occurs in the setting of pre-existing skin disorders (eg, psoriasis, eczema), cancer (eg, leukemia, lymphoma), or after administration of certain medications (eg, sulfa, penicillin, phenytoin). Lichen simplex chronicus (Choice B) is a localized region of skin thickening (lichenification) that results from repetitive rubbing or itching of the skin. Pediculosis capitis (Choice C) refers to infestation of the scalp and hair by the Pedicu/us humanus capitis (human louse), which can cause severe pruritus. Treatment includes permethrin, pyrethrins, ivermectin, or malathion lotions. Psoriasis (Choice D) results in erythematous plaques with silvery scales that are typically located on extensor surfaces (e.g., knees, elbows). It can involve the scalp, but this is less common.",
@@ -34,7 +40,13 @@
   {
     "questionNumber": 3,
     "questionStem": "An otherwise healthy 30-year-old man has had recurrent aching right shoulder pain initiated by reaching overhead ; it also occurs at night in bed. The pain is most prominent in the area of the deltoid muscle. It is elicited by abduction of the shoulder against resistance . Which of the following is the most likely site of the underlying condition?",
-    "choices": null,
+    "choices": {
+      "A": "Biceps tendon",
+      "B": "Cervical nerve root",
+      "C": "Deltoid muscle",
+      "D": "Proximal humerus",
+      "E": "Supraspinatus tendon"
+    },
     "correctAnswer": "E",
     "correctExplanation": "The supraspinatus tendon is the most common location of rotator cuff injury. The supraspinatus muscle lies within the supraspinous fossa along the superior portion of the scapula, and its tendon inserts on the greater tuberosity of the humerus. The supraspinatus muscle contributes to initiation of arm abduction prior to the action of the deltoid muscle. Injury to the supraspinatus tendon may occur from degeneration, impingement, or trauma, and can be evaluated through abduction of the shoulder against resistance.",
     "incorrectExplanation": "nd D. The biceps tendon (Choice A) consists of a short head originating from the coracoid process and a long head originating from the intra-articular supraglenoid tubercle. The biceps brachii inserts at the radial tuberosity. Injury to the biceps tendon results in weakness of elbow flexion and forearm supination. Cervical nerve root (Choice B) injury would result in neurologic symptoms such as weakness, numbness, and paresthesia along a specific dermatome and myotome. It would not be aggravated by shoulder abduction. The deltoid muscle (Choice C) is not commonly injured, much less than the supraspinatus tendon, and only contributes to abduction of the shoulder after the first 15 degrees. Proximal humerus (Choice D) injury such as a surgical neck fracture can lead to axillary nerve injury, which would result in dysfunction of the deltoid muscle and loss of sensation over the proximal lateral arm.",
@@ -47,7 +59,17 @@
   {
     "questionNumber": 4,
     "questionStem": "A 72-year-old woman comes to the physician because she is concerned about her high blood pressure . Two days ago, her blood pressure was 200/105 mm Hg at the drug store. She has a 20-year history of hypertension that had been well controlled with a thiazide diuretic . At her last visit 3 months ago, her blood pressure was 140/75 mm Hg. Today, her pulse is 80/min , respirations are 12/min, and blood pressure is 210/114 mm Hg. Funduscopic examination shows arteriovenous nicking. A right carotid bruit is heard. Laboratory studies are within normal limits. Which of the following is the most likely cause of these findings?",
-    "choices": null,
+    "choices": {
+      "A": "Acute glomerulonephritis",
+      "B": "Acute porphyria",
+      "C": "Coarctation of the aorta",
+      "D": "Cushing syndrome",
+      "E": "Hyperaldosteronism",
+      "F": "Hyperparathyroidism",
+      "G": "Hyperthyroidism",
+      "H": "Pheochromocytoma",
+      "I": "Renal artery stenosis"
+    },
     "correctAnswer": "I",
     "correctExplanation": "Renal artery stenosis is a cause of secondary hypertension related to abnormal stimulation of the juxtaglomerular apparatus secondary to stenosis of the renal artery leading to insufficient afferent blood flow. This results in excessive production of renin and angiotensin. Secondary hypertension should be considered in new-onset or treatment-resistant hypertension. There are two main causes of renal artery stenosis: fibromuscular dysplasia and atherosclerosis. In younger patients, fibromuscular dysplasia is the most common cause, while older patients develop renal artery stenosis more commonly from atherosclerosis. This patient exhibits a carotid bruit, likely also secondary to atherosclerosis. Diagnosis is established with renal artery Doppler ultrasonography or magnetic resonance angiography. Treatment involves angioplasty or stenting of the stenosed renal artery to improve flow. ACE inhibitors can be considered for unilateral stenosis but can lead to acute end-stage kidney disease in the setting of bilateral renal artery stenosis.",
     "incorrectExplanation": "nd H. Acute glomerulonephritis (Choice A) refers to a variety of glomerular diseases, including nephritic and nephrotic syndromes. Nephritic syndrome can result in hypertension, although this is less likely given the patient's risk factors for atherosclerosis. Acute porphyria (Choice B) presents with abdominal pain, polyneuropathy, psychological symptoms, and port wine-colored urine, not resistant hypertension. Coarctation of the aorta (Choice C) is a cause of secondary hypertension related to narrowing of the aorta, although it most commonly presents in childhood with differential blood pressure between upper and lower extremities. It is associated with bicuspid aortic valve and gonadal dysgenesis 45,X (Turner syndrome). Cushing syndrome (Choice D) results from increased cortisol levels and presents with hypertension, moon facies, abdominal striae, osteoporosis, hyperglycemia, and amenorrhea. This patient demonstrates risk factors for atherosclerosis, with no additional findings to suggest Cushing syndrome. Hyperaldosteronism (Choice E) presents with hypertension and metabolic derangements, including hypokalemia and metabolic alkalosis. This can occur in the setting of an adrenal adenoma such as in Conn syndrome or from bilateral adrenal hyperplasia. Primary hyperparathyroidism (Choice F) is a potential cause of secondary hypertension and may also present with hypercalcemia and hypophosphatemia, with symptoms such as constipation, renal stones, psychiatric disturbances, and osseous lytic lesions. Hyperthyroidism (Choice G) can result in secondary hypertension but also typically presents with heat intolerance, weight loss, diarrhea, hyperreflexia, palpitations, and myopathy.",
@@ -218,7 +240,13 @@
   {
     "questionNumber": 14,
     "questionStem": "A 62-year-old man is brought to the emergency department 45 minutes after the sudden onset of shortness of breath. When paramedics arrived at his home, he was agitated but alert and oriented to person , place, and time . He was cyanotic and in severe respiratory distress . He was treated with 100% oxygen by face mask en route to the hospital. He has a 15-year history of chronic obstructive pulmonary disease treated with home oxygen therapy (1 .5 L/min) over the past 2 years . He has smoked two packs of cigarettes daily for 40 years . On arrival , he is drowsy and awakens only to loud voices or painful stimuli. His temperature is 37°C (98.6°F) , pulse is 104/min, respirations are 14/min and shallow, and blood pressure is 164/90 mm Hg. Breath sounds are diffusely decreased , and air movement is poor with prolonged expiration . Which of the following is the most likely underlying cause of this patient's decreased level of consciousness?",
-    "choices": null,
+    "choices": {
+      "A": "Hypercarbia",
+      "B": "Hypoxemia",
+      "C": "Metabolic acidosis",
+      "D": "Oxygen toxicity",
+      "E": "Respiratory alkalosis"
+    },
     "correctAnswer": "A",
     "correctExplanation": "Hypercarbia is the most likely underlying cause of the patient's decreased level of consciousness. The patient has a history of chronic obstructive pulmonary disease (COPD). COPD is an obstructive lung disease characterized by decreased lung function from a combination of features of chronic bronchitis and/or emphysema, resulting in airflow obstruction on expiration. The patient is presenting with a COPD exacerbation, characterized by shortness of breath and shallow respirations. His presentation is likely further exacerbated by the administration of 100% oxygen by face mask, which in a patient with COPD can theoretically result in depression of respiratory drive and further worsening of the ventilation/perfusion mismatch. Depressed ventilation can result in acute hypercarbia, which can lead to an acute decrease in level of consciousness.",
     "incorrectExplanation": "nd E. Hypoxemia (Choice B) does not likely account for the patient's decreased level of consciousness, as he was treated with 100% oxygen by face mask. This can result in elevation of the patient's oxygen saturation above his normal baseline from underlying COPD, which can theoretically lead to reduced respiratory drive and worsening of the ventilation/perfusion mismatch. Metabolic acidosis (Choice C) can occur in the setting of multiple causes, either with or without an associated anion gap. This patient presents with an acute COPD exacerbation with depressed ventilation, whereas metabolic acidosis is typically followed by increased ventilation via respiratory compensation. Oxygen toxicity (Choice D) can occur after the supplemental administration of high concentration oxygen, which results in overproduction of reactive oxygen species, and can manifest with primarily neurotoxic symptoms such as vision and hearing changes, dizziness, nausea, altered mental status, and convulsions. Respiratory alkalosis (Choice E) occurs in the setting of hyperventilation. The patient presents with a COPD exacerbation and inadequate ventilation, which results in hypercarbia and respiratory acidosis.",
@@ -250,7 +278,16 @@
   {
     "questionNumber": 16,
     "questionStem": "A 20-year-old woman comes for a routine health maintenance examination . Her temperature is 37°C (98.6°F), pulse is 80/min, respirations are 12/min, and blood pressure is 110/70 mm Hg. The S2 is split and fixed . A grade 2/6 systolic murmur is heard at the third intercostal space . Examination shows no other abnormalities . Which of the following is the most likely diagnosis?",
-    "choices": null,
+    "choices": {
+      "A": "Aortic insufficiency",
+      "B": "Atrial septal defect",
+      "C": "Mistral insufficiency",
+      "D": "Patent ductus arteriosus",
+      "E": "Pulmonic insufficiency",
+      "F": "Tetralogy of Fallot",
+      "G": "Tricuspid insufficiency",
+      "H": "Ventricular septal defect"
+    },
     "correctAnswer": "B",
     "correctExplanation": "Atrial septal defect is a defect in the interatrial septum. The most common type is an ostium secundum defect, although ostium primum defects are commonly associated with trisomy 21. The atrial septal defect results in a left-to-right shunt with abnormal flow of blood from the left atrium to the right atrium, resulting in relative volume overload of the right atrium and ventricle. This increased stroke volume of the right ventricle results in delayed closure of the pulmonic valve, which presents as a fixed, split S2, and low-grade physiologic ejection murmur on cardiac auscultation. If the atrial septal defect remains uncorrected, it can result in the development of Eisenmenger syndrome secondary to prolonged pulmonary vasculature remodeling resulting in pulmonary arterial hypertension and shunt reversal leading to cyanosis.",
     "incorrectExplanation": "nd H. Aortic insufficiency (Choice A) presents with an early diastolic decrescendo murmur best heard in the right second intercostal space and is most commonly associated with endocarditis, rheumatic fever, and aortic root dilation. Mitral insufficiency (Choice C) presents with a holosystolic murmur best heard in the left fourth or fifth intercostal space along the midclavicular line and radiates to the left axilla. It is commonly associated with mitral valve prolapse and prior myocardial infarction. Patent ductus arteriosus (Choice D) results in a continuous, machine-like murmur best heard in the left second intercostal space and radiates to the clavicle. Pulmonic insufficiency (Choice E) presents with a diastolic murmur best heard in the left second intercostal space. Tetralogy of Fallo! (Choice F) consists of pulmonary infundibular stenosis, overriding aorta, ventricular septal defect, and right ventricular hypertrophy, resulting in a right-to-left shunt with cyanosis first noted in infancy. The murmur heard with Tetralogy of Fallo! relates to the underlying ventricular septal defect (Choice H), characterized by a holosystolic murmur best heard in the lower left sternal border. Tricuspid insufficiency (Choice G) demonstrates a holosystolic murmur best heard in the lower left sternal border.",
@@ -263,7 +300,13 @@
   {
     "questionNumber": 17,
     "questionStem": "A 52-year-old woman with hypertension comes to the emergency department 45 minutes after the onset of tearing pain that starts at the base of her neck and radiates to her back. On arrival , her temperature is 37°C (98.6°F) , pulse is 96/min , respirations are 20/min , and blood pressure is 190/110 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 99%. No other abnormalities are noted on physical examination . An ECG shows sinus tachycardia and left ventricular hypertrophy . A chest x-ray shows a widened mediastinum . The most appropriate next step in management is administration of which of the following?",
-    "choices": null,
+    "choices": {
+      "A": "Labetalol",
+      "B": "Morphine",
+      "C": "Nitroglycerin",
+      "D": "Phenylephrine",
+      "E": "Sodium nitroprusside"
+    },
     "correctAnswer": "A",
     "correctExplanation": "Labetalol is a first-line antihypertensive medication used to lower blood pressure in the setting of presumed aortic dissection. The patient presents with lower neck pain radiating to her back, hypertensive emergency, and a widened mediastinum on a chest x-ray. These are all findings associated with acute aortic dissection. A CT angiography of the thoracic aorta is indicated to further delineate whether the patient exhibits a type A or B aortic dissection, as this will dictate appropriate management. Regardless of which type of aortic dissection the patient has, it is imperative to appropriately treat the patient's hypertensive emergency. Hypertensive emergency is defined as a blood pressure greater than 180/120 with evidence of end-organ damage (eg, aortic dissection). Intravenous antihypertensive medications should be used for the treatment of hypertensive emergency to appropriately reduce blood pressure and limit progression of end-organ damage. In aortic dissection, to prevent the advancement of the dissection flap and resultant occlusion of branch vessels, the blood pressure should be rapidly reduced using a beta-blocker to lower cardiac output and diminish fluctuations in pulse pressure, combined with an alpha blocker or arterial vasodilator to lower mean arterial pressure by reducing vascular resistance. Labetalol is a nonspecific adrenoreceptor blocker that targets both a1- and 131-adrenoreceptors, making it an ideal choice.",
     "incorrectExplanation": "nd E. Morphine {Choice B) is indicated for the treatment of acute pain. While this patient demonstrates lower neck pain radiating to the back, it is more important to treat the underlying cause of the pain, which is hypertensive emergency with acute aortic dissection. Nitroglycerin {Choice C) can be used to help alleviate myocardial-induced chest pain by reducing cardiac preload and myocardial oxygen demand, but this medication would only be appropriate for use in aortic dissection if accompanied by a beta-blocker to prevent reflex tachycardia. Phenylephrine {Choice D) is a vasopressor that primarily functions through stimulation of a1-adrenoreceptors, resulting in increased vasoconstriction, systemic vascular resistance, and systemic blood pressure. The patient is presenting with hypertensive emergency and presumed aortic dissection, which require reduction of the patient's blood pressure. Sodium nitroprusside {Choice E) is a vasodilator that can be utilized for the treatment of hypertensive emergency, although the better choice is labetalol because of its effect of lowering both vascular resistance and heart rate, both of which are necessary to reduce worsening of the patient's presumed aortic dissection.",
@@ -319,11 +362,17 @@
   {
     "questionNumber": 20,
     "questionStem": "The life table shown compares the natural disease history of groups A and B. Which group at which time has the poorest 1-year survival rate?",
-    "choices": null,
+    "choices": {
+      "A": "Group A at Time 0-1",
+      "B": "Group B at Time 0-1",
+      "C": "Group A at Year 2-3",
+      "D": "Group B at Year 3-4",
+      "E": "Group B at Year 4-5"
+    },
     "correctAnswer": "D",
     "correctExplanation": "Group B at Year 3-4 demonstrates the largest decrease in percent survival for a 1-year time span. The life table plots the natural disease progression for the percent of individuals alive over time (years) for Group A and Group B. At Year 3, Group B demonstrates a percent survival of approximately 80%. By Year 4, this decreases to approximately 50%, indicating a 1-year drop in percent survival of 30%.",
     "incorrectExplanation": "nd E. Group A at Time 0-1 and Year 2-3 (Choices A and C) demonstrate a linear decrease in percent survival of approximately 10% per year. Group Bat Time 0-1 (Choice B) demonstrates no appreciable decrease in percent survival. Group Bat Year 4-5 (Choice E) demonstrates a percent survival decrease of approximately 5%, less than Group B at Year 3-4. .; > ·~ ::, fl) ~ r \" , ~ r-- r , 100 80 60 40 20 0",
-    "image": null,
+    "image": true,
     "id": "IM-4-20",
     "section": "IM",
     "subsection": "CMS-4",
@@ -408,7 +457,13 @@
   {
     "questionNumber": 25,
     "questionStem": "A 67-year-old man is brought to the emergency department because of a 2-day history of episodes of vomiting blood. He has no history of similar episodes . He has esophageal adenocarcinoma , hypertension , type 2 diabetes mellitus , osteoarthritis , and coronary artery disease . He has a prosthetic , mechanical aortic valve . He is receiving radiation therapy. He notes that the therapy makes him tired and he naps several hours daily. His other medications are lisinopril , metformin , glipizide , simvastatin , warfarin , and aspirin . Which of the following is the strongest indication for anticoagulant therapy in this patient?",
-    "choices": null,
+    "choices": {
+      "A": "Adenocarcinoma",
+      "B": "Coronary artery disease",
+      "C": "Decreased activity",
+      "D": "Prosthetic aortic valve",
+      "E": "Radiation therapy"
+    },
     "correctAnswer": "D",
     "correctExplanation": "Prosthetic aortic valve is the patient's strongest indication for anticoagulant therapy. The patient has a mechanical aortic valve, which is at substantial risk for thrombus formation without anticoagulation therapy. Thrombus formation at the site of the mechanical aortic valve would place the patient at risk for acute arterial thromboembolic events such as stroke, myocardial infarction, and acute peripheral arterial occlusions, all of which would result in significant morbidity and risk of mortality. For patients with mechanical aortic valves, the target international normalized ratio (INR) with warfarin therapy is 2.5 to 3.5.",
     "incorrectExplanation": "nd E. Adenocarcinoma (Choice A) increases the patient's risk for venous thromboembolic disease, most commonly deep venous thrombosis and pulmonary emboli. Patients with underlying adenocarcinoma are not recommended to start anticoagulation without evidence of thromboembolic disease. Coronary artery disease (CAD) (Choice B) increases the risk for myocardial infarction. Patients with CAD are recommended to take aspirin, an irreversible antiplatelet medication, to reduce the risk for myocardial infarction. Anticoagulation is not indicated for patients with CAD without acute coronary syndrome. Decreased activity (Choice C), specifically immobilization, also increases risk for thromboembolism. Prophylactic anticoagulation is often utilized in immobilized hospital and institutionalized patients to reduce the risk for thromboembolism through the use of subcutaneous heparin or enoxaparin. This patient is indicated to receive therapeutic anticoagulation for his mechanical aortic valve. Radiation therapy (Choice E) is not an indication for anticoagulation therapy as radiation therapy does not directly increase the risk for thromboembolic disease. It is often used in the treatment of a variety of diseases, most commonly cancer.",
@@ -447,7 +502,14 @@
   {
     "questionNumber": 27,
     "questionStem": "A 62-year-old man is admitted to the hospital for treatment of pneumonia . Ceftriaxone therapy is started . He also takes a thiazide diuretic for hypertension, glyburide for type 2 diabetes mellitus , and acetaminophen for osteoarthritis . Two days after admission, laboratory studies show: Serum Urea nitrogen Creatinine Urine Na+ Fractional excretion of Na• Protein 50 mg/dl 2.4 mg/dl <10 mEq/L <1 trace Urine sediment is unremarkable. Which of the following is the most likely cause of his renal failure?",
-    "choices": null,
+    "choices": {
+      "A": "Acute glomerulonephritis",
+      "B": "Acute tubular necrosis",
+      "C": "Diabetic nephropathy",
+      "D": "Interstitial nephritis",
+      "E": "Prerenal azotemia",
+      "F": "Urethral obstruction"
+    },
     "correctAnswer": "E",
     "correctExplanation": "Prerenal azotemia refers to an acute kidney injury secondary to decreased renal blood flow, which results in a decreased glomerular filtration rate (GFR), typically in the setting of hypovolemia, hypotension, or renal hypoperfusion. In response to the decreased renal blood flow, renin and angiotensin are upregulated, which stimulates increased absorption of sodium in the proximal convoluted tubule. This leads to decreased fractional excretion of sodium (less than 1 % ). The decreased GFR results in decreased tubular flow rate, which consequently leads to increased urea nitrogen reabsorption, although creatinine is unable to be reabsorbed by the renal tubules. This results in an increased serum urea nitrogen (BUN) to serum creatinine (Cr) ratio, typically greater than 20. Treatment of prerenal azotemia requires treatment of the underlying cause of reduced renal blood flow. If untreated, this can progress to worsening acute kidney injury and possible intrinsic renal failure (end-stage kidney disease).",
     "incorrectExplanation": "nd F. Acute glomerulonephritis (Choice A), acute tubular necrosis (Choice B), diabetic nephropathy (Choice C) and interstitial nephritis (Choice D) are all causes of intrinsic renal failure (end-stage kidney disease), which would present with an increased fractional excretion of sodium and a BUN/Cr ratio less than 20, due to underlying tubular dysfunction. Acute glomerulonephritis (Choice A) refers to a variety of glomerular diseases, including nephritic and nephrotic syndromes. Nephritic syndromes typically present with acute end-stage kidney disease with associated hematuria, red blood cell casts, and hypertension. Nephrotic syndrome typically presents with excessive proteinuria (greater than 3 g/day), hyperlipidemia, hypoalbuminemia, and edema. Acute tubular necrosis (Choice B) typically occurs following an ischemic or nephrotoxic insult to the kidneys, which results in necrosis of the tubular epithelium. Granular, muddy brown casts are typical on urinalysis. Diabetic nephropathy (Choice C) occurs following nonenzymatic glycosylation of the glomerular basement membrane and efferent arterioles, characteristically presenting as Kimmelstiel-Wilson lesions on light microscopy. This progresses over time in patients with diabetes mellitus, initially beginning as microalbuminuria, which can subsequently progress to macroalbuminuria, and then end-stage kidney disease. Interstitial nephritis (Choice D) commonly presents as a hypersensitivity reaction following exposure to certain medications such as penicillin, diuretics, and sulfonamides. It can also occur in the setting of autoimmune diseases such as systemic lupus erythematosus. It typically presents with pyuria, predominantly eosinophilic. • I ., e I e I I e • , I I • I I I • I .. .. I • 11 .. I II I I I I I I • I .. • I Ii I .1 I II I • I .. I I • • I • I ., .. I • 11 .. I I I • I I Ii I , I II I ., • ., • I I • I I • I I 11 .. I",
@@ -479,7 +541,14 @@
   {
     "questionNumber": 29,
     "questionStem": "A 47-year-old man comes to the emergency department 18 hours after the sudden onset of pain and swelling of the left knee. He has no history of recent trauma or injury to the knee. He has had two similar episodes 3 years ago and 3 months ago; both episodes resolved spontaneously . He has a 3-year history of hypertension treated with enalapril. He has smoked one pack of cigarettes daily for 20 years . He has a 10-year history of daily alcohol use. He is 173 cm (5 ft 8 in) tall and weighs 95 kg (210 lb); BMI is 32 kg/m 2• His temperature is 37.?°C (99.9°F) , pulse is 88/min, respirations are 16/min, and blood pressure is 142/88 mm Hg. Examination shows moderate pain and swelling of the left knee; range of motion of the knee is limited by pain. Examination of the right knee shows no abnormalities . Which of the following is the most likely diagnosis?",
-    "choices": null,
+    "choices": {
+      "A": "Gout",
+      "B": "Osteoarthritis",
+      "C": "Psoriatic arthritis",
+      "D": "Rheumatoid arthritis",
+      "E": "Septic arthritis",
+      "F": "Systemic lupus erythematosus"
+    },
     "correctAnswer": "A",
     "correctExplanation": "Gout is an acute monoarticular arthropathy resulting from an intra-articular inflammatory reaction to precipitation of monosodium urate crystals within the joint space. This can result from overproduction of uric acid but more commonly occurs following the underexcretion of uric acid. It typically presents with acute, atraumatic single-joint pain, erythema, and swelling, which can recur in patients that are under- or un-treated. The most common joint involved is the first metatarsophalangeal, but other common joints include the knees and elbows. Treatment consists of nonsteroidal anti-inflammatory drugs (NSAIDs), colchicine, and/or corticosteroids for acute exacerbations. Chronic preventive management involves the use of xanthine oxidase inhibitors such as allopurinol. Additionally, patients should avoid triggering risk factors such as purine-rich meals and heavy alcohol consumption.",
     "incorrectExplanation": "nd F. Osteoarthritis (Choice B) is a noninflammatory arthropathy secondary to deterioration of articular cartilage, often related to multifactorial causes with an interplay of systemic and local factors. It typically involves large weight-bearing joints in the body, most commonly the knees and hips. Psoriatic arthritis (Choice C) is a subtype of seronegative spondyloarthritis associated with psoriasis. It is typically asymmetric and often presents with dactylitis and involvement of the distal interphalangeal joints. Rheumatoid arthritis (Choice D) is an autoimmune inflammatory arthropathy that results in symmetric involvement of multiple joints, most commonly the metacarpophalangeal and proximal interphalangeal joints of the hands, demonstrating articular erosions and progressive joint space narrowing. Ulnar deviation of the fingers and boutonniere and swan neck deformities commonly occur. Septic arthritis (Choice E) results from bacterial infection of the synovial joint space, most commonly by Staphylococcus aureus. The affected joint demonstrates pain, swelling, and erythema. Arthrocentesis is indicated for the evaluation of monoarticular erythema and swelling to evaluate for septic arthritis, which characteristically is purulent and demonstrates WBCs greater than 50,000/mm 3• Systemic lupus erythematosus (Choice F) can result in a nonerosive arthropathy, commonly affecting the hands, feet, elbows, and knees. It less commonly presents as an acute monoarticular arthropathy.",
@@ -654,7 +723,13 @@
   {
     "questionNumber": 38,
     "questionStem": "A 19-year-old man comes to the physician because of a 5-day history of pain with urination and a watery urethral discharge . He has not had fever. He has no history of sexually transmitted diseases . He was sexually active with a female partner 3 weeks ago and another female partner 2 weeks ago, and he did not use condoms. He is not sure if his partners have had genitourinary symptoms . His temperature is 37 .1 °C (98.8°F) , pulse is 80/min , and blood pressure is 122/70 mm Hg. Examination shows no lymphadenopathy . The penis and testes appear normal. There is a mucopurulent , whitish urethral discharge . Rectal examination shows a normal-sized , nontender prostate . A Gram stain of the urethral discharge shows segmented neutrophils without intracellular organisms . Which of the following is the most likely causal organism?",
-    "choices": null,
+    "choices": {
+      "A": "Chlamydia trachomatis",
+      "B": "Herpes simplex virus 1",
+      "C": "HIV-1",
+      "D": "Neisseria gonorrhoeae",
+      "E": "Treponema pallidum"
+    },
     "correctAnswer": "A",
     "correctExplanation": "Chlamydia trachomatis is a common sexually transmitted disease that can cause various symptoms such as cervicitis, pelvic inflammatory disease, epididymitis, and urethritis. Urethritis secondary to infection from Chlamydia trachomatis typically presents with painful urination and urethral discharge. Gram stain of urine typically demonstrates a sterile pyuria, characterized by the presence of white blood cells without organisms. Diagnosis is achieved through a urine nucleic acid amplification test. Treatment requires administration of either azithromycin or doxycycline in combination with ceftriaxone for the potential of Neisseria gonorrhoeae coinfection.",
     "incorrectExplanation": "nd E. Herpes simplex virus 1 (Choice B) is typically transmitted through saliva and respiratory secretions and can present with a variety of symptoms, including herpes labialis, herpetic whitlow, encephalitis, esophagitis, and keratoconjunctivitis. While commonly a pathogen located in respiratory and oral secretions, it does have the potential for sexual contact transmission leading to genital herpes. HIV-1 (Choice C) is the most common strain of the human immunodeficiency virus, a retrovirus that infects human T cells, resulting in immunosuppression. It is diagnosed through the combination of an ELISA followed by Western blot assay. It can result in an acute HIV syndrome presenting with systemic inflammatory symptoms such as fever, chills, night sweats, fatigue, weight loss, and sore throat. Neisseria gonorrhoeae (Choice D) is a gram-negative diplococcus that can present with various symptoms such as cervicitis, pelvic inflammatory disease, Fitz-Hugh-Curtis syndrome, disseminated gonorrhea, septic arthritis, and urethritis. Urethritis secondary to infection with Neisseria gonorrhoeae typically presents with severe mucopurulent discharge, different than the watery discharge from Chlamydia trachomatis. Treponema pallidum (Choice E) is the causative spirochete bacterium for syphilis, which presents in multiple stages with varying symptoms, including primary with a painless chancre, secondary with fever, lymphadenopathy, and condylomata lata, and tertiary with tabes dorsalis, aortitis, and gummas.",
@@ -690,7 +765,13 @@
   {
     "questionNumber": 40,
     "questionStem": "An 85-year-old woman is brought to the emergency department by paramedics 45 minutes after being found on the floor of her apartment by a home health aide. The patient says that she tripped and fell down during the night while going to the bathroom . She was on the floor for 7 hours before being found . She says that she has not been having any health problems . There is no evidence of trauma. Vital signs are within normal limits. Physical examination shows no abnormalities . Results of a complete blood count and measurement of serum electrolyte concentrations are within the reference ranges. Urinalysis shows : Specific gravity 1.025 Blood 2+ Protein RBC WBC Nitrites trace 0/hpf 0/hpf negative Which of the following is the most likely diagnosis?",
-    "choices": null,
+    "choices": {
+      "A": "Glomerulonephritis",
+      "B": "Infective endocarditis",
+      "C": "Nephrolithiasis",
+      "D": "Rhabdomyolysis",
+      "E": "Urinary tract infection"
+    },
     "correctAnswer": "D",
     "correctExplanation": "Rhabdomyolysis refers to the abnormal breakdown of skeletal muscle tissue that can occur from multiple causes. The most common causes of rhabdomyolysis are crush/compression injuries such as prolonged immobility, excessive exertion, alcohol abuse, medication, and toxic substances. The breakdown of skeletal muscle myocytes results in release of myoglobin and creatine kinase into the systemic circulation. Increased creatine kinase can be utilized as a marker to evaluate for the presence and progression of rhabdomyolysis. The abnormal release of myoglobin can cause nephrotoxicity, leading to an acute kidney injury from acute tubular necrosis. Treatment of rhabdomyolysis requires supportive care and intravenous fluid hydration, which assists in the renal clearance of myoglobin, limiting its nephrotoxicity.",
     "incorrectExplanation": "nd E. Glomerulonephritis (Choice A) refers to a variety of glomerular diseases, including nephritic and nephrotic syndromes. Nephritic syndromes typically present with acute end-stage kidney disease with associated hematuria, red blood cell urine casts, and hypertension. Nephrotic syndrome typically presents with excessive proteinuria (greater than 3 g/day), hyperlipidemia, hypoalbuminemia, and edema. Infective endocarditis (Choice B) refers to acute or subacute bacterial infection of the cardiac valvular endocardium, most commonly from infection with Staphylococcus aureus (acute) and/or viridans streptococcus (subacute). It can present with an array of symptoms, most commonly fever, new murmur, anemia, glomerulonephritis, Roth spots, and Osler nodes. Nephrolithiasis (Choice C) typically presents with unilateral flank pain that is colicky and sometimes radiates to the groin with associated hematuria. The common types of nephroliths are calcium oxalate or phosphate, ammonium magnesium phosphate, uric acid, and cystine. On urinalysis, there are typically RBCs without casts. Urinary tract infection (Choice E) can refer to either lower tract (e.g., cystitis, urethritis) or upper tract (e.g., pyelonephritis) infections. It typically presents with dysuria and increased urinary frequency for lower tract infections with the addition of fever, nausea, and flank pain with costovertebral angle tenderness for pyelonephritis. Urinalysis typically demonstrates increased WBCs.",
@@ -722,7 +803,13 @@
   {
     "questionNumber": 42,
     "questionStem": "A 56-year-old woman has a 1-day history of epigastric pain and vomiting. She has scleral icterus and a tender epigastrium . Laboratory studies show: Leukocyte count 14,200/mm 3 Neutrophils 78% Serum Bilirubin Total Direct Triglycerides Amylase Alkaline phosphatase 4.4 mg/dL 3.3 mg/dL 210 mg/dL 1350 Somogyi U/dL (N=60-160) 320 Bodansky U/dL (N=2.0-4 .5) Ultrasonography shows dilation of intrahepatic ducts. Which of the following is the most likely cause of her condition?",
-    "choices": null,
+    "choices": {
+      "A": "Alcoholism",
+      "B": "Cholecystitis",
+      "C": "Choledocholithiasis",
+      "D": "Hepatoma",
+      "E": "Pancreatic carcinoma"
+    },
     "correctAnswer": "C",
     "correctExplanation": "Choledocholithiasis refers to the presence of a gallstone located within the common bile duct. This can result in varying degrees of obstruction, which dictates the severity of presenting symptoms. Obstructive choledocholithiasis results in colicky right upper quadrant or epigastric pain (biliary colic), nausea, vomiting, and increased direct bilirubin and alkaline phosphatase. Direct hyperbilirubinemia can lead to scleral icterus and jaundice. Depending on the location of the common bile duct stone, choledocholithiasis can result in acute pancreatitis, which manifests with epigastric pain and increased pancreatic enzymes (amylase, lipase). If acute bacterial infection of the biliary tree ensues, this can lead to fever and acute cholangitis. The primary treatment for choledocholithiasis is an endoscopic retrograde cholangiopancreatography with sphincterotomy, followed by cholecystectomy.",
     "incorrectExplanation": "nd E. Alcoholism (Choice A) is a common cause of acute pancreatitis, which can result in epigastric pain and increased amylase, although would be unlikely to result in direct hyperbilirubinemia. Cholecystitis (Choice B) results from obstruction of the cystic duct by a gallstone with resultant bacterial infection of the gallbladder, and presents with right upper quadrant pain, nausea, and vomiting. It would not typically present with increased liver function tests or pancreatic enzymes. Hepatoma (Choice D), also known as hepatocellular carcinoma (HCC), can present with right upper quadrant tenderness and hepatomegaly with associated hepatic enzyme (AST/ALT) and a-fetoprotein elevation. The main risk factors for HCC are cirrhosis and chronic hepatitis B infection. Pancreatic carcinoma (Choice E) often presents with nonspecific symptoms such as chronic abdominal pain radiating to the back, loss of appetite, nausea, vomiting, fatigue, and weight loss. If the pancreatic carcinoma is located in the pancreatic head/neck region, it can result in painless obstructive jaundice. Pancreatic carcinoma would not typically present with acute abdominal pain or increased pancreatic enzymes.",
@@ -735,7 +822,13 @@
   {
     "questionNumber": 43,
     "questionStem": "A 57-year-old woman with a history of alcohol abuse is brought to the emergency department by police after she was found lying in the street. On arrival, she does not respond to noxious stimuli. Her temperature is 38.1 °C (100 .6°F), pulse is 124/min , respirations are 20/min, and blood pressure is 94/60 mm Hg. Examination shows poor skin turgor . The oral mucosa is dry. Laboratory studies show: Hematocrit Serum Urea nitrogen Creatinine Urine Color Specific gravity Blood Protein RBC WBC Hyaline casts 42% 58 mg/dl 3.4 U/L reddish 1.020 3+ 1+ 0-2/hpf 0-5/hpf 1/hpf Which of the following is the most likely diagnosis?",
-    "choices": null,
+    "choices": {
+      "A": "Acute alcohol intoxication",
+      "B": "Acute tubular necrosis",
+      "C": "Allergic interstitial nephritis",
+      "D": "Glomerulosclerosis",
+      "E": "Pyelonephritis"
+    },
     "correctAnswer": "B",
     "correctExplanation": "Acute tubular necrosis is a cause of intrinsic acute end-stage kidney disease that is most commonly the result of either ischemic or nephrotoxic insults to the kidney. This patient presents after having been found down with hemodynamic instability and signs of hypovolemia. This increases her risk for ischemic injury to the kidneys secondary to decreased renal blood flow, which can lead to tubular epithelial cell death and sloughing into the lumen of the tubules. This typically results in an initial oliguric phase where the patient is at increased risk for uremia, hyperkalemia, and metabolic acidosis. Following this initial phase, the patient will then enter a polyuric recovery phase characterized by excessive urine production with associated falls in creatinine and risk for hypokalemia. Urinalysis typically demonstrates granular, muddy brown casts. The presence of blood and protein in the urine may indicate an additional underlying pathology in this patient, such as rhabdomyolysis from compression necrosis of muscle caused by prolonged pressure against the ground while unconscious.",
     "incorrectExplanation": "nd E. Acute glomerulonephritis (Choice A) refers to a variety of glomerular diseases, including nephritic and nephrotic syndromes. Nephritic syndromes typically present with acute end-stage kidney disease with associated hematuria, red blood cell urine casts, and hypertension. Nephrotic syndrome typically presents with excessive proteinuria (greater than 3 g/day), hyperlipidemia, hypoalbuminemia, and edema. Allergic interstitial nephritis (Choice C) most commonly presents as a hypersensitivity reaction following exposure to certain medications such as penicillin, diuretics, and sulfonamides. It can also occur in the setting of autoimmune diseases such as systemic lupus erythematosus. It typically presents with pyuria, predominantly eosinophilic. Glomerulosclerosis (Choice D) refers to fibrosis of the glomeruli, which can be seen in a variety of glomerular disease, including focal segmental glomerulosclerosis (FSGS) and diabetic nephropathy. FSGS is a nephrotic syndrome most commonly caused by sickle cell disease, opioid abuse, and HIV, characterized by segmental sclerosis of the glomeruli. Pyelonephritis (Choice E) typically presents with fevers, nausea, vomiting, and flank pain with associated costovertebral angle tenderness on physical examination. This most commonly occurs from ascending",
@@ -786,7 +879,14 @@
   {
     "questionNumber": 46,
     "questionStem": "A 42-year-old man is brought to the emergency department because of the sudden onset of worsening headache and left-sided weakness 1 hour ago. He has no history of serious illness and has not seen a physician for 10 years . He has smoked one pack of cigarettes daily for 25 years and drinks six beers daily. He is 180 cm (5 ft 11 in) tall and weighs 97 kg (215 lb); BMI is 30 kg/m 2• His pulse is 80/min , and blood pressure is 180/120 mm Hg. Examination shows mild-to-moderate weakness of the left lower aspect of the face. Muscle strength is decreased in the left upper and left lower extremities . Funduscopic examination shows an arteriovenous ratio of 1 :3 and regions of mild focal spasm of some arterioles. Results of a complete blood count, platelet count, and coagulation studies are within the reference ranges. His serum total cholesterol concentration is 400 mg/dl. A CT scan of the head shows a 1.5 x 2-cm region of hyperintensity centered at the right putamen ; there is mild surrounding lucency. Which of the following is most likely to decrease this patient's risk for a recurrent stroke of this type?",
-    "choices": null,
+    "choices": {
+      "A": "Alcohol cessation",
+      "B": "Smoking cessation",
+      "C": "Weight loss",
+      "D": "Atorvastatin therapy",
+      "E": "Clopidogrel therapy",
+      "F": "Lisinopril therapy"
+    },
     "correctAnswer": "F",
     "correctExplanation": "Lisinopril therapy is an ACE inhibitor antihypertension medication, which would be the most likely intervention to reduce this patient's risk for recurrent hypertension-associated intraparenchymal hemorrhagic stroke. The patient presents with progressively worsening headache and a focal neurologic deficit, characteristic for an intraparenchymal hemorrhage. Emergent noncontrast CT of the head is indicated for evaluation, which in this patient demonstrates a region of hyperdensity in the right putamen, consistent with an intraparenchymal hemorrhage. The greatest risk factor for an intraparenchymal hemorrhage is poorly or uncontrolled hypertension. Hypertension most commonly results in hemorrhages within the basal ganglia, cerebellum, thalamus, and/or pons. Initiation of antihypertensive therapy to reduce the patient's blood pressure would decrease his risk for recurrent hemorrhagic stroke.",
     "incorrectExplanation": "nd E. Alcohol cessation (Choice A), smoking cessation (Choice B), and weight loss (Choice C), while critical to improve the overall health of the patient, less directly result in reduced risk for recurrent hemorrhagic stroke as compared to direct management of hypertension. Improved body habitus and dietary changes may contribute to improved overall health and blood pressure, although lisinopril therapy would have a greater and faster impact on reducing the patient's blood pressure. Atorvastatin therapy (Choice D) would assist in decreasing the patient's cholesterol, although this would primarily decrease risk for an ischemic stroke, not recurrent hemorrhagic stroke. Clopidogrel therapy (Choice E) would be contraindicated in a patient with a history of hemorrhagic stroke as clopidogrel is an antiplatelet medication that would increase the patient's risk for hemorrhage.",

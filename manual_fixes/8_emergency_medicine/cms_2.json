@@ -1,0 +1,106 @@
+{
+  "_instructions": "Fill in the empty strings (\"\") below. Delete any entries you want to skip. Then run:  python3 scripts/merge_fixes.py",
+  "_source_pdf": "CMS/8 Emergency Medicine/2A.pdf",
+  "_q_pdf": "CMS/8 Emergency Medicine/2 Q.pdf",
+  "_target": "Parsed/8_emergency_medicine/cms_2.json",
+  "fixes": [
+    {
+      "questionNumber": 2,
+      "_context": {
+        "stem_preview": "A 14-month-old girl is brought to the emergency department 20 minutes after having a genera lized tonic-clonic seizure a...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 5,
+      "_context": {
+        "stem_preview": "An 18-year-old man is brought to the emergency department because of a 6-hour history of fever, severe headac he, and ne...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 13,
+      "_context": {
+        "stem_preview": "A 62-year-o ld woman is brought to the emergency department by her husband because of a 2-day history of generalized wea...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 29,
+      "_context": {
+        "stem_preview": "A previous ly healthy 28-year-o ld woman comes to the emergency department 2 days after boiling water splashed on her le...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 38,
+      "_context": {
+        "stem_preview": "A 67-year-old man is brought to the emergency department because of a 45-minute history of chest heaviness, shortness of...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 45,
+      "_context": {
+        "stem_preview": "A 44-year-o ld woman comes to the emergency department 2 hours after the sudden onset of epigastric pain. The patient sa...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 46,
+      "_context": {
+        "stem_preview": "A 57-year-o ld man is brought to the emergency department by his son 30 minutes after he had a tonic-clonic seizure that...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "_instructions": "Fill in the empty strings (\"\") below. Delete any entries you want to skip. Then run:  python3 scripts/merge_fixes.py",
+  "_source_pdf": "CMS/3 OBGYN/3A.pdf",
+  "_q_pdf": "CMS/3 OBGYN/3 Q.pdf",
+  "_target": "Parsed/3_obgyn/cms_3.json",
+  "fixes": [
+    {
+      "questionNumber": 3,
+      "_context": {
+        "stem_preview": "A 32-year-old woman , gravida 2, para 1, at 18 weeks' gestation comes for a routine prenatal visit. Ultrasonography show...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 7,
+      "_context": {
+        "stem_preview": "A 27-year-old woman comes to the physician because of a 4-month history of increasingly severe pain during her menstrual...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 8,
+      "_context": {
+        "stem_preview": "One month after an uncomplicated vaginal delivery of a 3400-g (7-lb 8-oz) newborn , a 32-year-old woman , gravida 2, par...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 10,
+      "_context": {
+        "stem_preview": "A 32-year-old woman with type 1 diabetes mellitus has had increasingly severe perinea! pain over the past 3 days. Her te...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 11,
+      "_context": {
+        "stem_preview": "A 32-year-old primigravid woman comes to the physician at 30 weeks' gestation because of a 10-day history of decreased a...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 12,
+      "_context": {
+        "stem_preview": "A 21-year-old woman comes to the physician because of a 2-week history of a small amount of vaginal discharge and itchin...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 13,
+      "_context": {
+        "stem_preview": "A 50-year-old woman , gravida 3, para 2, aborta 1, has had loss of urine with coughing , straining , or lifting since th...",
+        "correctAnswer": "H"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 22,
+      "_context": {
+        "stem_preview": "A 38-year-old woman , gravida 3, para 1, aborta 1, is admitted to the hospital at 33 weeks' gestation because of suspect...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 23,
+      "_context": {
+        "stem_preview": "A 62-year-old woman comes to the physician because of two episodes of vaginal bleeding during the past 3 weeks . Menopau...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 25,
+      "_context": {
+        "stem_preview": "A 35-year-old woman , gravida 2, para 1, with chronic hypertension has spontaneous onset of labor at 39 weeks' gestation...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 26,
+      "_context": {
+        "stem_preview": "A 52-year-old woman comes to the physician because of a 6-month history of urinary urgency. She often has a strong urge ...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 35,
+      "_context": {
+        "stem_preview": "A 23-year-old woman , gravida 3, para 2, at 26 weeks' gestation comes to the physician for a follow-up examination . She...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 38,
+      "_context": {
+        "stem_preview": "A 12½-year-old girl is brought to the physician because she has not had a menstrual period for 5 months . Menarche was a...",
+        "correctAnswer": "H"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 40,
+      "_context": {
+        "stem_preview": "A 27-year-old woman comes to the physician because of painful vulvar swelling for 2 days . She has had three episodes of...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 41,
+      "_context": {
+        "stem_preview": "A 47-year-old woman comes to the emergency department because of a 4-day history of increasing pain with urination . Fiv...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 42,
+      "_context": {
+        "stem_preview": "A 37-year-old woman , gravida 7, para 4, aborta 2, at 40 weeks' gestation is admitted to the hospital in labor. Spontane...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 43,
+      "_context": {
+        "stem_preview": "A 22-year-old primigravid woman at 24 weeks' gestation has had fullness in the lower pelvic area for 12 hours. She has n...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 45,
+      "_context": {
+        "stem_preview": "A 27-year-old nulligravid woman comes to the physician because she has been unable to conceive for 3 years . Menses occu...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 47,
+      "_context": {
+        "stem_preview": "An otherwise healthy 27-year-old woman comes to the physician 2 weeks after noticing a tender mass in her left breast du...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    }
+  ]
+}

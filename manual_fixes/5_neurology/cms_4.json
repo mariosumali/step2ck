@@ -1,0 +1,190 @@
+{
+  "_instructions": "Fill in the empty strings (\"\") below. Delete any entries you want to skip. Then run:  python3 scripts/merge_fixes.py",
+  "_source_pdf": "CMS/5 Neurology/4A.pdf",
+  "_q_pdf": "CMS/5 Neurology/4 Q.pdf",
+  "_target": "Parsed/5_neurology/cms_4.json",
+  "fixes": [
+    {
+      "questionNumber": 7,
+      "_context": {
+        "stem_preview": "An 82-year-o ld woman has had a chronic bitemporal headac he and diffuse achiness of the shoulders for 6 months. She has...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 9,
+      "_context": {
+        "stem_preview": "A 77-year-o ld man comes to the physician because of a 3-week history of low-grade fever, fatigue, severe headac he, sen...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 10,
+      "_context": {
+        "stem_preview": "A previous ly healt hy 42-year-o ld man comes to the physician because of a 1-wee k history of moderate back pain. The p...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 11,
+      "_context": {
+        "stem_preview": "A 4 ?-year-o ld woman is brought to the physician because of progressive loss of visual acuity over the past 6 months. S...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 13,
+      "_context": {
+        "stem_preview": "A 77-year-old man is brought to the emergency department because of confusion, lethargy, and excessive sleepiness over t...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 15,
+      "_context": {
+        "stem_preview": "A 52-year-o ld man comes to the physician because of a 3-month history of insomn ia. He has had difficulty falling aslee...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 18,
+      "_context": {
+        "stem_preview": "A 72-year-o ld woman comes to the physician because of a 4-wee k history of involuntary movements of her tongue and jaw....",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 20,
+      "_context": {
+        "stem_preview": "Four days after hosp italization for internal fixation of a femo ral fracture sustained in a motor vehicle collision, a ...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 25,
+      "_context": {
+        "stem_preview": "A 62-year-o ld man is brought to the physician by his wife because of progressive behavior changes over the past 8 weeks...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 30,
+      "_context": {
+        "stem_preview": "A previous ly healthy 18-year-old man is brought to the emergency department because of facial weakness and ear pain tha...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 37,
+      "_context": {
+        "stem_preview": "A 32-year-o ld woman comes to the phys ician because of weakness of her right arm and leg that began 1 week ago when she...",
+        "correctAnswer": "G"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 38,
+      "_context": {
+        "stem_preview": "A 72-year-o ld man with a 3-year history of Parkinson disease is brought to the physician by his wife for a follow-up ex...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 46,
+      "_context": {
+        "stem_preview": "A 3-week-o ld male newborn is brought to the emergency department by his parents because of a 1-day history of increased...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    }
+  ]
+}

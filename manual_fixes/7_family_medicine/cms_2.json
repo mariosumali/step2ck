@@ -1,0 +1,162 @@
+{
+  "_instructions": "Fill in the empty strings (\"\") below. Delete any entries you want to skip. Then run:  python3 scripts/merge_fixes.py",
+  "_source_pdf": "CMS/7 Family Medicine/2A.pdf",
+  "_q_pdf": "CMS/7 Family Medicine/2 Q.pdf",
+  "_target": "Parsed/7_family_medicine/cms_2.json",
+  "fixes": [
+    {
+      "questionNumber": 6,
+      "_context": {
+        "stem_preview": "A 19-yea r-old college student comes to the phys ician because of a 3-month history of cough that occurs only in midafte...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 12,
+      "_context": {
+        "stem_preview": "A 77-yea r-old man comes to the physician because of a 4-week history of moderate ly severe aching and morning stiffness...",
+        "correctAnswer": "G"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 16,
+      "_context": {
+        "stem_preview": "A 42-year-o ld man comes to the physician for a routine follow-up exam ination. He feels well. He has a 2-year history o...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 18,
+      "_context": {
+        "stem_preview": "A 52-year-o ld woman comes to the physician because of a 14-month history of genera lized muscle pain and difficulty sle...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 28,
+      "_context": {
+        "stem_preview": "A 32-year-o ld man comes to the physician because of painful blisters on his penis for 2 days. During the past 2 years, ...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 30,
+      "_context": {
+        "stem_preview": "An 82-year-o ld man comes to the physician for a follow-up exam inatio n. He has a 2-year history of a painful tingling ...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 34,
+      "_context": {
+        "stem_preview": "A 37-year-o ld man comes to the physician because of intermittent chest pain over the past 2 days. Four days ago, he had...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 36,
+      "_context": {
+        "stem_preview": "An 11 -year-old boy is brought to the camp infirmary by his cabinmates 1 hour after collapsing. The boys had been playin...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 39,
+      "_context": {
+        "stem_preview": "A previous ly healthy 37-year-o ld woman who works as a prison guard comes to the physician because of a 2-month history...",
+        "correctAnswer": "F"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 46,
+      "_context": {
+        "stem_preview": "A 62-year-o ld woman comes to the physician because of a 9-month history of pain and swelling of her finger joints. Her ...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 48,
+      "_context": {
+        "stem_preview": "A 47-year-o ld woman comes to the physician to discuss weight loss. She has a 5-year history of hypertension and was rec...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    }
+  ]
+}

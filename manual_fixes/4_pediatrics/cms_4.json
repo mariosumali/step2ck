@@ -1,0 +1,204 @@
+{
+  "_instructions": "Fill in the empty strings (\"\") below. Delete any entries you want to skip. Then run:  python3 scripts/merge_fixes.py",
+  "_source_pdf": "CMS/4 Pediatrics/4A.pdf",
+  "_q_pdf": "CMS/4 Pediatrics/4 Q.pdf",
+  "_target": "Parsed/4_pediatrics/cms_4.json",
+  "fixes": [
+    {
+      "questionNumber": 1,
+      "_context": {
+        "stem_preview": "A 6-year-old girl in remission of acute lymphoblastic leukemia has had pain in her right shoulder for 2 days. She is rec...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 6,
+      "_context": {
+        "stem_preview": "A 6-year-old girl is brought to the physician because of a scaly, pruritic rash on intertriginous areas of her elbows an...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 7,
+      "_context": {
+        "stem_preview": "A 3-year-old boy is brought to the physician for a follow-up examination 2 weeks after being treated for an ear infectio...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 10,
+      "_context": {
+        "stem_preview": "A 13-year-old girl with cystic fibrosis is brought to the physician because of a 6-month history of progressive difficul...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 11,
+      "_context": {
+        "stem_preview": "A 2-month -old infant has a large posterior fontanelle , a large tongue , and hypotonia. He was born at 38 weeks' gestat...",
+        "correctAnswer": "H"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 18,
+      "_context": {
+        "stem_preview": "Two hours after delivery at term, a newborn has a blood glucose concentration of 25 mg/dl. Pregnancy was complicated by ...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 20,
+      "_context": {
+        "stem_preview": "A 15-year-old boy is brought to the emergency department because of a 2-day history of fever and increasingly severe hea...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 23,
+      "_context": {
+        "stem_preview": "A previously healthy 8-year-old boy is brought to the emergency department because of difficulty breathing 10 minutes af...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 29,
+      "_context": {
+        "stem_preview": "A 3-year-old girl is brought to the emergency department because of vomiting for 20 hours and lethargy for 4 hours . Ear...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 32,
+      "_context": {
+        "stem_preview": "Two weeks after a camping trip in New England , a 5-year-old boy develops a 3-cm, red, circular lesion with a clear cent...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 35,
+      "_context": {
+        "stem_preview": "A 4-year-old boy is hospitalized because of fever, shallow breathing , and unresponsiveness for 3 hours. His temperature...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 37,
+      "_context": {
+        "stem_preview": "A 13-year-old boy is brought to the emergency department 2 hours after the sudden onset of headache , nausea , and vomit...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 39,
+      "_context": {
+        "stem_preview": "After undergoing a tonsillectomy , a 2-year-old boy develops seizures in the recovery room. During the 45-minute operati...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 45,
+      "_context": {
+        "stem_preview": "A previously healthy 7-year-old boy is brought to the physician because of progressively worsening headaches and difficu...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "_instructions": "Fill in the empty strings (\"\") below. Delete any entries you want to skip. Then run:  python3 scripts/merge_fixes.py",
+  "_source_pdf": "CMS/1 Internal Medicine/3A.pdf",
+  "_q_pdf": "CMS/1 Internal Medicine/3 Q.pdf",
+  "_target": "Parsed/1_internal_medicine/cms_3.json",
+  "fixes": [
+    {
+      "questionNumber": 30,
+      "_context": {
+        "stem_preview": "A 37-year-old man comes to the physician because of fever and rash for 2 days . He just completed a 6-week course of naf...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    }
+  ]
+}

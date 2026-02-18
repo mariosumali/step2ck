@@ -1,0 +1,148 @@
+{
+  "_instructions": "Fill in the empty strings (\"\") below. Delete any entries you want to skip. Then run:  python3 scripts/merge_fixes.py",
+  "_source_pdf": "CMS/7 Family Medicine/3A.pdf",
+  "_q_pdf": "CMS/7 Family Medicine/3 Q.pdf",
+  "_target": "Parsed/7_family_medicine/cms_3.json",
+  "fixes": [
+    {
+      "questionNumber": 4,
+      "_context": {
+        "stem_preview": "A previo usly healt hy 32-year-o ld woma n comes to the physician because of mild headaches and weakness for 3 months. H...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 10,
+      "_context": {
+        "stem_preview": "A 62-year-o ld woman comes to the physician because of a lesion on her right cheek; she has had the lesion for 1 year bu...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 17,
+      "_context": {
+        "stem_preview": "A 19-year-old woman comes to the office because of a 4-hour history of severe right lower abdominal pain, heavy vaginal ...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 20,
+      "_context": {
+        "stem_preview": "A 55-year-old woman comes to the phys ician for a health maintenance exam ination. She has smoked one pack of cigarettes...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 24,
+      "_context": {
+        "stem_preview": "A 35-year-o ld woman with hypertension comes to the physician because of moderate right-sided chest pain and cough produ...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 30,
+      "_context": {
+        "stem_preview": "An 18-month-old girl is brought to the phys ician by her mother for a routine examination. She was born at 32 weeks ' ge...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 32,
+      "_context": {
+        "stem_preview": "A 61-yea r-old woman comes to the office in July for a routine exam inatio n. She has hypertensio n and major depressive...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 38,
+      "_context": {
+        "stem_preview": "A popular 17-year-o ld high school student witnessed an argume nt betwee n her present boyfrie nd and a previous boyfrie...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 43,
+      "_context": {
+        "stem_preview": "A 20-month-o ld boy is broug ht to the office by his mother because she is conce rned about his speech. She says he babb...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 44,
+      "_context": {
+        "stem_preview": "A 37-yea r-old man comes to the office because of a 1-week history of visual disturbances, flashing lights, and blurred ...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    }
+  ]
+}

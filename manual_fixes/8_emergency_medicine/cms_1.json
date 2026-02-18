@@ -1,0 +1,161 @@
+{
+  "_instructions": "Fill in the empty strings (\"\") below. Delete any entries you want to skip. Then run:  python3 scripts/merge_fixes.py",
+  "_source_pdf": "CMS/8 Emergency Medicine/1A.pdf",
+  "_q_pdf": "CMS/8 Emergency Medicine/1 Q.pdf",
+  "_target": "Parsed/8_emergency_medicine/cms_1.json",
+  "fixes": [
+    {
+      "questionNumber": 2,
+      "_context": {
+        "stem_preview": "A 57-year-o ld man comes to the emergency department because of a 2-day history of nasal congestion and sneezing, a 5-ho...",
+        "correctAnswer": "G"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 17,
+      "_context": {
+        "stem_preview": "A previous ly healt hy 17-year-old girl is brought to the emergency department by her parents because of a 2-day history...",
+        "correctAnswer": "A"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 21,
+      "_context": {
+        "stem_preview": "A 77-year-o ld woman is brought to the emergency depart ment because of a 4-hou r history of pain in her left leg after ...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 22,
+      "_context": {
+        "stem_preview": "A 29-year-o ld woman is brought to the emergency depart ment by her husband because of a 2-day history of suicidal thoug...",
+        "correctAnswer": "B"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 24,
+      "_context": {
+        "stem_preview": "A 58-year-o ld woman comes to the emergency department 3 hours after the onset of heart palpitations. She has had a 6.8-...",
+        "correctAnswer": "D"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 30,
+      "_context": {
+        "stem_preview": "A previous ly healthy 32-year-old woman is brought to the emergency department 30 minutes after the sudden onset of dizz...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 31,
+      "questionStem": "",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      },
+      "correctAnswer": "",
+      "correctExplanation": ""
+    },
+    {
+      "questionNumber": 41,
+      "_context": {
+        "stem_preview": "A previous ly healthy 23-year-o ld woman comes to the emergency departme nt because of a 3-day history of severe left lo...",
+        "correctAnswer": "E"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 44,
+      "_context": {
+        "stem_preview": "A previous ly healthy 37-year-old man comes to the emergency department because he has passed black, tarry stools during...",
+        "correctAnswer": "C"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    },
+    {
+      "questionNumber": 47,
+      "_context": {
+        "correctAnswer": "E",
+        "existing_choices": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ]
+      },
+      "questionStem": ""
+    },
+    {
+      "questionNumber": 48,
+      "_context": {
+        "stem_preview": "A 47-year-o ld woman is brought to the emergency department 25 minutes after susta ining a gunshot wound to the abdomen....",
+        "correctAnswer": "G"
+      },
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": "",
+        "E": ""
+      }
+    }
+  ]
+}
