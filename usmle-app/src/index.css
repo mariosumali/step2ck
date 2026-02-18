@@ -1,0 +1,62 @@
+@import "tailwindcss";
+
+/* Clinical color palette */
+:root {
+  --primary-blue: #1e40af;
+  --primary-blue-light: #3b82f6;
+  --gray-100: #f3f4f6;
+  --gray-500: #6b7280;
+  --gray-900: #111827;
+  --success-green: #22c55e;
+  --error-red: #ef4444;
+  --warning-yellow: #f59e0b;
+}
+
+/* Base styles */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+  background-color: var(--gray-100);
+  color: var(--gray-900);
+  margin: 0;
+}
+
+/* Serif font for question stems */
+.question-stem {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+
+/* Custom selection highlighting */
+.question-stem::selection {
+  background-color: #fef08a;
+}
+
+.question-stem ::-moz-selection {
+  background-color: #fef08a;
+}
+
+/* Strikethrough effect */
+.strikethrough {
+  text-decoration: line-through;
+  opacity: 0.6;
+}
+
+/* Scrollbar styling */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 8px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #e5e7eb;
+  border-radius: 4px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #9ca3af;
+  border-radius: 4px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #6b7280;
+}
