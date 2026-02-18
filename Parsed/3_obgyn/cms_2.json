@@ -1,0 +1,995 @@
+[
+  {
+    "questionNumber": 1,
+    "questionStem": "A 32-year-old woman, gravida 3, para 2, delivers a 4111-g (9-lb 1-oz) newborn at term following a 2-hour second stage of labor assisted by a medial episiotomy. The placenta delivers 12 minutes later using gentle umbilical cord traction. Following delivery of the placenta, a firm pale mass is noted in the lower vagina; there is moderate vaginal bleeding. The patient develops shortness of breath. Her pulse is 60/min, and blood pressure is 60/40 mm Hg. On abdominal examination, the uterus cannot be palpated. Treatment with intravenous saline does not improve her symptoms. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Placenta accreta",
+      "B": "Retained placental fragments",
+      "C": "Uterine atony",
+      "D": "Uterine inversion",
+      "E": "Uterine rupture"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": null,
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-1",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 2,
+    "questionStem": "A 47-year-old woman comes to the physician for a routine health maintenance examination. She says that she sometimes feels hot at night and occasionally during the day. She has not had any other symptoms. She has no history of serious illness and takes no medications. Her last menstrual period was 4 months ago. She is sexually active with one male partner, and they do not use contraception. She is 168 cm (5 ft 6 in) tall and weighs 68 kg (150 lb); BMI is 24 kg/m2. Her temperature is 37.1°C (98.7°F), pulse is 70/min, respirations are 12/min, and blood pressure is 90/50 mm Hg. She has moderate discomfort during the pelvic examination because of vaginal dryness. The uterus is enlarged and mildly boggy. There are no vulvar, vaginal, or cervical lesions or adnexal masses. The remainder of the examination shows no abnormalities. Test of the stool for occult blood is negative. Which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "Complete blood count",
+      "B": "Measurement of serum follicle-stimulating hormone concentration",
+      "C": "Measurement of serum β-hCG concentration",
+      "D": "Measurement of serum prolactin concentration",
+      "E": "Measurement of serum thyroid-stimulating hormone concentration"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Regardless of what her symptoms are or what the actual diagnosis is, pregnancy MUST be ruled out and therefore C is the correct answer. Q: Shouldn’t it be urine hCG? A: Either can be used to diagnose pregnancy. Since urine isn't an option pick the one that is.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-2",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 3,
+    "questionStem": "A 28-year-old woman, gravida 2, para 1, comes to the physician for her first prenatal visit. Her last menstrual period was 10 weeks ago. Her first child, a 4540-g (10-lb) male newborn, was born by cesarean delivery because of an arrest of descent. During this pregnancy, she is at increased risk for which of the following?",
+    "choices": {
+      "A": "Abruptio placentae",
+      "B": "Gestational diabetes",
+      "C": "Polyhydramnios",
+      "D": "Preeclampsia",
+      "E": "Premature rupture of the membranes"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Previous macrosomic infant is risk for development of gestation DM. In these patients we check glucose at first antenatal visit.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-3",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 4,
+    "questionStem": "An 18-year-old nulligravid woman comes to the physician for a routine health maintenance examination. One year ago, her last examination, including laboratory studies, showed no abnormalities. Her last menstrual period was 1 week ago. She has had multiple sexual partners and has used condoms inconsistently. Physical and pelvic examinations show no abnormalities. HIV antibody testing and cultures for Neisseria gonorrhoeae and Chlamydia trachomatis are negative. Serologic testing for VDRL is positive at 1:4. Which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "Antinuclear antibody assay",
+      "B": "Fluorescent treponemal antibody absorption test",
+      "C": "Rapid plasma reagin",
+      "D": "Second VDRL in 6 weeks",
+      "E": "Lumbar puncture for VDRL"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Confirm syphilis infection with either screening test when one test shows positive result.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-4",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 5,
+    "questionStem": "An asymptomatic 59-year-old woman comes for a routine health maintenance examination. Menopause occurred at the age of 49 years. She is 163 cm (5 ft 4 in) tall and weighs 91 kg (200 lb); BMI is 34 kg/m². Her risk for endometrial cancer is increased due to peripheral conversion of which of the following?",
+    "choices": {
+      "A": "Aldosterone to diethylstilbestrol",
+      "B": "Androstenedione to estrone",
+      "C": "Androstenedione to mestranol",
+      "D": "Pregnenolone to progesterone",
+      "E": "Progesterone to estradiol"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "One of the main risk factor for endometrial carcinoma is OBESITY especially in postmenopausal. This is mainly because of the peripheral conversion of androgens into estrogens and aromatization of androstenedione into estrone. This will lead to chronic stimulation of the endometrium by the estrogen without the balancing effect of progesterone (just like the effect of anovulation on the endometrium).",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-5",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 6,
+    "questionStem": "A 57-year-old woman, gravida 2, para 2, comes to the physician because of pelvic pressure and a feeling of a mass in the vagina for 2 months. These symptoms are worse while standing for long periods of time and are relieved by lying down. She had a vaginal hysterectomy 10 years ago. She has no urinary tract symptoms and no difficulty with her bowel movements. Examination shows no anterior vaginal relaxation. Valsalva maneuver produces a bulging posterior vaginal mass that has its origin high in the vaginal vault. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Cervical tumor",
+      "B": "Cystocele",
+      "C": "Enterocele",
+      "D": "Ureterocele",
+      "E": "Urge incontinence",
+      "F": "Urinary tract infection",
+      "G": "Uterine prolapse"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Pelvic organ prolapse centrally = enterocele.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-6",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 7,
+    "questionStem": "A 20-year-old primigravid woman at 20 weeks' gestation comes for a routine prenatal visit. She works in a day-care center. Her pregnancy was complicated by a small amount of vaginal bleeding during the first trimester that resolved spontaneously. Her sister recently had a child who was diagnosed with cystic fibrosis soon after delivery. She appears well. Examination shows a nontender uterus consistent in size with a 20-week gestation. Laboratory studies are within normal limits. Her blood group is A, Rh-negative. Antibody screening is negative. Ultrasonography shows a single intrauterine pregnancy with fetal hydrops; no structural abnormalities are noted. Which of the following is the most likely cause of the fetal hydrops?",
+    "choices": {
+      "A": "Cytomegalovirus",
+      "B": "Fetal cystic fibrosis",
+      "C": "Fetal parvovirus B19 infection",
+      "D": "Maternal Chlamydia trachomatis infection",
+      "E": "Rh sensitization"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Rh negative with antibody also negative that means C is the answer, daycare is clue to Parvovirus B19.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-7",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 8,
+    "questionStem": "An asymptomatic 37-year-old woman with a 5-year history of HIV infection comes for a routine follow-up examination. Her last visit 8 months ago showed normal findings. A Pap smear 2 years ago showed no abnormalities. Her CD4+ T-lymphocyte count 2 weeks ago was 425/mm³ (Normal≥500); plasma HIV viral load was undetectable. She is currently receiving antiretroviral therapy. Serum lipid studies were within normal limits 3 years ago. Examination today shows no abnormalities. Which of the following is the most appropriate screening test for this patient?",
+    "choices": {
+      "A": "Pap smear",
+      "B": "Serum lipid studies",
+      "C": "X-ray of the chest",
+      "D": "ECG",
+      "E": "Mammography"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Cervical cancer screening recommended twice in the first year after diagnosis of HIV and then annually if results are normal (UTD).",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-8",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 9,
+    "questionStem": "A 32-year-old woman, gravida 3, para 2, at term is admitted to the hospital in labor. Contractions have occurred every 3 minutes for the past 8 hours. Her temperature is 37°C (98.6°F), pulse is 80/min, respirations are 20/min, and blood pressure is 120/80 mm Hg. The cervix is 100% effaced and 4 cm dilated; the vertex is at -2 station. The membranes suddenly rupture, yielding a large amount of clear fluid. The fetal heart rate decreases to 90/min. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Pelvic examination",
+      "B": "External cephalic version of the fetus",
+      "C": "Internal podalic version of the fetus",
+      "D": "Atropine therapy",
+      "E": "Oxytocin therapy",
+      "F": "Forceps delivery"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Fetal bradycardia - pelvic exam to palpate cord prolapse.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-9",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 10,
+    "questionStem": "A 32-year-old nulligravid woman with bipolar disorder comes to the physician for preconceptional counseling. Her symptoms are well controlled with valproic acid, and she does not want to discontinue her medication. Physical examination shows no abnormalities. On mental status examination, her affect is full; there is no pressured speech or flight of ideas. Her future child will be at greatest risk for developing which of the following abnormalities if she continues to take valproic acid throughout pregnancy?",
+    "choices": {
+      "A": "Cleft palate",
+      "B": "Neural tube defects",
+      "C": "Retinitis pigmentosa",
+      "D": "Syringomyelia",
+      "E": "Tetralogy of Fallot"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "She can use Lamotrigine for seizures.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-10",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 11,
+    "questionStem": "A 16-year-old girl is brought to the physician by her mother because she has never had a menstrual period. She is otherwise healthy. She is 175 cm (5 ft 9 in) tall and weighs 61 kg (135 lb). Breast development is Tanner stage 3; there is no axillary or pubic hair. Pelvic examination shows a vagina that is 2 cm in length. Pelvic ultrasonography shows no uterus. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Adrenal insufficiency",
+      "B": "Androgen insensitivity syndrome",
+      "C": "Imperforate hymen",
+      "D": "Paramesonephric (müllerian) duct agenesis",
+      "E": "Premature ovarian failure"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Müllerian duct is responsible for the formation of 1. Uterus, 2. Fallopian tubes, and 3. Upper portion of the vagina. In müllerian duct agenesis the ovaries are completely fine and present, therefore a person with müllerian duct agenesis should present as amenorrhea with fully developed secondary sexual characteristics (indicator of functional ovaries). But in this patient, her secondary sexual characteristics are not fully developed (breast) therefore this patient is most likely an XY with decreased testosterone sensitivity which has led to the prominence of the estrogen and the formation of a rudimentary vagina (they usually have testes as well, but the testes should be removed to avoid malignancy). Q: But she has no uterus; why this is not D? A: In müllerian agenesis, secondary sexual characteristics (axillary or pubic hair) are normal.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-11",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 12,
+    "questionStem": "A 27-year-old primigravid woman at 14 weeks' gestation comes to the physician for an initial prenatal visit. Endovaginal examination shows a viable twin gestation consistent in size with an 8-week gestation. There are two yolk sacs and a thick dividing membrane. An ultrasound is shown. This patient most likely has which of the following types of twin gestation?",
+    "choices": {
+      "A": "Conjoined",
+      "B": "Dichorionic",
+      "C": "Monochorionic",
+      "D": "Monochorionic-monoamniotic",
+      "E": "Findings are inconclusive at this gestational age"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "There are several things to look for that are dichorionic in nature or at least lend to it more like being dichorionic: >2mm dividing membrane, two genders, two placentas, twin peak (lambda sign). This one has 2 so it’s very likely dichorionic. More: So apparently, thanks to Google, I found out that the thickness is the only way to differentiate monochorionic from dichorionic. The first trimester is the best time to evaluate the chorionicity and amnionicity of twin gestations. Look at the difference in the thickness in these two images: A. Sonogram in a 10-week monochorionic-diamniotic gestation. A thin dividing membrane (arrow) from the two apposed amniotic sacs is seen. B. Sonogram from a 7-week dichorionic-diamniotic gestation. Both amnions (arrows) surrounding the developing embryos are well seen in this diamniotic twin pregnancy. Dichorionicity is confirmed by the thick intertwin membrane. CMS - Obstetrics and Gynecology - Form 2 A. B.",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "OB-2-12",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 13,
+    "questionStem": "A 21-year-old primigravid woman at 40 weeks' gestation is admitted in labor. The cervix is 100% effaced and 5 cm dilated. Leopold maneuvers show the fetus in a transverse lie presentation with the back toward the pelvis. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Await spontaneous vaginal delivery",
+      "B": "Administration of oxytocin",
+      "C": "Tocolytic therapy",
+      "D": "Internal version and breech extraction",
+      "E": "Cesarean delivery"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": null,
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-13",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 14,
+    "questionStem": "A 27-year-old nulligravid woman comes to the physician because of dyspareunia and dysmenorrhea for 2 years. Menses occur at regular 28-day intervals. Pelvic examination shows nodularity over the uterosacral area. The uterus is retroverted. Both adnexa are normal-sized but tender. Which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "Measurement of serum CA 125 concentration",
+      "B": "Measurement of serum α-fetoprotein concentration",
+      "C": "CT scan of the abdomen",
+      "D": "MRI of the pelvis",
+      "E": "Laparoscopy"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Endometriosis, laparoscopy needed to confirm the diagnosis.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-14",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 15,
+    "questionStem": "An 18-year-old primigravid woman at 10 weeks' gestation comes to the physician for a follow-up examination. At her first prenatal visit 2 weeks ago, serum HIV antibody testing was positive. On examination today, the lungs are clear to auscultation and percussion. There is no axillary or cervical lymphadenopathy. A PPD skin test shows 9 mm of induration at 48 hours. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Second PPD skin test in 2 months",
+      "B": "Second PPD skin test after delivery",
+      "C": "Culture of sputum for acid-fast bacilli",
+      "D": "X-ray of the chest",
+      "E": "Spiral CT scan of the chest"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Patients with a positive TST or IGRA must undergo clinical evaluation to rule out active tuberculosis; this includes evaluation for symptoms (e.g. fever, cough, weight loss) and radiographic examination of the chest (with appropriate shielding), regardless of gestational age (UTD).",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-15",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 16,
+    "questionStem": "Three days after cesarean delivery because of fetal distress, a hospitalized 42-year-old woman is found unconscious. She is 163 cm (5 ft 4 in) tall and weighs 82 kg (180 lb); BMI is 31 kg/m². Her temperature is 38°C (100.4°F), pulse is 120/min, respirations are 26/min, and blood pressure is 60/40 mm Hg. Bilateral wheezing is heard on auscultation. Cardiac examination shows a pleural friction rub. The fundus is firm. Laboratory studies show: Hemoglobin 11 g/dL, Leukocyte count 8000/mm³, Platelet count 175,000/mm³, Bleeding time 5 min, Prothrombin time 14 sec (INR=1.4), Partial thromboplastin time 35 sec, Thrombin time 1 sec, Plasma fibrinogen 300 mg/dL (N=200–400), Fibrin split products <10 µg/mL (N<10). Arterial blood gas analysis on room air shows: pH 7.26, PCO₂ 28 mm Hg, PO₂ 60 mm Hg. A blood smear shows no abnormalities. An x-ray of the chest shows atelectasis. An ECG shows tachycardia with cor pulmonale. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Amniotic fluid embolism",
+      "B": "Cardiac arrhythmia",
+      "C": "Cerebral hemorrhage",
+      "D": "Congestive heart failure",
+      "E": "Eclampsia",
+      "F": "Hypovolemic shock",
+      "G": "Pneumonitis",
+      "H": "Pneumothorax",
+      "I": "Pulmonary acid aspiration syndrome",
+      "J": "Pulmonary embolism",
+      "K": "Seizure disorder",
+      "L": "Septic shock"
+    },
+    "correctAnswer": "J",
+    "correctExplanation": "Amniotic fluid embolism syndrome happens either during the labor and delivery or in the immediate postpartum. In UTD they say that it rarely has been reported as late as 48 hours after a C-section. For this patient it has been 72 hours. Another clue is that amniotic fluid embolism presents with DIC. Q: Her fibrin split product is normal - it rules out PE. It has to be amniotic fluid embolism? A: Fibrin split products not as relevant as D-dimer for PE. Q: What about bilateral wheezing? Lungs should be clear? A: Her bilateral wheezing is probably due to the cor pulmonale. Note: no explanation why she is acidotic. She should have a respiratory alkalosis. Possibly a mistake.",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "OB-2-16",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 17,
+    "questionStem": "A 32-year-old primigravid woman at 32 weeks' gestation comes to the physician for a routine prenatal visit. She has hypertension treated with nifedipine and hypothyroidism controlled with levothyroxine. Four weeks ago at her last examination, fundal height was lagging. She was started on an 1800-calorie diet after results of a 3-hour glucose tolerance test showed abnormalities. She is 157 cm (5 ft 2 in) tall. She has had a 9-kg (20-lb) weight gain during her pregnancy. Her pulse is 92/min, and blood pressure is 160/96 mm Hg. Examination shows a fundal height of 27 cm. During the past 2 weeks, her blood glucose concentrations have been less than 120 mg/dL 1 hour after meals. Ultrasonography shows an estimated fetal weight at the 5th percentile for 32 weeks' gestation. Which of the following is the most likely cause of the fetal growth restriction?",
+    "choices": {
+      "A": "Gestational diabetes",
+      "B": "Maternal hypothyroidism",
+      "C": "Maternal malnutrition",
+      "D": "Umbilical cord compression",
+      "E": "Uteroplacental insufficiency"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Her chronic HTN leads to less than optimal placental blood vessels leading to uteroplacental insufficiency which leads to fetal growth restriction.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-17",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 18,
+    "questionStem": "Thirty-six hours after cesarean delivery because of prolonged labor, a 22-year-old woman has abdominal cramping and nausea and vomiting. Her temperature is 38.8°C (101.8°F), pulse is 98/min, and blood pressure is 110/64 mm Hg. Examination shows diffuse lower abdominal tenderness with some voluntary guarding but no rebound. The incision is clean, dry, and intact. Her leukocyte count is 15,000/mm³. A urinary catheter is in place; urinalysis shows multiple RBCs. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "CT scan of the pelvis",
+      "B": "Intramuscular administration of methylergonovine",
+      "C": "Intravenous administration of ampicillin and gentamicin",
+      "D": "Dilatation and curettage",
+      "E": "Surgical exploration"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "One important clue here is the \"prolonged\" labor in the very first line, which places her at greatest risk for endometritis. Diffuse cramping of lower abdomen + tenderness and rigidity on examination + fever + leukocytosis - all these are very typical for the diagnosis of postpartum endometritis. RBCs in the urine in the presence urinary catheter is suggestive of traumatic catheterization finding upon insertion (not significant to the given stem just a DISTRACTOR). RBCs in the urine is often a distractor in surgical questions.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-18",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 19,
+    "questionStem": "A healthy 37-year-old woman, gravida 2, para 2, comes to the physician for contraceptive advice. She is sexually active with her husband, and they currently use condoms but would like to switch to another contraceptive method. She has smoked one pack of cigarettes daily for 20 years. She has no history of sexually transmitted diseases, high blood pressure, headaches, venous thromboembolism, or depression. Testing for Neisseria gonorrhoeae and Chlamydia trachomatis is negative. Which of the following contraceptive methods is contraindicated in this patient?",
+    "choices": {
+      "A": "Copper IUD",
+      "B": "Depot medroxyprogesterone",
+      "C": "Diaphragm",
+      "D": "Norethindrone pills",
+      "E": "Progesterone IUD",
+      "F": "Triphasic oral contraceptives"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "She is a smoker and >35, both of which are contraindications for OCPs.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-19",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 20,
+    "questionStem": "A 25-year-old nulligravid woman comes to the physician because she has not had a menstrual period for 1 year. Menarche was at the age of 13 years, and menses initially occurred at regular 28-day intervals. Two years ago, menses began occurring at irregular, 45- to 90-day intervals until she eventually became amenorrheic. She has no history of serious illness and takes no medications. She does not smoke cigarettes, drink alcohol, or use illicit drugs. She runs 7 miles daily and has completed three marathons in the past year. She is not currently sexually active. She is 165 cm (5 ft 5 in) tall and weighs 45 kg (100 lb); BMI is 17 kg/m². Physical examination shows no abnormalities. Measurement of serum hormone concentrations is most likely to show which of the following?",
+    "choices": {
+      "A": "Decreased estrogen and follicle-stimulating hormone (FSH) concentrations",
+      "B": "Decreased estrogen and increased FSH concentrations",
+      "C": "Normal estrogen and decreased FSH concentrations",
+      "D": "Normal estrogen and increased FSH concentrations",
+      "E": "Normal estrogen and increased prolactin concentrations"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Hypogonadotropic hypogonadism due to extreme exercise.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-20",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 21,
+    "questionStem": "A 5-year-old girl is brought to the physician by her father 1 day after he noticed some blood on her underpants. He reports that she has been rubbing and scratching her genital area for the past 5 days and that the irritation has progressed despite treatment with topical vitamin A & D and warm baths. On questioning, she says that she has had a foul-smelling discharge and burning and itching in the area, which is worse when she urinates. She also has had a runny nose during this period. She has not had fever and has no history of serious illness. Her temperature is 37°C (98.6°F). Examination shows green vaginal discharge and diffuse inflammation of the vulva. The hymen appears intact. There are no lacerations, ecchymoses, or other signs of trauma. A wet mount preparation of the discharge shows occasional erythrocytes and numerous leukocytes. Culture of the discharge shows a polymicrobial infection. Which of the following is the most likely cause of these symptoms?",
+    "choices": {
+      "A": "Gastroenteritis",
+      "B": "Inoculation from an upper respiratory tract infection",
+      "C": "Sarcoma botryoides",
+      "D": "Urinary tract infection",
+      "E": "Vaginal foreign body"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Most common cause of abnormal uterine bleeding in young children. Runny nose is a distractor.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-21",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 22,
+    "questionStem": "A previously healthy 57-year-old woman comes to the physician because of a 6-month history of urinary urgency and loss of urine that requires the use of an absorbent pad. She rarely leaves her house because she is afraid of having loss of urine in public. She typically awakens once each night to void. She has not had fever, pain with urination, or blood in her urine. She says her urine stream is normal. Her temperature is 37°C (98.6°F). Physical examination, including pelvic examination, shows no abnormalities. Urinalysis shows no abnormalities. Pelvic ultrasonography shows a 3-cm, anterior, uterine mass consistent with a benign leiomyoma uteri. Which of the following is the most likely cause of this patient's incontinence?",
+    "choices": {
+      "A": "Detrusor instability",
+      "B": "Leiomyoma uteri",
+      "C": "Urethral hypermobility",
+      "D": "Urinary retention with overflow",
+      "E": "Urinary tract infection"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Urinary urgency + nocturia = urge incontinence (mainly secondary to detrusor instability). Detrusor instability may be caused by stones, infection, or in this case, a mass, where the bladder lining is irritated and produces a contraction. Incontinence in this patient is an indirect complication of the fibroid, not direct. 80% of women will have fibroids by 60, so when you see a 3 cm fibroid it shouldn't be the first think you suspect. If it had been 13 cm then yes, but 3 cm seen on US tells you nothings because it's small and US cannot differentiate between fibroid location.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-22",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 23,
+    "questionStem": "A 17-year-old primigravid patient at 41 weeks' gestation comes to the physician for a routine prenatal visit. She is accompanied by the father of the child. Pregnancy has been uncomplicated. Examination shows a uterus consistent in size with a 41-week gestation. The physician recommends initiating twice weekly nonstress testing with planned induction of labor at 42 weeks' gestation to prevent fetal morbidity and mortality. After discussing the indications, risks, and benefits of the recommended testing and induction, the patient refuses the recommendations. Which of the following is the most appropriate response?",
+    "choices": {
+      "A": "Ask the father if he agrees with the patient's decision",
+      "B": "Obtain informed consent from the patient's parents for induction of labor at 42 weeks' gestation",
+      "C": "Obtain psychiatric assessment to determine the patient's decision-making capacity",
+      "D": "Respect the patient's wishes and schedule a follow-up visit in 1 week",
+      "E": "Transfer the patient to a physician who feels comfortable with her decision"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": null,
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-23",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 24,
+    "questionStem": "A 24-year-old primigravid woman at 28 weeks' gestation is brought to the emergency department 4 hours after she felt a sudden gush of fluid from her vagina. She is concerned that her membranes have ruptured. Her pregnancy had been uncomplicated, and she has had good fetal movement and no contractions. She has no history of medical or gynecologic illness or abnormal Pap smears. Her temperature is 36.9°C (98.5°F), pulse is 64/min, and blood pressure is 110/60 mm Hg. The fundal height is 28 cm. The fetus is in a breech presentation. External fetal monitoring shows a fetal heart rate of 150/min with moderate variability. There are no uterine contractions. The uterus is nontender to palpation. Sterile speculum examination shows pooling of fluid in the vagina and a closed cervix. Nitrazine testing of the fluid is positive, and ferning is seen under the microscope. Pelvic ultrasonography shows an amniotic fluid index of 5 cm (N=8–24). After administration of intramuscular corticosteroids and intravenous antibiotics, which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Second administration of corticosteroids in 24 hours",
+      "B": "Intravenous administration of oxytocin",
+      "C": "External cephalic version",
+      "D": "Amniocentesis",
+      "E": "Immediate cesarean delivery"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Here the best option is to administer the second dose of Betamethasone (which should be given in two doses within 24 hours) In case of this option has not been listed, CHECK the gestational age (whether less than 34 weeks or more). This patient in this given scenario is 28 week gestation, presenting with preterm premature rupture of membrane (PPROM). As per UWorld recommendation, we should evaluate first for signs of infections or fetal compromise. If these were POSITIVE: start with antibiotics + corticosteroids + MgSO4 (if less than 32 weeks) + delivery If signs were NEGATIVE: start with antibiotics + corticosteroids + fetal surveillance.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-24",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 25,
+    "questionStem": "For the past 4 months, a perimenopausal 48-year-old woman has had a spontaneous intermittent serosanguineous discharge from the nipple of the left breast. No mass is palpable. Screening mammography is within normal limits. Which of the following is the most likely cause of this problem?",
+    "choices": {
+      "A": "Ductal ectasia",
+      "B": "Fibrocystic changes of the breast",
+      "C": "Intraductal carcinoma",
+      "D": "Intraductal papilloma",
+      "E": "Recurrent periareolar duct infection"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Always think of intraductal papilloma when there is spontaneous discharge. Duct ectasia has a small mass behind areola and streaks are seen on imaging.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-25",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 26,
+    "questionStem": "A 12-year-old girl is brought to the physician because of a 1-year history of progressive facial hair growth and acne. The mother reports that her daughter has grown 4 inches during the past 4 months. Breast development is Tanner stage 1, and axillary and pubic hair development are Tanner stage 3. Physical examination shows dark hair over the upper lip, cheeks, and chin. There is acne vulgaris over the cheeks. Pelvic examination shows a 2-cm vaginal canal, significant clitoromegaly, posterior labioscrotal fusion, and no cervix or palpable uterus. Abdominal ultrasonography shows bilateral gonads without follicles; there is no uterus. Chromosomal analysis is most likely to show which of the following karyotypes?",
+    "choices": {
+      "A": "45,X",
+      "B": "46,XX",
+      "C": "46,XY",
+      "D": "47,XXY",
+      "E": "47,XYY"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "5-alpha reductase deficiency. No conversion of testosterone to dihydrotestosterone, which is in charge of development of external male genitalia. They are raised as girls but in puberty due to increase in testosterone they acquire male characteristics. More: 5-alpha reductase converts testosterone to dihydrotestosterone. The latter is the most potent form, which is in charge of development of external male genitalia, male baldness, and enlargement of the prostate. Deficiency of this enzyme prenatally results in hypospadias and ambiguous genitalia.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-26",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 27,
+    "questionStem": "A 37-year-old woman, gravida 8, para 8, comes to the emergency department because of increasing vaginal bleeding over the past 5 hours. Abdominal examination shows no abnormalities. Bimanual and rectal examinations show an 8-cm mass of the upper cervix and right parametrium. No ovary is palpated separately. A CT scan shows a right hydroureter above the level of the mass. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Adenocarcinoma of the endometrium",
+      "B": "Ovarian epithelial carcinoma",
+      "C": "Peritoneal mesothelioma",
+      "D": "Squamous cell carcinoma of the cervix",
+      "E": "Transitional cell carcinoma of the bladder"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "SCC of cervix associated with benign retroperitoneal fibrosis and hydrouretere (terible triad of advanced cervical cancer is sciatic back pain, leg sweling, and hydroureter).",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "OB-2-27",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 28,
+    "questionStem": "A previously healthy 22-year-old woman comes to the physician because of a bump on her vulva for 1 week. She has been sexually active with one partner for 2 years. She uses an oral contraceptive. Examination shows multiple 0.25-cm raised, crusty papules on the posterior fourchette. A Pap smear shows low-grade squamous intraepithelial lesions. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Chancroid",
+      "B": "Chlamydia trachomatis infection",
+      "C": "Condylomata acuminata",
+      "D": "Herpes genitalis",
+      "E": "Lymphogranuloma venereum",
+      "F": "Molluscum contagiosum"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "HPV 6 and 11: genital warts. Exposure to lower grade HPV strains likely coincided with exposure to the higher grade strains that gave her the LSIL. More: Genital warts commonly manifest as flesh-colored, painless, cauliflower-like lesions (condyloma acuminata), but may also manifest as smooth, dome-shaped papules (papular warts), flat crusty papules resembling seborrheic keratosis (keratotic warts), or macular or slightly raised flat-topped papules.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-28",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 29,
+    "questionStem": "A 24-year-old primigravid woman at term is admitted to the hospital in labor. She has not been screened for group B streptococcal infection. Pregnancy has been uncomplicated. The cervix is 80% effaced and 5 cm dilated; the vertex is at +1 station. Contractions occur every 10 minutes. The membranes ruptured 12 hours ago. Examination shows areas of vaginal erythema. Cultures for group B streptococcal infection are pending. Which of the following is the most appropriate next step regarding prevention of group B streptococcal sepsis in the newborn?",
+    "choices": {
+      "A": "Antibiotic therapy if delivery has not occurred 18 hours after rupture of membranes",
+      "B": "Antibiotic therapy if the fetal heart rate exceeds 180/min",
+      "C": "Antibiotic therapy if Gram stain of amniotic fluid is positive",
+      "D": "Forceps delivery if second stage of labor exceeds 2 hours",
+      "E": "Cesarean delivery because lesions are present"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Give GBS prophylaxis if unknown status, premature, or delivery >18 hrs after RoM.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-29",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 30,
+    "questionStem": "A 32-year-old nulligravid woman comes to the physician because she has been unable to conceive for 3 years. She has had irregular menses during this time. Her last menstrual period was 11 weeks ago. She is otherwise healthy and takes no medications. She is 173 cm (5 ft 8 in) tall and weighs 90 kg (198 lb); BMI is 30 kg/m². Her blood pressure is 128/70 mm Hg. Examination shows normal hair distribution and velvety pigmented skin over the axillae. There are no adnexal masses. This patient is at increased risk for which of the following conditions?",
+    "choices": {
+      "A": "Hypercalcemia",
+      "B": "Hypercortisolism",
+      "C": "Hyperthyroidism",
+      "D": "Hypothyroidism",
+      "E": "Premature ovarian failure",
+      "F": "Type 2 diabetes mellitus"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "Acanthosis nigricans (“velvety pigmented skin”) is associated with insulin resistance.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-30",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 31,
+    "questionStem": "A 19-year-old primigravid woman at term has been in labor for 16 hours. Her membranes have been ruptured for 11 hours, and she has had nine vaginal examinations. Her temperature is 38.4°C (101.1°F), pulse is 90/min, respirations are 20/min, and blood pressure is 120/80 mm Hg. A fetal heart tracing is shown. Which of the following is most likely responsible for the results shown in the tracing?",
+    "choices": {
+      "A": "Fetal anemia",
+      "B": "Fetal head compression",
+      "C": "Maternal fever",
+      "D": "Umbilical cord compression",
+      "E": "Uteroplacental insufficiency"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Maternal fever causes fetal tachycardia.",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "OB-2-31",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 32,
+    "questionStem": "A 23-year-old woman comes to the emergency department because of the acute onset of intense, right-sided lower abdominal pain for 18 hours; the pain was initially intermittent but has been constant for 3 hours. Her last menstrual period was 6 weeks ago. Menses occur at irregular 32- to 50-day intervals. A 5 × 5 × 4-cm mass in the right adnexa was found after a mild episode of pain 3 weeks ago. She has not been sexually active for 6 months. Her temperature is 37.8°C (100°F), pulse is 100/min, respirations are 18/min, and blood pressure is 138/92 mm Hg. Abdominal examination shows tenderness in the right lower quadrant with rebound and guarding. Pelvic examination cannot be performed because of discomfort. Ultrasonography of the abdomen shows a 10 × 8 × 7-cm right-sided mass with cystic and solid components. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Appendiceal abscess",
+      "B": "Chronic ectopic pregnancy",
+      "C": "Ruptured ovarian cyst",
+      "D": "Torsion of an ovarian cyst",
+      "E": "Tubo-ovarian abscess"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "No fluid seen on US. Note: Explanation unsatisfactory.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-32",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 33,
+    "questionStem": "A 24-year-old woman, gravida 3, para 3, comes to the physician because she has not had a menstrual period since the birth of her third child 13 months ago by vaginal delivery. Delivery was complicated by postpartum hemorrhage requiring dilatation and curettage. She breast-fed the infant for 4 months. She has a long-standing history of bloating and mood changes with menses. She has no other history of serious illness. She is sexually active with her husband and uses condoms for contraception. She is 165 cm (5 ft 5 in) tall and weighs 75 kg (165 lb); BMI is 28 kg/m2. Her temperature is 36.9°C (98.5°F), pulse is 64/min, and blood pressure is 120/70 mm Hg. Examination shows a normal-sized thyroid. Breast, abdominal, and pelvic examinations show no abnormalities. Her serum thyroid-stimulating hormone, follicle-stimulating hormone, and prolactin concentrations are within the reference range. Qualitative serum β-hCG testing is negative. A progestin challenge test shows no withdrawal bleeding. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Asherman syndrome",
+      "B": "Hyperprolactinemia",
+      "C": "Hypothalamic-pituitary dysfunction",
+      "D": "Pregnancy",
+      "E": "Premature ovarian failure"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Asherman Syndrome from the D&C.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-33",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 34,
+    "questionStem": "A previously healthy 57-year-old woman comes to the physician because of a 2-month history of vulvar itching. She is otherwise asymptomatic and takes no medications. Menopause occurred 7 years ago. She has not been sexually active for 10 years. Examination shows a 1 × 1½-cm ulcerated lesion on the inner right labium majus surrounded by mild erythema; no other lesions are noted. There is no inguinal adenopathy. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Herpes simplex",
+      "B": "Hypertrophic vulvar dystrophy",
+      "C": "Lichen sclerosus",
+      "D": "Primary syphilis",
+      "E": "Vulvar carcinoma",
+      "F": "Vulvar condylomata acuminata"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "In vulvar squamous cell carcinoma, most patients present with a unifocal vulvar plaque, ulcer, or mass (fleshy, nodular, or warty) on the labia majora; the labia minora, perineum, clitoris, and mons are less frequently involved. In lichen sclerosis the patient presents with a whitish plaque.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-34",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 35,
+    "questionStem": "A 32-year-old primigravid woman at 14 weeks' gestation comes to the physician because of fever, lower pelvic pressure, and vaginal spotting for 7 days. Three years ago, she underwent two loop electrosurgical excisions of the cervical transformation zone for carcinoma in situ. Pelvic examination shows a closed cervix that is flush against the upper vagina and measures 2 cm in diameter. The uterus is consistent in size with a 14-week gestation. Pelvic ultrasonography confirms uterine size and shows a funneled lower uterine segment; the internal cervical os measures 2 cm. Which of the following is the most likely cause of this patient's vaginal bleeding?",
+    "choices": {
+      "A": "Abruptio placentae",
+      "B": "Cervical cancer",
+      "C": "Cervical incompetence",
+      "D": "Incomplete abortion",
+      "E": "Subchorionic hemorrhage"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Cervical stenosis and/or insufficiency from LEEP x2.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-35",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 36,
+    "questionStem": "A 47-year-old woman, gravida 2, para 2, comes to the physician because of a 9-month history of irregular menstrual periods and bleeding between menses. Menses now occur at 2- to 3-month intervals and last 10 days. She has hypertension. She has smoked two packs of cigarettes daily for 30 years. Her blood pressure is 160/90 mm Hg. Pelvic examination shows no abnormalities. Results of an endometrial biopsy specimen show proliferative endometrium. Which of the following is the most appropriate next step in management of this patient's irregular menstrual periods?",
+    "choices": {
+      "A": "Bromocriptine therapy",
+      "B": "Combination oral contraceptive therapy",
+      "C": "Cyclic progestin therapy",
+      "D": "Estrogen replacement therapy",
+      "E": "Laparoscopy",
+      "F": "Dilatation and curettage",
+      "G": "Myomectomy"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Endometrial hyperplasia, treat with cycle progestin therapy to shed the endometrium.",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "OB-2-36",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 37,
+    "questionStem": "A 22-year-old woman, gravida 3, para 1, aborta 1, at 33 weeks' gestation comes to the physician for a routine prenatal visit. Pregnancy has been uncomplicated, and she has received prenatal care since 7 weeks' gestation. Ultrasonography at 24 weeks' gestation showed no abnormalities. She has type 1 diabetes mellitus, and her postprandial serum glucose concentration was 95 mg/dL at 28 weeks' gestation. Her blood pressure is 110/72 mm Hg. Fundal height is 38 cm. Her blood group is A, Rh-positive. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Error in gestational age",
+      "B": "Multiple gestation",
+      "C": "Pelvic tumor",
+      "D": "Polyhydramnios",
+      "E": "Normal pregnancy variation of fundal height"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Diabetics are at risk for polyhydramnios. Q: Even when the blood sugar is control? A: HbA1c would reflect her glycemic state for longer period. Q: How to rule out error in gestational age? A: Because 1st trimester ultrasound estimates gestational age accurately and she started receiving prenatal care since 7 weeks so dating error is unlikely.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-37",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 38,
+    "questionStem": "A 17-year-old primigravid patient at 34 weeks' gestation comes to the physician for a routine prenatal visit. She missed her last appointment 2 weeks ago. Pregnancy has been uncomplicated. She notes good fetal movement and no contractions, vaginal bleeding, or loss of vaginal fluid. She has smoked two packs of cigarettes daily for 3 years and has continued to smoke throughout pregnancy. She does not drink alcohol or use illicit drugs. She is 152 cm (5 ft) tall and has gained 4.5 kg (10 lb) during her pregnancy. Her blood pressure is 100/55 mm Hg. Examination shows a fundal height of 30 cm. The fetal heart rate is 150/min. Which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "Nonstress test",
+      "B": "Fetal fibronectin test",
+      "C": "Amniocentesis for Gram stain and culture",
+      "D": "Amniocentesis for measurement of bilirubin concentration",
+      "E": "Cordocentesis for measurement of fetal hemoglobin concentration"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Smoking is a risk factor for IUGR and due to decreased fundal height, do a NST. A fetal fibronectin is done at <34 weeks of gestation together with cervical length measurement.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-38",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 39,
+    "questionStem": "A 42-year-old woman undergoes amniocentesis and is informed that the fetal karyotype is 46,XX. At birth, the full-term newborn has a phallus and scrotum. Which of the following is the most likely explanation for the discrepancy between the amniocentesis finding and the physical finding?",
+    "choices": {
+      "A": "ACTH oversecretion",
+      "B": "Androgen insensitivity syndrome",
+      "C": "Fusion of two monozygotes",
+      "D": "Lyonization of gene expression"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "CAH leading to virilization, not AIS because AIS is XY and option D is a normal process of X inactivation in females.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-39",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 40,
+    "questionStem": "A 27-year-old woman who recently emigrated from Uganda comes to the physician 14 days after she noticed a painful sore in her vagina. She has no history of serious illness or surgical procedures. Menses occur at irregular 45-day intervals. Her last menstrual period was 20 days ago. She had been sexually active with multiple partners and uses depot medroxyprogesterone. Her temperature is 38°C (100.4°F). Pelvic examination shows a raw, deep, exquisitely tender ulcer at the introitus with an uneven base and inflamed undermined margins. Which of the following is the most likely causal organism?",
+    "choices": {
+      "A": "Calymmatobacterium granulomatis",
+      "B": "Chlamydia trachomatis",
+      "C": "Haemophilus ducreyi",
+      "D": "Treponema pallidum",
+      "E": "Trichomonas vaginalis"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Chancroid due to H. ducreyi.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-40",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 41,
+    "questionStem": "A 30-year-old woman comes to the physician for a routine examination. Her last office visit was 5 years ago. Her mother had breast cancer at the age of 58 years. Her father died of a myocardial infarction at the age of 39 years. Her 36-year-old brother has type 2 diabetes mellitus. She has smoked one pack of cigarettes daily for 6 years. She uses an oral contraceptive. She is 157 cm (5 ft 2 in) tall and weighs 95 kg (210 lb); BMI is 38 kg/m².",
+    "choices": {
+      "A": "ECG",
+      "B": "Mammography",
+      "C": "Measurement of serum CA 125 concentration",
+      "D": "Measurement of serum cholesterol concentration",
+      "E": "Measurement of serum follicle-stimulating hormone concentration",
+      "F": "Test of the stool for occult blood",
+      "G": "Testing for Chlamydia trachomatis",
+      "H": "Thyroid function studies",
+      "I": "Ultrasonography of the pelvis",
+      "J": "X-ray of the chest"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Screening men: The U.S. Preventive Services Task Force (USPSTF) strongly recommends screening men 35 years and older for lipid disorders (A), men 20 to 35 years of age for lipid disorders if they are at increased risk of coronary heart disease (CHD) (B). Screening women at increased risk: The USPSTF strongly recommends screening women 45 years and older for lipid disorders if they are at increased risk of CHD (A), women 20 to 45 years of age for lipid disorders if they are at increased risk of CHD (B). Screening young men and all women not at increased risk: The USPSTF makes no recommendation for or against routine screening for lipid disorders in men 20 to 35 years of age, or in women 20 years and older who are not at increased risk of CHD (C).",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-41",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 42,
+    "questionStem": "A healthy 16-year-old girl comes to the physician because of painful menses for 3 years. Menarche was at the age of 12 years. Nonsteroidal anti-inflammatory drugs have only partially relieved the pain. She is sexually active and has had one male partner; they occasionally use condoms for contraception. She does not smoke cigarettes. Pelvic examination shows normal findings. Oral contraceptive therapy is suggested.",
+    "choices": {
+      "A": "ECG",
+      "B": "Mammography",
+      "C": "Measurement of serum CA 125 concentration",
+      "D": "Measurement of serum cholesterol concentration",
+      "E": "Measurement of serum follicle-stimulating hormone concentration",
+      "F": "Test of the stool for occult blood",
+      "G": "Testing for Chlamydia trachomatis",
+      "H": "Thyroid function studies",
+      "I": "Ultrasonography of the pelvis",
+      "J": "X-ray of the chest"
+    },
+    "correctAnswer": "G",
+    "correctExplanation": "She is sexually active with no other screening indications.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-42",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 43,
+    "questionStem": "A 32-year-old primigravid woman at 6 weeks' gestation comes to the physician because of a 3-day history of moderate vaginal bleeding. She was seen in the emergency department 1 week ago with similar symptoms. Pelvic ultrasonography at that time showed a thickened endometrial stripe and no fetal pole. Her serum β-hCG concentration was 450 mIU/mL. Today, her pulse is 80/min, and blood pressure is 110/60 mm Hg. Pelvic examination shows a closed cervix and a nontender uterus consistent in size with a 6-week gestation. There are no palpable adnexal masses. Today, her hemoglobin concentration is 11.8 g/dL, and serum β-hCG concentration is 90 mIU/mL. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Third measurement of serum β-hCG concentration in 1 week",
+      "B": "Administration of methotrexate",
+      "C": "Progesterone suppositories",
+      "D": "Admission to the hospital",
+      "E": "Endometrial biopsy"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Patient had miscarriage but is stable, thus hCG needs to be followed until it is undetectable.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-43",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 44,
+    "questionStem": "A 27-year-old primigravid woman at 30 weeks' gestation delivers a 1530-g (3-lb 6-oz) newborn. Pregnancy was complicated by premature rupture of the membranes at 25 weeks' gestation; observation prior to spontaneous labor showed little to absent amniotic fluid. Apgar scores are 3 and 1 at 1 and 5 minutes, respectively. Which of the following is the most likely explanation for the neonatal condition?",
+    "choices": {
+      "A": "Anemia",
+      "B": "Down syndrome",
+      "C": "Fetal growth restriction",
+      "D": "Gonadal dysgenesis 45,X (Turner syndrome)",
+      "E": "Hydrops",
+      "F": "Pulmonary hypoplasia"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "Pulmonary hypoplasia due to early gestational age and polyhydramnios.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-44",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 45,
+    "questionStem": "A 15-year-old girl is brought to the emergency department because of nausea, vomiting, and lower abdominal pain for 4 days. Her last menstrual period was 9 days ago. She is sexually active and does not use contraception. Her temperature is 39.7°C (103.5°F), pulse is 105/min, and blood pressure is 110/75 mm Hg. Physical examination shows bilateral lower abdominal tenderness and peritoneal signs. Pelvic examination shows copious yellow cervical discharge and exquisite uterine tenderness. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Admission to the hospital for intravenous antibiotic therapy",
+      "B": "Admission to the hospital for laparoscopy",
+      "C": "Admission to the hospital for laparotomy",
+      "D": "CT scan of the pelvis",
+      "E": "Discharge with analgesic therapy",
+      "F": "Discharge with oral antibiotic therapy only",
+      "G": "Discharge with oral and intramuscular antibiotic therapy",
+      "H": "Limited-stay observation and evaluation",
+      "I": "MRI of the pelvis",
+      "J": "Uterine evacuation in the emergency department",
+      "K": "Uterine evacuation in the operating room"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Severe presentation of (fever, nausea) is among indications for hospitalization for PID.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-45",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 46,
+    "questionStem": "An otherwise healthy 14-year-old girl is brought to the physician by her mother because of a 10-day history of profuse, green, foul-smelling vaginal discharge. Menarche was at the age of 12 years, and menses occur at regular 28-day intervals. Her last menstrual period was 3 weeks ago. She takes no medications and has no known drug allergies. She does not smoke cigarettes, drink alcohol, or use illicit drugs. She recently has had several unexcused absences from school. Her temperature is 37°C (98.6°F), pulse is 78/min, and blood pressure is 98/54 mm Hg. Breast and pubic hair development are Tanner stage 3. Abdominal examination shows no masses or tenderness. Pelvic examination shows petechiae on the vaginal mucosa, and abundant, foul-smelling, frothy green discharge in the vaginal vault; no foreign body can be visualized. There is a large ectropion on the cervix. The external genitalia, uterus, and adnexa are normal. Which of the following is the most appropriate next step?",
+    "choices": {
+      "A": "Reassurance and follow-up visit in 4 months",
+      "B": "Culture of the vaginal fluid",
+      "C": "Cytologic examination of the vaginal fluid",
+      "D": "Wet mount preparation of the vaginal fluid",
+      "E": "Cervical biopsy",
+      "F": "Vaginal wall biopsy"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "She likely has trichomoniasis. Absences from school are supposed to be a clue to sexual activity. More: Ectropion occurs when eversion of the endocervix exposes columnar epithelium to the vaginal milieu. It is common in adolescents. After adolescence, it may be observed in women who are pregnant or taking estrogen-progestin contraceptives or who had a cervical laceration during labor and delivery.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-46",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 47,
+    "questionStem": "A 32-year-old nulligravid woman comes to the physician with her 34-year-old husband because she has been unable to conceive for 3 years. Menarche was at the age of 12 years, and menses occur at regular 28-day intervals. She used an oral contraceptive for 3 years. She has had multiple sexual partners. Pelvic examination shows no abnormalities. Cervical cultures are negative. Her husband's semen analysis is within normal limits. Which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "Endometrial biopsy",
+      "B": "Hysterosalpingography",
+      "C": "Karyotype analysis",
+      "D": "Laparoscopy",
+      "E": "Measurement of serum follicle-stimulating hormone concentration",
+      "F": "Measurement of serum luteinizing hormone concentration",
+      "G": "Measurement of serum progesterone concentration",
+      "H": "Postcoital test",
+      "I": "Progesterone challenge test",
+      "J": "Sperm antibody testing"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "1.) Hysterosalpingogram is far less invasive than surgery; 2.) We know she's ovulating because she has regular cycles, no ovulation = CL = no progesterone = no progesterone withdrawal = no period. Therefore we know she has estrogen, we know she's ovulating, we know the sperm is good to go, now we just need to know if there is an anatomic abnormality and given a history of multiple partners the best test to evaluate = HSP.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-47",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 48,
+    "questionStem": "A healthy 24-year-old primigravid woman at 11 weeks' gestation comes to the physician for a routine prenatal visit. Her only medication is prenatal vitamins. Her blood pressure is 120/70 mm Hg. Examination shows no peripheral edema. The fetal heart rate is 150/min. At her first prenatal visit 4 weeks ago, laboratory studies showed: Hemoglobin 10.2 g/dL, Mean corpuscular hemoglobin 20 pg/cell, Mean corpuscular volume 72 μm³, Leukocyte count 10,900/mm³, Platelet count 140,000/mm³, Hemoglobin electrophoresis Hemoglobin A 95%. Urinalysis today shows no glucose, protein, or ketones. Which of the following is the most likely cause of these laboratory findings?",
+    "choices": {
+      "A": "Folic acid deficiency",
+      "B": "Iron deficiency",
+      "C": "Physiologic dilution of pregnancy",
+      "D": "Sickle cell disease",
+      "E": "Vitamin B₁₂ (cobalamin) deficiency"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Hypochromic (low MCH), microcytic anemia, normal HbA % = IDA.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-48",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 49,
+    "questionStem": "A 47-year-old primigravid woman at 10 weeks' gestation comes to the physician for a routine prenatal visit. She conceived following oocyte donation from her 32-year-old sister. Menopause was 3 years ago. Her pulse is 78/min, and blood pressure is 123/78 mm Hg. The uterine fundus is 15 cm above the symphysis. The fetal heart rate is 160/min. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Schedule a routine return visit",
+      "B": "Glucose tolerance test",
+      "C": "Urine culture",
+      "D": "Ultrasonography",
+      "E": "Amniocentesis"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Ultrasound is needed, but what's interesting is gestational age is for sure accurate as it is not going off of LMP since she has already experienced menopause. She was implanted with a viable fertilized egg at a known date, so ultrasound is used to evaluate why the fundal height is not matching up with her gestational age (e.g. multiple gestations).",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-49",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 50,
+    "questionStem": "Three days after a cesarean delivery because of cephalopelvic disproportion, a 27-year-old woman has a temperature of 38.4°C (101.1°F). She has no cough, shortness of breath, urinary frequency or urgency, or dysuria. Her labor lasted 18 hours. The lungs are clear to auscultation. The abdomen is soft without rebound. Examination of the incision shows erythema and induration. There is minimal tenderness of the uterus on palpation and no costovertebral angle tenderness. Laboratory studies show: Leukocyte count 14,800/mm³, Segmented neutrophils 87%, Eosinophils 3%, Lymphocytes 5%, Monocytes 5%, Urine WBC 5–10/hpf. Which of the following is the most likely cause of this patient's fever?",
+    "choices": {
+      "A": "Appendicitis",
+      "B": "Calculous cholecystitis",
+      "C": "Diverticular abscess",
+      "D": "Pneumonia",
+      "E": "Postpartum endometritis",
+      "F": "Pyelonephritis",
+      "G": "Septic pelvic thrombophlebitis",
+      "H": "Urinary tract infection",
+      "I": "Viral gastroenteritis",
+      "J": "Wound infection"
+    },
+    "correctAnswer": "J",
+    "correctExplanation": "A differential diagnosis for postpartum fever includes pulmonary or amniotic fluid embolism (dyspnea, tachycardia, V/Q mismatch), UTI/pyelonephritis (abnormal urinalysis, flank pain, CVA tenderness), endometritis (tender uterus), wound infection (wound indurated and erythematous), septic pelvic thrombophlebitis (diagnosis of exclusion – all other causes eliminated and unresponsive to antibiotics). Nothing fits her symptoms here besides a wound infection. She definitely has some sort of infection based on her fever and CBC. If her wound were “clean and dry”, then you would default to septic pelvic thrombophlebitis, which requires antibiotics and anticoagulants. In next pages, you will find the answers made by someone else but the order of answers is not same. I have left it there in case it helps you better understand the answers.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "OB-2-50",
+    "section": "OB",
+    "subsection": "CMS-2",
+    "system": null
+  }
+]

@@ -1,0 +1,991 @@
+[
+  {
+    "questionNumber": 1,
+    "questionStem": "Four days after undergoing coronary artery bypass grafting, a hospitalized 47-year-old man has the sudden onset of severe pain in his left great toe. He was admitted to the hospital 10 days ago for evaluation of chest pain with exertion, and received aspirin and heparin therapy for 3 days. Cardiac catheterization on admission showed coronary artery disease involving three vessels. The operation and initial postoperative course were uncomplicated. Vital signs are within normal limits. Examination shows a tender, cyanotic left great toe. There are new ecchymoses over the trunk and upper and lower extremities. The surgical incision appears clean and intact. The remainder of the examination shows no abnormalities. Laboratory studies show: Hematocrit 37% Leukocyte count 12,200/mm^3 Platelet count 80,000/mm^3 Prothrombin time 12 sec (INR=1) Partial thromboplastin time 18 sec Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Cholesterol embolization syndrome",
+      "B": "Disseminated intravascular coagulopathy",
+      "C": "Gout",
+      "D": "Heparin-induced thrombocytopenia",
+      "E": "Immune thrombocytopenic purpura"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "BAD QUESTION. Explanation is that severe thrombocytopenia + local skin necrosis = Dx of HIT. This is an old question so D might be the right answer here, but this question isn't compatible with the new guidelines of HIT. We use the 4T score to assess for HIT, Thrombocytopenia, Thrombosis, Timing and Other causes more likely. The timing itself is off as HIT occurs within 5-10 days and carries a 95% sensitivity and a 97% specificity for that timeframe. Secondly, if we look at the case clinically, we see multiple ecchymoses along with a cyanotic toe. A cyanotic toe is a thromboembolic phenomenon, the ecchymoses aren't - that's livedo reticularis. Given the presentation, the cause of livedo reticularis is cholesterol embolism. Lastly, Heparin doesn't reduce the PTT time, it increases it. Besides, what role does Heparin play in a CABG patient?",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-1",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 2,
+    "questionStem": "A 42-year-old man is brought to the emergency department following a motor vehicle collision. He was driving at 25 mph when his car hit a tree. He was wearing a seat belt. He briefly lost consciousness at the scene. On arrival, he is dazed but conscious. He has a head laceration and bruising over the anterior abdominal wall in the region of the seat restraint. Laboratory studies and x-rays show no abnormalities. Three days later, he vomits bilious material that tests positive for blood. He is afebrile. His abdomen is nontender but distended and tympanic to percussion. A complete blood count, serum electrolyte concentrations, amylase activity, and liver function tests are within normal limits. A flat plate x-ray shows a large gastric bubble. A CT scan of the abdomen is most likely to show which of the following?",
+    "choices": {
+      "A": "Acute cholecystitis",
+      "B": "Contained splenic rupture",
+      "C": "Duodenal hematoma",
+      "D": "Intrahepatic hematoma",
+      "E": "Splenic hematoma"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Duodenal hematomas most commonly occur following blunt abdominal trauma and are more commonly seen in children due to minor anatomic differences including thinner abdominal wall musculature and less adipose tissue. They generally occur when a blunt force rapidly compresses the duodenum against the vertebral column. Blood collects between the submucosal and muscular layers of the duodenum causing partial or complete obstruction. Patients classically present 24-36 hours after the trauma with epigastric pain and bilious vomiting. Diagnosis is confirmed by CT. Most will resolve in 1-2 weeks. Management involves decompression by NGT and often with parenteral nutrition. Surgery or percutaneous drainage may be considered to evacuate the hematoma if nonoperative management fails.",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "SURG-2-2",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 3,
+    "questionStem": "A 42-year-old woman comes to the physician because of a 2-day history of right upper abdominal pain and generalized itching. During the past 2 months, she has had three episodes of similar symptoms associated with nausea. She has not had fever or vomiting. She has no history of serious illness and takes no medications. Her current temperature is 37.3°C (99.1°F), pulse is 94/min, and blood pressure is 124/78 mm Hg. Examination shows scleral icterus. A mildly tender mass is palpated in the right upper quadrant of the abdomen. There are no peritoneal signs. Her leukocyte count is 10,000/mm3, and serum total bilirubin concentration is 6 mg/dL with a direct component of 5 mg/dL. Ultrasonography of the right upper quadrant of the abdomen shows mild distention of the gallbladder with no gallstones. A CT scan of the abdomen shows a 5-cm cystic structure medial to the gallbladder with moderate dilation of the proximal intrahepatic ducts. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Cholescintigraphy",
+      "B": "Cholecystectomy with exploration of the common bile duct",
+      "C": "Endoscopic sphincterotomy",
+      "D": "Roux-en-Y cystojejunostomy",
+      "E": "Surgical excision of the cyst"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Surgical excision of the cyst is indicated. Choledochal cysts (a.k.a. bile duct cyst) are congenital conditions involving cystic dilatation of bile ducts. They are uncommon in western countries but not as rare in East Asian nations like Japan and China. Most patients have symptoms in the first year of life. It is less common (20% of cases) for symptoms to be undetected until adulthood, and usually adults have associated complications. The classic triad of intermittent abdominal pain, jaundice, and a right upper quadrant abdominal mass is found only in a minority of patients. In infants, choledochal cysts usually lead to obstruction of the bile ducts and retention of bile. This leads to jaundice and an enlarged liver. If the obstruction is not relieved, permanent damage may occur to the liver (scarring and cirrhosis) with signs of portal hypertension (due to obstruction of blood flow through the liver) and ascites (fluid accumulation in the abdomen). There is an increased risk of cancer in the wall of the cyst. In older individuals, choledochal cysts are more likely to cause abdominal pain and intermittent episodes of jaundice and occasionally cholangitis (inflammation within the bile ducts caused by the spread of bacteria from the intestine into the bile ducts). Pancreatitis also may occur. The cause of these complications may be related to either abnormal flow of bile within the ducts or the presence of gallstones. They are classified into 5 types but that information is not contained here. The surgical treatment of choledochal cysts depends on the type of cyst. This is a \"type 1\" meaning that it is a cystic dilation of the common duct, which is treated with cystectomy > PCT drainage. For \"type 4 (or 5)\" meaning that there is cystic dilation of the intrahepatic ducts, the treatment is transplant +/- Kasai procedure).",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "SURG-2-3",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 4,
+    "questionStem": "Following a high-speed motor vehicle collision, a 23-year-old man is brought to the emergency department. He was the unrestrained driver. His blood pressure is 150/90 mm Hg. He has retrosternal and interscapular chest pain, dyspnea, and hoarseness. X-rays show fractures of the sternum and left first rib, widening of the superior mediastinum, and caudal displacement of the left main bronchus. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Flail sternum",
+      "B": "Pulmonary contusion",
+      "C": "Rupture of the esophagus",
+      "D": "Rupture of the intrathoracic trachea",
+      "E": "Rupture of the thoracic aorta"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "This patient likely has rupture of the thoracic aorta. Patients with rapid deceleration injury can have aortic injury which can lead to sudden death due to aortic rupture and exsanguination. Very few patients will have an incomplete or contained rupture. Hypotension (or hypertension), external trauma, and altered mental status are often found. These patients require chest x-ray, CT, and possibly transesophageal echo as well. Radiographic findings may include widened mediastinum, large left-sided hemothorax, deviation of the mediastinum to the right, and disruption of the normal aortic contour. Management includes antihypertensive therapy and immediate operative repair.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-4",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 5,
+    "questionStem": "A 62-year-old man comes to the physician 5 months after noticing a mass in the right side of his neck. He has a history of an enlarged thymus treated with radiation therapy during infancy. Examination shows a 4-cm, firm, nontender mass in the thyroid gland that moves with swallowing. Examination shows no other abnormalities. His serum thyroid-stimulating hormone concentration is within normal limits. Ultrasound-guided fine-needle aspiration biopsy shows a follicular neoplasm. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Thyroid function tests",
+      "B": "Thyroid scan",
+      "C": "Treatment with radioactive iodine",
+      "D": "Repeat fine-needle aspiration biopsy",
+      "E": "Thyroidectomy"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Thyroidectomy is indicated as FNA is not reliable for follicular cancers due to the high probability of false negatives and because FNA cytology cannot distinguish between follicular adenoma and carcinoma since histology showing capsular invasion is required. Thus thyroidectomy is indicated for follicular cytology. CMS - Surgery - Form 2",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "SURG-2-5",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 6,
+    "questionStem": "A previously healthy 27-year-old man comes to the physician because of a 3-month history of intermittent mild abdominal pain and diarrhea. He has had a 4.5-kg (10-lb) weight loss during this period. His temperature is 38°C (100.4°F), pulse is 72/min, and blood pressure is 114/82 mm Hg. Abdominal examination shows diffuse right lower quadrant tenderness. His hematocrit is 31%, leukocyte count is 12,700/mm³, and serum albumin concentration is 3 g/dL. The result of a barium enema is shown. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Appendicitis",
+      "B": "Colon cancer",
+      "C": "Crohn disease",
+      "D": "Diverticulitis",
+      "E": "Gastroenteritis"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "The barium x-ray shows a stricture in the terminal ileum, which is the most commonly affected area in Crohn's disease. Crohn's causes serpiginous ulceration leading to strictures, which is what has happened here. Colon cancer may also cause strictures (the \"string sign\"), but this stricture is not in the colon. His age as well as his history of mild abdominal pain and diarrhea along with his weight loss and low grade temperature elevation also point to Crohn's.",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "SURG-2-6",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 7,
+    "questionStem": "A 75-year-old man is scheduled to undergo elective repair of an abdominal aortic aneurysm. He has a history of hypertension controlled with drug therapy. Examination shows no abnormalities except for a palpable, 6-cm aortic aneurysm. An ECG shows normal findings. Which of the following studies is most appropriate to predict this patient's risk for perioperative myocardial infarction?",
+    "choices": {
+      "A": "Measurement of serum cholesterol concentration",
+      "B": "24-Hour ambulatory ECG monitoring",
+      "C": "Coronary angiography",
+      "D": "Surface echocardiography",
+      "E": "Radionuclide scan with thallium and dipyridamole"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "A Dipyridamole-Thallium scan is a myocardial perfusion study; it looks at blood supply to the heart muscle while under the relative stress of dipyridamole, which causes the coronary arteries to slightly and temporarily constrict (become narrower). Thallium is the radio-isotope used to 'light up' the blood cells. This patient has an abdominal aortic aneurysm and cannot undergo the typical stress tests. Preoperative planar dipyridamole-thallium scanning (DTS) is most useful to stratify selected nonvascular surgery patients at intermediate or high risk by clinical assessment.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-7",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 8,
+    "questionStem": "A 42-year-old man has had a 4 x 4-cm, painless ulcer over the right medial malleolus for 6 months. He has a history of deep venous thrombosis that occurred while he was hospitalized for a fracture of the right femur 20 years ago. Pedal pulses are palpable. There is 2+ edema of the right lower extremity. The left lower extremity is normal. Which of the following is the most likely cause of this ulcer?",
+    "choices": {
+      "A": "Cellulitis",
+      "B": "Lymphedema",
+      "C": "Peripheral arterial vascular disease",
+      "D": "Previous fracture and soft-tissue injury",
+      "E": "Venous valvular insufficiency"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Venous valvular insufficiency leads to pooling. Previous leg injury increases risk. Venus stasis ulcers are classically found above the medial malleolus.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-8",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 9,
+    "questionStem": "A 27-year-old man is brought to the emergency department 40 minutes after being thrown from his motorcycle into a telephone pole. He was wearing a helmet. On arrival, he is alert and oriented to person, place, and time. His temperature is 36.8°C (98.2°F), pulse is 110/min, respirations are 20/min, and blood pressure is 100/60 mm Hg. Abdominal examination shows mild distention. The pelvis is unstable. There is blood at the urethral meatus. On digital rectal examination, the prostate is not palpable. Which of the following is the most appropriate next step in evaluation of the urethral bleeding?",
+    "choices": {
+      "A": "Abdominal ultrasonography",
+      "B": "Transrectal ultrasonography",
+      "C": "CT scan of the abdomen",
+      "D": "Cystoscopy",
+      "E": "Intravenous pyelography",
+      "F": "Retrograde urethrography"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "Retrograde urethrography is faster and has largely replaced IVP (choice E) for diagnosis of urethral injury.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-9",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 10,
+    "questionStem": "A 37-year-old man comes to the physician because he and his wife have been unable to conceive for 3 years. They have unprotected sexual intercourse four to five times weekly. His wife has two healthy children from a previous marriage. On examination, the patient appears healthy and well developed. An irregular, ropy mass is palpated in the upper left hemiscrotum. The remainder of the examination shows no abnormalities. Results of a semen analysis are within the reference ranges. Which of the following is the most likely cause of this patient's infertility?",
+    "choices": {
+      "A": "Epididymitis",
+      "B": "Inguinal hernia",
+      "C": "Prostatitis",
+      "D": "Undescended testicle",
+      "E": "Varicocele"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "This patient has a varicocele. Dilated veins in the pampiniform plexus occur as a result of increased venous pressure, usually on the left (due to increased resistance from left gonadal vein drainage). If there is a thrombus or a tumor on the right, treat with varicocelectomy, if on the left, treat with embolization by interventional radiology. The stasis raises the scrotal temperature causing damage to sperm, which require slightly cooler temperatures.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-10",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 11,
+    "questionStem": "Immediately after birth, a 900-g (2-lb) newborn has difficulty breathing and requires intubation and mechanical ventilation. She was born at 30 weeks' gestation to a 15-year-old mother; pregnancy and delivery were uncomplicated. Examination of the newborn shows a harsh to-and-fro murmur consistent with patent ductus arteriosus. Pharmacologic manipulation is recommended to close the patent ductus arteriosus. Indomethacin is administered, and the murmur soon disappears. Which of the following is the most likely explanation for this patient's response to the indomethacin?",
+    "choices": {
+      "A": "Cortisol inhibition with decreased norepinephrine release",
+      "B": "Cyclo-oxygenase inhibition with increased norepinephrine release",
+      "C": "Decreased arterial oxygen tension flowing through the ductus",
+      "D": "Interleukin 2 receptor blockade to promote ductal closure",
+      "E": "Secretion of surfactant by pulmonary alveolar cells"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Indomethacin closes the PDA via cyclooxygenase inhibition with increased norepinephrine release. Indomethacin is a potent prostaglandin inhibitor and is the mainstay treatment to close a patent ductus arteriosus. Prostaglandin E1 acts as a vasodilator and can prevent the PDA from closing if necessary (e.g. if required for life due to another congenital abnormality such as transposition of the great vessels).",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-11",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 12,
+    "questionStem": "A 35-year-old woman with chronic renal failure sustains a compression fracture of T12 after falling from a curb 2 feet from the ground. Serum studies show: Ca2+ 7 mg/dL Phosphorus 11 mg/dL Creatinine 6 mg/dL Alkaline phosphatase 600 U/L Which of the following is the most likely cause of this patient's fracture?",
+    "choices": {
+      "A": "Aluminum toxicity",
+      "B": "Metastatic breast cancer",
+      "C": "Osteitis deformans (Paget disease)",
+      "D": "Primary hyperparathyroidism",
+      "E": "Secondary hyperparathyroidism"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Secondary hyperparathyroidism occurs in renal failure when the kidneys both cannot excrete sufficient phosphate and cannot produce enough vitamin D. Both lead to decreased serum calcium, triggering increased PTH release from the parathyroid glands. Untreated patients present with bone demineralization, calcification of soft tissues, accelerated vascular calcification, pruritus, and painful skin ulcerations from subcutaneous Ca2+ deposits. Remember, in primary hyperparathyroidism, calcium is and PTH are high (calcium is high because PTH is being produced excessively and without appropriate regulation); in secondary hyperparathyroidism, calcium is low and PTH is high (PTH is high because calcium is low).",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-12",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 13,
+    "questionStem": "A 42-year-old woman comes to the physician because of a 1-week history of yellow eyes, nausea, and right-sided abdominal cramps. Two months ago, she underwent a laparoscopic cholecystectomy for acute cholecystitis. Intra-operative cholangiography was not performed. She takes no medications. Vital signs are within normal limits. Examination shows scleral icterus. Cardiopulmonary examination shows no abnormalities. Abdominal examination shows right upper quadrant tenderness with no distention or peritoneal signs. Bowel sounds are normal. Serum studies show: Bilirubin, total 8 mg/dL, Direct 5 mg/dL, Alkaline phosphatase 650 U/L, AST 20 U/L, ALT 18 U/L. Which of the following is the most likely cause of this patient's jaundice?",
+    "choices": {
+      "A": "Choledocholithiasis",
+      "B": "Cirrhosis",
+      "C": "Pancreatic cancer",
+      "D": "Postoperative bile leak",
+      "E": "Primary biliary sclerosis"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "This woman has choledocholithiasis, likely due to an undiagnosed common bile duct stone. Negatives that are obviously pointed out in a stem are there for a reason. The stem says intra-operative cholangiography was not performed. There is such a thing as primary biliary cirrhosis/cholangitis, but primary biliary sclerosis (choice E) does not exist.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-13",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 14,
+    "questionStem": "A previously healthy 19-year-old woman is brought to the emergency department because of a 4-hour history of constant severe abdominal pain. Her symptoms began 3 weeks ago as intermittent, colicky pain; examination 1 week ago showed a 5-cm right ovarian cyst. Abdominal examination now shows tenderness with rebound and guarding in the right lower quadrant. There is a palpable, tender, 10-cm right adnexal mass. X-rays of the chest and abdomen show no abnormalities. Pelvic ultrasonography confirms a complex, cystic mass. Her leukocyte count is 12,000/mm³. Urinalysis shows no abnormalities. A pregnancy test is negative. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Admission to the hospital for observation",
+      "B": "Antibiotic therapy",
+      "C": "Colposcopy",
+      "D": "CT scan–guided drainage",
+      "E": "Exploratory operation"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "This is ovarian torsion until proven otherwise. Exploratory laparotomy is the next step. Management of a ruptured cyst would be admission and observation as most have an uncomplicated course, but if the cyst had ruptured, fluid would have been detected and the mass would not remain 10 cm.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-14",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 15,
+    "questionStem": "Nine days after undergoing pylorus-sparing pancreaticoduodenectomy for adenocarcinoma of the pancreas, a 62-year-old man has dyspnea. A nasogastric tube is draining 500 mL of fluid daily. Over the past 3 days, an operative drain in the right upper quadrant of the abdomen has been draining 200 mL to 300 mL of clear fluid daily. Analysis of the fluid shows an amylase activity greater than 5000 U/L. His pulse is 90/min, respirations are 24/min, and blood pressure is 130/70 mm Hg. Serum studies show: Na+ 138 mEq/L, Cl- 112 mEq/L, K+ 4.2 mEq/L, HCO3- 18 mEq/L. Arterial blood gas analysis on room air: pH 7.32, PCO2 22 mm Hg, PO2 95 mm Hg. Which of the following is the most likely mechanism of these findings?",
+    "choices": {
+      "A": "Adrenal insufficiency",
+      "B": "Inadequate renal blood flow",
+      "C": "Increased lactic acid production",
+      "D": "Injury to the renal tubules",
+      "E": "Loss of bicarbonate from the gastrointestinal tract",
+      "F": "Loss of bicarbonate through the kidneys",
+      "G": "Nasogastric suction"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Normal Anion Gap has two major differentials: GI loss and renal tubular acidosis. This patient had a pancreaticoduodenectomy (Whipple procedure) connecting the pancreas directly to the GI tract, which has resulted in loss of bicarbonate and elevated amylase as one of the specific complications of this procedure is an anastomotic leak.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-15",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 16,
+    "questionStem": "Over the past 6 weeks, a 30-year-old woman has had increasing nervousness, sweating, and difficulty sleeping; she has had a 4.5-kg (10-lb) weight loss during this period. She has noted a lump on the right side of the neck. Her pulse is 110/min, and blood pressure is 130/50 mm Hg. Examination shows a 4 × 4-cm mass on the right side of the thyroid gland; no other thyroid tissue is palpated. There are no bruits or regional adenopathy. Thyroid scan shows uptake only in the area of the nodule. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Chronic lymphocytic thyroiditis (Hashimoto disease)",
+      "B": "Follicular carcinoma of the thyroid gland",
+      "C": "Graves disease",
+      "D": "Papillary thyroid carcinoma",
+      "E": "Toxic thyroid adenoma"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "This patient has a toxic thyroid adenoma as indicated by her hyperthyroid state and solitary nodule with focal RAUI uptake (Graves’ disease produces diffuse RAIU uptake). Treatment is lobectomy with administration of beta blocker and antithyroid drugs to induce euthyroid state prior to surgery.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-16",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 17,
+    "questionStem": "Five days after undergoing incision and drainage of a left inguinal sebaceous cyst, a 57-year-old man comes to the emergency department because of an 8-hour history of moderate scrotal pain. He has type 2 diabetes mellitus, coronary artery disease, and hypercholesterolemia. His medications are a quinolone, sulfonylurea, β-adrenergic blocking agent, and statin. His temperature is 38.9°C (102°F), pulse is 120/min and regular, and blood pressure is 90/50 mm Hg. Examination of the scrotum shows edema and tenderness at the base; there is a 3-cm black surgical incision with surrounding erythema extending to and including the site of the sebaceous cyst. Laboratory studies show: Leukocyte count 21,000/mm³, Segmented neutrophils 70%, Bands 7%, Eosinophils 3%, Lymphocytes 20%, Serum Na⁺ 130 mEq/L, K⁺ 3.4 mEq/L, Cl⁻ 94 mEq/L, HCO₃⁻ 17 mEq/L, Glucose 324 mg/dL. Intravenous administration of 0.9% saline and insulin is begun. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Application of warm compresses to the operative site",
+      "B": "Hyperbaric oxygen therapy",
+      "C": "Initiation of intravenous antifungal therapy",
+      "D": "Initiation of intravenous potassium therapy",
+      "E": "Surgical debridement"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "This patient has Fournier’s gangrene, treatment is urgent (minutes count), surgical debridement is indicated.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-17",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 18,
+    "questionStem": "A 27-year-old woman is brought to the emergency department 30 minutes after she sustained a deep, 10-cm laceration to her back. Infiltration of which of the following anesthetic agents will provide the longest duration of analgesia for wound management in this patient?",
+    "choices": {
+      "A": "Bupivacaine",
+      "B": "Chloroprocaine",
+      "C": "Lidocaine",
+      "D": "Prilocaine",
+      "E": "Procaine"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": null,
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-18",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 19,
+    "questionStem": "During exploratory celiotomy, a 4 × 7-cm cystic lesion in the tail of the pancreas is found in a 46-year-old woman. Biopsy of the cyst wall shows cystadenoma. Which of the following is the most appropriate management of this lesion?",
+    "choices": {
+      "A": "Internal drainage into a Roux-en-Y limb of the jejunum",
+      "B": "Simple external drainage",
+      "C": "Distal pancreatectomy",
+      "D": "Total pancreatectomy",
+      "E": "Whipple operation"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "This is a benign lesion found in the tail of the pancreas. There is no need to take out the entire pancreas if you can avoid it. A distal pancreatomy will get rid of the mass and retain a functioning pancreas.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-19",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 20,
+    "questionStem": "A 67-year-old man is admitted to the hospital because of a 6-week history of intermittent nausea and vomiting. He has had decreased appetite resulting in a 16-kg (35-lb) weight loss during this period. He underwent a distal gastrectomy for peptic ulcer disease 35 years ago. He appears cachectic. He is 173 cm (5 ft 8 in) tall and weighs 50 kg (110 lb); BMI is 17 kg/m². His temperature is 37.2°C (99°F), pulse is 100/min, and blood pressure is 110/80 mm Hg. Examination shows severe temporal wasting. The abdomen is scaphoid; there is mild epigastric tenderness. The stool is brown, and test for occult blood is negative. Upper gastrointestinal endoscopy shows a mass filling the remaining portion of the stomach. A biopsy specimen of the mass shows adenocarcinoma. This patient is most likely to have which of the following metabolic abnormalities?",
+    "choices": {
+      "A": "Decreased lipolysis",
+      "B": "Decreased serum interleukin-6 concentration",
+      "C": "Hypertriglyceridemia",
+      "D": "Hypoglycemia",
+      "E": "Increased serum tumor necrosis factor concentration"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "The inﬂammatory cytokines involved in wasting diseases are interleukin 6, TNF-alpha, IL1B, and interferon-gamma. TNF-alpha has been shown to have direct catabolic effect on skeletal muscle and adipose tissue and produces muscle atrophy through the ubiquitin–proteasome proteolytic pathway. The mechanism involves the formation of reactive oxygen species leading to upregulation of the transcription factor NF-κB. NF-κB is a known regulator of the genes that encode cytokines, and cytokine receptors. The increased production of cytokines induces proteolysis and breakdown of myofibrillar proteins.",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "SURG-2-20",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 21,
+    "questionStem": "A 24-year-old woman is scheduled to undergo laparoscopy for evaluation of chronic pelvic pain. Four days prior to the procedure, informed consent is obtained by the physician and witnessed by her husband. On the morning of the operation, she receives a narcotic premedication. Five minutes later, she becomes panicky, stating that she is afraid and does not wish to undergo the scheduled operation. Which of the following is the most appropriate intervention?",
+    "choices": {
+      "A": "Cancel the operation",
+      "B": "Obtain the opinion of a psychiatrist regarding her competence to make decisions regarding her medical care",
+      "C": "Proceed with the operation after administering a narcotic antagonist",
+      "D": "Proceed with the operation as planned",
+      "E": "Reconfirm with her husband that she was not under the influence of narcotics when the patient signed the consent, treat the panic attack with a benzodiazepine, and proceed with the operation"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Cancel the operation. There is no reason to believe that this patient is not competent. Fear is all the reason she needs. Autonomy must be respected.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-21",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 22,
+    "questionStem": "Two days after undergoing a left carotid endarterectomy, a 62-year-old man is brought to the emergency department because of slurred speech and weakness of the right arm and leg for 1 hour. On discharge yesterday, he had a mild, persistent left-sided headache, but neurologic examination showed no focal findings. He currently takes one aspirin daily. He appears anxious and diaphoretic. His pulse is 95/min, respirations are 18/min, and blood pressure is 170/95 mm Hg. Examination shows a clean, dry, and intact left neck incision without evidence of swelling. Cranial nerves are intact. Muscle strength is 2/5 on the right and 5/5 on the left. His speech is slurred, and he is unable to name simple objects. Carotid duplex ultrasonography shows no abnormalities. A CT scan of the head shows an intraparenchymal hemorrhage. This complication is most likely a result of which of the following?",
+    "choices": {
+      "A": "Carotid thrombosis",
+      "B": "Hypertension",
+      "C": "Intracranial aneurysm",
+      "D": "Intracranial tumor",
+      "E": "Platelet dysfunction"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "HTN is a likely cause for intraparenchymal hemorrhage, along with amyloid deposition and tumors.",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "SURG-2-22",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 23,
+    "questionStem": "A 52-year-old woman comes to the physician because of three episodes of bright red bleeding during bowel movements during the past 2 weeks. She has a 10-year history of hypercholesterolemia treated with simvastatin. Her temperature is 36.8°C (98.2°F), pulse is 88/min, respirations are 18/min, and blood pressure is 139/82 mm Hg. Cardiopulmonary examination shows no abnormalities. The abdomen is soft and nontender, no masses are palpated. Rectal examination shows internal hemorrhoids that prolapse and are manually reducible. Her hemoglobin concentration is 13 g/dL, leukocyte count is 6500/mm³, and serum cholesterol concentration is 210 mg/dL. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "CT scan of the abdomen",
+      "B": "Technetium 99m scan",
+      "C": "Docusate sodium therapy",
+      "D": "Colonoscopy",
+      "E": "Hemorrhoidectomy"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Lower GI bleed in a patient 40 or older is cancer until proven otherwise even in the presence of other known causes of bleeding such as internal hemorrhoids. Do a colonoscopy to rule out cancer.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-23",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 24,
+    "questionStem": "An 18-year-old man is brought to the emergency department 10 minutes after sustaining a stab wound to the right chest. On arrival, he has shortness of breath. His pulse is 120/min, and blood pressure is 70/40 mm Hg. Breath sounds are absent on the right. The trachea is midline. The neck veins are flat. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Lobar atelectasis",
+      "B": "Massive hemothorax",
+      "C": "Pulmonary embolism",
+      "D": "Ruptured bronchus",
+      "E": "Tension pneumothorax"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "No trachea shift means Choice E is out. Choice A would not completely do away with all breath sounds on the right. Pulmonary embolism wouldn't do away with breath sounds at all at first and is usually the result of a DVT and not of a puncture wound. Ruptured bronchus would cause crepitus and lots of other things not seen here. The low BP suggests hemorrhage. Hemothorax may or may not cause tracheal deviation. Even when it does, it isn't usually significant. This is because unlike air, it doesn't cause the \"tension\" that tension pneumothorax causes.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-24",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 25,
+    "questionStem": "A previously healthy 42-year-old man comes to the physician because of a 2-day history of right knee pain and an inability to extend the right knee. The symptoms began when he was getting up from a low chair. His temperature is 37°C (98.6°F). Examination of the knee shows tenderness to palpation along the medial joint line and a joint effusion. Ligament stability is normal. Range of motion is from 15 to 110 degrees. An x-ray of the knee shows no abnormalities. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Anterior cruciate ligament injury",
+      "B": "Bursitis",
+      "C": "Chondromalacia",
+      "D": "Collateral ligament injury",
+      "E": "Patellar dislocation",
+      "F": "Patellar tendon rupture",
+      "G": "Posterior cruciate ligament injury",
+      "H": "Torn meniscus"
+    },
+    "correctAnswer": "H",
+    "correctExplanation": "Tenderness to palpation along the medial joint line with effusion should raise suspicion for a meniscal tear. Getting up from a low position is a classic presentation. Ligament stability is normal which rules out Choices A, D, F, and G.",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "SURG-2-25",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 26,
+    "questionStem": "A 67-year-old man comes to the physician because of a 1-week history of increasingly severe abdominal pain, fever, vomiting, and decreased appetite. Two years ago, he was admitted to the hospital for a similar episode. He has had intermittent left lower abdominal pain during the past 5 years. His temperature is 39.6°C (103.3°F), pulse is 105/min, respirations are 22/min, and blood pressure is 150/90 mm Hg. Abdominal examination shows left lower quadrant tenderness with rebound. The remainder of the abdomen is soft and nontender. No masses are palpated on rectal examination. Test of the stool for occult blood is negative. His leukocyte count is 21,000/mm³ with a left shift. X-rays of the abdomen show a nonspecific gas pattern. Which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "Intravenous pyelography",
+      "B": "Visceral angiography",
+      "C": "CT scan of the abdomen and pelvis",
+      "D": "Colonoscopy",
+      "E": "Exploratory laparotomy"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "The diagnosis of acute diverticulitis should be suspected in a patient with lower abdominal pain and abdominal tenderness on physical examination. The pain is usually in the left lower quadrant in Western populations but may be suprapubic or in the right lower quadrant, particularly in Asians. Laboratory findings of leukocytosis, while not sensitive or specific for acute diverticulitis, can support the diagnosis. Imaging (preferably computed tomography scan) is required to establish the diagnosis of acute diverticulitis.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-26",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 27,
+    "questionStem": "An 8-year-old girl has had the sensation that there is something in her left eye for 1 day and photophobia and decreased vision for 6 hours. Her parents have noticed that she has been frequently rubbing her left eye. Examination shows increased tearing with erythema of the conjunctiva. There are small vesicles with an erythematous base on the eyelid skin and the conjunctiva.",
+    "choices": {
+      "A": "Central retinal artery occlusion",
+      "B": "Central retinal vein occlusion",
+      "C": "Chalazion",
+      "D": "Corneal abrasion",
+      "E": "Functional blindness",
+      "F": "Glaucoma",
+      "G": "Herpes simplex conjunctivitis",
+      "H": "Hordeolum",
+      "I": "Hyphema",
+      "J": "Iridocyclitis",
+      "K": "Lens subluxation",
+      "L": "Optic neuritis",
+      "M": "Retinal detachment",
+      "N": "Retrobulbar hemorrhage",
+      "O": "Scleral rupture",
+      "P": "Temporal arteritis",
+      "Q": "Traumatic mydriasis and miosis",
+      "R": "Vitreous hemorrhage"
+    },
+    "correctAnswer": "G",
+    "correctExplanation": "Vesicular lesions in eye make herpes simplex conjunctivitis the likely diagnosis.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-27",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 28,
+    "questionStem": "For each patient with an ophthalmologic abnormality, select the most likely diagnosis. A 66-year-old woman had the acute onset of loss of vision in her right eye 1 hour ago. There is no pain or any other associated symptoms, and she has no history of previous eye problems or allergies. She has type 2 diabetes mellitus and hypertension treated with hydrochlorothiazide. Examination shows blindness in the right eye. The pupil does not react to direct light but consensually reacts to light in the opposite pupil. Ocular movement is intact in the affected eye. Ophthalmoscopic examination shows pallor of the optic disc, macular edema, thin arterioles, and sausage-like narrowing of the retinal veins.",
+    "choices": {
+      "A": "Central retinal artery occlusion",
+      "B": "Central retinal vein occlusion",
+      "C": "Chalazion",
+      "D": "Corneal abrasion",
+      "E": "Functional blindness",
+      "F": "Glaucoma",
+      "G": "Herpes simplex conjunctivitis",
+      "H": "Hordeolum",
+      "I": "Hyphema",
+      "J": "Iridocyclitis",
+      "K": "Lens subluxation",
+      "L": "Optic neuritis",
+      "M": "Retinal detachment",
+      "N": "Retrobulbar hemorrhage",
+      "O": "Scleral rupture",
+      "P": "Temporal arteritis",
+      "Q": "Traumatic mydriasis and miosis",
+      "R": "Vitreous hemorrhage"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Central retinal artery occlusion presents with acute painless monocular vision loss. The retina is cloudy with attenuated vessels and cherry red spot at fovea, in contrast to central vein occlusion which presents as retinal hemorrhage.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-28",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 29,
+    "questionStem": "A 68-year-old man has had recurrent stridor for 2 hours. Two years ago, he underwent radiation therapy for laryngeal cancer. Examination shows a bulky tumor involving the upper and middle neck bilaterally. Arterial blood gas analysis while breathing 100% oxygen shows: pH 7.32, PO2 52 mm Hg, PCO2 55 mm Hg, HCO3- 17 mEq/L. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Placement of an esophageal airway",
+      "B": "Bronchoscopy",
+      "C": "Neck irradiation",
+      "D": "Tracheostomy",
+      "E": "Laryngectomy"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "The tumor has likely returned. Maintaining an endotracheal airway will be very problematic. A tracheostomy would be below the lesion and maintain airway.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-29",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 30,
+    "questionStem": "A 37-year-old primigravid woman at 26 weeks' gestation comes to the physician for a routine prenatal visit. She has a 12-month history of pain of the left wrist with occasional numbness of the palm. She uses a computer keyboard every day at work and at home. Her symptoms were previously alleviated with regular breaks from keyboard use and occasional use of ibuprofen but have become more difficult to control during her pregnancy. Her pregnancy has been otherwise uncomplicated. There is tingling of the index and middle fingers of the left hand with percussion of the volar wrist. The remainder of the examination shows no abnormalities. Pelvic examination shows a uterus consistent in size with a 26-week gestation. Which of the following is most likely to confirm the diagnosis?",
+    "choices": {
+      "A": "X-rays of the hands and wrists",
+      "B": "Electromyography",
+      "C": "MRI of the hands and wrists",
+      "D": "Arthroscopy of the wrist joints",
+      "E": "Nerve conduction studies"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Nerve conduction study is first line for evaluating carpal tunnel syndrome. EMG would be supporting but not definitively confirm the diagnosis as the muscle wasting could theoretically be from another cause.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-30",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 31,
+    "questionStem": "An 87-year-old man comes to the physician as a new patient. He has had three episodes of pneumonia over the past 6 months; his last episode 2 months ago required treatment in the hospital. His wife reports that over the past year he has had increasingly bad breath. He appears well but has halitosis. The remainder of the examination shows no abnormalities. A complete blood count, serum electrolyte concentrations, and liver function tests show no abnormalities. An x-ray of the chest shows scarring at the right lung base. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Achalasia",
+      "B": "Carcinoma of the cervical esophagus",
+      "C": "Carcinoma of the right lung",
+      "D": "Cerebral infarction with bulbar palsy",
+      "E": "Pharyngoesophageal (Zenker) diverticulum"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Pharyngoesophageal (Zenker) diverticulum commonly presents with halitosis and recurrent aspiration pneumonia.",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "SURG-2-31",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 32,
+    "questionStem": "A 37-year-old man is brought to the emergency department 30 minutes after being involved in a motor vehicle collision. On arrival, he reports abdominal pain. His pulse is 84/min, respirations are 18/min, and blood pressure is 110/82 mm Hg. Abdominal examination shows diffuse tenderness. Bowel sounds are decreased. A supine x-ray of the chest is shown. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Gastric perforation",
+      "B": "Lung abscess",
+      "C": "Pneumopericardium",
+      "D": "Pneumothorax",
+      "E": "Ruptured diaphragm"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "This patient has a ruptured diaphragm with the GI tract where it shouldn't be well above the level of the right diaphragm.",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "SURG-2-32",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 33,
+    "questionStem": "A 56-year-old woman has a 3-month history of excessive sweating, nervousness, tremors, tachycardia, and hunger. Her symptoms are worsened by fasting. Selective angiography shows a 1-cm tumor in the tail of the pancreas. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Carcinoid",
+      "B": "Glucagonoma",
+      "C": "Insulinoma",
+      "D": "Somatostatinoma",
+      "E": "Vipoma"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Insulinoma produces many of the same symptoms as hypoglycemia. Insulinomas are tumors of the pancreas that produce excessive amounts of insulin leading to low blood sugar (<50). They are more common in women, are usually small (<2 cm), and more than 90% are benign (non-cancerous).",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-33",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 34,
+    "questionStem": "A 77-year-old resident of a skilled nursing care facility is brought to the emergency department because of fever and vomiting for the past 2 days. She is alert but is unable to give a history. She asks repeatedly for a drink of water. Her temperature is 38.6°C (101.5°F), and blood pressure is 100/60 mm Hg. Examination shows a distended, nontender abdomen with sparse high-pitched bowel sounds. A supine x-ray of the abdomen shows multiple dilated loops of small bowel and gas within the small-bowel lumen and within the liver. Which of the following is the most likely cause of these findings?",
+    "choices": {
+      "A": "Bacterial cholangitis caused by Klebsiella pneumoniae",
+      "B": "Cholecystoduodenal fistula with an impacted gallstone",
+      "C": "Emphysematous cholecystitis with an intrahepatic perforation",
+      "D": "Perforated duodenal ulcer with a subhepatic abscess",
+      "E": "Pylephlebitis caused by sigmoid diverticulitis"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "This patient has cholecystoduodenal fistula with an impacted gallstone, i.e. gallstone ileus. Pneumobilia usually can be distinguished from air in the portal venous system by its appearance on computed tomography (CT) scan. The most common conditions associated with pneumobilia include a biliary-enteric surgical anastomosis, an incompetent sphincter of Oddi, or a spontaneous biliary-enteric fistula, which is what we see here. The stone has become impacted at the ileocecal valve, resulting in the obstruction.",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "SURG-2-34",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 35,
+    "questionStem": "A 57-year-old man comes to the physician because of a 2-month history of difficulty swallowing. He says that food gets stuck when he swallows, and he has been drinking more water to help with this. He has moderate discomfort when he has to make an effort to swallow. He has no history of serious illness and takes no medications. He has smoked two packs of cigarettes daily for 40 years. He has a long-standing history of drinking five alcoholic beverages daily. Examination shows no abnormalities. A chest x-ray shows no abnormalities. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "CT scan of the chest",
+      "B": "CT scan of the neck and chest",
+      "C": "Two-month trial of high doses of omeprazole",
+      "D": "Esophageal manometry",
+      "E": "Esophagogastroduodenoscopy"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Esophagogastroduodenoscopy is indicated. When solids get \"stuck\" more so than liquids, we should look for cancer. When liquids are more difficult to swallow than solids, look for other etiologies. This patient has several risk factors for squamous cell cancer of the esophagus and EGD to investigate/biopsy is warranted.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-35",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 36,
+    "questionStem": "An 80-year-old woman with atherosclerosis and chronic atrial fibrillation has had severe midabdominal pain for 4 hours. Examination shows mild abdominal tenderness and absent bowel sounds; there are no masses or signs of peritoneal irritation. Test of the stool for occult blood is positive. Leukocyte count is 28,340/mm³ with 65% segmented neutrophils, 20% bands, and 15% lymphocytes. Arterial blood gas analysis on room air shows: pH 7.18, PCO₂ 35 mm Hg, PO₂ 62 mm Hg. An x-ray of the abdomen shows a nonspecific gas pattern. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Colonoscopy",
+      "B": "Exploratory celiotomy",
+      "C": "Gastroscopy",
+      "D": "Laparoscopy",
+      "E": "Peritoneal lavage"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Very high WBC count in the presence of silent bowel is very concerning for acute mesenteric ischemia. A patient with a history of AFIB is likely to throw an embolism occluding the SMA. The metabolic acidosis is consistent with this theory. Exploratory celiotomy (i.e. exploratory laparotomy) is warranted immediately.",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "SURG-2-36",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 37,
+    "questionStem": "A 67-year-old woman has the onset of dyspnea, myalgias, and flank pain during transfusion of a second unit of packed red blood cells immediately after a colon resection for colon cancer. Intraoperative blood loss was 1200 mL. There is blood in the surgical drain, and the urine is dark. Her postoperative hematocrit was 21%. Which of the following tests is most likely to establish the diagnosis?",
+    "choices": {
+      "A": "Aerobic and anaerobic blood cultures",
+      "B": "Arterial blood gas analysis",
+      "C": "Measurement of hemoglobin concentration",
+      "D": "Repeat typing and crossmatching of the transfused blood",
+      "E": "Screening for disseminated intravascular coagulation"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Repeat typing and crossmatching of the transfused blood is indicated. The patient is having an acute hemolytic reaction to the infused blood products due to ABO incompatibility. A Coombs test will confirm diagnosis.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-37",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 38,
+    "questionStem": "A 42-year-old woman comes to the physician for a routine examination. She has a 10-year history of intermittent palpitations. Her symptoms last a few minutes and are not accompanied by chest pain, shortness of breath, or light-headedness; they are exacerbated by stress and caffeine. She has never taken her pulse during these episodes. She is an avid rock climber and mountain biker and does not recall any episodes during these activities. She does not smoke or drink alcohol. She is 173 cm (5 ft 8 in) tall and weighs 61 kg (135 lb); BMI is 21 kg/m2. Her pulse is 64/min and regular, and blood pressure is 118/76 mm Hg. The lungs are clear to auscultation. Cardiac examination shows a midsystolic click heard best at the apex. The abdomen is scaphoid with normal bowel sounds. A resting ECG shows no abnormalities. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Atrial fibrillation",
+      "B": "Hyperthyroidism",
+      "C": "Mitral regurgitation",
+      "D": "Mitral valve prolapse",
+      "E": "Panic attack",
+      "F": "Premature ventricular contractions"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Mid-systolic click at the apex indicates mitral valve prolapse (MVP). The rest of the stem is just supporting this diagnosis.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-38",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 39,
+    "questionStem": "A 57-year-old woman comes to the emergency department because of a 1-day history of fever, chills, and generalized weakness. She underwent splenectomy for immune thrombocytopenic purpura 10 years ago. At that time, she received 4 units of packed red blood cells and all recommended vaccines. She has not seen a physician for 9 years. She takes no medications. She does not smoke or drink alcohol. She appears weak but answers questions appropriately. Her temperature is 39.3°C (102.8°F), pulse is 100/min, respirations are 20/min, and blood pressure is 80/50 mm Hg. Crackles are heard at the right lung base. A grade 1/6 systolic murmur is heard best at the upper left sternal border. The remainder of the examination shows no abnormalities. Laboratory studies show: Hemoglobin 12.5 g/dL, Leukocyte count 18,500/mm³, Segmented neutrophils 85%, Bands 10%, Lymphocytes 5%, Platelet count 125,000/mm³. A blood smear shows Howell-Jolly bodies. An x-ray of the chest shows a consolidation in the right lower lobe of the lung. In addition to intravenous administration of fluids, which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Ceftriaxone and vancomycin therapy",
+      "B": "Imipenem therapy",
+      "C": "Quinine and clindamycin therapy",
+      "D": "Trimethoprim-sulfamethoxazole therapy",
+      "E": "Plasmapheresis"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Antibiotic coverage for asplenic patients with sepsis should cover encapsulated bacteria (Ceftriaxone). Vancomycin should be administered for all the regular players as well. Her immunizations need updated.",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "SURG-2-39",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 40,
+    "questionStem": "A 67-year-old postal worker comes to the physician 1 day after a 5-minute episode of weakness and numbness in his right (dominant) hand while at work. He did not have visual problems, headache, or weakness or numbness of the lower extremities. He is currently asymptomatic. He has smoked one pack of cigarettes daily for 45 years. He has not seen a physician in 40 years. His pulse is 85/min and irregular, and blood pressure is 140/90 mm Hg. The lungs are clear to auscultation. Pulses are palpable. Carotid bruits are heard bilaterally. Heart sounds are normal except for frequent premature beats. Neurologic examination shows no abnormalities. An ECG shows a normal sinus rhythm with multiple atrial premature contractions. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Echocardiography",
+      "B": "Carotid duplex ultrasonography",
+      "C": "Heparin therapy",
+      "D": "Tissue plasminogen activator therapy",
+      "E": "Warfarin therapy"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "REMOVED QUESTION. Carotid duplex ultrasonography is indicated to confirm TIA from carotid artery atherosclerosis.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-40",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 41,
+    "questionStem": "A 76-year-old man sustained a fracture of the midshaft of the right femur during a motor vehicle collision. In the emergency department, the circumference of his right thigh is two times greater than the left. His pulse is 120/min and regular, respirations are 16/min, and blood pressure is 80/60 mm Hg. A large-bore intravenous catheter is inserted for fluid and blood infusion, and a Foley catheter is inserted. Which of the following findings best indicates adequate resuscitation in this patient?",
+    "choices": {
+      "A": "Decreased pulse to 90/min",
+      "B": "Decreased respirations to 12/min",
+      "C": "Increased systolic blood pressure to 100 mm Hg or greater",
+      "D": "Urine output of 30–40 mL/h",
+      "E": "Normal capillary filling pressure"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Urine output is one of the best indications of adequate resuscitation. The average male should put out a total of 0.5 to 1.0 mL of urine per kg per hour. For a 70 kg male that will be 35-70 mL/hr. Pulse is not as reliable because it may be elevated for reasons other than hypovolemia.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-41",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 42,
+    "questionStem": "A 28-year-old woman comes to the physician for a routine examination. She has been in excellent health and takes no medications. She has recently gained 36 kg (80 lb), which she attributes to stress associated with a divorce. She is 163 cm (5 ft 4 in) tall and weighs 106 kg (235 lb); BMI is 40 kg/m². Blood pressure is 130/85 mm Hg. Her obesity places her at greatest risk for developing which of the following conditions over the next 5 years?",
+    "choices": {
+      "A": "Cholecystitis",
+      "B": "Diverticulosis",
+      "C": "Irritable bowel syndrome",
+      "D": "Pancreatitis",
+      "E": "Peptic ulcer disease"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Obesity is a risk for cholecystitis. Remember the F's: Female, Fat, Forties, Fertile. This is an obese female.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-42",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 43,
+    "questionStem": "A 27-year-old man is brought to the emergency department 25 minutes after a motor vehicle collision in which he was the unrestrained driver. On arrival, his Glasgow Coma Scale score is 5. His pulse is 150/min, respirations are 15/min and shallow, and blood pressure is 165/90 mm Hg. The right pupil is 6 mm, and the left pupil is 4 mm. There is minimal response to noxious stimuli. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "CT scan of the head",
+      "B": "Intravenous administration of labetalol",
+      "C": "Intubation and hyperventilation",
+      "D": "EEG",
+      "E": "Lumbar puncture"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Intubation and hyperventilation are indicated. Remember the rhyme: If GCS is less than 8, first thing you do is intubate. Hyperventilate to decrease ICP via intracerebral vasoconstriction due to decreased PaCO2.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-43",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 44,
+    "questionStem": "An otherwise healthy 30-year-old man has had an acneiform infection of the left axilla for 2 weeks. He has had previous infections in the same region and groin area. Examination shows acute inflammatory changes with purulent drainage from small sinus openings along the indurated skin of the axilla. There are multiple sinus openings along both groins and the right axilla. This infection most likely involves which of the following?",
+    "choices": {
+      "A": "Apocrine glands",
+      "B": "Eccrine glands",
+      "C": "Hair follicles",
+      "D": "Lymph nodes",
+      "E": "Sebaceous glands"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "BAD QUESTION (based on outdated information). The pathogenesis of hidradenitis suppurativa is not fully understood. However, an explosion of research has led to greater understanding of the processes involved. As opposed to early theories that implicated apocrine glands as the primary contributors to HS/AI, most authors now support follicle-centered theories for the pathogenesis of HS/AI. Follicular occlusion, follicular rupture, and an associated immune response appear to be important events in the development of the clinical manifestations of HS/AI (UTD).",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-44",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 45,
+    "questionStem": "While receiving radiation therapy for a glioma in the right parietotemporal area, a 62-year-old man has the onset of severe abdominal pain. He is being treated with corticosteroids for cerebral edema and intravenous fluids for nausea and vomiting. Bowel sounds are minimal. There is tenderness in all four quadrants of the abdomen. An x-ray of the abdomen shows free air under the diaphragm. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Upper gastrointestinal series with soluble contrast",
+      "B": "Water-soluble contrast enema",
+      "C": "CT scan of the head",
+      "D": "Upper endoscopy",
+      "E": "Laparotomy"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "This patient has a Cushing ulcer from increased intracranial pressure. This is caused by direct stimulation of vagal nuclei from increased intracranial pressure (cerebral edema in this patient). Since it seems like the ulcer has perforated (free air under the diaphragm), laparotomy is indicated.",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "SURG-2-45",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 46,
+    "questionStem": "A 47-year-old man has had the pearly surfaced papule shown on the upper lip for 18 months. He is otherwise asymptomatic. Examination shows some telangiectatic matting over the lesion. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Basal cell carcinoma",
+      "B": "Blue nevus",
+      "C": "Epidermoid cyst",
+      "D": "Keratocanthoma",
+      "E": "Melanoma",
+      "F": "Seborrheic keratosis",
+      "G": "Squamous cell carcinoma"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "This is a basal cell carcinoma. \"Pearly\" is usually enough to suspect basal cell. Squamous cell is usually seen below the mouth (classically on the bottom lip), while basal cell is seen on the head at the level above the mouth. Mnemonic: Basal Nasal, Squamous Squats (lower lip)",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "SURG-2-46",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 47,
+    "questionStem": "A previously healthy 15-year-old boy has the sudden onset of anterior right-sided chest pain. His temperature is 36.9°C (98.4°F), pulse is 90/min, respirations are 18/min, and blood pressure is 110/70 mm Hg. Examination shows no abnormalities. X-rays of the chest show a small, right pneumothorax. Which of the following is the most appropriate next step in evaluation?",
+    "choices": {
+      "A": "Observation",
+      "B": "Pulmonary function tests",
+      "C": "CT scan of the chest",
+      "D": "Ventilation-perfusion lung scans",
+      "E": "Bronchoscopy"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Observation is warranted. Tall, skinny boys are particularly susceptible to spontaneous pneumothorax. But it typically resolves on its own in 3-5 days.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-47",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 48,
+    "questionStem": "A 72-year-old woman is brought to the emergency department 48 hours after slipping on a rug and falling. Her son found her lying on the floor. On arrival, she has severe pain of the right hip and thigh. Her pulse is 126/min, respirations are 30/min, and blood pressure is 80/40 mm Hg. There is marked external rotation and shortening of the right lower extremity. Pedal pulses are present. There is a normal sinus rhythm. Which of the following is the most likely cause of her hemodynamic status?",
+    "choices": {
+      "A": "Fat embolism",
+      "B": "Hypovolemia",
+      "C": "Myocardial infarction",
+      "D": "Pulmonary embolism",
+      "E": "Reaction to pain"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "This patient likely has hypovolemia due to dehydration as she was found 48 hours after her accident. Signs of hypovolemia include hypotension, tachycardia, diaphoresis, cool, clammy extremities, decreased right atrial pressure and PCWP, increased SVR, decreased cardiac output (due to loss of circulating blood volume from hemorrhage or interstitial from bowel obstruction), excessive vomiting or diarrhea, and polyuria.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "SURG-2-48",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 49,
+    "questionStem": "A hospitalized 15-year-old girl has had progressive shortness of breath for 2 hours. She underwent an appendectomy yesterday and has not been out of bed since then. She has had a mild dry cough but no chest pain. Two liters of 0.9% saline have been administered over the past 24 hours. She is alert. Her temperature is 37.7°C (99.8°F), pulse is 90/min and regular, respirations are 22/min, and blood pressure is 105/64 mm Hg. There is no jugular venous distention. Breath sounds are decreased. There is dullness to percussion over the right midlung field with egophony. No wheezes are heard. A grade 3/6 holosystolic murmur is heard best at the left sternal border with radiation to the axilla. There are no gallops. X-rays of the chest are shown. Which of the following is the most likely underlying mechanism of this patient's shortness of breath?",
+    "choices": {
+      "A": "Acute thrombosis of the right pulmonary artery",
+      "B": "Aspiration of gastric contents during preoperative intubation",
+      "C": "Collapse of the right middle lobe of the lung from decreased inspiratory effort",
+      "D": "Postoperative infection with hospital-acquired organisms",
+      "E": "Severe mitral regurgitation with perioperative volume overload"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "This patient likely has collapse of the right middle lobe of the lung from decreased inspiratory effort. Atelectasis is a complication most often found in the first post-operative day. The x-ray is consistent with this diagnosis as well.",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "SURG-2-49",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 50,
+    "questionStem": "A 19-year-old man comes to the emergency department because of severe generalized abdominal pain for 12 hours. He has had increasing episodes of diarrhea for 6 weeks and bloody diarrhea for 4 days. He has had no bowel movements since the onset of abdominal pain. He appears pale and ill. His temperature is 38.9°C (102°F), and pulse is 144/min. Abdominal examination shows diffuse tenderness with hypoactive bowel sounds. Rectal examination shows bloody stool. An x-ray of the abdomen shows a transverse colon 8 cm in diameter but no free air. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Angiodysplasia of the colon",
+      "B": "Antibiotic-associated colitis",
+      "C": "Arteriovenous malformation of the colon",
+      "D": "Diverticulitis",
+      "E": "Ischemic colitis",
+      "F": "Pseudomembranous colitis",
+      "G": "Rectal carcinoid",
+      "H": "Ulcerative colitis",
+      "I": "Volvulus of the colon"
+    },
+    "correctAnswer": "H",
+    "correctExplanation": "This patient has developed toxic megacolon (diameter >6 cm) as a complication of ulcerative colitis, which is one of the few diseases that can cause diarrhea for 6 weeks in an immunocompetent patient. In next pages, you will find the answers made by someone else but the order of answers is not same. I have left it there in case it helps you better understand the answers.",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "SURG-2-50",
+    "section": "SURG",
+    "subsection": "CMS-2",
+    "system": null
+  }
+]

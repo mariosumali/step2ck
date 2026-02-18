@@ -1,0 +1,851 @@
+[
+  {
+    "questionNumber": 1,
+    "questionStem": "A 67-year-o ld woman comes to the physician because of a 1-month history of diffuse abdominal cramps and worsening constipation. Her last bowel movement was 4 days ago, and the stool was hard. She has a long-standing history of constipation. She typically has one bowel movement every other day, but this pattern varies from two bowel movements daily to one bowel movement weekly. She has stopped using a laxative because of diarrhea resulting in fecal incontinence. Colonoscopy 3 years ago showed no abnorma lities. She has major depressive disorder with anxiety treated with sertraline and lorazepam . She does not appear to be in distress. Her temperature is 37.2°C (99°F), pulse is 88/min, respirations are 18/min, and blood pressure is 152/84 mm Hg. The abdomen is soft, nondistended, and nontender. Bowel sounds are decreased. Rectal exam ination shows no masses or stool; test of the stool for occult blood is negative. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "X-rays of the abdomen",
+      "B": "CT scan of the abdomen and pelvis",
+      "C": "Discontinuation of lorazepam",
+      "D": "Discontinuation of sertraline",
+      "E": "Trial of acidophilus",
+      "F": "Trial of fiber supplementation",
+      "G": "Colonoscopy"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "Irritable bowel syndrome (IBS) is diagnosed using the Rome-IV criteria, which includes the presence of abdominal pain at least once weekly that is associated with (generally relieved by) defecation, along with a change in stool appearance, or stool frequency (at least two of three is required). IBS is further subdivided into IBS with constipation (IBS-C), with diarrhea (IBS-D), or mixed (IBS-M). IBS often presents with intermittent abdominal pain that is relieved by bowel movements and associated alterations in bowel habits with intermittent episodes of diarrhea and/or constipation. Stress management may improve bowel habits in patients with IBS, which is often associated with concomitant anxiety. In this patient, fiber supplementation may help with constipation and improve regularity of bowel movements. Features that are suggestive of underlying organic pathology rather than IBS include the presence of occult blood or melena, nocturnal diarrhea, worsening abdominal pain, weight loss, or a family history of inflammatory bowel disease or colon cancer.",
+    "incorrectExplanation": "nd G. X-rays of the abdomen (Choice A) can show increased stool burden in patients with constipation but would not change management. X­ rays are poorly sensitive and nonspecific for bowel pathology and would not be appropriate in this patient. CT scan of the abdomen and pelvis (Choice B) would be appropriate in patients with acute abdominal pain and an abdominal examination concerning for intra-abdominal pathology, such as in patients with fever, vomiting, focal abdominal tenderness, rigidity, --- -- ---- -- - -- -- - - -- - -- - - - -- - - -- --- ·",
+    "image": null,
+    "id": "FM-2-1",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 2,
+    "questionStem": "A previous ly healthy 4-year-o ld girl is brought to the physician because of a sore throat and temperatures to 38.8°C (101.8°F) over the past 24 hours. She attends preschool, and several other students have similar symptoms. She appears ill. Examination shows erythema of the tonsils with exudate. The remainder of the examination shows no abnormalities. A rapid streptococca l antigen test is negative, but throat cultures grow Streptococcus pyogenes (group A). Which of the following character istics of the rapid streptococcal antigen test best explains these results?",
+    "choices": {
+      "A": "Low likelihood ratio",
+      "B": "Low negative predictive value",
+      "C": "Low positive predictive value",
+      "D": "Low sensitivit Yi",
+      "E": "Low specificity"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "The rapid streptococcal antigen test results in this case of streptococcal pharyngitis are best explained by a low sensitivity of the test. Sensitivity is the ability of a test to detect a disease if it is present. A test is described as sensitive if it has a high likelihood of disease detection and therefore a low likelihood of a false negative. A test with poor sensitivity, if negative, does not provide strong evidence or confidence that the patient does not have the disease. In contrast, a highly sensitive test allows the clinician and the patient to be confident that a negative test means that the patient is disease free. In the case described, the rapid streptococcal antigen test demonstrates a low sensitivity and is of limited use to the physician for ruling out a streptococcal infection. However, the test is still useful because, if positive, it will prevent a more expensive and involved test from being required.",
+    "incorrectExplanation": "nd E. Likelihood ratios are ratios of either the true positive rate to false positive rate or false negative rate to true negative rate. In this case, the test's low sensitivity, not its low likelihood ratio (Choice A), best explains the results. Low negative predictive value (Choice B) indicates a low probability that a patient with a negative test result truly does not have the disease. In this case, because the patient's true disease status is known rather than just predicted, negative predictive value is not applicable. Since this patient's rapid streptococca l antigen test was negative, a low positive predictive value (Choice C) is not applicable in this case. Positive predictive value is the likelihood that a person has a disease, given a positive test. A positive predictive value is of greater importance in confirmatory testing. Low specificity (Choice E) describes a test that is subject to false-positive errors, meaning that a positive test does not have a high",
+    "image": null,
+    "id": "FM-2-2",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 3,
+    "questionStem": "A 42-year-o ld woman comes to the physician because of a 1-day history of severe pain, swelling, and warmth in her left knee. Her pain is moderately relieved with ibuprofen use. She notes that she awoke with the pain 1 day after she did an aerob ic kickboxing workout. Her temperatu re is 37.2°C (99°F), pulse is 86/min, and blood pressure is 120/70 mm Hg. The upper aspect of the left knee is erythematous and warm to the touch with an effusion. Range of motion is limited by pain. The remainder of the exam ination shows no abnormalities. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Reassurance",
+      "B": "Application of a knee brace and ice and elevation",
+      "C": "MRI of the knees",
+      "D": "Intravenous antibiotic therapy",
+      "E": "Arthrocentesis"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Pseudogout results from calcium pyrophosphate crystalline deposition within the joint space and may manifest acutely following trauma, surgery, or extreme exertion. Crystalline deposition provokes an inflammatory response, leading to the classic presentation of joint pain, erythema, effusion, calor, and a reduced range of motion. Pseudogout most commonly affects the knee. Arthrocentesis is both therapeutic and diagnostic, as it allows for the sampling of synovial fluid that may show the presence of calcium pyrophosphate crystals and an increased concentration of leukocytes. Additionally, arthrocentesis is necessary to rule out the presence of septic arthritis or hemarthrosis given the patient's presentation of monoarticular erythema and swelling. These competing diagnoses cannot be excluded on point-in-time clinical features alone. Plain film x-rays may show chondroca lcinosis and degenerative joint changes. First-line medical management includes nonsteroidal anti-inflammatory drugs and colchicine.",
+    "incorrectExplanation": "nd D. Reassurance (Choice A) alone will lead to a prolonged period of pain and joint disability. Arthrocentesis is necessary as it assists in alleviating symptoms, excluding alternate diagnoses, and establishing the diagnosis of pseudogout. Application of a knee brace and ice and elevation (Choice B) are useful supportive measures, but they are less effective at reducing pain in pseudogout than arthrocentesis; they also do not facilitate diagnosis or exclusion of alternate diagnoses. This would be an appropriate initial treatment in knee sprain, ligamentous or meniscal injury, or traumatic hemarthrosis. MRI of the knees (Choice C) is less sensitive for the detection of crystals within the joint space than plain film x-rays and is not common ly used for the diagnosis of pseudogout. MRI would be an appropriate study if a meniscal tear were suspected. - - - - - - - - - - - - - - - - - - - .",
+    "image": null,
+    "id": "FM-2-3",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 4,
+    "questionStem": "A healthy 14-year-old girl is brought for a routine health maintenance examination. On questioning, she says that she has been sexually active with her boyfriend of 6 months. She says that they use condoms consistently and she takes an oral contracept ive. She has smoked one pack of cigarettes week ly for 1 year and drinks beer and wine occasionally at weekend parties. Physical examination shows no abnorma lities. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Inform her about the long-term health consequences of smoking",
+      "B": "Inquire about her attitudes toward smoking and health",
+      "C": "Schedule a meeting to speak to her parents about her smoking",
+      "D": "Prescribe a nicotine patch for smoking cessation",
+      "E": "Prescribe sustained-release bupropion for smoking cessation"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "The most appropriate next step in the management of this patient is to open a discussion about her use of cigarettes and alcohol by inquiring about her attitudes toward smoking and health. By starting the discussion with an open-ended question, the physician will gain insight into the patient's motivation for smoking and the patient's overall understanding of the impact of smoking on her health. This will allow the physician to direct the conversation further in a way that is most likely to garner change in this adolescent. The physician should be direct and clear in explaining the risks of smoking without making the patient feel guilty or defensive. Motivationa l interviewing, a technique in which the physician determines the patient's willingness and motivation to change, may also be a helpful strategy.",
+    "incorrectExplanation": "nd E. Opening a discussion on smoking by informing her about the long-term health consequences (Choice A) may cause the patient to become defensive or annoyed. This will be less effective in creating a partnership between the physician and patient. Teenagers may be less motivated by long-term consequences than those that affect their immediate lives; discussing the impact on appearance, friends, relationship partners, and school may be more impactful, though this is situationally dependent. Scheduling a meeting to speak to her parents about her smoking (Choice C) is not appropriate as the physician is obligated to protect the patient's confidentiality, even though she is an adolescent. Exceptions to adolescent confidentiality are permitted in situations of child abuse, suicidality, homicidal ideation, mental health care, and, in some cases, when a patient consents to an abortion. Confidentiality laws vary by state, and physicians should be familiar with local statutes. Discussing the patient's smoking habits with her parents before discussing it with the patient is not appropriate. Prescribing a nicotine patch (Choice D) or prescribing sustained-release bupropion for smoking cessation (Choice E) may be warranted - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - -- - - - - - - - - - - - - - - -- - - - - - - - - - - - .",
+    "image": null,
+    "id": "FM-2-4",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 5,
+    "questionStem": "A healthy 52-year-old woman comes to the physician because she is concerned about her risk for developing thyroid cancer. Her father was just diagnosed with papillary carcinoma of the thyroid gland. She takes no medications. Examination shows no abnormalities. Which of the following is the most appropriate screening test for this patient?",
+    "choices": {
+      "A": "Palpation of the thyroid gland",
+      "B": "Measurement of serum thyroid antibodies",
+      "C": "1231 scintigraphy of the thyroid gland",
+      "D": "Ultrasonography of the thyroid gland",
+      "E": "CT scan of the thyroid gland"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "The most appropriate initial screening for thyroid cancer includes a thorough history and a physical examination directed toward the identification of palpable thyroid nodules, regional lymphadenopathy, or vocal hoarseness. Following a physical examination, evaluation of the serum concentration of thyroid-stimulating hormone (TSH) may disclose a normal or increased TSH concentration in the setting of a nonfunctioning nodule. Hyperfunctioning nodules are rarely malignant and may be detected via a decreased TSH concentration or with radioactive scintigraphy. Large or nonfunctional nodules may require a biopsy with fine-needle aspiration.",
+    "incorrectExplanation": "nd E. Measurement of serum thyroid antibodies (Choice B) is useful for the diagnosis of autoimmune thyroiditis (eg, Hashimoto disease). Thyroid cancers do not typically result in the generation of antithyroid antibodies. 1231 scintigraphy of the thyroid gland (Choice C) is useful for the evaluation of thyroid nodules in the setting of a suppressed TSH or multiple nodules to assess for functionality of nodules. It is less appropriate as a screening test, as it exposes the patient to radiation. Ultrasonography of the thyroid gland (Choice D) is a highly useful test for the evaluation of thyroid nodules but should not be performed prior to a physical examination. If nodules are detected on examination, ultrasonography is an appropriate next step to gauge echogenicity, location, size, and characteristics prior to biopsy. CT scan of the thyroid gland (Choice E) may detect nodules incidentally but is not an optimal imaging modality for the evaluation of thyroid nodules, which are better evaluated with ultrasonography. Educational Objective: The most appropriate initial screening for thyroid cancer includes a thorough history and a physical examination directed towards the identification of palpable thyroid nodules, regional lymphadenopathy, or vocal hoarseness.",
+    "image": null,
+    "id": "FM-2-5",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 6,
+    "questionStem": "A 19-yea r-old college student comes to the phys ician because of a 3-month history of cough that occurs only in midafternoon and evening and is not associated with any other symptoms. The cough seems to be somewhat worse in cold weather but does not wake her from sleep or prevent her from performing routine activities. She has no personal or fam ily history of medical disease. She has never been hospita lized. Examination and an x-ray of the chest show no abnorma lities. Which of the following is the most likely diagnos is?",
+    "choices": null,
+    "correctAnswer": "A",
+    "correctExplanation": "Asthma, particularly cough variant asthma, is the most likely diagnosis in this patient. Asthma often presents with episodic wheezing and shortness of breath with or without a cough, but it can also present with an isolated cough. Patients should be assessed for other atopic symptoms such as allergic rhinitis or eczema as these conditions common ly occur in conjunction with asthma. Other causes of chronic cough include gastroesophageal reflux disease and rhinosinusitis. Patients in whom asthma is suspected should undergo spirometry with measurement of the one-second forced-expiratory volume (FEV 1) and the forced vital capacity (FVC). As asthma is a reversible and episodic condition, spirometry is frequently normal unless the patient is exhibiting symptoms at or around the time of spirometry. Therefore, most patients undergo a methacholine challenge test. Methacholine is a potent stimulator of bronchoconstriction, and as asthma is defined by airway hyperreactivity, patients with asthma tend to experience bronchospasm at lower doses of methacholine than patients without asthma. An improvement in FEV 1 by at least 12% and 200 ml with bronchodilators is diagnostic of asthma. Treatment depends on the severity but may include short acting bronchodilators and/or inhaled corticosteroids.",
+    "incorrectExplanation": "nd F. Cocaine use (Choice B) does not generally cause a cough. Chronic use can result in nasal congestion and erosions of the nasal septum, but cough is not frequently encountered apart from cases of smoked cocaine which is a less common form of use. Sarcoidosis (Choice C) may present with a cough. Chest radiographs commonly demonstrate bilateral hilar adenopathy with or without upper-lobe predominant coarse interstitial infiltrates, which are absent in this case. Tubercu losis (Choice D) is an unlikely diagnosis given her normal chest x-ray. Additionally, she has no explicit risk factors of disease such as immi ration from an endemic countr or ex osure to the homeless or rison o ulation.",
+    "image": true,
+    "id": "FM-2-6",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 7,
+    "questionStem": "An 82-year-o ld man is brought to the physician by his daughter because of a 6-month history of memory problems and strange behavior. He lives alone. His daughter says that four times during this period, she found him wanderi ng around his apartment naked in the middle of the day. She took his car and car keys 2 months ago to prevent him from driving because he repeatedly became lost while driving home from the grocery store. He has a history of head injury at the age of 14 years. He has hyperc holesterolemia and hypertension. Current medications include simvastatin and diltiazem. His paternal grandmot her had dementia, Alzheimer type. The patient has an eighth-grade educatio n. Vital signs are within normal limits. Physical examination shows a slow but normal gait. On mental status examination, he describes his mood as \"okay.\" He appears mildly irritated at having an appointment but is friendly. His Mini-Mental State Examination score is 22/30. Which of the following is the most appropriate next step in pharmacotherapy?",
+    "choices": {
+      "A": "Decrease the dosage of diltiazem",
+      "B": "Decrease the dosage of simvastat in",
+      "C": "Add clopidog rel to the current regimen",
+      "D": "Add donepezil to the current regimen",
+      "E": "Add selegiline to the current regimen",
+      "F": "Add sertraline to the current regime n"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Dementia, Alzheimer type, is associated with decreased cerebra l cholinergic signaling. Treatment with cholinesterase inhibitors, such as donepezil or rivastigmine, is helpful for improving cholinergic signaling and results in symptomatic benefits including improved cognition and reduced neuropsychiatric symptoms. Cholinesterase inhibitors do not result in neuroprotection and do not alter the underlying disease course of dementia, Alzheimer type. Cholinesterase inhibitors enhance vagal tone and are contraindicated in patients with atrioventricular block or sinus bradycardia caused by an increased risk for syncope. They are often used in conjunction with N-methy l-D-aspartate (NMDA) receptor antagonists, such as memantine, which does result in neuroprotective effects by limiting glutamate-induced excitotoxicity.",
+    "incorrectExplanation": "nd F. Decreasing the dosage of diltiazem (Choice A) is not recommended. Diltiazem is a calcium channel blocker that is useful for the management of tachyarrhythmia, hypertension, and angina. It has not been shown to worsen cognitive dysfunction in patients with dementia. Decreasing the dosage of simvastatin (Choice B) is not recommended for this patient. Statins have not been shown to worsen cognitive function in patients with dementia, and there is limited evidence that they may be beneficial in managing dementia, Alzheimer type.",
+    "image": null,
+    "id": "FM-2-7",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 8,
+    "questionStem": "A 23-yea r-old woman comes to the physician because of moderate pain and swelling of her right ankle after twisting it yesterday. She has no history of serious illness and takes no medications. Vital signs are with in normal limits. Examination shows moderate edema of the lateral aspect of the right ankle, an ecchymosis below the lateral malleolus, and tenderness to palpation of the anterior aspect of the lateral malleolus. The posterior aspects of the lateral and medial malleoli are nontender. Neurovascu lar function of the ankle is intact. The patient can bear weight as she walks across the room but has been using a set of crutches. In addition to r,ecomme nding 2-day ice pack application to the injury, which of the following is the most appropriate next step in manageme nt?",
+    "choices": {
+      "A": "Stress x-rays of the ankle to assess ligament integrity",
+      "B": "X-rays of the ankle to rule out fracture",
+      "C": "Use of a soft protective brace and early range of motion exercises",
+      "D": "Splinting the ankle and referral to an orthopaedist"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Use of a soft protective brace and early range of motion exercises is the most appropriate next step in management for this patient who most likely has an ankle sprain. Twisting injuries of the ankle are common and more frequently result from inversion injuries to the lateral ankle. The most important step in evaluation of ankle injuries is to determine if the patient requires imaging to rule out a clinically significant fracture. This can be done in the office setting by applying the Ottawa ankle rules. If there is pain in the malleolar region as in this patient, an ankle x-ray is only required if there is pain with palpation of the posterior edge or the tip of the medial or lateral malleolus or if the patient is unable to bear weight for more than four steps (two with each foot). Additionally, if there is midfoot pain with tenderness at the base of the fifth metatarsa l or the navicular bone, then imaging is warranted. This patient has anterior pain of the lateral malleolus and is able to walk by herself; thus, she does not require imaging and should instead receive a soft protective brace to stabilize the ankle followed by early movement when able.",
+    "incorrectExplanation": "nd D. Stress x-rays of the ankle to assess ligament integrity (Choice A) allow for the evaluation of the ankle mortise to ensure it remains congruent with and without weight-bearing stress application. The patient is able to bear weight while walking, indicating her ankle joint and associated supportive ligaments are likely intact. X-rays of the ankle to rule out fracture (Choice B) are not required in this patient with pain only at the anterior aspect of the lateral malleolus and the ability to walk across the room. Splinting the ankle and referral to an orthopaedist (Choice D) would be appropriate if there was suspicion for a fracture, but splinting is unlikely to help ankle sprains and will make it more difficult to mobilize the ankle early.",
+    "image": null,
+    "id": "FM-2-8",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 9,
+    "questionStem": "A previously healthy 27-year-o ld woma n, gravida 2, para 1, at 26 weeks' gestation comes to the physician for a routine prenatal visit. Her temperature is 36.7°C (98°F), pulse is 82/min, respirations are 20/min, and blood pressure is 120/70 mm Hg. Physical examination shows no abnormalities except for ecchymoses in various stages of healing over the forearms and lower abdomen. The fundal height is 27 cm. The cervix is long and closed, and the uterus is nontender and firm. Fetal heart tones are normal. Her hemoglobin concentration is 12 g/dl, platelet count is 280,000/mm 3, and bleeding time is 6 minutes. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Domestic abuse",
+      "B": "HELLP syndrome",
+      "C": "Immune thrombocytope nic purpura",
+      "D": "Preeclamps ia",
+      "E": "von Willeb rand disease"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Domestic abuse is the most likely explanation for her distribution of bruising. Domestic abuse should always be considered in patients with a suspicious pattern of bruising and/or explanations for the mechanism of injury that do not match the physical examination findings. Areas of bruising that are particularly worrying include the lower abdomen, posterior rib cage, and head. The forearms may also become bruised while employing defensive movements to prevent injury to the face or torso during an attack. All patients with such physical examination findings should be asked in a tactful and nonthreatening manner if they feel safe at home. If possible, all patients should be assessed alone to prevent intimidation that may occur when the abusing partner is present. If patients express that they are being abused, it is the provider's role to assess whether or not they are prepared to act. Often, patients are not yet willing or able to leave a violent relationship and understanding this requires empathy on the part of the provider. However, all patients should receive assistance with devising a safety plan, which includes identifying a place to flee if necessary, signaling to children or neighbors who can call for help, and preparing an emergency kit stored outside of the home with necessary items that might be required if the patient should need to flee. Written materials such as pamphlets should generally be avoided as these can be discovered by the abuser. Many states require mandatory reporting for the abuse of children, the elderly, and disabled persons, but requirements for reporting the abuse of adults varies by state.",
+    "incorrectExplanation": "nd E. HELLP syndrome (Choice B) presents with evidence of hemolysis, increased liver enzymes, and low platelets. This patient has a normal hemoglobin for pregnancy, and her platelet count is within the reference ranges. Immune thrombocytopenic purpura (Choice C) requires the presence of thrombocytopenia, which this patient does not demonstrate. . - - - - -- - - - - - - - .",
+    "image": null,
+    "id": "FM-2-9",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 10,
+    "questionStem": "An 82-year-o ld woman comes to the physician because of difficulty sleeping at night for 6 months. She says she watches television or listens to talk radio at night because she cannot sleep. She has daytime fatigue and takes frequent naps. Her husband died 3 years ago, and she lost her pet dog of 11 years 8 months ago. She has had a 5.4-kg (12-lb) weight loss since her last exam ination 6 months ago. She is 173 cm (5 ft 8 in) tall and weighs 59 kg (130 lb); BMI is 20 kg/m2. Her tempera ture is 37.5°C (99.5°F), pulse is 86/min, respirations are 10/min, and blood pressure is 150/84 mm Hg. She appears disheveled and has cracked, chapped lips. Physical examinat ion shows no abnormalities. On mental status examination, her eye contact is poor. She answers questions with delayed, short responses and has difficulty finding the right words. She describes her activities during the past few days vague ly after being asked for specific details. When asked to draw the face of a clock and indicate 1 :30 on the drawing, she requires 5 minutes to complete the clock face . She must be reminded that she was told to indicate 1 :30, which she then proceeds to do correctly. She can recall two of three objects after 5 minutes. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Emphasize the importance of good sleep hygiene",
+      "B": "Recommend grief counseling",
+      "C": "Suggest she get a new household pet",
+      "D": "Begin donepezil therapy",
+      "E": "Begin sertraline therapy"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "This elderly patient who presents with difficulty sleeping, weight loss, and behavioral and cognitive changes is likely experiencing a major depressive episode. Major depressive disorder requires the presence of at least five of nine criteria (according to the DSM-5) for at least 2 weeks without an organic cause or symptoms diagnostic of other mood or psychotic disorders. The symptoms (criteria) include sadness or anhedonia (at least one of which must be present), plus feelings of guilt, energy changes, difficulty concentrating, appetite or activity changes, psychomotor retardation, sleep disturbances, and suicidality. Treatment for major depressive disorder involves influencing the action of neurotransmitters along with therapy. Some medications used include selective serotonin reuptake inhibitors (SSRls), such as sertraline, whereas others block both serotonin and norepinephrine reuptake (eg, serotonin-norepinephrine re uptake inhibitors and tricyclic antidepressants).",
+    "incorrectExplanation": "nd D. While good sleep hygiene (Choice A) can prevent daytime fatigue and reduce the need for daytime naps, this patient also presents with weight loss, psychomotor retardation, and energy changes consistent with a major depressive episode. Recommending grief counseling (Choice B) would be appropriate for patients experiencing a grief reaction. Uncomplicated grief can include sadness, guilt, difficulty concentrating, preoccupation with thoughts and memories of the deceased, and neurovegetative - -- - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - -- - - - - - - - - - - - - - - .",
+    "image": null,
+    "id": "FM-2-10",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 11,
+    "questionStem": "A 16-year-old girl is brought to the physician by her parents because she has become increasingly withdrawn during the past 5 months. She quit the swim team and no longer enjoys spend ing time with friends. Her parents report that she was previous ly an honor roll student, but her grades have dropped to Cs. When questioned about her behavior, she states that she is tired and her stomach hurts. She sleeps 10 to 12 hours each night and takes a nap after school most days. She has had a 5.4-kg (12-lb) weight loss during this time that she attributes to decreased appetite. She reports that she is not concerned about her weight loss and is not intentionally dieting. She often has nausea after eating. She says she is not depressed or upset about anything, but she becomes tearful when discuss ing her physical symptoms saying, \"Maybe I have mono or someth ing. I am just so tired.\" She has not had fever, sore throat, cough, or diarrhea. Menses occur at regular 28-day intervals. Her last menstrual period was 1 week ago. She reports that she drank alcohol once at a party. She does not use illicit drugs. She has been sexually active with one male partner for the past 6 months, and they usually use condoms. She appears tired. She is 165 cm (5 ft 5 in) tall and weighs 55 kg (122 lb); BMI is 20 kg/m2. Her temperature is 37.2°C (98.9°F), pulse is 92/min, respirations are 15/min, and blood pressure is 108/70 mm Hg. Examination shows no lymphadenopathy. Abdominal examination shows no abnormalities. Her hematocrit is 39%, and leukocyte count is 7000/mm 3• Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Assessment for suicide risk",
+      "B": "Serologic testing for Epstein-Barr virus",
+      "C": "Thyroid function tests",
+      "D": "Urine pregnancy test",
+      "E": "Endoscopy"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "This adolescent patient who presents with sleeping dysfunction, weight loss, decreased energy, and loss of interest in activities is likely experiencing major depressive disorder. Major depressive disorder requires the presence of at least five of nine criteria (according to the DSM-5) for at least 2 weeks without an organic cause or symptoms diagnostic of other mood or psychotic disorders. The symptoms (criteria) include sadness or anhedonia (at least one of which must be present), plus feelings of guilt, energy changes, difficulty concentrating, appetite or activity changes, psychomotor retardation, sleep disturbances, or suicidality. All patients with major depressive disorder should be assessed for suicide risk, as depression increases the risk for suicidality. Risk factors for suicide include male sex, young adult age or elderly age, depression, alcohol or drug use, lack of support, prior suicide attempts, and an organized plan or stated future intent. Treatment for major depressive disorder involves influencing the action of neurotransmitters along with therapy. Some medications used include selective serotonin reuptake inhibitors (SSRls) such as sertraline, whereas others block both serotonin and norepinephrine reuptake (eg, serotonin-norepinephrine reuptake inhibitors and tricyclic antidepressants). Suicide is the greatest immediate risk in depressed patients; any patient at moderate or high risk requires immediate medical and psychiatric intervention and potential ly hospitalization.",
+    "incorrectExplanation": "nd E.",
+    "image": null,
+    "id": "FM-2-11",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 12,
+    "questionStem": "A 77-yea r-old man comes to the physician because of a 4-week history of moderate ly severe aching and morning stiffness i n his shou lders and hips. He has difficulty getting out of bed in the morning and reaching over his head because of the pain. During this period, he has had low-grade fever and generalized fatigue . Exam ination shows decreased range of motion of the shoulders and hips. There is no joint or muscle tenderness . His erythrocyte sedimentat ion rate is 70 mm/h. Which of the following is the most appropriate next step in management?",
+    "choices": null,
+    "correctAnswer": "G",
+    "correctExplanation": "Polymya lgia rheumatica (PMR) is an inflammatory, rheumatic disorder that occurs in elderly, often female, patients and is characterized by stiffness and aching of the proxima l muscles and joints of the neck, shoulders, torso, and hips, which is more prominent in the morning. Patients often also display signs and symptoms of systemic inflammation, including fever, chills, malaise, fatigue, and increased serum concen tration of C-reactive protein and increased erythrocyte sedimentation rate. Patients with PMR are at an increased risk for developing giant cell arteritis, which often coexists with PMR. Patients should undergo a thorough examination to exclude the presence of giant cell arteritis and should be counseled about its symptoms, such as headache, jaw claudication, tempora l tenderness, and amaurosis fugax. The initial treatment of PMR includes oral corticosteroids, such as prednisone, which is often required for a prolonged course (usually 1 or 2 years).",
+    "incorrectExplanation": "nd H. Allopurinol (Choice A) decreases the production of uric acid by inhibiting xanthine oxidase and is commonly used as preventative therapy for gout. Gout more commonly affects the first metatarsophalangeal joint, not the shoulder and hip girdles. Amitriptyline (Choice B) is a tricycli c antidepressant that is useful for the treatment of fibromyalgia. Fibromyalgia may be distinguished from PMR by the presence of normal inflammatory markers. Generally, patients with fibromyalgia also have pain in locations distant from the proxima l limb girdles.",
+    "image": null,
+    "id": "FM-2-12",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 13,
+    "questionStem": "A 56-year-o ld woman comes to the physician for a routine examination in October. She has type 2 diabetes mellitus well-contro lled with metform in. Vital signs are within normal limits. Examination shows no abnormalities. The patient says that she does not want to get the influenza vaccine this year because she knows people who have \"come down with the flu because of the shot.\" Which of the following is the most appropriate physician response?",
+    "choices": {
+      "A": "\"As your physician, you should trust my recomme ndation. Please take the influenza vaccine.",
+      "B": "\"If you are not going to accept the vaccine, I'd like you sign a waiver of liability form.",
+      "C": "\"Influenza can cause pneumonia and death, and type 2 diabetes mellitus puts you at risk. How will your family feel if anything happens",
+      "D": "\"Patients who are incubating the influenza virus when they receive the vaccine mistakenly attribute their symptoms to the vaccine. You",
+      "E": "\"Why people still believe this myth I'll never know because scientific studies have proven that it is impossible for patients to get the flu"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "The physician should respond to this patient by addressing her concern in an accurate, yet polite and nonjudgmental way followed by a concise recommendation. In this case, \"patients who are incubating the influenza virus when they receive the vaccine mistaken ly attribute their symptoms to the vaccine. You should get the vaccine\" is the most appropriate response. When responding to patients' questions, the physician should answer accurately and without bias. The physician's response should foster an environment in which the patient feels comfortable asking future questions. In this case, the physician's response should also conclude with a clear, unambiguous recommendation for the patient.",
+    "incorrectExplanation": "nd E. Asking the patient to trust the physician's recommendation solely due to being a physician (Choice A) is paterna listic and does not build rapport with the patient. The patient should be willing to trust the physician's recommendation because they know the physician has their best interests at heart, not just because of their position. The physician should not become defensive or bring up legal concerns (Choice B) over a patient's decision without first discussing the matter further with the patient. For examp le, the physician should understand how strongly the patient holds this belief and how she came to this conclusion before declaring the patient's decision fina l. Using intimidation or guilt to coerce a patient into receiving treatment, such as asking them how their family would feel if anything were to happen if they contracted influenza (Choice C), is not appropriate. Rather, the role of the physician is to explain treatment options and their respective risks and benefits to the patient in order to help them make an informed decision.",
+    "image": null,
+    "id": "FM-2-13",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 14,
+    "questionStem": "An 82-year-o ld woman comes to the physician because of a 6-month history of frequent falls. Prior to each fall, she had a feeling of imbalance when walking or turning. She has never lost consciousness during these episodes. She has a 5-year history of stable coronary artery disease and a 10-year history of osteoarthr itis of the knees. Current medications include 81-mg aspirin and lovastatin. She resides in an assisted living facility and has a bathroom with fixtures for elderly residents . Her pulse is 80/min, respirations are 14/min, and blood pressure is 140/85 mm Hg with no orthostatic changes. On examination, she has difficulty rising from her chair. Her gait while using her cane is slow with instability on turns. Muscle strength is 4/5 in the lower extrem ities. Which of the following is the most appropr iate next step in management?",
+    "choices": {
+      "A": "Prescript ion for a powered wheelcha i",
+      "B": "24-Hour ambulatory ECG monitoring",
+      "C": "Duplex ultrasonography of the carotid arteries",
+      "D": "Physical therap",
+      "E": "Meclizine therapy"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "This patient is demonstrating physical changes of normal aging, including decreased muscle strength and balance, which are leading to her frequent falls. The most appropriate remedy for this declining function is physical therapy, which will strengthen the patient and improve her coordination and balance. Other risk factors for mechanical falls that should be evaluated in elderly patients include declining vision, cognitive impairment, medication adverse effects, arthritis, and orthostatic hypotension, though none appear to be present in this case. When evaluating a patient after a fall, it is important to understand the events leading up to the fall, including the patient's activities at the time, whether prodroma l symptoms such as dizziness were present, and whether the patient lost consciousness. If the patient lost consciousness, then underlying cardiac disease, orthostatic hypotension, and neurologic disease should be investigated. The physician can also use objective measurements to complete a globa l assessment of the patient's risk, including a test in which the patient is timed when asked to rise from a standard armchair, walk across the room, turn around, and sit back down. The patient's performance and time to complete the task can help the physician risk stratify patients for their likelihood of falls.",
+    "incorrectExplanation": "nd E. Prescription for a powered whee lchair (Choice A) is not necessary at this time. The patient has no indication for a wheelchair and sitting in a wheelchair rather than walking will cause even more rapid muscle atrophy. 24-Hour ambulatory ECG monitoring (Choice B) and duplex ultrasonography of the carotid arteries (Choice C) may be indicated as part of a cardiac or neurologic evaluation, respective ly, if the patient fell because of a loss of consciousness or transient ischemic attack. However, the events surrounding this patient's falls indicate they are more likely caused by muscle deconditioning and impaired",
+    "image": null,
+    "id": "FM-2-14",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 15,
+    "questionStem": "A 32-year-o ld woman is brought to the emergency department by her husband because of the onset of shortness of breath, profuse sweating, and chest discomfort while at a concert 30 minutes ago. She had a similar episode 1 month ago while at her daughter's school play. She has felt anxious since that time and is concerned that she is going crazy. She has monitored her pulse during the past month, and it has ranged between 70-80 /min. Examination shows a pulse of 110/min and blood pressure of 140/76 mm Hg. An opening systolic click is heard over the left fourth intercostal space. Which of the following is the most likely cause of her symptoms?",
+    "choices": {
+      "A": "Generalized anxiety disorde",
+      "B": "Hyperthyroidism",
+      "C": "Mitral valve prolapse",
+      "D": "Panic disorde n",
+      "E": "Paroxysma l atrial tachycardia"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Panic disorder features panic attacks that occur unexpectedly and are associated with changes in behavior to avoid panic attack triggers. This patient is likely experiencing recurrent panic attacks consistent with panic disorder. Panic attacks feature acute fear or anxiety that peaks within minutes and is associated with four additional physical symptoms or mental states. These additiona l symptoms may include heart palpitations or tachycardia, shortness of breath, chest pain, dizziness, the sensation of choking, gastrointestina l distress, paresthesias, sweating, chills, trembling, derealization, the fear of dying, and/or the fear of losing control. Panic disorder is a relatively common psychiatric disorder characterized by recurrent panic attacks that are unexpected and associated with worry about future panic attacks or avoidance of panic attack triggers. Treatment typically includes psychotherapy, long-term selective serotonin reuptake inhibitors, and short-term benzodiazepines.",
+    "incorrectExplanation": "nd E. Generalized anxiety disorder (Choice A) features excessive and persistent worrying that may be associated with sympathetic hyperactivity. Panic attacks may occur in generalized anxiety disorder, though anxiety symptoms are typically more constant and persistent compared to the episodic course of panic disorder. Hyperthyroidism (Choice B) can present with anxiety but is also associated with other characteristic symptoms and signs including but not limited to heat intolerance, palpitations, weight loss, hair loss, sweating, diarrhea, amenorrhea or oligomenorrhea, and tachycardia. On physical examination, there is often a discrete, single, palpable thyroid nodule, multiple nodules, or diffuse enlargement of the gland depending on the cause. Mitral valve prolapse (Choice C) frequently results in mitral regurgitation , which presents with a holosystolic murmur best heard in the",
+    "image": null,
+    "id": "FM-2-15",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 16,
+    "questionStem": "A 42-year-o ld man comes to the physician for a routine follow-up exam ination. He feels well. He has a 2-year history of mild hypertension treated with sodium restrictio n and a reduced-calorie diet. He has had a 2-kg (4.4-lb) weight loss as a result of the diet. His father sustained a cerebral infarctio n at the age of 55 years, and the patient is concerned about his own risk for cerebral infarction. He does not smoke cigarettes and drinks two glasses of wine each night with dinner. He is an accountant and does not exercise regular ly. He is 178 cm (5 ft 10 in) tall and weighs 123 kg (272 lb); BMI is 39 kg/m2. His blood pressure is 160/98 mm Hg. Examination shows no other abnorma lities. Serum lipid stud ies show a total cholestero l concentration of 228 mg/dl, an HDL-c holesterol concentration of 45 mg/dl, and an LDL-c holestero l concentration of 148 mg/dl. Which of the following is the strongest predisposing facto r for cerebral infarct ion in this patient?",
+    "choices": null,
+    "correctAnswer": "D",
+    "correctExplanation": "A cerebral infarction occurs because of ischemic or hemo rrhagic loss of blood supply to the brain. The majority (approximately 80%) are ischemic events caused by thromboembolic disease. A cerebral infarction classically presents with focal neurologic deficits depending on the area of the brain affected, such as aphasia, facial droop, and hemiparesis. Unmodifiable risk factors for stroke include advanced age, African American race, biologic sex, and family history. Howeve r, there are numerous modifiable risk factors, such as hypertension, lack of physical activity, hyperlipidemia, smoking, and diabetes mellitus. Of these, hypertension is the single most importan t risk factor for cerebral infarction.",
+    "incorrectExplanation": "nd F. Alcohol consumption (Choice A) can act as a risk factor for stroke when consumed in large amounts. However, small amounts of alcohol are associated with a decreased risk for stroke. Family history, hypercho lestero lemia, and sedentary lifestyle (Choices B, C, and F) are associated with an increased risk for stroke. However, hypertension is a stronger predisposing risk factor. Obesity (Choice E) alone is not necessarily an independen t risk factor for the development of stroke. However, it is often associated with hypertension, dyslipidemia, lack of physical activity, and diabetes mellitus, all of which are risk factors for cerebral infarction.",
+    "image": null,
+    "id": "FM-2-16",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 17,
+    "questionStem": "A47-year-o ld woman comes to the physician because of a 6-month history of mild hand pain that occurs primarily over the palmar surfaces. The pain is associated with numbness and tingling, especially over her thumbs and middle and index fingers. Her symptoms are exacerbated by prolonged typing at work and sometimes awaken her from sleep. She has not had any difficulty writing by longhand or grasping small objects. She has type 2 diabetes mellitus well controlled with diet. She takes no medications. Vital signs are within normal limits. Tapping the palmar aspect of the wrist produces pain and tingling in both hands. The remainder of the examination shows no abnormalities. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Use of wrist splints",
+      "B": "Oral nonsteroidal anti-inflammatory drug therapy",
+      "C": "Corticosteroid injections",
+      "D": "Endoscop ic decompression of the median nerve",
+      "E": "Open decompression of the median nerve"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Carpal tunnel syndrome results from compression of the median nerve within the carpal tunnel and presents with signs and symptoms including pain, weakness, paresthesia of the first three digits, and positive provocative test maneuvers such as the Tine! or Phalen tests. Patients with mild symptoms can be treated conservatively with wrist splinting. Wrist splints are typically worn at night but may also be used during the day. Splinting reduces the range of motion of the wrist and limits activities that increase pressure within the carpal tunnel. Patients who have persistent or severe symptoms or muscular weakness may require surgical decompression.",
+    "incorrectExplanation": "nd E. Oral nonsteroidal anti-inflammatory drug therapy (Choice B) has not been shown to be effective for the treatment of carpal tunnel syndrome. Corticosteroid injections (Choice C) are a reasonable option for the treatment of mild carpal tunnel syndrome but are invasive and associated with greater risks when compared to wrist splinting. For patients with persistent symptoms, corticosteroid injections may be an appropriate interval therapeut ic option prior to surgery. Endoscopic decompression of the median nerve (Choice D) or open decompression of the median nerve (Choice E) may be indicated for patients with persistent or severe symptoms, or weakness in the distribution of the median nerve. Both endoscopic and open techniques are similarly effective for the treatment of carpal tunnel syndrome and have similar rates of complications. They are not yet appropriate in this patient with mild symptoms prior to a trial of less invasive therapy.",
+    "image": null,
+    "id": "FM-2-17",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 18,
+    "questionStem": "A 52-year-o ld woman comes to the physician because of a 14-month history of genera lized muscle pain and difficulty sleeping. The pain is most severe during periods of stress but is always present to some degree . She feels exhausted after awakening in the morning despite 8 to 9 hours of sleep nightly. Vital signs are within normal limits. Examination shows no abnormalities except for 12 areas of muscle point tenderness. In addition to recommending an aerobic exercise program, which of the following is the most appropriate treatme nt for this patient?",
+    "choices": null,
+    "correctAnswer": "B",
+    "correctExplanation": "Fibromya lgia is a common cause of fatigue and generalized muscle pain. It is believed to be caused by central sensitization of the pain response, although some providers consider it a psychosomatic illness. It commonly presents in women between the ages of 20 and 55 years with at least 3 months of fatigue, headache, musculoskeletal pain, and sleep and cognitive disturbances. Concurrent depression and anxiety are common, and symptoms are often worsened during times of stress. Physical examination will disclose muscle point tenderness and occasiona lly minor neuropathies. Previous diagnostic criteria required the identification of at least 11 of 18 predefined tender points, although this criterion is no longer used clinically. Results of laboratory studies, including C-reactive protein and erythrocyte sedimentation rate, are unremarkable in fibromyalgia. Initial treatment for fibromyalgia includes patient education, an aerobic exercise regimen, and antidepressants (eg, tricyclic antidepressants or selective serotonin reuptake inhibitors).",
+    "incorrectExplanation": "nd F. Amantadine therapy (Choice A) can be used in the treatment of Parkinson disease, although it is often occasiona lly used to treat fatigue associated with multiple sclerosis. It is not used in the treatment of fibromya lgia. Benzodiazepine therapy (Choice C) is used in the treatment of anxiety disorder and seizure disorder. While fibromyalgia is commonly associated with anxiety, benzodiazepines are not recommended in the treatment of fibromyalgia. Glucocorticoid therapy (Choice D) can be used in a variety of inflammatory, autoimmune, and allergic conditions. However, fibromyalgia is not associated with inflammation on physica l examination, and thus, glucocorticoids play no role in its treatment. It may be confused with polymyalgia rheumatica, for which steroids may be an appropriate choice.",
+    "image": null,
+    "id": "FM-2-18",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 19,
+    "questionStem": "An 18-year-old woman comes to the physician because of a pruritic facial rash for 2 days. The rash began around the lips and then spread to the cheeks. She is sexually active and uses an oral contraceptive. She has a history of asthma treated with a ~-adrenergic agonist inhaler. There is a family history of extrinsic asthma. She has had a chronic rash on her extremities for 13 years; a photograph is shown. The uninvolved skin is chronically dry and scaling. Examination shows a vesicular facial rash and eczematous lichenified plaques on the cheeks, neck, and flexor surfaces of the extremities. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Atopic dermatitis with eczema herpeticum",
+      "B": "Chronic contact dermatitis with superinfection",
+      "C": "Dermatitis herpetiformis",
+      "D": "Erythema multiforme with bullous formation",
+      "E": "Psoriasis with vesicular exacerbation"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "This patient's history and physical examination findings are most consistent with atopic dermatitis with eczema herpeticum. A background of atopic dermatitis is suggested by the patient's chronic and pruritic rash on the extremities, personal and family history of asthma, and the eczematous plaques seen in the photograph. Patients with atopic dermatitis have a dysfunctiona l skin barrier, even in uninvolved areas of skin, along with changes to the innate immune system that increase their risk for secondary bacterial and viral infections. A high suspicion of herpes simplex virus (HSV) secondary infection, or eczema herpeticum, should be maintained in a patient with atopic dermatitis who develops a sudden onset of vesicles. The infection may be preceded by other signs of herpetic infections such as oral herpes labialis, herpetic whitlow, or genital herpes. Treatment in severe cases or in young children requires hospitalization and administration of intravenous acyclovir. Less severe cases, including this one, can be managed on an outpatient basis with oral acyclovir. Management of the underlying atopic dermatitis should also be optimized.",
+    "incorrectExplanation": "nd E.",
+    "image": true,
+    "id": "FM-2-19",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 20,
+    "questionStem": "A previous ly healthy 2-year-old boy is brought to the physician by his mother because of hoarse cough and difficulty breathing that began yesterday evening and became progressively worse during the night. All appropriate immunizations are up-to-date. He appears tired but responds normally to stimuli. His temperatu re is 38°C (100.4 °F), pulse is 164/min, respirations are 40/min, and blood pressure is 102/68 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 86%. Examination shows labored respirations and inspiratory strider that can be heard without a stethoscope. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Bacterial tracheitis",
+      "B": "Bronchiolitis",
+      "C": "Epiglottitis",
+      "D": "Laryngot racheobronchitis (croup)",
+      "E": "Retropharyngeal abscess"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Laryngotracheobronchitis (croup) is an infection that presents most commonly in children with fever, rhinorrhea, a barking cough, and inspiratory strider. Strider refers to a high-pitched sound caused by turbulent airflow through obstructed or narrowed upper airway structures, such as the pharynx, larynx, or trachea. Croup is typically mild and self-limited, but severe inflammation of the upper airway can result in life-threatening airway obstruction. It can be caused by viral or bacterial infections, most commonly the parainfluenza virus. Physical examination may demonstrate signs of respiratory distress, such as substernal or subcostal retractions. Results of laboratory studies commonly show leukocytosis, and plain x-rays may show subglottic narrowing of the airway (steeple sign). Treatment includes supplemental oxygen, nebulized racemic epinephrine, and systemic corticosteroids, especially when airway obstruction is severe. When airway obstruction is persistent and progressive or if the patient develops signs of respiratory failure and cyanosis, endotracheal intubation and mechanical ventilation may be required. Care should be taken to keep children calm in such a situation, as laryngospasm may be an inciting event to airway obstruction.",
+    "incorrectExplanation": "nd E. Bacterial tracheitis (Choice A) is an infection of the trachea that presents with cough, respiratory distress, and strider. However, odynophagia or dysphagia is also commonly present, and it is overall less common than croup. Children often appear acutely ill with high fevers and tachycardia. While moderately tachycardic for his age, this patient only has a low-grade fever. Bronchiolitis (Choice B) is caused by inflammation of the bronchioles and can cause respiratory distress, fever, and cough. Apnea and respiratory failure are not uncommon, and wheezing is present on physical examination. This patient has strider rather than wheezing, making croup a more likely diagnosis.",
+    "image": null,
+    "id": "FM-2-20",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 21,
+    "questionStem": "A 27-year-o ld man comes to the physician because of sadness, loss of appetite, and difficulty falling asleep since he and his wife separated 5 weeks ago. His energy level has decreased, and he no longer enjoys spending time with friends. He does not believe that his wife and he will be able to work throug h their conflicts but wishes they could. He has no history of serious illness. His sister has major depressive disorder well contro lled with sertraline. The patient drinks one to two glasses of wine nightly. He does not use illicit drugs. He is 178 cm (5 ft 10 in) tall and weighs 104 kg (230 lb); BMI is 33 kg/m 2. Physical examination shows no abnormalities. On mental status examination, his mood is sad, and he is tearf ul. His thought process is logical. There is no evidence of suicidal ideation or hallucinations. Wh ich of the following is the most appropriate treatme nt?",
+    "choices": {
+      "A": "Cognitive behaviora l therapYi",
+      "B": "Hypnotherapy",
+      "C": "Psychoana lysis",
+      "D": "Relaxation therapy",
+      "E": "Systematic desensitization"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Major depressive disorder requires the presence of at least five of nine criteria (according to the DSM-5) for at least 2 weeks without an organic cause or symptoms diagnostic of other mood or psychotic disorders. The symptoms (criteria) include sadness or anhedonia (at least one of which must be present), plus feelings of guilt, energy changes, difficulty concentrating, appetite or activity changes, psychomotor retardation, sleep disturbances, and suicidality. Cognitive behavioral therapy is a form of psychosocial therapy that can be employed in the management of major depressive disorder and focuses on challenging harmful thoughts, beliefs, attitudes, and behaviors and developing coping strategies. In addition to therapy, many patients will also require initiation of an antidepressant, such as a selective serotonin reuptake inhibitor (SSRI). All patients demonstrating signs of depression should be evaluated for suicide risk.",
+    "incorrectExplanation": "nd E. Other methods of psychotherapy such as hypnotherapy (Choice B), psychoanalysis (Choice C), relaxation therapy (Choice D), and systematic desensitization (Choice E) have not been shown to be as effective as cognitive behavioral therapy in the management of major depressive disorder. Systematic desensitization can be used to help patients with specific phobias, who have severe, persistent fear caused by a specific object or situation. Educational Objective: Cognitive behavioral therapy is a form of psychosocial therapy that can be employed in the management of major depressive disorder. It focuses on challenging harmful thoughts, beliefs, attitudes, and behaviors and developing coping strategies.",
+    "image": null,
+    "id": "FM-2-21",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 22,
+    "questionStem": "An asymptomatic 42-year-o ld man with polycyst ic kidney disease comes for a routine follow-up examinat ion. He has hypertension treated with hydroch lorothiazide. His blood pressure has been 156/94 mm Hg on two previous visits. His temperatu re is 37°C (98.6°F), pulse is 80/min, and blood pressure is 160/96 mm Hg. The lungs are clear to auscultat ion. Cardiac examination shows a normal S1 and S2 with no murmurs, rubs, or gallops. His serum creatin ine concentration is 1 mg/dl. Urinalysis shows 2+ protein and 5-10 RBC/hpf. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Echocardiography",
+      "B": "Intravenous pyelography",
+      "C": "Lisinopril therapYi",
+      "D": "Trimethoprim-sulfamethoxazole therapy",
+      "E": "Cerebra l arteriography"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "The most appropriate next step in management is to add lisinopril therapy. The patient has suboptimally control led hypertension and is at risk for cardiovascular disease, cerebra l infarctions, and chronic kidney disease. In patients with underlying chronic kidney disease (eg, polycystic kidney disease), predictors of disease progression include increased blood pressure and proteinuria. Renin­ angiotensin-aldosterone system inhibitors, such as lisinopril and other ACE inhibitors, are effective first-line agents for the control of blood pressure. Also, they are more effective than other antihypertensive agents in decreasing the degree of proteinuria and risk for chronic kidney disease progression.",
+    "incorrectExplanation": "nd E. Echocardiography (Choice A) is unlikely to provide further diagnostic or therapeutic information at this time. The patient has a reassuring cardiac examination and no symptoms concerning for congestive heart failure. Optimal control of blood pressure is recommended to reduce the risk for developing cardiovascular disease. Intravenous pyelography (Choice B) is not indicated at this time for this patient with a known underlying kidney disorder and suboptimal ly controlled hypertension. Intravenous pyelography can be used to evaluate the course of the ureters, diagnose anatomica l variants, and assess for structural abnormalities of the renal collecting system. Trimethoprim-sulfamethoxazole therapy (Choice D) is not needed at this time in this patient who does not display signs or symptoms of infection. Cerebral arteriography (Choice E) should be conside red in patients with known polycystic kidney disease to screen for the presence of - - - - - - - - - -- - .",
+    "image": null,
+    "id": "FM-2-22",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 23,
+    "questionStem": "A 57-year-old woman comes to the physician for a routine health maintenance examination. She has no history of serious illness and takes no medications. She smoked one pack of cigarettes daily for 20 years but stopped 10 years ago. She drinks one glass of wine daily. She does not exercise. She is employed as an office assistant. She is 168 cm (5 ft 6 in) tall and weighs 65 kg (143 lb); BMI is 23 kg/m2. Her pulse is 80/min, respirations are 14/min, and blood pressure is 140/90 mm Hg. The lungs are clear to auscultation. Cardiovascular examinat ion shows no abnorma lities. Serum lipid studies show: Cholesterol, total HDL-cholesterol LDL-cholesterol Triglycerides Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Exercise program",
+      "B": "Weight loss program",
+      "C": "Glucose tolerance test",
+      "D": "24-Hour urine collection for measurement of microalbumin",
+      "E": "Serum lipid studies in 1 yea",
+      "F": "Atenolol therapy"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "250 mg/dl 35 mg/dl 179 mg/dl 180 mg/dl The patient's laboratory studies show an increased serum total cholesterol concentration. Risk factors for hypercholesterolemia include family history, physical inactivity, obesity, diabetes mellitus, chronic kidney disease, nephrotic syndrome, thyroid dysfunction, and tobacco use. Hypercholestero lemia is associated with hypertension, cardiovascular disease, and increased complications of diabetes mellitus. Patients are typically asymptomatic, and the diagnosis is made by a routine screening panel. In addition to evaluating for secondary causes of hypercholesterolemia (eg, checking thyroid function studies, hemoglobin A10 a chemistry panel, and urinalysis to assess kidney function), the patient should be counseled on dietary modifications, weight loss, and increased physical activity. Of these interventions, an exercise program is likely to have the greatest benefit in this patient with a normal BMI. The patient's 10-year and lifetime cardiovascular risk scores should be determined using a validated tool, and lipid-lowering pharmacotherapy should be considered, especially if the patient develops clinically significant cardiovascular disease, diabetes mellitus, or has a repeat lipid panel with an LDL-cholesterol greater than 190 mg/dl.",
+    "incorrectExplanation": "nd F.",
+    "image": null,
+    "id": "FM-2-23",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 24,
+    "questionStem": "A 62-year-old man comes to the physician for a routine follow-up exam ination. He has type 2 diabetes mellitus and peripheral vascular disease. Current medications include metformin and glyburide. Dorsalis pedis and posterior tibial pulses are decreased bilaterally. Serum lipid studies show: Cholesterol, total (mg/dl) HDL-cholestero l (mg/dl) LDL-cholesterol (mg/dl) Triglycerides (mg/dl) Which of the following is the most appropriate recommendatio n?",
+    "choices": {
+      "A": "Repeat cholesterol testing in 3 months",
+      "B": "Dietary modification to decrease LDL-cholesterol concentration to less than 130 mg/dl",
+      "C": "Drinking wine with dinner to increase HDL-cholesterol concentration to greater than 40 mg/dl",
+      "D": "Lipid lowering therapy to decrease LDL-cholesterol concentration to less than 100 mg/dLJ",
+      "E": "No current treatment is indicated, and repeat cholestero l testing annually"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "The patient's laboratory studies show an increased serum LDL-cholesterol concentration. Risk factors for hypercholestero lemia include family history, physical inactivity, obesity, diabetes mellitus, chronic kidney disease and nephrotic syndrome, thyroid dysfunction, and tobacco use. Hypercholestero lemia is associated with hypertension, cardiovascular disease, and increased complications of diabetes mellitus. Patients are typically asymptomatic, and the diagnosis is made by a routine screening panel. In addition to evaluating for secondary causes of hypercholesterolemia (eg, checking thyroid function studies, hemoglobin A10 a chemistry panel, and urinalysis to assess kidney function), the patient should be counseled on dietary modifications, weight loss, and increased physical activity. Lipid­ lowering therapy to decrease LDL-cholesterol concentration to less than 100 mg/dl should also be recommended. The patient is likely to benefit from statin therapy given the presence of diabetes mellitus and clinically significant cardiovascular disease with evidence of diminished distal pulses on examination.",
+    "incorrectExplanation": "nd E. Repeat cholesterol testing in 3 months (Choice A) is not appropriate at this time as the patient has had increased serum LDL­ cholesterol concentrations on two separate laboratory analyses a year apart. Similarly, dietary modification to decrease LDL-cholesterol concentration to less than 130 mg/dl (Choice B), drinking wine with dinner to increase HDL-cholesterol concentration to greater than 40 mg/dl (Choice C), and no current treatment is indicated, and repeat cholestero l testing annually (Choice E) are not appropriate - ······••-.. ·-. - -· - . .. . - . - . - •• ...... - -· -•- . -•- - ··- ·- ··- - - - . -- - .",
+    "image": null,
+    "id": "FM-2-24",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 25,
+    "questionStem": "A 77-year-o ld woman who is a resident of a skilled nursing care facility is brought to the physician because of a 1-week history of heartburn and difficulty swallowing. She has had no weight loss. She sustained a cerebral infarction 2 years ago. She has hypertension and hyperlipidemia. Current medications include chlortha lidone, potassium chloride, alendronate, aspirin, and lovastatin. Examination shows no abnormalities except for residual right-sided weakness. Upper endoscopy shows two shallow ulcers in the distal esophagus. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Barrett esophagus",
+      "B": "Drug-induced esophagitis",
+      "C": "Esophageal cance",
+      "D": "Herpes simplex esophag itis",
+      "E": "Reflux esophagitis"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Drug-induced esophagitis can result from a variety of medications, including aspirin, bisphosphonates (eg, alendronate), and tetracycline antibiotics. It is thought to be primari ly a result of direct irritation of the esophageal mucosa. Drug-induced esophagitis is more common in elderly patients because of a variety of factors including polypharmacy, increased gastrointestina l transit time, and decreased salivary production. Endoscopy may reveal localized ulcerations. Treatment includes discontinuation of the offending medication. Most patients experience a rapid improvement in symptoms after the offending medication is stopped.",
+    "incorrectExplanation": "nd E. Barrett esophagus (Choice A) is a state of premalignancy marked by intestina l metaplasia of the distal esophagus. Patients typically report a longstanding history of heartburn and may experience odynophagia. If untreated, Barrett esophagus may progress to esophageal cancer (Choice C) (adenocarcinoma), which presents with progressive dysphagia, odynophagia, and weight loss. Herpes simplex esophagitis (Choice D) typica lly occurs in patients with a history of immunosuppression, such as patients with HIV, patients undergoing chemotherapy, or those who have undergone an organ transplantation. Reflux esophagitis (Choice E) presents with chronic heartburn that is worsened after meals and with lying down. Patients often report a history of heartburn, and they may also develop an associated cough, sinus pain, or halitosis. Prolonged reflux esophagitis increases the risk for developing Barrett esophagus. Educational Objective: Drug-induced esophagitis can result from a variety of medications, including aspirin, bisphosphonates, and tetracycline antibiotics. It is thought to be a result of direct irritation of the esophagea l mucosa. Treatment includes discontinuation of",
+    "image": null,
+    "id": "FM-2-25",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 26,
+    "questionStem": "A previously healthy 6-year-o ld boy comes to the physician because of a 1-week history of an itchy, nonpainful rash on his arm. His mother says that it began as a small red spot but has trip led in size since then. He has had no other symptoms. A photograph of the lesion is shown. Which of the following is the most appropriate topical pharmacotherapy?",
+    "choices": {
+      "A": "Clindamyci n",
+      "B": "Clotrimazo le",
+      "C": "Hydrocortiso ne",
+      "D": "Permethr in",
+      "E": "Selenium sulfide"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Tinea corporis is a common superficial cutaneous funga l infection caused by dermatophytes, most commonly Trichophyton rubrum. By - - - - - - - - - - - - - - - - - - - - - - - - - ++ - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - r ~, ~ ~ r, Previous Next Score Report Lab Values Calculator Help Pause .... https://t.me/USMLENBME2CK Exam Section: Item 26 of 50 National Board of Medical Examiners ■ Mark Family Medicine Self-Assessment C) Hydrocortisone D) Permethr in E) Selenium sulfide Correct Answer: B. Tinea corporis is a common superficial cutaneous fungal infection caused by dermatophytes, most commonly Trichophyton rubrum. By definition, tinea corporis involves the body or extremities, while dermatophyte infections of the groin (tinea cruris), foot (tinea pedis), scalp (tinea capitis), and nail (tinea unguium) are separately named. The most common presentation of tinea corporis is round, annular patches with scaly borders. Potassium hydroxide preparation will show hyphae. A fungal culture may also be performed to confirm the diagnosis and determine the causative species before initiating empiric treatment. First-line treatment of tinea corporis is with a topical antifungal, usually clotrimazole, terbinafine, or ketoconazole. Combined topical antifunga l and corticosteroid products are not advised in the treatment of tinea corporis given the likelihood of worsening the disease with topical corticosteroids.",
+    "incorrectExplanation": "nd E. Tinea corporis is a fungal infection, not bacterial infection, and thus topical clindamycin (Choice A) is unnecessary. Topical antibacterial therapy is appropriate for bacterial skin infections including impetigo and folliculitis. Hydrocortisone (Choice C) is a topical corticosteroid and will worsen tinea corporis by inhibiting the inflammatory response necessary to eliminate the infection. Tinea treated with topical corticosteroid s is often referred to as tinea incognito because of the severe and unusual morphologies that these infections take on after treatm1ent with topical corticoste roids. Permethrin (Choice D) is an antiparasitic agent used to treat scabies infestations. The classic lesion of scabies is a burrow marking the path of the scabies mite through the top layer of the skin, but excoriated papules and nodules are also typically seen. Scabies common ly involves the web spaces of the fingers, volar wrists, umbilicus, and genitalia. It does not form annular, scaly patches or plaques, as seen in this case. Selenium sulfide (Choice E) is the active ingredient in over-the-counter shampoos that can be used to treat seborrheic dermatitis. While it has efficacy against Ma/assezia, the yeast species that causes seborrheic dermatitis, it is less effective against dermatophytes. Educational Objective: Tinea corporis is caused by a superficial dermatophyte infection of the skin, most often Trichophyton rubrum. The classic appearance is a round, annular patch or plaque with a scaly border. Treatment is with a topical antifungal such as clotrimazole or systemic antifungal if widespread.",
+    "image": true,
+    "id": "FM-2-26",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 27,
+    "questionStem": "A 16-year-old boy is brought to the physician because of a 1-year history of severe acne that has not responded to treatment with over-the-counter topical medications. He has no history of serious illness and takes no other medications. He works in a garage on weekends and participates on the track team at school. He occasionally drinks coffee in the morning and sodas after work. He is 178 cm (5 ft 10 in) tall and weighs 64 kg (142 lb); BMI is 20 kg/m2. A photograph of the forehead is shown. Genital and pubic hair development are Tanner stage 5. In addition to oral antibiotic and topical retinoid therapy, which of the following is the most appropriate recommendation for this patient?",
+    "choices": {
+      "A": "Avoidance of caffeine",
+      "B": "Avoidance of sun exposure",
+      "C": "Cleansing with topical alcohol twice daily",
+      "D": "Low-fat diet",
+      "E": "Use of moisturizers three times daily"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "r ~, ~ ~ r, Previous Next Score Report Lab Values Calculator Help Pause .... https://t.me/USMLENBME2CK Exam Section: Item 27 of 50 National Board of Medical Examiners ■ Mark Family Medicine Self-Assessment B) Avoidance of sun exposure C) Cleans ing with topical alcohol twice daily D) Low-fat diet E) Use of moistu rizers three times daily Correct Answer: B. When starting a tetracycline antibiotic for the treatment of acne, it is important to counsel patients to avoid sun exposure as even small amounts of sun exposure can cause severe phototoxicity. This patient's physical examination shows scattered open comedones, pustules, and inflamed papules consistent with a diagnosis of moderate inflammatory acne. Oral tetracyclines, including tetracycline, doxycycline, and minocycline, may be used for moderate to severe inflammatory acne. While there is a component of bacterial overgrowth to the pathogenesis of acne, these antibiotics are used primari ly for their anti-inf lammatory effects. To prevent bacterial resistance, they may be used at lower doses than would be required when treating an infection. All patients prescribed oral tetracyclines should be counse led on the possibility of gastrointestina l upset, phototoxicity, and pill esophagitis. Minocycline has an additional risk for causing drug-induced lupus and pigmentary changes to the skin.",
+    "incorrectExplanation": "nd E. Neither avoidance of caffeine (Choice A) nor a low-fat diet (Choice D) have been demonstrated to improve acne vulgaris. The only dietary interventions for acne vulgaris that are supported by data are decreasing the intake of high glycemic index foods and skim milk. In a patient with moderate to severe inflammatory acne, these dietary interventions are not likely to make a clinically significant difference. Cleansing with topical alcohol twice daily (Choice C) is not advised in the care of any patient's skin. Alcoho l causes drying and irritation and will worsen acne vulgaris. Use of moisturizers three times daily (Choice E) is unnecessary and may worsen this patient's acne by causing further occlusion of the pilosebaceous units. Patients can continue daily moisturizer with a noncomedogenic product, if desired, but use of such a product three times daily is excessive. Educational Objective: Oral tetracyclines, including tetracycline, doxycycline, and minocycline, may be used for moderate to severe inflammatory acne. When starting a tetracycline antibiotic, patients should be counseled to avoid sun exposure or use sunscreen if exposure cannot be avoided to prevent phototoxicity.",
+    "image": true,
+    "id": "FM-2-27",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 28,
+    "questionStem": "A 32-year-o ld man comes to the physician because of painful blisters on his penis for 2 days. During the past 2 years, he has had similar blisters that occur approximately four times annua lly and last 10 days. Six months ago, a viral culture of fluid from a blister was negative . He current ly takes no medica tions. He does not smoke or drink alcoho l. He has had six lifetime female sexua l partners and does not use condoms. His current sexual partner is asymptomatic. His tempera ture is 38.1 °C (100.6 °F), pulse is 80/min, respirations are 12/min, and blood pressure is 130/80 mm Hg. There is bilatera l inguinal lymphadenopathy. Examination of the penis shows multiple 3-mm vesicu lar lesions on the shaft. Which of the following is the most appropr iate pharmacotherapy?",
+    "choices": null,
+    "correctAnswer": "A",
+    "correctExplanation": "Acyclovir is the most appropriate pharmacotherapy for this patient's genita l herpes infection caused by herpes simplex virus (HSV). Herpes simplex typically begins with the formation of vesicles, which lyse and progress to shallow, painful ulcers with an erythematous border. Genital herpes is most often caused by HSV-2 but can also be caused by HSV-1. In contrast, herpes labia lis is most often caused by HSV-1 but can be caused by HSV-2. Coinfection with both strains is also possible. Genital herpes is transmitted through sexual contact. Following initial infection, it may be latent in the sacral gang lia until reactivation, when it causes painful vesicles and punched-out erosions on the genita lia with associated inguina l lymphadenopathy. Viral culture should be taken from the base of a vesicle that has just been deroofed, not the blister fluid, which explains this patient's recent false-negative result. Treatment for herpetic infections involves drugs that inhibit viral DNA polymerase, classica lly by guanosine analogs such as acyclovir, valacyclovir, and famciclovir.",
+    "incorrectExplanation": "nd F. Ceftriaxone (Choice B) and doxycycline (Choice C) are used to treat Neisseria gonorrhoeae and Chlamydia trachomatis infections, not genital herpes. The L 1 to L3 serotypes of C. trachomatis may also cause lymphogranuloma venereum, which causes a painless papule or ulcer. Vesicles are not typical of lymphogranu loma venereum. Ibuprofen (Choice D), a nonsteroida l anti-inflammatory medication, may be helpful in decreasing pain associated with genital herpes infections. However, it is does not target the underlying infection.",
+    "image": null,
+    "id": "FM-2-28",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 29,
+    "questionStem": "A previous ly healthy 22-year-old woman comes to the physician because of a 3- day history of malodorous vaginal discharge. She has not had fever, chills, or pain with urination. Menses occur at regular 28-day intervals. Her last menstrual period was 2 weeks ago. She uses an oral contraceptive and has not missed a dose. Her temperature is 37°C (98.6°F), pulse is 78/min, respirations are 16/min, and blood pressure is 130/76 mm Hg. On abdominal examination, bowel sounds are normal. Pelvic examination shows gray, thin, watery vaginal discharge but no other abnormalities. Urinalysis and a pregnancy test are negative. A photomicrograph of a Gram stain of the discharge is shown. Results of cervical testing for Chlamydia trachomatis and Neisseria gonorrhoeae are pending. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Ceftriaxone therapy",
+      "B": "Doxycycline therapy",
+      "C": "Fluconazole therapy",
+      "D": "Metronidazole therapYi",
+      "E": "No treatment is indicate d until cervical testing results are received"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Bacterial vaginosis is a common gyneco logic condition characterized by a shift of vaginal flora and overgrowth of particular bacterial species, most common ly Gardnerel/a vagina/is. G. vagina/is is a gram-variable, facultative anaerobe. Bacterial vaginosis presents with gray, thin, malodorous vagina l discharge. Vaginal pH is increased over 4.5, and a fishy odor is detected upon KOH testing. The identification of clue cells on wet mount preparation is diagnostic, as in this patient. Metronidazole is the most appropriate pharmacotherapy. Bacteria l vaginosis is not considered a sexually transmitted infection, and treatment of asymptomatic sexual partners is not recommended.",
+    "incorrectExplanation": "nd E. Ceftriaxone therapy (Choice A) can be used in the treatment of Neisseria gonorrhoeae, which is a sexually transmitted infection that",
+    "image": true,
+    "id": "FM-2-29",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 30,
+    "questionStem": "An 82-year-o ld man comes to the physician for a follow-up exam inatio n. He has a 2-year history of a painful tingling sensation in his feet that did not respo nd to trials of gabape ntin and carbamazep ine. He has a 20-year history of type 2 diabetes mellitus treated with glyburide . Exami nation today shows normal muscle strength. Sensation to light touch is decreased to the midcalves bilaterally. Which of the following is the most approp riate alternative pharmacot herapy for this patient?",
+    "choices": null,
+    "correctAnswer": "C",
+    "correctExplanation": "Nortriptyline, a tricyclic antidepressant (TCA) medication, is the best alternative therapy for this patient with diabetic neuropathy that is refractory to gabapentin and carbamazepine. Diabetic neuropa thy typically develops in patients with long-standing and poorly controlled diabetes mellitus. The location of neuropathy tends to be in a stocking-glove distribution and gradua lly ascends from the feet to more proximal portions of the leg. Symptoms can range from the loss of sensation to dysesthesia. Early detection is essential as improved glycemic control can halt or slow the progression of disease. Testing is completed in an ambulatory setting with the use of a monofilament applied with light pressure to five separate points on the plantar surface of the foot. Loss of the ability to detect one or more of these pressure points should prompt further evaluation and tighter glycemic control. First-line treatment for painful neuropathy includes gabapentin, as it is general ly well tolerated, but some patients may require additiona l or alternative medications for refractory symptoms. In conjunction with treatment of the neuropathy, patjents should undergo frequent foot examinations to detect any ulcers, cuts, or fungal growth that may predispose to a diabetic foot infection.",
+    "incorrectExplanation": "nd E. Fluoxetine (Choice A) is a selective serotonin reuptake inhibitor that has no role in the treatment of diabetic neuropathy. It is used primarily to treat major depressive disorder and many psychiatric disorders. Morphine (Choice B) is an opiate medication that is less likely to be effective in the long-term treatment of this patient 's diabetic neuropathy and is also associated with undesirable adverse effects such as the possibility of dependence. It does not generally modulate neuropathic pain though may provide temporary relief. Additionally, as patients age, opiate analgesics increase the risk for falls and delirium. These are medications to avoid in elderly and geriatric patients. Phenelzine (Choice D) is a monoamine oxidase inhibitor that is now rarely used to treat depression. It does not have a role in the",
+    "image": null,
+    "id": "FM-2-30",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 31,
+    "questionStem": "A 42-year-o ld woman comes to the physician because of recent high blood pressure readings. During the past month, her blood pressure was 150/94 mm Hg on two occas ions at health fairs. She has a history of migraines that have occurred twice weekly during the past 6 months. She has been taking ibuprofen four to six times weekly for her migraines. She has no other history of serious illness and takes no other medications. Her pulse is 88/min, and blood pressure is 152/92 mm Hg. The remainder of the examination shows no abnormalities. In addition to discontinuing ibuprofen therapy, administration of which of the following is the most appropriate next step in pharmacotherapy?",
+    "choices": {
+      "A": "ACE inhibito",
+      "B": "a-Adrenergic blocking agent",
+      "C": "~-Adrenergic blocking agen",
+      "D": "Angiotensin-receptor blocking agent",
+      "E": "Daily aspirin"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Migraine is a common condition that presents with recurrent primary headaches that are typically severe, unilateral, throbbing, and associated with nausea, vomiting, photophobia, and phonophobia. Migraines are postulated to arise from deficient serotonin inhibition of descending pain pathways though many causes have been proposed. For patients with disabling or frequent migraines, prophylactic treatment is recommended. ~-Adrenergic blockers are among the commonly used, first-line agents for migraine prophylaxis. The mechanism by which they impart migraine prevention is poorly understood, and is not believed to be directly related to their effect on blood pressure. Other options for migraine prophylaxis include antidepressants (eg, tricyclic antidepressants and serotonin­ norepinephrine reuptake inhibitors) and anticonvulsants. Notably, this patient's blood pressure is potentially worsened as a result of the renovascular effect of ibuprofen, and a ~-adrenergic blocker may be a suitable choice to both treat hypertension (though ~-adrenergic blockers are otherwise not first line therapy) and prevent migraines in this patient.",
+    "incorrectExplanation": "nd E. ACE inhibitor (Choice A) and angiotensin-receptor blocking agent (Choice D) are both antihypertensive agents. They lack robust data demonstrating their effectiveness for migraine prophylaxis and are not common ly used for the prevention of migraines. a-Adrenergic blocking agents (Choice B) are used for the treatment of hypertension and benign prostatic hyperplasia. They do not play a significant role in migraine prophylaxis. Daily aspirin (Choice E) is commonly used as primary or secondary prophylaxis for coronary artery disease, cerebrovascula r disease, and peripheral arterial disease. It does not have a recognized role in the prevention of migraines. - - - - - - -- - - - ..",
+    "image": null,
+    "id": "FM-2-31",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 32,
+    "questionStem": "A previo usly healt hy 30-year-o ld woma n comes to the physician because of fever, nonproductive coug h, and left-sided chest pain for 5 days; her symptoms started during a hiking trip with several friends in late August. One of these frie nds has similar symptoms. Mild diffuse c rackles are heard. Which of the following is the most likely causa l organism?",
+    "choices": {
+      "A": "Borrelia burgdorferi",
+      "B": "Coxsackiev irus",
+      "C": "Influenza virus",
+      "D": "Mycop/asma pneumoniae",
+      "E": "Streptococcus pneumoniae"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Mycop/asma pneumoniae is the most likely causal organism. This patient has a fever and cough with diffuse crackles on lung examination, which are findings most consistent with pneumonia. A chest x-ray should be obtained to evaluate for the evidence of pulmonary infiltrates. Pneumonia can be caused by various viral pathogens, such as influenza or severe acute respiratory syndrome­ CoV-2 or by bacterial pathogens. The most common bacterial organisms include Streptococcus pneumoniae , Haemophi/us influenzae, Chlamydophila pneumoniae, and Mycop/asma pneumoniae. Infections with S. pneumoniae tend to be more severe than infections with M. pneumoniae; thus, infection with the latter is sometimes colloquial ly referred to as 'walking pneumonia.' It can be challenging to definitively identify the causal organism, so patients are typical ly treated empirically with antibiotics that have activity against the most common organisms.",
+    "incorrectExplanation": "nd E. Borrelia burgdorferi (Choice A) is the cause of Lyme disease. Although this patient has recentl y been hiking, Lyme disease is only endemic to certain parts of the United States, and the location of her hike is not specified. Additionally, most patients present with a classic rash known as erythema migrans, not pneumonia. Coxsackievirus (Choice B) is an enterovirus with a wide array of potentia l clinical manifestations, from asymptomatic disease to nonspecific viral exanthems to myocarditis, encephalitis, and hand-foot-and-mouth disease. Pneumonia may also occur, but usually in children. Influenza virus (Choice C) is a common cause of viral pneumonia during the winter months. This patient has developed symptoms in the summer, which would be atypical for an influenza infection. Streptococcus pneumoniae (Choice E) is a common bacteria l cause of pneumonia, but patients tend to present with focal lung findings - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - -- - - - - - - - -- - - -- - - - - - - - - - - j 'J",
+    "image": null,
+    "id": "FM-2-32",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 33,
+    "questionStem": "A previously healthy 32-year-o ld man comes to the physician because of a 4-month history of constant pain on the outside of his right elbow at rest. The pain has not responded to use of nonsteroidal anti-inflammatory drugs or a wrist splint. He is right-ha nded. He recently began building an addition to his house, and has been lifting heavy supplies. He is 175 cm(5 ft 9 in) tall and weighs 75 kg(165 lb); 8MI is 24 kg/m2. Examination shows severe tenderness of the bony right distal humerus 1 cm proximal to the radial head. Extension of the right wrist against resistance produces pain at the area of maximal tenderness. AP and lateral x-rays of the right elbow show no abnormalities. Which of the following is the most appropriate next step in manageme nt?",
+    "choices": {
+      "A": "Use of a forearm straP",
+      "C": "Oral corticoste roid therapy",
+      "D": "Intravenous corticoste roid therapy",
+      "E": "Surgical decomp ression"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Use of a forearm strap is the next most appropriate step in management of this patient who likely has lateral epicondylitis (tennis elbow). The lateral epicondyle is located at the lateral aspect of the distal humerus and is the origin point of many of the wrist extensor muscles; thus, pain in the lateral elbow with wrist extension is commonly seen in tennis elbow. Common mechanisms of injury include repetitive motions of the wrist while under a heavy load such as what may occur with frequently lifting heavy objects. Patients who are not conditioned to regularly perform these sorts of tasks are at a higher risk for injury. The physical examination discloses tenderness over the lateral epicondyle and over the insertion point of the extensor muscles of the wrist. Special tests include having the patient hold a heavy object in the affected hand while the arm is raised and the elbow is extended with the hand in pronation. Patients with a positive test will experience pain at the lateral epicondyle with this maneuver. Treatment is initially with activity modification and a compression sleeve or counterforce bracing apparatus. This type of brace applies pressure distal to the origin point of the wrist extensors and helps relieve some of the pressure on this area during wrist movement.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-2-33",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 34,
+    "questionStem": "A 37-year-o ld man comes to the physician because of intermittent chest pain over the past 2 days. Four days ago, he had a sore throat, headache, and malaise. Two days ago, he developed fever and a sharp stabbing pain in the right lateral chest. The pain resolved spontaneously after 1 hour but has recurred six times since then. There is no pain with exertion. He appears well. His temperature is 37°C (98.6°F), pulse is 80/min, and blood pressure is 120/70 mm Hg. The lungs are clear to auscultation. Card iac examination shows a normal S 1 and S2 with no murmurs, rubs, or gallops. Laboratory studies show: Hematocrit Leukocyte count Platelet count Serum creatine kinase 45% 3700/mm3 250,000 /mm3 500 U/L An x-ray of the chest and an ECG show no abnorma lities. Which of the following is the most likely diagnosis?",
+    "choices": null,
+    "correctAnswer": "C",
+    "correctExplanation": "Pleurodynia, also known as Bornho lm disease, is an acute viral illness often caused by coxsackievirus group B, among other viruses. It presents with fever, headache, and characteristic, paroxysmal spasms of the muscles of the chest wall with pleuritic chest pain. Coxsackievirus is an RNA enterovirus that is transmitted via oral secretions or feces. Pleurodynia tends to occur in epidemic outbreaks during the summer months. Patients may present with leukocytos is or increased serum concentrations of creatine kinase caused by muscle inflammation. The disease is usually self-limiting and re,solves over several days to a week.",
+    "incorrectExplanation": "nd F. Empyema (Choice A) is an accumulation of pus within the pleural space and presents with fever, progressive cough, and shortness of breath. It is often a complication of an adjacent pneumonia. It commonly presents with pleuritic chest pain that is not paroxysmal or episodic. Pericarditis (Choice B) presents with substernal, pleuritic chest pain that worsens when lying down and improves with leaning forward",
+    "image": true,
+    "id": "FM-2-34",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 35,
+    "questionStem": "A 37-year-o ld woman comes to the phys ician because of a 3-month history of generalized fatigue . She has noticed a decreased energy level, which is most pronounced at the end of the day. She has a 3-year history of abdominal bloating and intermittent diarrhea, especia lly after eating pasta. Her appetite has not changed, and she has had no weight loss. Menses occur at regular 28-day intervals with light flow for 2 days. She is 168 cm (5 ft 6 in) tall and weighs 70 kg (155 lb); BMI is 25 kg/m2. Her pulse is 80/min, and blood pressure is 110/80 mm Hg. Exami nation shows moderately pale oral mucosa. The abdomen is distended and tympa nitic; there is no tenderness or organomega ly. Recta l examinat ion shows no abnorma lities. Test of the stool for occult blood is negative . Laboratory studies show: Hematocrit 30% Mean corpuscu lar volume 78 µm3 Leukocyte count 6400/mm3 Platelet count 450,000 /mm3 Which of the following is most likely to confirm the underlying cause of her symptoms?",
+    "choices": {
+      "A": "Measurement of serum folic acid concentration",
+      "B": "Schilling test",
+      "C": "Serum Helicobacter pylori antibody assay",
+      "D": "CT scan of the pancreas",
+      "E": "Colonoscopy",
+      "F": "Assay for anti-transglutaminase antibodies"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "Celiac disease is a gluten-sensitive enteropathy that is mediated through immune intolerance of the protein gliadin, common ly found in wheat products, such as pasta. This results in inflamma tory infiltration of the proximal sma ll bowel, which leads to characteristic intraepithe lial lymphocytosis, villous atrophy, and crypt hyperplas ia. Malabsorption of substances in the proximal small bowel ensues, which presents symptomatical ly as chronic diarrhea, steatorrhea, and nutritiona l deficiencies. Patients with celiac disease may deve lop iron deficiency anemia, which may be present on laboratory studies with decreased hematocr it and microcy tosis. The diagnosis of celiac disease can be confirmed by the detection of serum anti-transg lutaminase antibodies or by small bowel biopsy demonstrating villous atrophy along with intraepithelia l lymphocytes and crypt hyperp lasia. Treatment includes avoidance of gluten-containing foods and reversal of any acquired nutritional deficiencies. Incorrec t Answers: A, B, C, D, and E. Measurement of serum folic acid concentration (Choice A) is usefu l for the evaluation of macrocytic anemia. Patients with celiac r ~, ~ ~ r, Previous Next Score Report Lab Values Calculator Help Pause .... https://t.me/USMLENBME2CK Exam Section: Item 35 of 50 National Board of Medical Examiners ■ Mark Family Medicine Self-Assessment -- F) Assay for anti-transglutaminase antibodies Correct Answer: F. Celiac disease is a gluten-sensitive enteropathy that is mediated through immune intolerance of the protein gliadin, commonly found in wheat products, such as pasta. This results in inflammatory infiltration of the proximal small bowel, which leads to characteristic intraepithelial lymphocytosis, villous atrophy, and crypt hyperplasia. Malabsorption of substances in the proximal small bowel ensues, which presents symptomatically as chronic diarrhea, steatorrhea, and nutritional deficiencies. Patients with celiac disease may develop iron deficiency anemia, which may be present on laboratory studies with decreased hematocrit and microcytosis. The diagnosis of celiac disease can be confirmed by the detection of serum anti-transglutaminase antibodies or by small bowel biopsy demonstrating villous atrophy along with intraepithelial lymphocytes and crypt hyperplasia. Treatment includes avoidance of gluten-containing foods and reversal of any acquired nutritional deficiencies.",
+    "incorrectExplanation": "nd E. Measurement of serum folic acid concentration (Choice A) is useful for the evaluation of macrocytic anemia. Patients with celiac disease do not typically develop folate deficiency. The Schilling test (Choice B) is useful for evaluating the absorption of vitamin B 12 in the setting of macrocytic anemia caused by suspected pernicious anemia. This patient demonstrates microcytic anemia. Serum Helicobacter pylori antibody assay (Choice C) is useful for the evaluation of gastric ulcers. While gastric ulcers may produce microcytic anemia secondary to chronic blood loss, this patient's history of intermittent bloating and diarrhea after ingesting gluten is more suggestive of celiac disease. CT scan of the pancreas (Choice D) is useful for the diagnosis of pancreatitis or pancreatic cancer. While pancreatitis may lead to malabsorption, diarrhea, and bloating, this patient lacks other suggestive symptoms such as abdominal pain or steatorrhea. Colonoscopy (Choice E) is useful for the evaluation of microcytic or normocytic anemia caused by chronic blood loss in the setting of colon adenocarcinoma. This patient's history of intermittent bloating and diarrhea after ingesting gluten is more suggestive of celiac disease than of colon adenocarcinoma. Educational Objective: Patients with celiac disease may develop iron deficiency anemia. The diagnosis of celiac disease can be confirmed by the detection of serum anti-transg lutaminase antibodies or by small bowel biopsy demonstrating villous atrophy along with intraepithelial lymphocytes and crypt hyperplasia.",
+    "image": null,
+    "id": "FM-2-35",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 36,
+    "questionStem": "An 11 -year-old boy is brought to the camp infirmary by his cabinmates 1 hour after collapsing. The boys had been playing a game that involved standing, breathing deeply and rapidly for 1 minute , and then expiring against a closed mouth. The patient collapsed and struck his head on the edge of his bed. He did not open his eyes or move for several minutes but is now alert and fully oriented. There is a 1 x 1-cm ecchymosis on the occipital scalp. His pupils react to light. Reflexes are symmetric; gait and muscle strength are norma l. Which of the following is the most likely cause of the loss of consciousness?",
+    "choices": null,
+    "correctAnswer": "C",
+    "correctExplanation": "The patient likely experienced a syncopal episode secondary to cerebral hypoperfusion. The serum pH and pCO 2 are primary regulators of cerebral blood flow. Acute hypocapnia (which can be induced by breathing deeply and rapidly) causes a respiratory alkalosis that results in cerebral vasoconstriction and decreased cerebral blood flow. In addition , forced expiration against a closed glottis (the Valsalva maneuver) rapidly increases intrathoracic pressure with a corresponding decrease in venous return , preload, and cardiac output , resulting in an abrupt drop in mean arterial pressure. The combination of these two factors can result in significantly reduced cerebral blood flow and consequent syncope . In the absence of an underlying pathologic process , resumption of the normal respiratory drive and a supine position will quickly correct the perfusion deficit , resulting in the restoration of consciousness. Incorrect Answers : A, B, D, and E. Akinetic seizure (Choice A) is unlikely in the absence of a postictal state and a clear precipitating activity. Absence seizures are common in children but are generally characterized by staring spells without an obvious loss of consciousness or postural tone . Cardiac arrhythmia (Choice B) is unlikely in an otherwise healthy 11 -year-old patient. Further cardiac monitoring should be considered if there is a family history of arrhythmias, sudden cardiac death , or familial cardiomyopathy. The proximate precipitant of his syncope is much more likely related to induced lack of cerebral blood flow from respiratory alkalosis and the Valsalva maneuver. Epidural hematoma (Choice D) is not likely to have caused the patient's loss of consciousness . The presence of an occipital ecchymosis was caused by trauma sustained during the syncopal episode, not before. Hypercarbia (Choice E) would not be expected in this patient who was engaging in voluntary hyperventilation prior to the syncopal - - - - - - . - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - r ~, ~ p r, Previous Next Score Report Lab Values Calculator Help Pause .... https://t.me/USMLENBME2CK Exam Section: Item 36 of 50 National Board of Medical Examiners ■ Mark Family Medicine Self-Assessment B) C) D) E) Cardiac arrhythmia Cerebral hypoperfusion Epidura l hematoma Hypercarb ia Correct Answer: C. The patient likely experienced a syncopal episode secondary to cerebral hypoperfusion. The serum pH and pC0 2 are primary regulators of cerebral blood flow. Acute hypocapnia (which can be induced by breathing deeply and rapidly) causes a respiratory alkalosis that results in cerebral vasoconstriction and decreased cerebral blood flow. In addition, forced expiration against a closed glottis (the Valsalva maneuver) rapidly increases intrathoracic pressure with a corresponding decrease in venous return, preload, and cardiac output, resulting in an abrupt drop in mean arterial pressure. The combination of these two factors can result in significant ly reduced cerebral blood flow and consequent syncope. In the absence of an underlying pathologic process, resumption of the norma l respiratory drive and a supine position will quickly correct the perfusion deficit, resulting in the restoration of consciousness.",
+    "incorrectExplanation": "nd E. Akinetic seizure (Choice A) is unlikely in the absence of a postictal state and a clear precipitating activity. Absence seizures are common in children but are generally characterized by staring spells without an obvious loss of consciousness or postural tone. Cardiac arrhythmia (Choice B) is unlikely in an otherwise healthy 11-year-old patient. Further cardiac monitoring should be considered if there is a family history of arrhythmias, sudden cardiac death, or familial cardiomyopathy. The proximate precipitant of his syncope is much more likely related to induced lack of cerebra l blood flow from respiratory alkalosis and the Valsalva maneuver. Epidural hematoma (Choice D) is not likely to have caused the patient's loss of consciousness. The presence of an occipital ecchymosis was caused by trauma sustained during the syncopal episode, not before. Hypercarbia (Choice E) would not be expected in this patient who was engaging in voluntary hyperventilation prior to the syncopal episode. Acute hypercarbia typically presents with dyspnea, fatigue, confusion, and somnolence. Educational Objective: Cerebral blood flow is primarily regulated by blood pH and pC0 2 concentrations. The presence of an increased pH and/or decreased pC0 2 results in cerebral vasoconstriction and decreased cerebral blood flow. Combining Valsalva maneuvers with respiratory alkalosis can result in acute decreases in cerebral blood flow leading to syncope.",
+    "image": null,
+    "id": "FM-2-36",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 37,
+    "questionStem": "A 27-year-o ld man comes to the physician because of a 1-week history of yellow eyes and dark urine. He has a history of intraveno us drug use. Laboratory studies 6 months ago showed a positive hepatitis A antibody assay, a negative hepatitis B surface antigen assay, and a positive hepatitis B surface antibody assay. Examination today shows jaundice and hepatomega ly. Laboratory studies are consistent with hepatitis. Which of the following is the most likely cause of his hepatitis?",
+    "choices": {
+      "A": "Delta virus infection",
+      "B": "Hepatitis C infection",
+      "C": "Reactivation of hepatitis A",
+      "D": "Reinfection with hepatitis A",
+      "E": "Reinfection with hepatitis B"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Hepatitis C virus (HCV) infection is the most likely cause of this patient's hepatitis. HCV is transmitted through exposure to infected blood and can be acquired through intravenous drug use, sexual intercourse (although less common), and, before the advent of universal screening, from blood transfusions. HCV is an RNA virus that establishes residence in hepatocytes. Acute infection typically causes an increase in liver-associated enzymes and occasionally jaundice. The acute phase is self-limited and may lead to the development of chronic infection. In some patients, chronic infection can lead to cirrhosis. The diagnosis should be suspected in individuals with laboratory and physical examination evidence of hepatitis and a history of intravenous drug use. The diagnosis is made by using a two-step process. The HCV antibody is tested first. If positive, the HCV viral load should be measured. Patients with HCV infection will have both a positive antibody and a high viral load. Fortunately, most instances of HCV infection are now curable with the use of newer medications such as ledipasvir and sofosbuvir for 8 to 24 weeks.",
+    "incorrectExplanation": "nd E. Delta virus infection (Choice A), also known as hepatitis D, requires concurrent infection with hepatitis B virus (HBV) for full viral assembly and secretion. This patient does not have an HBV infection and thus is unlikely to have hepatitis D. Reactivation of hepatitis A (Choice C) is not known to occur. Most patients with hepatitis A infection will recover spontaneously with lifelong immunity. While reinfection with hepatitis A (Choice D) is possible, it is unlikely, and an antibody assay is not helpful for this diagnosis as it can remain positive for long periods of time following the initial infection. Reinfection with hepatitis B (Choice E) is incorrect. This patient's positive hepatitis B surface antibody and negative surface antigen indicate prior immunization. - - - - - - - - - - - - - - - \" j",
+    "image": null,
+    "id": "FM-2-37",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 38,
+    "questionStem": "A 32-year-old woman is referred to the physician because of anemia noted on routine testing prior to blood donation. She felt well until recently when she began to experience decreased exercise tolerance. She has regular menstrual periods with no abnormal bleeding. Examination shows no abnormalities. Test of the stool for occult blood is negative. Laboratory studies show: Hematocrit 27% Mean corpuscular volume 73 µm3 Leukocyte count 5200/mm 3 with a normal differential A blood smear is shown. Which of the following is the most appropr iate initial step in management?",
+    "choices": {
+      "A": "Administration of folic acid",
+      "B": "Parenteral iron therapy",
+      "C": "Measurement of serum iron and ferritin concentrations",
+      "D": "Hemoglobin electrophoresis",
+      "E": "Bone marrow aspiration"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Measurement of serum iron and ferritin concentrations should be performed next in this patient with microcytic anemia. The differential diagnosis of microcytic anemia includes a- or ~-thalassemia, anemia of chronic disease, sideroblastic anemia, and iron deficiency anemia among several other rare causes. In young female patients who are actively menstruating, iron deficiency should be suspected. Diagnosis is made by assessing the serum concentration of ferritin, the storage form of iron, and the serum iron concentration, both of which will be decreased. Iron is required for the synthesis of heme, which is a necessary component of the hemoglobin molecule, and thus of erythrocytes. It functions to shuttle oxygen to and from peripheral tissues. It is thought that erythrocytes are microcytic as a result of continuing erythrocyte division in order to reach an adequate hemoglobin concentration; because hemoglobin stores are inadequate, cell division continues beyond what would normally occur and causes the cells to be smaller than normal. Treatment for this patient should include oral iron r ~, ~ ~ r, Previous Next Score Report Lab Values Calculator Help Pause .... https://t.me/USMLENBME2CK Exam Section: Item 38 of 50 National Board of Medical Examiners ■ Mark Family Medicine Self-Assessment Correct Answer: C. Measurement of serum iron and ferritin concentrations should be performed next in this patient with microcytic anemia. The differential diagnosis of microcytic anemia includes a- or ~-thalassemia, anemia of chronic disease, sideroblastic anemia, and iron deficiency anemia among several other rare causes. In young female patients who are actively menstruating, iron deficiency should be suspected. Diagnosis is made by assessing the serum concentration of ferritin, the storage form of iron, and the serum iron concentration, both of which will be decreased. Iron is required for the synthesis of heme, which is a necessary component of the hemoglobin molecule, and thus of erythrocytes. It functions to shuttle oxygen to and from peripheral tissues. It is thought that erythrocytes are microcytic as a result of continuing erythrocyte division in order to reach an adequate hemoglobin concentration; because hemoglobin stores are inadequate, cell division continues beyond what would normally occur and causes the cells to be smaller than normal. Treatment for this patient should include oral iron supplementation. If severe, patients may require intravenous infusions of iron.",
+    "incorrectExplanation": "nd E. Administration of folic acid (Choice A) should be considered in all women of childbearing age who may become pregnant and in patients with megaloblastic anemia from folate deficiency. This patient has a microcytosis, not a macrocytosis; thus, folate supplementation would be unlikely to correct her anemia. Parenteral iron therapy (Choice B) is a viable treatment option for patients with severe iron deficiency anemia but should only be considered after a diagnosis of iron deficiency anemia is made. This patient's serum iron and transferr in concentrations need to be measured first. Hemoglobin electrophoresis (Choice D) can be used to diagnose sickle cell disease, a- and ~-thalassemia major, and a variety of other hemoglobinopathies. Patients with iron deficiency anemia will have a normal electrophoresis. Additionally, this patient only recently became symptomatic, and hemoglobinopathies are inherited conditions that often present in infancy. Bone marrow aspiration (Choice E) is an unnecessary and invasive procedure at this time. This procedure is typically reserved for patients who are suspected to",
+    "image": true,
+    "id": "FM-2-38",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 39,
+    "questionStem": "A previous ly healthy 37-year-o ld woman who works as a prison guard comes to the physician because of a 2-month history of low-grade fever, fatigue, and a cough productive of scanty white sputum that is occas ionally blood-streaked. She has had no shortness of breath. She has smoked one pack of cigarettes daily for 20 years and drinks four alcoholic beverages daily. Her temperature is 37.6°C (99.7°F), pulse is 88/min, respirations are 16/min, and blood pressure is 95/68 mm Hg. Examination shows rhonchi that clear with coughing; no crackles are heard . Examination shows no other abnorma lities. Laboratory studies show: Hemoglobin Serum Bilirubin Alkaline phosphatase AST ALT 9.5 g/dL 1.2 mg/dL 80 U/L 75 U/L 60 U/L An x-ray of the chest shows a normal cardiac silhouette and a right upper lung field infiltrate; there are no pleural effusions. Which of the following is the most likely cause of the cough?",
+    "choices": null,
+    "correctAnswer": "F",
+    "correctExplanation": "This patient's presentation with signs and symptoms of fever, fatigue, productive cough, and an upper lung field infiltrate is concerning for pulmonary tuberculosis. Primary tuberculosis results from an initial exposure to Mycobacterium tuberculosis, leading to the development of hilar lymphadenopathy and pulmonary calcified granulomas (known as a Ghan complex). Secondary reactivation tuberculosis typically results in apical pulmonary infiltrates with fibrocaseous cavitary lesions. It classically presents with fever, night sweats, weight loss, and hemoptysis. Patients may also develop anemia of chronic disease. Chest x-ray may demonstrate apical opacities or cavitary lesions. The diagnosis may be confirmed with culture samples obtained from sputum or bronchoalveolar lavage. Purified protein derivative testing and serum interferon gamma release assays are important screening methods for asymptomatic patients but are not adequate for confirming the diagnosis. Patients with alcohol use disorder, patients experiencing homelessness, those from endemic areas (eg, Africa, South America), and those living or working in close quarters such as nursing care facilities or prisons are more likely to contract tuberculosis. Reactivation tuberculosis requires combination antimicrobia l treatment including r ~, ~ ~ r, Previous Next Score Report Lab Values Calculator Help Pause .... https://t.me/USMLENBME2CK Exam Section: Item 39 of 50 National Board of Medical Examiners ■ Mark ~-- Family Medicine Self-Assessment Correct Answer: F. This patient's presentation with signs and symptoms of fever, fatigue, productive cough, and an upper lung field infiltrate is concerning for pulmonary tuberculosis. Primary tuberculosis results from an initial exposure to Mycobacterium tuberculosis, leading to the development of hilar lymphadenopathy and pulmonary calcified granulomas (known as a Ghan complex). Secondary reactivation tuberculosis typically results in apical pulmonary infiltrates with fibrocaseous cavitary lesions. It classically presents with fever, night sweats, weight loss, and hemoptysis. Patients may also develop anemia of chronic disease. Chest x-ray may demonstrate apical opacities or cavitary lesions. The diagnosis may be confirmed with culture samples obtained from sputum or bronchoalveolar lavage. Purified protein derivative testing and serum interferon gamma release assays are important screening methods for asymptomatic patients but are not adequate for confirming the diagnosis. Patients with alcohol use disorder, patients experiencing homelessness, those from endemic areas (eg, Africa, South America), and those living or working in close quarters such as nursing care facilities or prisons are more likely to contract tubercu losis. Reactivation tuberculosis requires combination antimicrobia l treatment including rifampin, isoniazid, pyrazinamide, and ethambutol, along with initial respiratory isolation.",
+    "incorrectExplanation": "nd E. Bronchitis (Choice A) refers to the presence of a productive cough and signs of obstructive lung disease (eg, wheezing, air trapping). Chronic bronchitis often occurs in smokers as a component of the spectrum of chronic obstructive pulmonary disease, in tandem with emphysema. Environmenta l irritants (Choice B) often exacerbate asthma, which is characterized by reversible obstruction to airflow caused by spasm of smooth muscle in the bronchi and small airways. Asthma does not typically present with fever or anemia of chronic disease. Lung cancer (Choice C) typically presents as a chronic consolidation or nodular opacity in the lung. It may also lead to anemia of chronic disease but does not typically present with fever. Pneumonia (Choice D) presents with acute or subacute fever, productive or nonproductive cough, crackles, and patchy or lobar alveolar infiltrates. This patient's chronic course and history of exposure to crowded conditions in a prison is more concerning for tuberculosis. Sarcoidosis (Choice E) is a chronic noncaseating granulomatous disease, most commonly presenting with bilateral hilar lymphadenopathy and coarse, upper-lobe-predominant reticular pulmonary opacities. Educational Objective: Reactivation tuberculosis presents with fever, night sweats, weight loss, hemoptysis, and apical infiltrates or cavitary lesions that may be visible by plain film x-rays. Patients with tuberculosis may develop anemia of chronic disease.",
+    "image": true,
+    "id": "FM-2-39",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 40,
+    "questionStem": "An otherwise healthy 9-year-o ld girl is brought to the physician by her mother because she noticed a lump in her daughter's left breast 10 days ago. The mother has a history of breast cancer. The patient is at the 70th percentile for height and 40th percentile for weight. Breast development is Tanner stage 2, and pubic hair development is Tanner stage 1. There is no axillary lymphadenopathy. Examination shows a 2 x 2.5-cm slightly raised mass just beneath the left areola. The mass is tender and slightly granular; there is no erythema. The right nipple is slightly tender but otherwise normal. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Follow-up examination in 6 months",
+      "B": "Mammography",
+      "C": "Ultrasound-directed biopsy of the mass",
+      "D": "Excision of the mass",
+      "E": "Antibiotic therapy"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Follow-up examination in 6 months is appropriate for this young girl who has just begun thelarche (breast development). Puberty in girls typically follows a predictable course of thelarche to pubarche (pubic hair) to a growth spurt and finally, menarche. Mild unilateral or bilateral breast swelling can be normal in early puberty because of the increased production of estrogen and the growth of mammary tissue. Thus, this patient's mother can be reassured that this is likely a normal finding of the beginning puberty rather than a sign of malignancy. However, the patient should be examined again in 6 months to ensure that no concerning features such as hardening of the mass or lymphadenopathy have developed.",
+    "incorrectExplanation": "nd E. Mammography (Choice B) is the first step in the evaluation of a breast mass occurring in a patient over the age of 35. In patients younger than 35, the typical density of breast tissue makes mammography difficult to accurately interpret. In addition, imaging studies are not necessary at this time because this patient undergoing thelar che. Observation is a more appropriate course of action. Ultrasound-directed biopsy of the mass (Choice C) is not necessary at this time given that this patient's breast mass is consistent with a normal variant of thelarche and can simply be monitored. Ultrasound-directed biopsy would be appropriate if there was a suspicious breast mass in order to obtain a definitive pathologic diagnosis. Excision of the mass (Choice D) either for biopsy or removal is not necessary in this case. This is an invasive procedure with the potential for cosmetic disfigurement of the breast and should be reserved for breast masses with a confirmed pathologic diagnosis and indication for removal. • - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - I.",
+    "image": null,
+    "id": "FM-2-40",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 41,
+    "questionStem": "Over the past 4 months, a 66-year-o ld woman has had progressive shortness of breath on exertion. For 2 weeks, she has had two-pil low orthopnea and paroxysma l nocturna l dyspnea not associated with neck , chest, or arm pain. She has a history of untreated borderl ine hypertension . Her pulse is 96/min, respirations are 18/min, and blood pressure is 150/94 mm Hg. Examination shows 3-cm jugular venous distention. Bilateral inspiratory crackles are heard most prominently at both lung bases. There is a laterally displaced apical impulse and an S3 gallop without murmur. There is mild pitting edema bilaterally. Which of the following is the most appropr iate next step in diagnosis?",
+    "choices": {
+      "A": "Measurement of creatin ine clearance",
+      "B": "Serial measurement of serum cardiac enzyme activities",
+      "C": "Measurement of left ventricular ejection fraction",
+      "D": "Thallium stress test",
+      "E": "Coronary artery angiography"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "The patient has a classic presentation for congestive heart failure, and the most appropriate next diagnostic step is the measurement of left ventricular ejection fraction via echocardiography. The patient's symptoms and signs suggest a volume overloaded state, as evidenced by orthopnea, dyspnea on exertion, paroxysmal nocturna l dyspnea, jugular venous distention, peripheral pitting edema, pulmonary crackles, and an S3 gallop on cardiac auscultation. This should prompt further evaluation for cardiac, hepatic, or renal disease as an underlying etiology. The physica l examination findings of jugu lar venous distention, an S3 gallop, and a laterally displaced apical impulse suggest the presence of left ventricular hypertrophy. Chronic untreated hypertension is a risk factor for the development of left ventricular hypertrophy, diastolic dysfunction, and clinically significant congestive heart failure. Diagnostic evaluation should include routine blood counts and chemistries, including the assessment of renal function, measurement of serum brain natriuretic peptide concentration, electrocardiography, and an echocardiography.",
+    "incorrectExplanation": "nd E. Measurement of creatinine clearance (Choice A) should be performed in this patient to assess for chronic kidney disease resulting from chronic untreated hypertension. The presence of jugular venous distention, an S3 gallop, and a laterally displaced apical impulse suggest the presence of left ventricular hypertrophy. A cardiac etiology is a more likely cause of her symptoms, and the left ventricular ejection fraction should be first assessed with echocardiography. Serial measurement of serum cardiac enzyme activities (Choice B) would be indicated if the patient developed angina or associated referred pain Uaw, arm, back) or other symptoms of acute coronary syndrome. In the outpatient setting, a stable patient with findings of congestive heart failure should first be assessed with echocardiography. - - -- - - - - - - - - - - .",
+    "image": null,
+    "id": "FM-2-41",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 42,
+    "questionStem": "A 16-year-old girl comes to the physician because of a 2-day history of urinary frequency and urgency and pain with urination. Over the past 2 months, she has had two urinary tract infections treated with trimet hoprim-sulfamet hoxazole. Menses occur at regular intervals, and she frequent ly uses tampons. She became sexually active with one partner 3 months ago. She uses depot medroxyprogesterone for contraception. She and her partner use condoms consistently, and they both have tested negative for sexually transmitted diseases. Examination shows bilateral pelvic tenderness to palpation and no costovertebra l angle tenderness. After treatme nt for the current infection, which of the following is the most appropriate recomme ndation to prevent future urinary tract infections in this patient?",
+    "choices": {
+      "A": "Delay postcoita l urination",
+      "B": "Discontinue tampon use",
+      "C": "Postcoital single-dose nitrofurantoin therap y;",
+      "D": "Switch from depot medroxyprogesterone to a diaphragm",
+      "E": "Switch from depot medroxyprogesterone to an oral contraceptive"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Lower urinary tract infections (UTls) present with dysuria, frequency, urgency, and suprapubic discomfort. They occur more frequently in women than in men because of a shorter urethra and favorable regional environment for bacterial growth. Risk factors include the presence of a urinary catheter, anatomic genitourinary defects, diabetes mellitus, pregnancy, and frequent or recent sexual intercourse. Urinalysis will typically show bacteriuria, white blood cells, positive leukocyte esterase, and positive nitrites depending on the infectious organism. Treatment of uncomplicated UTls typically consists of outpatient antibiotic management with trimethoprim-sulfamethoxazole, nitrofurantoin, or cephalexin. Preventive measures for recurrent UTls include voiding immediately after coitus, oral hydration, and improvement of feminine hygiene practices to reduce the introduction of bacteria to the urethra. If these preventive measures fail, antibiotic prophylaxis with daily trimethoprim-su lfamethoxazole or postcoita l single-dose nitrofurantoin is appropriate.",
+    "incorrectExplanation": "nd E. Delaying postcoital urination (Choice A) could allow bacteria to flourish in the genitourinary tract and increase the risk for infection. Immediately voiding after coitus decreases the risk for developing a UTI. Discontinuing tampon use (Choice B) would not decrease this patient's risk for developing a UTI. Excessive tampon use is more likely to lead to toxic shock syndrome, which presents with fever, altered mental status, an erythematous rash, and hypotension. Switching from depot medroxyprogesterone to a diaphragm (Choice D) or an oral contraceptive (Choice E) would not decrease this patient's risk for developing a UTI. Changing contracep tive methods may lead to unwanted adverse effects, such as breakthrough bleeding.",
+    "image": null,
+    "id": "FM-2-42",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 43,
+    "questionStem": "A 42-year-o ld woman comes to the phys ician for a follow-up examination. She has had persiste nt right heel pain since taking a 5-mile walk 3 weeks ago. She has been treated with naproxen, a heel cushion, and exercises. The pain has persisted, and she had the onset of foot swelling 4 days ago. She has well-controlled type 1 diabetes mellitus and hypertension. Her only other medications are benazepril and insulin. Exami nation shows 1 + edema bilateral ly to the midca lf. Which of the following is the most likely cause of the edema?",
+    "choices": {
+      "A": "Decreased cardiac output",
+      "B": "Idiopath ic anaphylactoid reaction",
+      "C": "Impaired renal excretion of sodium",
+      "D": "Localized soft-tissue swelling",
+      "E": "Naproxen-induced hepatic toxicity"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Naproxen is a nonsteroidal anti-inflammatory medication (NSAI D) that is commonly used for mild to moderate pain management. It is nephrotoxic and can cause acute kidney injury, especially in patients with chronic kidney disease, volume depletion, or who are also taking diuretics or ACE inhibitors. Acute kidney injury can manifest with decreased urine output, hypertension, and fluid overload with lower extremity edema. Laboratory tests typical ly show increased blood urea nitrogen, potassium, and creatinine, and they may also show derangements in sodium depending on the patient 's volume status. The kidney is the main site for sodium and volume regulation, and acute kidney injury can result in impaired renal excretion of sodium. Sodium balance is a main driver of fluid balance. When excretion of sodium is impaired, hypervo lemia and fluid retention can result, leading to lower extremity edema and, if severe, pulmonary edema. NSAIDs reduce the synthesis of prostaglandins, an action that impairs renal blood flow; combined with an ACE inhibitor, delivery of blood to the glomerulus may be substantially impaired.",
+    "incorrectExplanation": "nd E. Decreased cardiac output (Choice A) in congestive heart failure can cause lower extremity edema. However, this patient has no history of congestive heart failure, myocardial infarction, myocarditis, or other causes of decreased cardiac output. Idiopathic anaphylactoid reaction (Choice B) presents with signs and symptoms similar to anaphylaxis, including urticaria, shortness of breath, wheezing, vomiting, oropharyngeal or facial swelling, and hypotension. Isolated lower extremity swelling would not be consistent with an anaphylactoid reaction. Localized soft-tissue swelling (Choice D) can occur with deep venous thrombosis, cellulitis, or an abscess. It would be unlikely to present bilaterally, as in this patient. Additionally, this statement describes an examination finding, not an underlying cause.",
+    "image": null,
+    "id": "FM-2-43",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 46,
+    "questionStem": "A 62-year-o ld woman comes to the physician because of a 9-month history of pain and swelling of her finger joints. Her pain increases with activity. She has had progressive stiffness in her fingers during the past 2 years. She has mild hypertension controlled with diet. She takes no medicat ions. Her blood pressure is 138/90 mm Hg. Examination shows an asymmetric distribution of enlarged bony proximal and distal interphalangeal joints; some of the joints are tender to palpation, and passive range of motion is limited by pain. Grip strength is normal. The remainder of the examination shows no abnorma lities. The most appropriate initial step in management is administration of which of the following?",
+    "choices": null,
+    "correctAnswer": "A",
+    "correctExplanation": "Acetaminophen is the most appropriate medication to administer to this patient who most likely has osteoarthritis (OA). Elderly patients common ly develop OA in the fingers, knees, and hips. When present in the hands, the most commonly affected joints are the first carpome tacarpal (CMC), distal interphalangeal (DIP), and proximal interphalangeal (PIP) joints, and physical examination findings often include Heberden or Bouchard nodes without active synovitis. The metacarpophalangeal (MCP) joints are not commonly affected, although when they are, the second and third MCP joints are most often involved. The characteristics of the pain are also important in differentiating OA from inflammatory arthritis such as rheumatoid arthritis (RA), which can also present in the sixth decade of life. OA pain tends to worsen throughout the day with continued use, whereas inflammatory pain tends to be worse in the morning and improve after about an hour of continual use. First-line treatment of OA includes acetaminophen. Other medications include nonsteroidal anti­ inflammatory drugs (NSAIDs), although these must be avoided in patients with a history of gastrointestinal bleeding or chronic kidney disease. Topical NSAID preparations are another viable alternative that provide relief to some patients without the systemic effects of oral NSAIDs.",
+    "incorrectExplanation": "nd E. Allopurinol (Choice B) is used to lower the serum urate concentration in patients with a history of multiple gout attacks to prevent additional episodes. Chronic gout can result in joint destruction and chronic arthritis, but a preceding history of numerous acute gout episodes is usually present. This patient lacks these features. Gold (Choice C) used to be a treatment for RA, but because of its systemic toxicities, it is no longer a recommended therapy. Methotrexate (Choice D) is a first-line treatment for RA. This patient does not have features of inflammatory arthritis.",
+    "image": null,
+    "id": "FM-2-46",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 47,
+    "questionStem": "A 9-month-o ld girl is brought to the physician for a well-child examination. Two weeks ago, she had viral gastroe nteritis; her symptoms lasted for 10 days and included low-grade fever, vomiting, and diarrhea. Her mother recently resumed feeding her daughter the cow milk-base d formula she had been drinking before the illness. The infant's stools have continued to be watery and she has had \"a lot of gas.\" She is otherwise healthy, and her immunizations are up-to-date. Vital signs are within normal limits. Physical examination shows no abnormal ities except for mild abdominal distention with increased bowel sounds. There are no palpable masses or organomega ly. Which of the following is the most likely explanation for this patient's current gastrointestinal symptoms?",
+    "choices": {
+      "A": "Bacterial enteritis",
+      "B": "Celiac disease",
+      "C": "Cow milk allergy",
+      "D": "Lactose intolerance",
+      "E": "Persiste nt viral gastroe nteritis"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Lactase catalyzes the breakdown of lactose (disaccharide) to galactose and glucose (monosaccharides) at the brush border of enterocytes. Deficiency of lactase may be induced by several mechanisms. Primary lactase deficiency can occur after early childhood in some genetically predisposed children. Additional ly, gastroenteritis or autoimmune disease may damage the intestinal brush border and lead to effective lactase deficiency. Individuals with lactose intolerance typically present with abdominal cramping, bloating, flatulence, and diarrhea after the ingestion of lactose-containing foods.",
+    "incorrectExplanation": "nd E. Bacterial enteritis (Choice A) such as Salmonella enteritis classical ly presents with mucosal inflammation and invasion, leading to nausea, vomiting, cramping, and diarrhea. Associated symptoms can include fever and bloody stools if the infection is severe or invasive. Symptoms are typically self-limited, with resolution beginning within 48 to 72 hours. Celiac disease (Choice B) is an immunologic intolerance to the protein gliadin. Celiac disease typically presents with abdominal discomfort, bloating, nausea, and diarrhea following exposure to gluten, and may be associated with weight loss and dermatitis herpetiformis. Cow milk allergy (Choice C) involves acute lgE-mediated allergic responses to various allergens in milk. A response typically occurs within minutes to hours of milk ingestion, but it may occasional ly be delayed to days. Signs and symptoms of cow milk allergy include abdominal pain, nausea, vomiting, diarrhea, dysphagia, shortness of breath, wheezing, urticaria, skin flushing, palpitations, or other symptoms of allergic reaction. This patient's symptoms of isolated diarrhea and bloating after milk ingestion is more likely related to - - - - - - - - - - - - .",
+    "image": null,
+    "id": "FM-2-47",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 48,
+    "questionStem": "A 47-year-o ld woman comes to the physician to discuss weight loss. She has a 5-year history of hypertension and was recently diagnosed with type 2 diabetes mellitus. She has been overweight her entire life and gained approximately 9 kg (20 lb) after the birth of each of her three children. She has tried over-the-counter medications for weight loss and lost 18 kg (40 lb) on commercia l diets but has been unable to keep the weight off. She is not following any particular diet at this time but she walks for 30 minutes three times week ly. Current medicat ions are hydrochlorothiaz ide and metformin. Her father died of a myocardia l infarctio n at the age of 52 years. She does not smoke cigarettes. She is 165 cm (5 ft 5 in) tall and weighs 104 kg (230 lb); BMI is 38 kg/m2. Her temperatu re is 37°C (98.6 °F), pulse is 84/min, respirations are 12/min, and blood pressure is 140/80 mm Hg. Examination shows no other abnorma lities. Serum stud ies show: Glucose 140 mg/dL Cholesterol, total 225 mg/dL HDL-cholesterol 50 mg/dL LDL-cholesterol 120 mg/dL Triglycerides 280 mg/dL A complete blood count and serum electrolyte concentrations are within the reference range. Liver and thyroid function tests show no abnorma lities. Which of the following is most likely to be effective in achieving weight loss in this patient?",
+    "choices": null,
+    "correctAnswer": "B",
+    "correctExplanation": "Gastric bypass is the intervention that is most likely to help this patient achieve weight loss. This patient has a BMI of 38 kg/m 2 in addition to hyperlipidemia, hypertension, and type 2 diabetes mellitus. While exercise can help decrease cardiovascular risk, it infrequently has a meaningful effect on weight loss. Diet, on the contrary, is a highly effective tool for weight loss, but it is not uncommon for patients with prior weight loss from strict dieting to regain much of their weight over time. Criteria for gastric bypass surgery include a BMI over 40 kg/m 2, a BMI over 35 kg/m 2 with at least one obesity-related health complication, or a BMI over 30 kg/m 2 with uncontrolled diabetes mellitus or metabolic syndrome. This patient has three obesity-related complications and would be a good candidate for gastric bypass. There are many forms of gastric surgery for weight loss purposes including sleeve gastrectomy and biliopancreatic diversion with duodena l switch, although a Roux-en-Y gastric bypass is commonly used. All patients should receive psychological and nutritional counseling prior to the surgery, and patients must adhere to a strict diet prior to surgery. Following bypass, patients should be assessed yearly for nutritional deficiencies given their altered anatomy and abnormal absorption. r ~, ~ ~ r, Previous Next Score Report Lab Values Calculator Help Pause .... https://t.me/USMLENBME2CK Exam Section: Item 48 of 50 National Board of Medical Examiners ■ Mark Family Medicine Self-Assessment • I H • I • E) O rlistat therapy Correct Answer: B. Gastric bypass is the intervention that is most likely to help this patient achieve weight loss. This patient has a BMI of 38 kg/m 2 in addition to hyperlipidemia, hypertension, and type 2 diabetes mellitus. While exercise can help decrease cardiovascular risk, it infrequently has a meaningful effect on weight loss. Diet, on the contrary, is a highly effective tool for weight loss, but it is not uncommon for patients with prior weight loss from strict dieting to regain much of their weight over time. Criteria for gastric bypass surgery include a BMI over 40 kg/m 2, a BMI over 35 kg/m 2 with at least one obesity-re lated health complication, or a BMI over 30 kg/m 2 with uncontrolled diabetes mellitus or metabolic syndrome. This patient has three obesity-related complications and would be a good candidate for gastric bypass. There are many forms of gastric surgery for weight loss purposes including sleeve gastrectomy and biliopancreatic diversion with duodena l switch, although a Roux-en-Y gastric bypass is commonly used. All patients should receive psychological and nutritional counseling prior to the surgery, and patients must adhere to a strict diet prior to surgery. Following bypass, patients should be assessed yearly for nutritional deficiencies given their altered anatomy and abnormal absorption.",
+    "incorrectExplanation": "nd E. Exercise program (Choice A) would be helpful in reducing this patient's cardiovascular risk but is unlikely to have any meaningful impact on her weight loss. Exercise is critical, though, to maintain weight loss once achieved. A low-carbohydrate diet (Choice C) can help many patients achieve dramatic weight loss, but this patient has previously tried dieting and has regained all of her weight. She also has obesity-related complications and meets the criteria for bypass surgery. Similarly, a low-fat diet (Choice D) will help improve this patient's hyperlipidemia and may lead to some minor weight loss, but it is unlikely to result in the dramatic weight loss she requires to improve her health. Orlistat therapy (Choice E) can sometimes be useful for individuals who are overweight or obese and do not have obesity-related complications. The medication interferes with dietary fat absorption. Its effectiveness is often limited as it is poorly tolerated by patients because of gastrointestinal adverse effects. Educational Objective: Patients with a BMI over 40 kg/m2, a BMI over 35 kg/m 2 with at least one obesity-related health complication, or a BMI over 30 kg/m 2 and uncontrolled diabetes mellitus or metabolic syndrome are candidates for gastric bypass. Bypass often results in dramatic weight reduction and improvement of health status, although strict adherence to a diet following surgery is necessary to prevent weight gain and complications such as dumping syndrome. All patients should be assessed for nutritional deficiencies, especially vitamin B 12 deficiency, yearly following surgery.",
+    "image": null,
+    "id": "FM-2-48",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 49,
+    "questionStem": "An asymptomatic 67-year-old woman comes to the physician for a follow-up visit. She has a 10-year history of type 2 diabetes mellitus and a 3-year history of hypertension . Her medications are glyburide, metoprolol, amlodipine , and fluoxetine. Her blood pressure is 136/86 mm Hg. The lungs are clear to auscultation. S1 and S2 are norma l. The point of maxima l impulse is at the fifth intercostal space at the midclavicular line. Examination of the lower extremities shows 2+ edema from the mid calf to the foot bilateral ly. Sensation to pinprick and vibration is decreased over the feet. Laboratory studies show: Serum Urea nitrogen Creatinine Urine Glucose Protein Which of the following is the most likely cause of this patient's edema?",
+    "choices": {
+      "A": "Adverse effect of medication",
+      "B": "Congestive heart failure",
+      "C": "Deep venous thrombosis",
+      "D": "Lymphatic obstruction",
+      "E": "Nephrotic syndrome"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "8 mg/dL 0.8 mg/dL 1+ trace Amlodipine is a dihydropyridine calcium channel blocker that acts as an arterial vasodilator to decrease mean arterial pressure and is used in the management of hypertension. A common adverse effect of calcium channel blockers includes peripheral edema caused by the redistribution of intravascular fluid to the interstitial space. Typically, patients are euvolemic, and bilateral lower extremity edema is not caused by increased fluid retention or cardiac, hepatic, renal, or lymphati c dysfunction. Diuretics are unlikely to help patients with calcium channel blocker-induced lower extremity edema. Patients with this adverse effect are managed with a reduction in dose or switching to a different antihypertensive medication.",
+    "incorrectExplanation": "nd E. Decreased cardiac output in congestive heart failure (Choice B) can cause lower extremity edema. However, this patient has no history of congestive heart failure, myocardial infarction, myocarditis, or other causes of decreased cardiac output. •--· ... . ..... .. - -• - - . ' - - ... - - .. - ··•• - -•• •-. . . - . - - - : - - - ---·",
+    "image": null,
+    "id": "FM-2-49",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 50,
+    "questionStem": "The mother of a 16-year-o ld boy telephones the physician to request drug screening during his annual exam ination. She suspects that he has been using drugs because his grades recently dropped, and she has heard rumors that some of his friends are using drugs. She says that she has not discussed her request with her son and asks the physician to perform the drug screen ing without her son's knowledge. Which of the following is the most appropriate course of action?",
+    "choices": {
+      "A": "Agree to testing to abide by the mother's wishes",
+      "B": "Agree to testing after she faxes written documentatio n of her request to the office",
+      "C": "Agree to testing but inform her that telling her the results would violate the physician-patient relationship",
+      "D": "Do not agree to testing because her son is an emancipated minor and she cannot legally make such a request",
+      "E": "Do not agree to testing unless her son agrees to the drug testing"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "It is unethical to test any patient for drugs unknowingly, particularly in an adolescent at the request of a parent. The physician should therefore not agree to perform testing unless the patient assents to it. Instead, the physician should encourage the patient's mother to discuss her son's school performance directly with him. The physician may also choose to open a discussion on substance abuse with the patient during their upcoming visit, beginning by inquiring about his attitudes toward drug use. If the patient does endorse substance abuse, disclosing this to his mother is still not appropriate as the physician is obligated to protect the patient's confidentiality, even though he is an adolescent. Exceptions to adolescent confidentia lity are permitted in situations of child abuse, suicidality, homicidal ideation, certain cases related to sexually transmitted infections, mental health care, and, in some states, when a patient consents to an abortion. Discussing the patient's substance use habits with his parents unbeknownst to the patient is not appropriate. Each state has varying statutes regarding confidentiality; physicians should be familiar with the statutes in their areas.",
+    "incorrectExplanation": "nd D. The physician should not agree to testing simply to abide by the mother's wishes (Choice A), with or without written documentation of her request (Choice B), even if the physician does not plan on informing her of the results (Choice C). The patient must be informed if drug screening will be performed. There is no indication that this patient is an emancipated minor (Choice D). An emancipated minor is one who has legally attained adulthood before the typically designated age through circumstances including marriage, military service, living on their own, or managing their own financial affairs. Whether the patient is an emancipated minor or not, if the physician feels a drug screen is warranted, the patient should be made aware and be allowed to assent. Educational Objective: Drug screening should not be performed without a patient's agreement, even an adolescent at the request of a",
+    "image": null,
+    "id": "FM-2-50",
+    "section": "FM",
+    "subsection": "CMS-2",
+    "system": null
+  }
+]

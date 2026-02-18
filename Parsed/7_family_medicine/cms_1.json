@@ -1,0 +1,973 @@
+[
+  {
+    "questionNumber": 1,
+    "questionStem": "A 47-year-old woman comes to the physician because of a 1-week history of progressive pain and swelling of the left knee. She has pain with walking and at rest. There is no history of trauma. She has hypertension, type 1 diabetes mellitus, and asthma. Her current medications are insulin, a β-adrenergic blocking agent, and a daily inhaled corticosteroid. She is 158 cm (5 ft 2 in) tall and weighs 136 kg (300 lb); BMI is 55 kg/m2. Her temperature is 37.8°C (100.1°F); other vital signs are within normal limits. The knee is tender, swollen, warm, and erythematous. There is severe pain with passive and active range of motion. Plain x-rays of the knee show periarticular osteopenia; the joint space is narrowed medially. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Measurement of serum uric acid concentration",
+      "B": "MRI of the knee",
+      "C": "Aspiration of the knee joint",
+      "D": "Intra-articular injection of corticosteroids",
+      "E": "Naproxen therapy"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "With progressive pain and swelling, no history of trauma, low grade fever, and a warm, swollen, erythematous joint, arthrocentesis is indicated to rule out a septic joint.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-1",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 2,
+    "questionStem": "A 16-year-old girl comes to the physician for a routine health maintenance examination. She says that she began following a vegan diet (no dairy or animal products) 2 months ago. She takes no medications or dietary supplements. She is 165 cm (5 ft 5 in) tall and weighs 50 kg (110 lb); BMI is 18 kg/m². Vital signs are within normal limits. Examination shows no abnormalities. Supplementation with which of the following is the most appropriate recommendation for this patient?",
+    "choices": {
+      "A": "Calcium",
+      "B": "Folic acid",
+      "C": "Magnesium",
+      "D": "Manganese",
+      "E": "Vitamin A"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Calcium is the most difficult vitamin to consume in sufficient quantities without eating meat or dairy.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-2",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 3,
+    "questionStem": "A 62-year-old man returns to the physician because of a 4-month history of progressive difficulty swallowing. This symptom initially occurred only when swallowing large pills or solid food, but now he also has had difficulty swallowing liquids for more than 2 months. He says that he was evaluated by the physician and underwent a barium swallow 2 months ago but has not received the results. Review of the office chart shows no test results or notation to schedule a follow-up visit. The radiology facility is contacted and reports that the results were mailed to the office immediately after the study 2 months ago and show evidence of esophageal carcinoma. Which of the following is most likely to have prevented the delay in this patient's care?",
+    "choices": {
+      "A": "Asking the radiology facility to fax results directly to the office instead of mailing them",
+      "B": "Encouraging the patient to return for a follow-up visit to discuss the test results",
+      "C": "Keeping a log of ordered tests that require follow-up by the office",
+      "D": "Referring all patients with gastrointestinal problems to specialists",
+      "E": "Retraining office staff on proper filing and notification procedures"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Having the facility fax rather than mail results changes the method of delivery, but ultimately not the system in any meaningful way. The patient should follow up, but lab results indicating a serious illness should not wait to be tracked down at a patient follow up visit, which could be weeks from the initial visit, referring all patients with GI problems to specialists simply because the office cannot coordinate receiving lab results in a timely fashion is absurd, retraining the office staff implies a training or procedural error, when in fact this was likely a larger systemic error. Creating a log of tests needing to be followed up on creates a system where lab results are less likely to be missed.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-3",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 4,
+    "questionStem": "A 67-year-old woman comes to the physician because of constant, severe, nonradiating low back pain that began 3 days ago after she changed her bedsheets. She has chronic asthma treated with an albuterol inhaler, prednisone, and theophylline. Menopause occurred 15 years ago; she has never received hormone replacement therapy. Her temperature is 36.6°C (97.8°F), pulse is 90/min, respirations are 20/min, and blood pressure is 148/90 mm Hg. There is decreased range of motion of the lumbar spine and point tenderness over L2. Neurologic examination shows no abnormalities. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Acute lumbosacral strain",
+      "B": "Ankylosing spondylitis",
+      "C": "Compression fracture",
+      "D": "Herniated nucleus pulposus",
+      "E": "Spondylolisthesis"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Red flags for a compression fracture due to osteoporosis include prolonged corticosteroid use, never having received hormone replacement therapy following menopause, nonradiating point tenderness over a specific vertebral body, and an injury during a light task (“changing bedsheets”) where an injury would not be expected.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-4",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 5,
+    "questionStem": "A 45-year-old man with type 2 diabetes mellitus and hypertension comes to the physician as a new patient. He has no other history of serious illness. He takes metformin and hydrochlorothiazide. He has smoked one pack of cigarettes daily for 20 years. His blood pressure is 142/82 mm Hg. The remainder of the examination shows no abnormalities. Laboratory studies from 1 month ago show: Hemoglobin A1c 7.8%, Serum Na+ 142 mEq/L, K+ 4.3 mEq/L, Cl- 109 mEq/L, Urea nitrogen 14 mg/dL, Glucose 135 mg/dL, Creatinine 0.7 mg/dL, Cholesterol, total 214 mg/dL, HDL-cholesterol 50 mg/dL, LDL-cholesterol 120 mg/dL, Triglycerides 142 mg/dL. Which of the following modifications would be most beneficial to this patient?",
+    "choices": {
+      "A": "Smoking cessation",
+      "B": "Adding lisinopril therapy to the medication regimen",
+      "C": "Adding pravastatin therapy to the medication regimen",
+      "D": "Increasing the dosage of hydrochlorothiazide",
+      "E": "Increasing the dosage of metformin"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "The question is not asking which therapy you should initiate. It is asking which will be most beneficial. In reality you would advocate for smoking cessation for his overall health, you would add lisinopril for his hypertension, a high intensity statin is indicated because he is a diabetic with an ASCVD 10 year risk of 15.8% (i.e. >7.5%), you could increase his dose of HCTZ depending on how high the current dose is, and likewise you could increase his dose of metformin if he is not currently on a maximal dose. However, what will be most beneficial for the patient of the options listed is smoking cessation.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-5",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 6,
+    "questionStem": "A 6-year-old boy is brought to the physician because of a 2-week history of scaling of his scalp. The family has no pets; the child attends an after-school day-care center, which has a pet turtle. The other children at the day-care center are asymptomatic. A photograph of the scalp is shown. Which of the following is the most appropriate pharmacotherapy to prevent spread to the children in the day-care center?",
+    "choices": {
+      "A": "Oral griseofulvin for the patient only",
+      "B": "Oral griseofulvin for the patient and his classmates",
+      "C": "Topical hydrocortisone for the patient only",
+      "D": "Topical hydrocortisone for the patient and his classmates",
+      "E": "Topical selenium sulfide for the patient only",
+      "F": "Topical selenium sulfide for the patient and his classmates"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "This is Tinea capitis. It commonly occurs in children. Black dot tinea capitis is common in African Americans. Diagnosis is confirmed with potassium hydroxide. Treat with oral griseofulvin for the patient only (not close contacts).",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "FM-1-6",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 7,
+    "questionStem": "A 72-year-old man comes to the physician as a new patient. He recently moved to the area. He feels well. He has hypertension and hypercholesterolemia. Current medications include ramipril, atorvastatin, and aspirin. Vital signs are within normal limits. Examination shows a harsh right carotid bruit. Neurologic examination shows no focal findings. Carotid Doppler ultrasonography shows 30% stenosis on the right and 10% stenosis on the left. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Continue his current regimen",
+      "B": "Add clopidogrel to the regimen",
+      "C": "Carotid angiography",
+      "D": "Magnetic resonance angiography",
+      "E": "Carotid endarterectomy"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Randomized controlled trials have found that carotid endarterectomy (CEA) is beneficial for selected patients with asymptomatic internal carotid artery stenosis of 60 to 99 percent. However, the degree of benefit is not as great as it is for symptomatic carotid stenosis. This patient is asymptomatic and has only 30% stenosis in the worst carotid artery.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-7",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 8,
+    "questionStem": "A 57-year-old man comes to the physician because of a 6-month history of cough productive of gray to light yellow sputum, shortness of breath on exertion, and occasional wheezing. He has not had chest pain. He has smoked one and a half packs of cigarettes daily for 38 years. His pulse is 78/min, respirations are 20/min, and blood pressure is 140/88 mm Hg. Breath sounds are decreased; occasional wheezing and fine scattered crackles are heard. Cardiac examination shows normal findings. There is trace pedal edema with no jugular venous distention or hepatojugular reflux. Laboratory findings are within the reference range except for a hemoglobin concentration of 17.6 g/dL. An x-ray of the chest shows flattened diaphragms. An ECG shows right axis deviation. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Recommend participation in a smoking cessation program",
+      "B": "Inhaled cromolyn therapy",
+      "C": "Inhaled fluticasone therapy",
+      "D": "Oral amoxicillin therapy"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "This patient has COPD, as indicated by the purulent sputum, exertional dyspnea, wheezing, history of cigarette smoking, diminished breath sounds, scattered crackles, and flattened diaphragms on CXR (they are laying it on thick in terms of classic COPD symptoms!). Furthermore the question essentially rules out serious CHF by describing no pedal edema, no S3 heart sound, no JVD. No therapy is described for this patient, so the very first drug to use would be an inhaled anticholinergic (ipratropium or tiotropium) + albuterol inhaler, neither of which are options. Inhaled fluticasone is a step-up treatment if initial inhaled anticholinergic + albuterol does not work, cromolyn is not indicated for COPD, oral amoxicillin is indicated for previously healthy, appropriately immunized infants and preschool children with mild to moderate community acquired pneumonia suspected to be of bacterial origin. For older patients, empiric treatment for community acquired pneumonia is typically azithromycin because it covers Mycoplasma pneumoniae. In any case, this patient likely does not have pneumonia. In studies considering smoking cessation in COPD patients, lung function decreased at twice the rate in patients who continued smoking versus those who quit, quitting smoking provided benefit whenever the person quit, and continuing smoking or relapsing worsened lung function. Here is another explanation source: https://step-prep.org/nbme-family-med-form-2/",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "FM-1-8",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 9,
+    "questionStem": "A 25-year-old woman who is a schoolteacher has a positive PPD skin test at a routine examination. She was exposed to a person with active tuberculosis when she was a child; however, all previous PPD skin tests since that time have been negative. Her last PPD skin test was 5 years ago. An x-ray of the chest shows no abnormalities. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Repeat PPD skin test in 10 weeks",
+      "B": "Repeat PPD skin test in 1 year",
+      "C": "Second strength PPD skin test (250 tuberculin units) now",
+      "D": "Treatment of latent tuberculosis now",
+      "E": "Treatment of active tuberculosis now",
+      "F": "No testing or therapy indicated"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "This patient who has a positive PPD and a negative CXR has latent tuberculosis and should be treated with Isoniazid supplemented with vitamin B6. While a repeat PPD 1-3 weeks after initial negative test is indicated for those not routinely tested for tuberculosis, a positive test does not require a repeat test for confirmation.",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "FM-1-9",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 10,
+    "questionStem": "A 22-year-old primigravid woman at 34 weeks' gestation comes to the physician because of a 1-week history of burning pain in her right thumb, index, and middle fingers and aching in her right forearm. Pregnancy has been uncomplicated. Her only medication is a prenatal vitamin. Muscle strength and sensation are intact in the right arm and hand. Which of the following is the most likely cause of this patient's symptoms?",
+    "choices": {
+      "A": "Cervical radiculopathy",
+      "B": "Median nerve entrapment",
+      "C": "Meralgia paresthetica",
+      "D": "Multiple sclerosis",
+      "E": "Radial nerve palsy",
+      "F": "Vitamin B6 deficiency"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Carpal tunnel syndrome (CTS) refers to paresthesias, hypesthesia, pain, or numbness of the thumb, index, and middle fingers, as a result of compression of the median nerve in the carpal tunnel. Affected patients often awake with burning, numbness, and tingling in the median nerve distribution, which is bilateral in 75 percent of cases. Patients commonly report shaking the hand to relieve the discomfort. The diagnosis is based upon presence of characteristic symptoms and objective findings and is similar to that in nonpregnant individuals. CTS is relatively common during pregnancy, with an incidence of 2 to 35 percent. The increased prevalence in pregnant women is thought to be caused by pregnancy-related fluid retention leading to compression of the nerve in the carpal tunnel; hormonal changes affecting the musculoskeletal system may also play a role. Symptoms tend to occur during the last trimester, but can occur at any time. In most cases, they gradually resolve over a period of weeks to months after delivery; however, symptoms can be prolonged for several months in women who are breast feeding. Symptoms may recur in subsequent pregnancies. Patients may receive benefit from splinting the wrist at night in a neutral position or slight extension. Wrist splints may need to be worn throughout the day in severe cases. Corticosteroid injection or surgery to release the flexor retinaculum is rarely indicated during pregnancy since the disease has a better prognosis than idiopathic CTS and often resolves postpartum (UTD).",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-10",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 11,
+    "questionStem": "A 16-year-old boy comes for an examination prior to participation in school sports. A painless mass is palpated in the scrotum; the mass decreases while supine and has a bag-of-worms sensation. The boy states that he did not notice it previously. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Epididymitis",
+      "B": "Hydrocele",
+      "C": "Inguinal hernia",
+      "D": "Leydig cell tumor",
+      "E": "Teratoma of the testis",
+      "F": "Torsion of the testis",
+      "G": "Varicocele"
+    },
+    "correctAnswer": "G",
+    "correctExplanation": "This patient has a classic presentation of a varicocele, as indicated by the “bag of worms” feel to the veins, the positional increase in symptoms when standing (due to the effect of gravity), and the painless nature of the mass. Varicoceles nearly always occur on the left due to the testicular vein on that side draining into the left renal vein rather than directly into the IVC as on the right side.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-11",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 12,
+    "questionStem": "A 42-year-old man comes to the physician because of a 2-month history of severe leg pain, especially at night. He has poorly controlled type 1 diabetes mellitus complicated by diabetic nephropathy. One month ago, his urine creatinine clearance was 20 mL/min. Current medications include insulin and captopril. Sensation to pain and light touch is decreased over the lower extremities in a stocking-glove distribution. His hemoglobin A1c is 10.2%. In addition to tighter glucose control, which of the following is the most appropriate next step in management of this patient's leg pain?",
+    "choices": {
+      "A": "Topical capsaicin therapy",
+      "B": "Oral acetaminophen with codeine therapy",
+      "C": "Oral amitriptyline therapy",
+      "D": "Oral ibuprofen therapy",
+      "E": "Oral morphine therapy"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "For diabetic neuropathy, the first line treatment is either a TCA or Gabapentin, then if those don't work, you can use opioids, topical capsaicin, or lidocaine.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-12",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 13,
+    "questionStem": "An asymptomatic 27-year-old woman comes for a routine health maintenance examination. She works as a lawyer. Her temperature is 37.2°C (98.9°F), pulse is 96/min, respirations are 16/min, and blood pressure is 144/82 mm Hg. Serum studies show a thyroxine (T4) concentration of 14 µg/dL, a triiodothyronine (T3) concentration of 250 ng/dL, and a thyroid-stimulating hormone concentration of 0.1 µU/mL. A radioactive thyroid scan shows increased uptake and a diffusely enlarged gland. Which of the following is the most likely cause of this patient's findings?",
+    "choices": {
+      "A": "Acute suppurative thyroiditis",
+      "B": "Chronic lymphocytic thyroiditis (Hashimoto disease)",
+      "C": "Drug-induced hypothyroidism",
+      "D": "Euthyroid sick syndrome",
+      "E": "Exogenous administration of thyroid hormone",
+      "F": "Hyperthyroidism",
+      "G": "Multiple endocrine neoplasia syndrome",
+      "H": "Subacute thyroiditis",
+      "I": "Thyroid cancer"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "This woman likely has Graves’ disease as indicated by the increased uptake on RAIU scan, but certainly with elevated T4, T3, and a low TSH, she has hyperthyroidism.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-13",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 14,
+    "questionStem": "During a routine health maintenance examination, a 15-year-old girl says that she has used marijuana with friends on four occasions. She is healthy and doing well in school. She requests that her parents not be told about the marijuana use. In addition to counseling her about the adverse effects of marijuana use, which of the following is the most appropriate intervention at this time?",
+    "choices": {
+      "A": "Referral to a psychologist for treatment of substance abuse",
+      "B": "Scheduling a family conference",
+      "C": "Scheduling a follow-up examination with the patient",
+      "D": "Screening for human papillomavirus infection",
+      "E": "Urine toxicology screening"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "The most important thing in this case is to foster the physician-patient relationship, which will be undermined by either scheduling a family conference or ordering a urine toxicology screen. Women younger than 30 are never screened for HPV because studies have shown that they routinely contract then clear the virus. Having used marijuana four times in one’s lifetime does not constitute substance abuse, thus referral to a psychologist for this purpose is not reasonable.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-14",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 15,
+    "questionStem": "A 56-year-old woman comes to the physician because of a 3-day history of an itchy, burning rash over the left side of her face. She has no history of serious illness and takes no medications. She is a retired schoolteacher. Her temperature is 37.1°C (98.8°F), pulse is 81/min, respirations are 14/min, and blood pressure is 138/80 mm Hg. A photograph of the rash is shown. The remainder of the examination shows no abnormalities. Which of the following is the most appropriate pharmacotherapy?",
+    "choices": {
+      "A": "Topical triamcinolone",
+      "B": "Oral cephalexin",
+      "C": "Oral prednisone",
+      "D": "Oral trimethoprim-sulfamethoxazole",
+      "E": "Oral valacyclovir"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "This person has shingles along the V1 distribution and should be treated with oral valacyclovir.",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "FM-1-15",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 16,
+    "questionStem": "A 62-year-old woman comes to the physician because of a 6-month history of shortness of breath with exertion and leg swelling. Her last visit to a physician was 15 years ago. She takes no medications. Bilateral basilar crackles are heard on auscultation. Cardiac examination shows a dyskinetic, laterally displaced point of maximal impulse and an S3. There is 2+ pitting edema of the lower extremities. Laboratory studies show: Serum Na+ 132 mEq/L, Cl- 104 mEq/L, K+ 3.8 mEq/L, HCO3- 22 mEq/L, Urea nitrogen 14 mg/dL, Glucose 98 mg/dL, Creatinine 1.2 mg/dL. Urine Specific gravity 1.020, Protein negative. Which of the following is the most likely explanation for this patient's hyponatremia?",
+    "choices": {
+      "A": "Baroreceptor-mediated ADH (vasopressin) secretion",
+      "B": "Ectopic production of ADH",
+      "C": "Inappropriate suppression of ADH",
+      "D": "Inappropriate suppression of ADH receptors",
+      "E": "Renal unresponsiveness to ADH"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "This patient has CHF as indicated by her exertional dyspnea, bibasilar lung crackles, S3 heart sound, and pitting edema of the lower extremities. In CHF, reduced ejection fraction leads to decreased stimulation of baroreceptors, artificially indicating to the body a low intravascular body. The body responds by secreting ADH, which causes fluid retention without sodium retention, producing volume overload with hyponatremia. Sadly, the resultant volume overload exacerbates the CHF by increasing preload, thus setting up a vicious cycle.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-16",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 17,
+    "questionStem": "A 12-year-old boy is brought to the physician for evaluation of bed wetting; he was toilet trained for daytime voiding at the age of 3 years but has continued to wet the bed three to five times weekly. He has not had constipation or stool incontinence. He also has difficulty waking up in the morning to get ready for school. His parents describe him as a 'deep sleeper.' His development is appropriate for age. He is at the 50th percentile for height, weight, and BMI. Vital signs are within normal limits. Physical examination shows no abnormalities. Which of the following is the most appropriate management for this patient to achieve nighttime continence?",
+    "choices": {
+      "A": "Water deprivation after 5 PM",
+      "B": "Enuresis alarm",
+      "C": "Desmopressin therapy",
+      "D": "Fluoxetine therapy",
+      "E": "Imipramine therapy"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": null,
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-17",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 18,
+    "questionStem": "A 77-year-old man with coronary artery disease comes to the physician for a follow-up examination. He underwent coronary artery bypass grafting 4 years ago. He has a 3-year history of intermittent claudication. His blood pressure measurements from his last eight visits show: \n\nNumber of Months Ago | Blood Pressure (mm Hg)\n24 | 130/80\n21 | 130/60\n15 | 140/70\n12 | 130/80\n8 | 160/90\n6 | 170/96\n4 | 180/110\n2 | 180/100\n\nCurrent medications include aspirin and atorvastatin. His temperature is 36.5°C (97.7°F), pulse is 80/min, and blood pressure is 180/110 mm Hg. Heart sounds are normal. Dorsalis pedis and posterior tibial pulses are not palpable bilaterally. Serum studies show:\n\nK+ | 3.1 mEq/L\nHCO3- | 28 mEq/L\nUrea nitrogen | 20 mg/dL\nGlucose | 90 mg/dL\nCreatinine | 1.1 mg/dL\n\nWhich of the following is the most likely cause of this patient's increased blood pressure?",
+    "choices": {
+      "A": "Dissecting abdominal aortic aneurysm",
+      "B": "Essential hypertension",
+      "C": "Renal artery stenosis",
+      "D": "Renal failure",
+      "E": "White-coat hypertension"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "HTN resistant to treatment is most likely caused by renal artery stenosis in older men, by fibromuscular dysplasia in young females. He also has hypokalemia due to increased aldosterone secretion as a result of increased renin production.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-18",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 19,
+    "questionStem": "An 11-year-old boy is brought to the physician because of a 2-day history of nasal congestion and mild sore throat; he has coughing and sneezing productive of green mucus. He has not had fever or ear pain. He has had no sick contacts. His temperature is 37°C (98.6°F), and pulse is 84/min and regular. Examination shows clear and mobile tympanic membranes. The tonsils are mildly enlarged and erythematous; there is no exudate. There is postnasal drainage in the posterior pharynx and copious yellow-green nasal drainage. The lungs are clear to auscultation. Heart sounds are normal. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Provide symptomatic care only",
+      "B": "Recommend sinus lavage in the clinic",
+      "C": "Culture of the nasal discharge",
+      "D": "X-ray of the sinuses",
+      "E": "Antiviral therapy",
+      "F": "Broad-spectrum antibiotic therapy"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "This patient has no evidence of strep pharyngitis (no tonsillar exudates, coughing, no cervical lymphadenopathy, no fever), no evidence of acute sinusitis, no evidence of epiglottitis, no evidence of pneumonia, and thus he likely has a viral URI requiring supportive treatment only.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-19",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 20,
+    "questionStem": "A 15-year-old girl is brought to the physician because of left ear pain for 2 days. She competes in long-distance open-water swimming events and trains in the ocean several hours daily. Vital signs are within normal limits. Examination of the left ear shows erythema and edema of the auditory canal and a small amount of white discharge. Manipulation of the left pinna produces pain; the left tympanic membrane appears normal. After treating this patient for her acute condition, recommendation of which of the following is the most appropriate next step to prevent recurrence of this condition?",
+    "choices": {
+      "A": "Training in chlorine-treated pools only",
+      "B": "Daily use of topical benzocaine in the ear canal",
+      "C": "Daily use of alcohol-acetic acid ear drops",
+      "D": "Daily use of carbamide peroxide ear drops",
+      "E": "Daily use of hydrocortisone ear drops"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "This patient has classic symptoms of otitis externa, or “swimmer’s ear”: history of swimming, erythema and edema of the auditory canal with discharge, production of pain via manipulation of pinna, and normal looking eardrums. A number of preventive measures have been recommended for prevention of otitus externa, including use of earplugs while swimming, use of hair dryers on the lowest settings and head tilting to remove water from the ear canal, and avoidance of self-cleaning or scratching the ear canal. Acetic acid 2% (Vosol) otic solutions are also used, either two drops twice daily or two to five drops after water exposure. However, no randomized trials have examined the effectiveness of any of these measures.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-20",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 21,
+    "questionStem": "A 62-year-old man comes to the physician because of a 2-month history of shortness of breath with exertion. He also has had paroxysmal nocturnal dyspnea and orthopnea. He has type 2 diabetes mellitus and coronary artery disease; he had a myocardial infarction 3 years ago. Current medications include simvastatin and aspirin. His pulse is 100/min, respirations are 12/min, and blood pressure is 100/60 mm Hg. Crackles are heard on auscultation. There is an S3. An x-ray of the chest shows cardiomegaly, cephalization of blood flow, and Kerley B lines. Which of the following is the most appropriate pharmacotherapy to improve this patient's chances of survival?",
+    "choices": {
+      "A": "Angiotensin-converting enzyme (ACE) inhibitor",
+      "B": "Calcium-channel blocking agent",
+      "C": "Digitalis",
+      "D": "Diuretic",
+      "E": "Nitrates"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "This patient has CHF, as indicated by his dyspnea, orthopnea, cephalization on CXR, and Kerley B lines. Although diuretics will lead to some symptomatic relief, the question asks which drug will improve the patient's survival. ACE inhibitors are the only drug that will reduce mortality and prolong survival in moderate to severe CHF.",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "FM-1-21",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 22,
+    "questionStem": "A 42-year-old woman with type 2 diabetes mellitus comes to the physician because of a lesion on her perineum for 3 months. Examination shows an ulcerated plaque on the perineal body. A biopsy specimen of the lesion shows invasive squamous cell carcinoma; there is extensive intraepithelial disease on the perineum. She asks how she could have acquired this cancer. Which of the following is the most likely underlying cause?",
+    "choices": {
+      "A": "Exposure to herpesvirus",
+      "B": "Exposure to human papillomavirus",
+      "C": "Exposure to lymphogranuloma venereum",
+      "D": "Prolonged periods of hyperglycemia that alter immune function",
+      "E": "Use of excessive amounts of talcum powder"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "SCC in the vaginal and perineal region is most commonly caused by HPV infection.",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "FM-1-22",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 23,
+    "questionStem": "A healthy 37-year-old woman comes for a routine physical examination. She has a history of rheumatic fever as a child. Her vital signs are within normal limits. On cardiac examination, a left parasternal lift is palpated; a diastolic murmur at the apex and lower left sternal border and an S4 are heard on auscultation. Which of the following is the most likely cause of this patient's findings?",
+    "choices": {
+      "A": "Aortic valve insufficiency",
+      "B": "Aortic valve stenosis",
+      "C": "Atrial septal defect",
+      "D": "Hypertrophic obstructive cardiomyopathy",
+      "E": "Mitral valve insufficiency",
+      "F": "Mitral valve prolapse",
+      "G": "Mitral valve stenosis",
+      "H": "Pulmonic valve insufficiency",
+      "I": "Pulmonic valve stenosis",
+      "J": "Tricuspid valve insufficiency",
+      "K": "Tricuspid valve stenosis",
+      "L": "Ventricular septal defect"
+    },
+    "correctAnswer": "G",
+    "correctExplanation": "Acute rheumatic fever can cause mitral valve regurgitation early and mitral stenosis later in life. The patient has an S4 due to left ventricular hypertrophy best heard at apex with patient in left lateral decubitus position and high atrial pressure.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-23",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 24,
+    "questionStem": "A 14-year-old boy with reactive airway disease is brought to the physician because of repeated episodes of wheezing over the past year. He has been hospitalized six times during this period and has missed numerous days of school. His wheezing is exacerbated by playing basketball or soccer. Medications include nebulized albuterol. He also has atopy; previous skin testing has shown allergies to pollens, milk protein, and ragweed. His temperature is 36.4°C (97.5°F), pulse is 70/min, respirations are 18/min, and blood pressure is 110/70 mm Hg. A few scattered wheezes are heard bilaterally. The remainder of the examination shows no abnormalities. His FEV1 is 64% of predicted before bronchodilator therapy and 80% of predicted after bronchodilator therapy. Which of the following is the most appropriate recommendation to decrease this patient's school absenteeism because of reactive airway disease?",
+    "choices": {
+      "A": "Inhaled corticosteroid therapy",
+      "B": "Inhaled long-acting β2-adrenergic agonist therapy",
+      "C": "Oral antihistamine therapy",
+      "D": "Allergen desensitization",
+      "E": "Avoidance of soccer and basketball"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "This patient has exercise-induced and allergen-induced asthma. His asthma is not well-controlled on an albuterol inhaler alone, thus a daily inhaled corticosteroid should be added to his regimen.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-24",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 25,
+    "questionStem": "A previously healthy 14-year-old boy is brought to the physician because of a 1-week history of a rash over his neck, back, and chest. It is not itchy or painful. He has had no other symptoms. A photograph of the lesions is shown. Which of the following is the most appropriate pharmacotherapy?",
+    "choices": {
+      "A": "Topical benzoyl peroxide",
+      "B": "Topical clindamycin",
+      "C": "Topical hydrocortisone",
+      "D": "Topical mupirocin",
+      "E": "Topical permethrin",
+      "F": "Topical selenium sulfide",
+      "G": "Oral griseofulvin"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "This is tinea versicolor, which is best treated with topical selenium sulfide.",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "FM-1-25",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 26,
+    "questionStem": "A 67-year-old man comes to the physician requesting a prescription for nicotine patches. He has smoked two packs of cigarettes daily for 50 years. He tried to quit abruptly several times without success. Five years ago, he used nicotine gum successfully for 3 months but then began smoking again. He has a 3-year history of stable angina pectoris. Examination shows no abnormalities. Which of the following is the most effective management for this patient?",
+    "choices": {
+      "A": "Advise the patient that he should not use transdermal nicotine because its use is contraindicated in patients with angina pectoris",
+      "B": "Prescribe nicotine gum since it has been proven to be superior to transdermal nicotine in randomized trials in patients with heart disease",
+      "C": "Prescribe transdermal nicotine at lower than recommended dosages and allow the patient to smoke two cigarettes daily to prevent relapse",
+      "D": "Prescribe transdermal nicotine at lower than recommended dosages to prevent angina pectoris",
+      "E": "Prescribe transdermal nicotine and recommend a behavior modification program"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Nicotine patches are not contraindicated in patients with angina pectoris, nor should the dosage be lowered below recommended levels. Nicotine gum has not been shown to be superior to nicotine patches, and in fact patients are more likely to become addicted to the gum than the patch. Physicians counseling patients to cut back on cigarette use is associated with greater cessation failure rates compared to urging them to quit altogether. Transdermal nicotine in combination with a behavior modification program is a very effective method for achieving tobacco cessation.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-26",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 27,
+    "questionStem": "A previously healthy 47-year-old man comes to the physician because of a 2-month history of severe headaches. Every night, he wakes up at 3 AM because of severe pain behind his left eye that feels as if he were being \"stabbed by an ice pick.\" He then gets up and paces. During these episodes, he notices that his left pupil is smaller than the right and that his left eyelid droops. He has not had nausea. He has smoked two packs of cigarettes daily for 25 years. He usually drinks six beers nightly. His temperature is 37°C (98.6°F), pulse is 110/min, respirations are 20/min, and blood pressure is 145/90 mm Hg. Examination shows deep facial wrinkles. Funduscopic examination shows no papilledema. Which of the following is the most likely cause of these findings?",
+    "choices": {
+      "A": "Cluster headache",
+      "B": "Idiopathic intracranial hypertension",
+      "C": "Migraine without aura",
+      "D": "Nocturnal seizures",
+      "E": "Trigeminal neuralgia"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Cluster headache is characterized by attacks of severe orbital, supraorbital, or temporal pain, accompanied by autonomic phenomena and/or restless or agitation. The unilateral autonomic symptoms associated with cluster headache, such as ptosis, miosis, lacrimation, conjunctival injection, rhinorrhea, and nasal congestion, occur only during the pain attack and are ipsilateral to the pain. The stereotypical attacks may strike up to eight times a day and are relatively short- lived. Another clinical landmark of the cluster headache syndrome is the circadian rhythmicity of the attacks. Cluster headache is strictly unilateral, and the symptoms remain on the same side of the head during a single cluster attack. However, the symptoms can switch to the other side during a different cluster attack (so-called side shift) in approximately 15 percent of cases. In contrast to migraines, patients with cluster headaches are restless and prefer to pace about or sit and rock back and forth. The attacks of cluster headache can be so vicious that patients may commit suicide if the disease is not diagnosed or treated.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-27",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 28,
+    "questionStem": "A 45-year-old man with gout has the sudden onset of extreme pain, swelling, and exquisite tenderness of the right knee; he cannot bear the pressure of wearing slacks. He has not recently taken any medication and previously had intractable diarrhea while taking colchicine. Which of the following is the most appropriate drug for treating this acute episode?",
+    "choices": {
+      "A": "Allopurinol",
+      "B": "Codeine",
+      "C": "Indomethacin",
+      "D": "Prednisone",
+      "E": "Probenecid"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "This is not a good question. This patient is having an acute gout attack. Corticosteroids (e.g. prednisone, prednisolone) and NSAIDs (e.g. indomethacin or naproxen) are both reasonable first line agents for treatment of acute gout. Colchicine is a reasonable second line agent in patients with relative or absolute contraindications to both NSAIDs and corticosteroids, and in those in whom colchicine has effectively treated a gout flare previously. Historically, urate-lowering medications were thought to worsen acute gout flares, but recent evidence suggests that allopurinol (Zyloprim) can be started during an acute flare if it is used in conjunction with an NSAID and colchicine. Patients receiving a urate-lowering medication should be treated concurrently with an NSAID, colchicine, or low- dose corticosteroid to prevent a flare.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-28",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 29,
+    "questionStem": "A 42-year-old man comes to the physician for a routine life insurance examination. He feels well. He has smoked one pack of cigarettes daily for 25 years and drinks two to four alcoholic beverages daily. His work as a journalist sometimes takes him to developing countries, but he has not traveled abroad during the past year. He has not had any immunizations during adulthood except for tetanus toxoid 12 years ago. He has never had a blood transfusion. Examination shows no abnormalities. Laboratory studies show: Hemoglobin 16.2 g/dL, Serum Albumin 3.8 g/dL, Total bilirubin 1.1 mg/dL, Alkaline phosphatase 95 U/L, AST 68 U/L, ALT 44 U/L, Ferritin 50 ng/mL. Which of the following is most likely to have prevented these laboratory abnormalities?",
+    "choices": {
+      "A": "Abstinence from alcohol",
+      "B": "Administration of diphtheria-tetanus toxoid",
+      "C": "Administration of hepatitis A vaccine",
+      "D": "Low-protein, branched-chain amino acid-enriched diet",
+      "E": "Smoking cessation",
+      "F": "Weekly phlebotomy"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "The question asks which one will have prevented mildly elevated AST/ALT. Of the answer choices only alcohol causes mildly elevated AST more than ALT. There is no carrier or chronic state of hepatitis A, so this asymptomatic patient likely does not have hepatitis. There is no reason to suspect that this patient has hemochromatosis, diphtheria, or tetanus. Smoking does not directly affect liver function or produce a rise in liver enzymes, and ALT is typically elevated more than AST in nonalcoholic fatty liver disease, which must be what answer choice D is getting at.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-29",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 30,
+    "questionStem": "An 82-year-old woman comes to the physician because her memory is \"not as good as it used to be.\" She sometimes forgets where she left her keys, and she takes longer to recall words and names. She says her forgetfulness does not affect her daily functioning or diminish her enjoyment of her art and computer classes at the local senior center. She says she is not depressed. She has osteoporosis treated with alendronate and a calcium supplement containing vitamin D. Vital signs are within normal limits. Neurologic examination shows no focal findings. Her Mini-Mental State Examination score is 29/30. When asked to recall polysyllabic words, she uses multiple shorter words to describe the same concept. Her speech is normal in rate and rhythm. The remainder of the examination shows no abnormalities. Results of laboratory studies, including thyroid function tests and measurement of serum vitamin B12 (cobalamin) concentration, are within the reference ranges. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Reassurance",
+      "B": "Speech therapy",
+      "C": "Neuropsychological testing",
+      "D": "MRI of the brain",
+      "E": "Methylphenidate therapy"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "This patient is showing signs of normal aging and does not require further evaluation. Certain memory performances on cognitive testing, like procedural, primary, and semantic memory, are well-preserved with age. Skills, ability, and knowledge that are overlearned, well-practiced, and familiar, like vocabulary or general knowledge, remain stable or improve up to 0.2 standard deviations per decade through the seventh decades, but even these processes can begin to decrease with further aging. The ability to recognize familiar objects and faces, as well as to maintain appropriate visual perception of objects, remains stable over the lifetime. Episodic and working memory and executive function are the specific domains of cognition most affected by \"normal\" aging. These are late-life changes, occurring after the sixth decade and have a linear or accelerating decline with further aging. Processing speed decreases with age and can have a global effect on the testing performance of other neurocognitive domains in any timed test. Executive function is critical to engagement in purposeful, independent, and self-preserving behavior and is necessary for an older person to successfully manage their own medical illnesses. Executive function declines with age, and more dramatically after age 70. Attention span decreases with even simple attentive tasks. In particular, there is decrease in the ability to focus on a task in a busy environment and ability to perform multiple tasks at one time. Problem- solving, reasoning about unfamiliar things, processing and learning new information, and attending to and manipulating one's environment show a steady decline (by about -0.02 standard deviations per year) after peaking around age 30. Language abilities (verbal fluency and the ability to name objects) demonstrate some late-life decline, particularly after age 70.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-30",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 31,
+    "questionStem": "A 37-year-old man comes to the physician because of a 6-week history of epigastric pain. The pain is most severe 1 hour after eating and is relieved by over-the-counter antacids. He has had no fever, nausea, or weight loss. He has hypertension treated with hydrochlorothiazide. He does not smoke and drinks one glass of wine with dinner daily. His pulse is 76/min, and blood pressure is 136/88 mm Hg. There is mild epigastric tenderness without rebound or guarding. The stool is brown, and test for occult blood is negative. His hemoglobin concentration is 13.8 g/dL. Liver function tests show no abnormalities. Which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "Esophageal pH monitoring",
+      "B": "Measurement of serum amylase activity",
+      "C": "Serum Helicobacter pylori antibody assay",
+      "D": "Abdominal ultrasonography",
+      "E": "Abdominal CT scan"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Both GERD and peptic ulcer disease (PUD) are in the differential diagnosis for this patient’s symptoms. The diagnosis of GERD is based on clinical symptoms alone with esophageal testing reserved for refractory cases. H. pylori infection is common and should be ruled out in a patient with symptoms suspicious for PUD. The test is also non-invasive, and the consequences of untreated PUD can be grave.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-31",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 32,
+    "questionStem": "A 52-year-old man comes for a follow-up examination 2 weeks after sustaining an inferior wall myocardial infarction. Echocardiography before discharge showed an ejection fraction of 33%. Recovery has been uneventful except for decreased exercise tolerance. His temperature today is 37.2°C (99°F), pulse is 80/min, and respirations are 16/min. Examination shows no abnormalities. Which of the following is the most appropriate pharmacotherapy to prolong this patient's life?",
+    "choices": {
+      "A": "Digoxin",
+      "B": "Furosemide",
+      "C": "Isosorbide dinitrate",
+      "D": "Lisinopril",
+      "E": "Verapamil"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "ACE inhibitors are always beneficial in MI with EF < 40%.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-32",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 33,
+    "questionStem": "A 37-year-old woman, gravida 3, para 3, comes to the physician for a routine health maintenance examination. One year ago, her serum cholesterol concentration was 260 mg/dL, and she was started on a low-fat diet. She has no history of serious illness. Her Pap smears during the past 10 years have shown no abnormalities. Her last Pap smear was 1 year ago. Her mother has type 2 diabetes mellitus, and her father died of colon cancer at the age of 62 years. The patient does not smoke cigarettes or drink alcohol. She has been married for 15 years. She is 157 cm (5 ft 2 in) tall and weighs 77 kg (170 lb); BMI is 31 kg/m². Her pulse is 64/min, and blood pressure is 120/60 mm Hg. The remainder of the examination shows no abnormalities. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Colonoscopy",
+      "B": "5-Hour glucose tolerance test",
+      "C": "Mammography",
+      "D": "Measurement of serum cholesterol concentration",
+      "E": "Pap smear"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "In patients near a threshold for treatment based on total CV risk and in patients above a threshold for treatment, repeating measurements every three years is recommended. According to many community practice standards of care such follow-up studies are performed yearly.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-33",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 34,
+    "questionStem": "A 77-year-old woman comes to the physician because of a 1-week history of decreased appetite, nausea, and occasional vomiting. She also reports fullness and discomfort in her abdomen and abdominal cramps that have awakened her on several occasions. Her last bowel movement was 5 days ago and was characterized by loose stool. Thirty years ago, she underwent hysterectomy for leiomyomata uteri. She has a 10-year history of intermittent urinary incontinence. Her only medication is oxybutynin. Colonoscopy 3 years ago showed no abnormalities. She appears frail. She is 157 cm (5 ft 2 in) tall and weighs 57 kg (125 lb); BMI is 23 kg/m2. Her temperature is 37°C (98.6°F), pulse is 80/min and regular, respirations are 14/min, and blood pressure is 130/85 mm Hg. Examination shows warm, dry skin. The lungs are clear to auscultation and percussion. Cardiac examination shows no murmurs. The abdomen is soft and diffusely tender; there is no rebound or organomegaly. Rectal examination shows firm stool in the rectal vault. Which of the following is the most likely cause of this patient's current symptoms?",
+    "choices": {
+      "A": "Adhesions",
+      "B": "Colon cancer",
+      "C": "Diverticulitis",
+      "D": "Fecal impaction",
+      "E": "Ischemic bowel",
+      "F": "Volvulus"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Fecal impaction is the likely diagnosis, especially as constipation is a common side effect of the oxybutynin the patient is taking for urinary incontinence. Oxybutynin blocks not only the muscarinic M3 receptor subtypes, but also the M1 receptor subtypes. This action accounts for the common adverse effects associated with oxybutynin: new-onset constipation, dry mouth, flushing, and heat intolerance.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-34",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 35,
+    "questionStem": "An 82-year-old man comes to the physician because of an 8-month history of progressive urinary frequency and decreased urinary stream. He underwent transurethral resection of the prostate 11 years ago because of benign hyperplasia. He takes no medications. Examination shows a moderately enlarged prostate. His serum creatinine concentration has increased from 1.3 mg/dL 10 months ago to 2.4 mg/dL today. Which of the following is the most appropriate initial step in management?",
+    "choices": {
+      "A": "Measurement of postvoid residual volume",
+      "B": "Urine cytology",
+      "C": "Intravenous pyelography",
+      "D": "Retrograde urethrography",
+      "E": "CT scan of the abdomen"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Both overflow incontinence and benign prostatic hyperplasia (BPH) are in the differential diagnosis for this patient’s symptoms. Overflow incontinence typically presents with continuous urinary leakage or dribbling in the setting of incomplete bladder emptying. Associated symptoms can include weak or intermittent urinary stream, hesitancy, frequency, and nocturia. When the bladder is very full, stress leakage can occur or low-amplitude bladder contractions can be triggered resulting in symptoms similar to stress or urgency incontinence. BPH is a histologic diagnosis that becomes more prevalent with age, although some men with BPH are asymptomatic. Approximately 50 percent of men at age 50 and up to 80 percent of men at age 80 have lower urinary tract symptoms (LUTS) attributable to BPH. Common manifestations include storage symptoms (increased daytime frequency, nocturia, urgency, and urinary incontinence) and voiding symptoms (slow urinary stream, splitting or spraying of the urinary stream, intermittent urinary stream, hesitancy, straining to void, and terminal dribbling). Post-void residual urine volume determination is useful in men with evidence of urinary obstruction or suspected neurologic involvement of the genitourinary tract and prior to initiation of an anticholinergic drug (which may decrease bladder contractility). Normal men have less than 12 mL of residual urine, but most urologists are not concerned unless the post-void residual volume is greater than 100 to 200 mL. In addition to being a possible indicator of BPH, a large residual volume is probably associated with increased risk of infection and is a precursor to bladder decompensation.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-35",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 36,
+    "questionStem": "A 47-year-old woman comes to the physician because of right wrist pain that began 2 days ago when she fell on her outstretched arm while playing tennis. She has had limited use of her hand and wrist since the injury occurred. She is otherwise healthy. There is tenderness to palpation over the radial and dorsal aspect of the right anatomic snuffbox. Muscle strength of the right fingers is 5/5, and sensation throughout the hand is intact. Plain x-rays of the hand and wrist show mild degenerative changes at the first carpometacarpal joint. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Reassurance that the pain should subside within 1 week",
+      "B": "Arthrography",
+      "C": "Cast immobilization",
+      "D": "Arthroscopy",
+      "E": "Surgical exploration and repair"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "This patient most likely has a scaphoid fracture. Scaphoid fractures are the most common carpal bone fracture and typically occur from a fall onto an outstretched arm with the wrist in dorsiflexion. Suspect a scaphoid fracture in any patient with wrist pain following a fall. When a definitive diagnosis cannot be determined at presentation and a scaphoid fracture is suspected on clinical grounds, even if radiographs are negative, the patient should be placed in a volar wrist splint or preferably a thumb spica splint or cast until a definitive imaging study can be performed.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-36",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 37,
+    "questionStem": "A 62-year-old woman comes to the physician because she is concerned about her risk for type 2 diabetes mellitus. Her mother and two sisters received the diagnosis of type 2 diabetes mellitus in their 50s. The patient is 157 cm (5 ft 2 in) tall and weighs 75 kg (165 lb); BMI is 30 kg/m². Her pulse is 80/min, and blood pressure is 130/70 mm Hg. Examination shows no other abnormalities. Laboratory studies show: Hemoglobin A1c 8.4%, Serum Cl- 100 mEq/L, HCO3- 29 mEq/L, Urea nitrogen 30 mg/dL, Glucose 200 mg/dL, Creatinine 1.8 mg/dL. Which of the following medications is contraindicated in this patient?",
+    "choices": {
+      "A": "Acarbose",
+      "B": "Aspirin",
+      "C": "Glipizide",
+      "D": "Insulin",
+      "E": "Metformin"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "This patient has diminished renal function as indicated by her elevated creatinine, which according to the Cockroft-Gault equation is approximately a GFR of 38. The US Food and Drug Administration (FDA) revised its labeling of metformin, which previously had identified metformin as contraindicated in women and men with serum creatinine levels ≥1.4 mg/dL (124 micromol/L) and ≥1.5 mg/dL (133 micromol/L), respectively. The use of metformin is contraindicated in patients with an eGFR <30 mL/min, and the initiation of metformin is not recommended in patients with an eGFR between 30 and 45 mL/min. For patients taking metformin whose eGFR falls below 45 mL/min, the benefits and risk of continuing treatment should be assessed, whereas metformin should be discontinued if the eGFR falls below 30 mL/min. Thus while metformin is not absolutely contraindicated in this patient, this is the best of the answer choices presented. It is possible also that this question was written based on previous guidelines that contraindicated metformin at lesser degrees of renal impairment.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-37",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 38,
+    "questionStem": "An 82-year-old woman with dementia, Alzheimer type, is brought to the physician by her daughter for recommendations about driving restrictions. Since the patient moved in with her daughter 3 weeks ago, they have had several arguments because her daughter has not allowed the patient to drive. The patient last drove a car 2 years ago. She has no history of motor vehicle collisions. The patient's husband provided her daily care until he died of a myocardial infarction 3 weeks ago. The patient's only medication is galantamine, which she has taken for 4 years. Physical examination shows no abnormalities. Mental status examination shows a sad mood and reactive affect. She reports no suicidal thoughts. She is able to correctly repeat six digits forward, and she recalls one of three objects after 5 minutes; she is unable to correctly copy a rectangle or two intersecting pentagons. Which of the following is the most appropriate recommendation regarding this patient's driving?",
+    "choices": {
+      "A": "The patient should be allowed to drive only with supervision",
+      "B": "The patient should be allowed to drive short distances only",
+      "C": "The patient should be allowed to drive until her driving skills are formally assessed",
+      "D": "The patient should not have access to car keys until her driving skills are formally assessed",
+      "E": "The patient's driver license should be revoked"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "A physician cannot revoked a person’s driver's license (only the department of motor vehicles can do that). But the family can ensure that the patient does not have access to car keys until a formal evaluation can be completed.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-38",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 39,
+    "questionStem": "A 47-year-old man comes to the physician because of a 2-day history of progressive sore throat and a 1-day history of a nonproductive cough. He can eat without difficulty. He has not had fever. He has no history of serious illness and takes no medications. He has no known drug allergies. He lives alone and works the night shift as a security guard. His temperature is 37.4°C (99.3°F), pulse is 80/min, and blood pressure is 140/90 mm Hg. Examination shows no lymphadenopathy. The pharynx is erythematous without exudates. Abdominal examination shows no abnormalities. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Warm saline gargle",
+      "B": "Monospot test",
+      "C": "Rapid streptococcal test",
+      "D": "Throat culture for streptococci",
+      "E": "Penicillin therapy"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "This patient likely has a viral pharyngitis without meeting the criteria for strep pharyngitis. He does not have a fever, tonsillar exudates, tender cervical lymphadenopathy, and he has a cough. Viral pharyngitis requires only supportive treatment, including use of warm saline gargles. A patient with a very high Centor score would be treated for strep pharyngitis without need for a confirmatory test, a patient with an equivocal score should be given a rapid strep test, and any patient testing negative should be given a throat culture in order to prevent rheumatic heart disease in case of a false negative. Infectious mononucleosis should be suspected in patients 10 to 30 years of age who present with sore throat and significant fatigue, palatal petechiae, posterior cervical or auricular adenopathy, marked adenopathy, or inguinal adenopathy. An atypical lymphocytosis of at least 20 percent or atypical lymphocytosis of at least 10 percent plus lymphocytosis of at least 50 percent strongly supports the diagnosis, as does a positive heterophile antibody test. This patient’s clinical picture is not suspicious enough for mono to warrant a monospot test.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-39",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 40,
+    "questionStem": "A previously healthy 82-year-old woman comes to the physician because of generalized weakness and a sore tongue for 1 month. She lives by herself. Her diet has consisted mainly of tea and homemade bread since her husband died 6 months ago. Examination shows pallor, mild jaundice, and a smooth, red tongue. There is no lymphadenopathy or organomegaly. Neurologic examination shows no focal findings. Laboratory studies show: Hematocrit 26%, Mean corpuscular volume 120 μm³, Leukocyte count 2500/mm³, Reticulocyte count 0.2%, Platelet count 20,000/mm³. This patient most likely has which of the following nutritional deficiencies?",
+    "choices": {
+      "A": "Folic acid",
+      "B": "Niacin",
+      "C": "Vitamin B₁ (thiamine)",
+      "D": "Vitamin B₆",
+      "E": "Vitamin B₁₂ (cobalamin)"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "This patient has a macrocytic anemia, which is commonly caused by either a folate or vitamin B12 deficiency. It take years to develop vitamin B12 deficiency versus a few months to develop folate deficiency.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-40",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 41,
+    "questionStem": "Measurement of which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "Erythrocyte protoporphyrin concentration",
+      "B": "Reticulocyte count",
+      "C": "Serum ferritin concentration",
+      "D": "Serum folate concentration",
+      "E": "Serum vitamin B12 (cobalamin) concentration"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Individuals with suspected iron deficiency should have laboratory testing that is stratified for their age and possible related conditions. For infants without risk factors for (or evidence of) lead toxicity, a complete blood count may be sufficient. For children and young adults, it is appropriate to obtain a reticulocyte count, review the RBC indices and/or the blood smear, and test the stool for occult blood. For individuals with other medical conditions, it is appropriate to measure iron studies (serum ferritin, total iron binding capacity [TIBC]), and serum iron. This 55 year old woman should have her ferritin checked to determine whether she has iron deficiency anemia likely due to poor diet or occult blood loss.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-41",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 42,
+    "questionStem": "The patient's serum ferritin concentration is 5 ng/mL. She is advised to discontinue naproxen therapy and begin iron supplementation twice daily. One month later, she returns to the office for a follow-up examination. She has adhered to her medication regimen. Laboratory studies today are shown:\n\nHemoglobin 10.5 g/dL\nHematocrit 33%\nMean corpuscular volume 80 µm³\nSerum ferritin 6 ng/mL\n\nWhich of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Bone marrow biopsy",
+      "B": "Colonoscopy",
+      "C": "CT scan of the abdomen",
+      "D": "Esophageal pH monitoring",
+      "E": "Observation and follow-up examination in 1 month"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "The most common cause of iron deficiency anemia in the elderly is GI blood loss. The physician started with the best initial/least invasive therapy, a trial of iron supplementation. Her lack of response indicates that there is ongoing blood loss. Thus the best next step is a colonoscopy. Other causes for lack of improvement with iron supplementation (in addition to ongoing blood loss) could be nonadherence to iron or celiac disease.",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "FM-1-42",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 43,
+    "questionStem": "The wife of a 72-year-old patient calls the physician because she is concerned that it is no longer safe for her husband to drive; he has had two motor vehicle collisions within the past month. She asks the physician to tell her husband to stop driving at his scheduled appointment the next day. Which of the following is the most appropriate action for the physician?",
+    "choices": {
+      "A": "Ask the wife to accompany her husband to his appointment and express her concerns in her husband's presence",
+      "B": "Ask the wife to contact the Department of Motor Vehicles about her concerns",
+      "C": "Tell the patient that he must take a driving test",
+      "D": "Contact the Department of Motor Vehicles and express the wife's concerns",
+      "E": "Schedule a CT scan of the head prior to the next visit"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "It is not certain whether she is telling the truth. Thus the physician should speak to both at the same time in order to assess the validity of his concerns.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-43",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 44,
+    "questionStem": "A 25-year-old woman comes to the physician because of a 2-week history of neck pain, palpitations, and sweating; she has had a 2.3-kg (5-lb) weight loss during this period. Her pulse is 120/min, and blood pressure is 150/70 mm Hg. Examination shows an enlarged tender thyroid gland. A grade 2/6, systolic ejection murmur is heard at the left sternal border. Her serum thyroxine (T4) concentration is 15 μg/dL. A thyroid scan shows decreased uptake. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Exogenous thyroid ingestion",
+      "B": "Graves disease",
+      "C": "Subacute thyroiditis",
+      "D": "Thyroid cancer",
+      "E": "Toxic multinodular goiter"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "This patient has elevated free T4, symptoms of hyperthyroidism, and neck tenderness with decreased uptake on RAIU scan, which indicates subacute thyroiditis. In subacute thyroiditis the thyroid gland is typically slightly or moderately diffusely or asymmetrically enlarged, and nearly always tender. In some cases, the pain is so severe that the patient cannot tolerate palpation of the neck. Both thyroid lobes are involved from the beginning in most patients, but the pain, tenderness, and enlargement can be unilateral or start on one side and later spread to the other side days or even weeks (so called “creeping thyroiditis”) later. Temperature elevations also can occur. Subacute thyroiditis is fundamentally a clinical diagnosis. In most patients, clinical manifestations (the presence of neck pain, often radiating upward to the jaw, marked thyroid tenderness, and a diffuse goiter) are sufficient to establish the diagnosis. Symptoms and signs of hyperthyroidism may or may not be present, but the serum thyroid-stimulating hormone (TSH) is usually suppressed (typically <0.1 mU/L) and free thyroxine (T4) and triiodothyronine (T3) concentrations elevated, particularly in the early stages of the illness. Serum TSH, free T4, and T3 should be measured in all patients in whom there is a clinical suspicion of subacute thyroiditis. We also typically measure an erythrocyte sedimentation rate or C-reactive protein (CRP) level and obtain a radioiodine or technetium imaging study. A high erythrocyte sedimentation rate and/or CRP measurement and a low radioiodine uptake (usually less than 1 to 3 percent) during the hyperthyroid phase help confirm the diagnosis.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-44",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 45,
+    "questionStem": "A 27-year-old man comes to the physician for a routine health maintenance examination in April. He feels well and has no history of serious illness. He received all childhood immunizations. He has smoked one pack of cigarettes daily for 5 years. Examination shows no abnormalities. Which of the following vaccines are most appropriate to administer at this visit?",
+    "choices": {
+      "A": "23-Valent Pneumococcal: No, Haemophilus influenzae: no, Influenza Virus: no",
+      "B": "23-Valent Pneumococcal: No, Haemophilus influenzae: yes, Influenza Virus: yes",
+      "C": "23-Valent Pneumococcal: Yes, Haemophilus influenzae: no, Influenza Virus: yes",
+      "D": "23-Valent Pneumococcal: Yes, Haemophilus influenzae: yes, Influenza Virus: no",
+      "E": "23-Valent Pneumococcal: Yes, Haemophilus influenzae: yes, Influenza Virus: yes"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "This is a bad question, as the CDC recommends PPSV23 for everyone 2 years of age and older at increased risk of disease, which explicitly includes those who smoke cigarettes or have asthma. Thus the correct answer is C, he should receive the flu vaccine and the PPSV23 vaccine, but because he has completed all of his childhood vaccinations, which include Hib, he does not need another Hib vaccine.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-45",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 46,
+    "questionStem": "A previously healthy 47-year-old woman comes to the physician because of a 1-week history of low back pain that radiates to the left buttock and along the lateral side of the left leg. Her symptoms began 1 day after moving furniture in her home. She has not had fever, chills, constipation, or urinary incontinence. Examination shows diffuse tenderness over the paraspinal muscles of the lumbosacral area and no tenderness over the spine. Range of motion of the left lower extremity is limited by pain. Deep tendon reflexes are normal, muscle strength is intact, and sensory examination shows no abnormalities. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Bed rest for 1 week",
+      "B": "CT scan of the lumbosacral spine",
+      "C": "Epidural corticosteroid injection",
+      "D": "Oral ibuprofen therapy",
+      "E": "Oral prednisone therapy"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "This patient with lower back injury and symptoms of radiculopathy likely has either a muscle strain or a disc herniation, and should be initially managed with NSAIDs.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-46",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 47,
+    "questionStem": "A 47-year-old woman comes to the physician for a routine health maintenance examination. She has 11-year-old twin boys. During a conversation about her family, she becomes tearful and states, \"I don't know what is wrong with me. I am so irritable with my boys, and they are good kids. I am such a bad mother.\" She says that she has difficulty concentrating during the day and falling asleep at night. She no longer is interested in activities that she used to enjoy. She has no history of serious illness and takes no medications. She drinks one glass of wine several times weekly to help her relax before she goes to bed. Vital signs are within normal limits. Physical examination shows no abnormalities. Which of the following is the most appropriate physician response to this mother's concern about parenting?",
+    "choices": {
+      "A": "\"Don't be so hard on yourself. All 11-year-old boys make their parents irritable, and you have two boys to deal with.\"",
+      "B": "\"I would recommend a sleeping pill. If you sleep more, you'll be less irritable.\"",
+      "C": "\"Sometimes when people are as upset as you are, they think about suicide. Have you thought about ending your life?\"",
+      "D": "\"Would you like to try an antianxiety medication? It may help you cope.\"",
+      "E": "\"You might want to consider abstaining from alcohol, since it may be making you more irritable.\""
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "This is a clinically depressed patient who should be screened for suicide.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-47",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 48,
+    "questionStem": "An asymptomatic 42-year-old man with a 1-month history of essential hypertension comes for a follow-up examination. He has been moderately obese for 20 years and follows a high-calorie, high-fat diet. He drinks four to five cups of coffee daily. He has smoked one pack of cigarettes daily for 20 years. He drinks one beer at dinner almost daily. He has a sedentary lifestyle. He is 175 cm (5 ft 9 in) tall and weighs 100 kg (220 lb); BMI is 33 kg/m². His pulse is 78/min, and blood pressure is 148/94 mm Hg. Examination shows no other abnormalities. Which of the following is the most effective method to decrease his blood pressure?",
+    "choices": {
+      "A": "Abstinence from alcohol",
+      "B": "Abstinence from coffee",
+      "C": "Smoking cessation",
+      "D": "Weight loss of 9 kg (20 lb)",
+      "E": "Biofeedback",
+      "F": "Vitamin E supplementation"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "For an overweight person, the greatest decrease in SBP occurs with at least 10% weight loss.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-48",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 49,
+    "questionStem": "A 57-year-old man comes to the physician because of a 3-month history of intermittent chest pain with eating. Occasionally, he has the sensation that food is stuck in his middle to lower chest; the sensation is relieved after he drinks a large amount of water. He has a 20-year history of gastroesophageal reflux disease treated with a proton pump inhibitor. He drinks three cups of coffee daily and drinks one martini with dinner every night. He often works late and arrives home 1 hour before bedtime. He is 188 cm (6 ft 2 in) tall and weighs 116 kg (255 lb); BMI is 33 kg/m². Examination shows no abnormalities. Which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "Barium swallow",
+      "B": "CT scan of the chest",
+      "C": "Esophageal manometry",
+      "D": "Upper endoscopy",
+      "E": "24-Hour monitoring of esophageal pH"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Food stuck in a patient’s throat with a 20 year history of GERD that has not improved with PPIs should prompt an EGD to rule out complications of long term GERD, for example Barrett's esophagus, adenocarcinoma, or esophageal stricture.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-49",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 50,
+    "questionStem": "One hundred patients participate in a health education program designed to teach health benefits of a high-fiber, low-cholesterol diet. The effectiveness of this program is most appropriately measured by which of the following?",
+    "choices": {
+      "A": "Assessment of health status of each participant",
+      "B": "Attendance rates of participants",
+      "C": "Change in mortality rate from ischemic heart disease among participants",
+      "D": "Change in knowledge and dietary habits of each participant",
+      "E": "Change in morbidity among participants"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": null,
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "FM-1-50",
+    "section": "FM",
+    "subsection": "CMS-1",
+    "system": null
+  }
+]

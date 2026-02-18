@@ -1,0 +1,48 @@
+[
+  {
+    "questionNumber": 44,
+    "questionStem": "A 27-year-old man comes to the emergency department after a motor vehicle collision. He states that he feels that he is being followed by the FBI. His temperature is 37.6°C (99.7°F), pulse is 96/min, respirations are 16/min, and blood pressure is 130/90 mm Hg. Physical examination shows mild hyperreflexia; there is no evidence of head trauma, and no other abnormalities are noted. On mental status examination, he is agitated with affective lability and rapid speech. He is oriented only to person and place; other tests of the mental status examination cannot be successfully completed.",
+    "choices": {
+      "A": "Amphetamine intoxication",
+      "B": "Amphetamine withdrawal",
+      "C": "Borderline personality disorder",
+      "D": "Hallucinogen intoxication",
+      "E": "Hallucinogen withdrawal",
+      "F": "Histrionic personality disorder",
+      "G": "Major depressive disorder with psychotic features",
+      "H": "Opioid intoxication",
+      "I": "Opioid withdrawal"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "or questions 44 & 45, I could not make the distinction between amphetamine and Hallucinogen intoxications. 44>>> A >>Amphetamine intoxication",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PSYCH-1-44",
+    "section": "PSYCH",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 45,
+    "questionStem": "A previously healthy 25-year-old woman is brought to the emergency department by her girlfriend because of a sudden behavior change. She is anxious because \"everyone has turned into spacemen.\" She avoids the medical staff, stating that they look like \"large furry monsters.\" She sees \"multicolored snakes singing Hail Mary\" on the floor. Her temperature is 37°C (98.6°F), pulse is 76/min, respirations are 16/min, and blood pressure is 118/66 mm Hg. Mucous membranes are dry. Cranial nerves are intact. Neurologic examination shows normal findings except for mydriasis. On mental status examination, she is agitated, frightened, and fully oriented to person, place, and time. Toxicology screening is negative.",
+    "choices": {
+      "A": "Amphetamine intoxication",
+      "B": "Amphetamine withdrawal",
+      "C": "Borderline personality disorder",
+      "D": "Hallucinogen intoxication",
+      "E": "Hallucinogen withdrawal",
+      "F": "Histrionic personality disorder",
+      "G": "Major depressive disorder with psychotic features",
+      "H": "Opioid intoxication",
+      "I": "Opioid withdrawal"
+    },
+    "correctAnswer": "I",
+    "correctExplanation": "s d>>>.Hallucinogen intoxication Uptodate: Stimulant (eg, cocaine, amphetamines, MDMA) intoxication may produce signs and symptoms similar to hallucinogen intoxication. Differentiation may be possible based upon the character of the hallucinations: stimulant- induced hallucinations are usually auditory, whereas hallucinogen-induced hallucinations are usually visual. Also, stimulants tend to be associated with more severe tachycardia (compare the HR in the 2 vignettes) and hypertension. Also, in 45, Toxicology screening is negative so this excludes amphetamines intoxication. On the other hand, Common hallucinogens are not detected by standard drugs-of-abuse screens (Source Uptodate). Also, Amphetamine causes Paranoia (Followed by FBI) =========================================================== . Right answer is A ============================================================ . Right answer is E ============================================================ . Right answer is D ============================================================ Right answer is B ============================================================ . Right answer is B UW Screenshots",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PSYCH-1-45",
+    "section": "PSYCH",
+    "subsection": "CMS-1",
+    "system": null
+  }
+]

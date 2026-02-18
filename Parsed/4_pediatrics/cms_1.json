@@ -1,0 +1,956 @@
+[
+  {
+    "questionNumber": 1,
+    "questionStem": "A 4-year-old girl has been on prophylaxis with trimethoprim-sulfamethoxazole for 3 weeks for recurrent urinary tract infections. She had previously been treated with amoxicillin and cefotaxime. Laboratory studies show: Hemoglobin 13 g/dL, Leukocyte count 2400/mm³, Segmented neutrophils 20%, Platelet count 180,000/mm³. Which of the following is the most likely cause of the neutropenia?",
+    "choices": {
+      "A": "Amoxicillin",
+      "B": "Aplastic anemia",
+      "C": "Cefotaxime",
+      "D": "Chronic otitis media",
+      "E": "Trimethoprim-sulfamethoxazole"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Trimethoprim-Sulfamethoxazole • TMP-SMX inhibits enzymes in the DNA synthesis pathway → megaloblastic anemia, leukopenia, granulocytopenia • Avoided with co-administration of leucovorin (folic acid)",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-1",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 2,
+    "questionStem": "A 3-year-old boy has had increasing anorexia, apathy, irritability, decreasing play activity, poor coordination, and sporadic vomiting over the past month. Examination is noncontributory. Laboratory studies show hypochromic, microcytic anemia. Which of the following measures is most likely to have prevented this disease?",
+    "choices": {
+      "A": "Delayed introduction of cow's milk",
+      "B": "Dietary supplementation with iron",
+      "C": "Dietary supplementation with vitamins",
+      "D": "Elimination of lead from the child's home",
+      "E": "Enrollment in an early intervention program"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Elimination of lead from the child’s home • Lead impairs heme synthesis → microcytic anemia",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-2",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 3,
+    "questionStem": "A newborn girl is noted to have a palpable clunk when the hip is abducted, flexed, and lifted forward. Which of the following is the most likely mechanism of disease?",
+    "choices": {
+      "A": "Decreased epiphyseal blood flow resulting in osteonecrosis",
+      "B": "Displacement of the capital femoral epiphysis",
+      "C": "Failure of osteoid to mineralize",
+      "D": "Increased intra-articular pressure",
+      "E": "Muscle imbalance resulting from spasticity",
+      "F": "Shallow, poorly developed acetabulum"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "Shallow, poorly developed acetabulum • Barlow & Ortolani maneuver to screen for developmental dysplasia of the hip • “click” = femoral head dislocating posteriorly with reduction of the femoral head into the acetabulum • More common in firstborn girls born in breech position",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-3",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 4,
+    "questionStem": "A 5-year-old boy is brought to the emergency department 30 minutes after the acute onset of left shoulder pain while wrestling with his older brothers. Examination shows a painful left arm with exquisite tenderness of the humeral area. An x-ray of the left shoulder and upper extremity is shown. Which of the following is the most likely underlying cause of this patient's pain?",
+    "choices": {
+      "A": "Acromioclavicular separation",
+      "B": "Clavicle fracture",
+      "C": "Glenohumeral dislocation",
+      "D": "Pathologic fracture of the humerus",
+      "E": "Unicameral bone cyst"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Pathologic fracture of the humerus. • Clear pathological fracture of the humerus on x-ray • Ewing sarcoma → ‘onion skinning’",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "PEDS-1-4",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 5,
+    "questionStem": "A 13-year-old girl is brought for a health maintenance examination. Her parents report that for the past 6 weeks she has been unusually tired and increasingly irritable. She states that school is 'overwhelming.' She is handing in assignments late and having trouble concentrating in class, and she has lost interest in seeing her friends. She has had a 1.8-kg (4-lb) weight loss during the past month. Examination and laboratory studies show normal findings. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Adjustment disorder with anxiety",
+      "B": "Adjustment disorder with depressed mood",
+      "C": "Adjustment disorder with disturbance of conduct",
+      "D": "Attention-deficit/hyperactivity disorder",
+      "E": "Dysthymic disorder",
+      "F": "Major depressive disorder",
+      "G": "Substance abuse",
+      "H": "Age-appropriate behavior"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "Major depressive disorder • This patient has ≥ 5 of the 9 diagnostic symptoms of SIG-E-CAPS for ≥ 2 weeks",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-5",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 6,
+    "questionStem": "A 1-week-old newborn is brought to the physician because of a 1-day history of difficulty breathing and discoloration of the extremities. He was born at term following an uncomplicated delivery. Apgar scores were 8 and 9 at 1 and 5 minutes, respectively. He appears ill. His rectal temperature is 36.4°C (97.5°F), pulse is 160/min, respirations are 52/min, and blood pressure is 60/36 mm Hg in the upper extremities and unobtainable in the lower extremities. The skin, mucous membranes, and nail beds appear dusky, and there is mottled discoloration of the extremities. Examination shows moderate intercostal retractions and grunting. The lungs are clear to auscultation. A grade 3/6 holosystolic murmur is heard along the left sternal border. The liver edge is palpated 4 cm below the right costal margin. Arterial blood gas analysis on room air shows: pH 7.15, Pco2 28 mm Hg, Po2 98 mm Hg. Intubation, mechanical ventilation, and an intravenous fluid bolus of saline are initiated. One hour later, there is no significant improvement. A chest x-ray shows cardiomegaly and pulmonary congestion. Which of the following is the most likely explanation for this newborn's condition?",
+    "choices": {
+      "A": "Closure of the ductus arteriosus",
+      "B": "Decreased pulmonary vascular resistance",
+      "C": "Increased pulmonary vascular resistance",
+      "D": "Intracardiac right-to-left shunting",
+      "E": "Opening of the ductus arteriosus"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Closure of the ductus arteriosus • Cyanotic newborn with no improvement on O2 therapy = cardiac cause • This patient likely has Coarctation of the aorta that is dependent upon the patent ductus arteriosus (PDA is distal to the coarctation) • PDA closure → new onset CHF (severe hypotension, poor perfusion, tachypnea, hepatomegaly, unexplained metabolic acidosis)",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-6",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 7,
+    "questionStem": "A 5-year-old boy is brought to the physician because of increasing fatigue over the past 3 weeks and the acute onset of fever and chills 2 hours ago. One month ago, he and his family traveled to Asia; he received chloroquine prophylaxis prior to departure. Examination shows pallor and splenomegaly. His hematocrit is 22%, leukocyte count is 18,000/mm3, and platelet count is 80,000/mm3. Which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "Assay for heterophile antibody",
+      "B": "Assay for antistreptolysin-O",
+      "C": "Measurement of prothrombin and partial thromboplastin times",
+      "D": "Measurement of serum AST and ALT activities",
+      "E": "Thick and thin blood smears"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Thick and thin blood smears • This patient went to a chloroquine resistant area → malaria",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-7",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 8,
+    "questionStem": "A 4-year-old girl is brought to the physician because of intermittent muscle cramping over the past 3 months. The episodes last from a few seconds to a few minutes and are relieved with gentle massages and comfort measures. She has had mild developmental motor delay since birth; physical, occupational, and speech therapy since infancy has improved her skills. Her father has similar muscle cramping, especially after exercising or heavy lifting. She is awake and alert. Examination shows mild muscle weakness distally. Deep tendon reflexes are normal. Babinski sign is absent. She has difficulty relaxing her grip after squeezing the physician's fingers. She answers questions appropriately but has impaired enunciation. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Cerebral palsy",
+      "B": "Congenital muscular dystrophy",
+      "C": "Duchenne muscular dystrophy",
+      "D": "Myasthenia gravis",
+      "E": "Myotonic dystrophy"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Myotonic dystrophy • Usually presents with facial weakness, hand grip myotonia, dysphagia • Arises from autosomal dominant expansion of CTG trinucleotide",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-8",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 9,
+    "questionStem": "A 12-year-old girl has the onset of headache and a change in her mental status. She received the diagnosis of type 1 diabetes mellitus earlier today and was admitted to the hospital for treatment of ketoacidosis. Three intravenous boluses of 0.9% saline were administered during the past 2 hours, and her serum glucose concentration has decreased from 874 mg/dL to 400 mg/dL during this time. She responds to painful stimuli only. Her temperature is 36.6°C (97.9°F), pulse is 56/min, respirations are 12/min, and blood pressure is 146/88 mm Hg. Funduscopic examination shows an absence of venous pulsations. Physical examination shows no abnormalities. Which of the following is the most likely cause of this patient's altered mental status?",
+    "choices": {
+      "A": "Cerebral edema",
+      "B": "Hypoglycemia",
+      "C": "Hypovolemia",
+      "D": "Metabolic acidosis",
+      "E": "Persistent hyperglycemia"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Cerebral edema • Decreasing plasma osmolarity too quickly → fluid shifts from ECF to ICF → ↑ ICP • ↑ ICP → absence of venous pulsations",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-9",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 10,
+    "questionStem": "A 16-year-old boy is brought to the physician by his mother for a routine health maintenance examination. He has no history of serious illness or injury. His last examination was 2 years ago. Both maternal and paternal family history includes premature coronary artery disease, hypertension, and hyperlipidemia. The patient is 173 cm (5 ft 8 in) tall and weighs 106 kg (233 lb); BMI is 35 kg/m2. His temperature is 37.4°C (99.3°F), pulse is 92/min, respirations are 24/min, and blood pressure is 136/84 mm Hg. Cardiac examination shows no abnormalities. Fasting serum lipid studies show: Cholesterol, total 214 mg/dL HDL-cholesterol 32 mg/dL LDL-cholesterol 144 mg/dL Triglycerides 187 mg/dL Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Reduced-calorie diet",
+      "B": "Weight training program",
+      "C": "β-Adrenergic blocking agent therapy",
+      "D": "Cholesterol-binding resin therapy",
+      "E": "Statin agent therapy"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Reduced-calorie diet • Lifestyle (diet and exercise) modification is first-line (exercise should be aerobic; weight training = anaerobic exercise)",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-10",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 11,
+    "questionStem": "A previously healthy 16-year-old boy is brought to the physician 6 hours after the onset of fever and right foot pain. He has a 1-week history of a progressive itching rash that started between the second and third toes of both feet. He has an active lifestyle and participates on baseball and football teams at his high school. His temperature is 38.4°C (101.1°F). Examination of the right foot shows erythema and induration from the interdigital spaces to the medial malleolus. Examination of the left foot shows dry, scaly skin between the toes. A tender lymph node is palpated in the right side of the groin. Which of the following organisms is the most likely cause of this patient's fever and pain?",
+    "choices": {
+      "A": "Escherichia coli",
+      "B": "Mycobacterium tuberculosis",
+      "C": "Pseudomonas aeruginosa",
+      "D": "Staphylococcus aureus",
+      "E": "Trichophyton rubrum"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Staphylococcus aureus • Fungal infection → dry skin that cracked and allowed bacteria from the skin to get in → cellulitis secondary to staph infection → fever & pain.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-11",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 12,
+    "questionStem": "A 5-year-old boy is brought to the physician by his parents because of a painful limp for 3 weeks. He has no history of serious illness or trauma and has not had any other symptoms. Developmental milestones are appropriate for age. On examination, he is unable to bear his full weight on the right and winces when he is asked to stand on his right foot. Flexion and internal rotation of the right hip are decreased. Muscle strength is 4/5 on abduction of the right hip. AP x-rays of the pelvis show a dense, contracted right femoral capital epiphysis. The left femoral capital epiphysis appears normal. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Congenital hip dysplasia",
+      "B": "Diastematomyelia",
+      "C": "Femoral anteversion",
+      "D": "Fibular hemimelia",
+      "E": "Jumper's knee",
+      "F": "Legg-Calvé-Perthes disease",
+      "G": "Metatarsus adductus",
+      "H": "Osgood-Schlatter disease",
+      "I": "Osteosarcoma",
+      "J": "Proximal focal femoral deficiency",
+      "K": "Septic arthritis of the hip",
+      "L": "Slipped capital femoral epiphysis",
+      "M": "Spondylolisthesis of L4 on L5",
+      "N": "Tibial hemimelia"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "Legg-Calvé-Perthes disease • Commonly presents between 5-7 years old with insidious onset of hip pain • Slipped capital femoral epiphysis commonly presents in obese pre-teens",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-12",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 13,
+    "questionStem": "A previously healthy 14-year-old girl is brought to the physician by her mother because of monthly lower abdominal pain during the past 6 months. She is 160 cm (5 ft 3 in) tall and weighs 50 kg (110 lb); BMI is 20 kg/m2. Her temperature is 37°C (98°F), pulse is 80/min, respirations are 18/min, and blood pressure is 105/60 mm Hg. Breast and pubic hair development is Tanner stage 4. Abdominal examination shows suprapubic tenderness and no masses. There is a bluish red smooth bulge between the labia. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Observation only",
+      "B": "Operative hysteroscopy",
+      "C": "Operative laparoscopy",
+      "D": "Cruciate incision of the hymen",
+      "E": "Exploratory laparotomy"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Cruciate incision of the hymen • Adolescent girl at usually age of menarche presenting with amenorrhea, cyclic abdominal/pelvic pain and hematocolpos = Imperforate Hymen • Hematocolpos (blood-filled vagina) → bulging, blue hymen membrane",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-13",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 14,
+    "questionStem": "A 13-month-old girl who was recently adopted from China is brought to the physician for a well-child examination. Her medical records are incomplete, but her adoptive parents were told that she has had no major illnesses. She is at the 10th percentile for length, weight, and head circumference. Examination shows no other abnormalities. Serum studies show: Hepatitis A antibody positive, Hepatitis B core antibody positive, Hepatitis B surface antigen positive, Hepatitis B surface antibody negative. Which of the following is the most appropriate description of this patient's immunologic status?",
+    "choices": {
+      "A": "Immune immune",
+      "B": "Immune not immune",
+      "C": "Not immune immune",
+      "D": "Not immune not immune"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Hepatitis A Virus: immune, Hepatitis B Virus: not immune • Hepatitis A antibody = immune • Anti-HBc (HBV core antibody); IgM indicates acute/recent infection, IgG indicates prior exposure or chronic infection • HBsAg (HBV surface antigen) indicates hepatitis B infection • Lack of Anti-HBs (HBV surface antibody) indicates no immunity",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-14",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 15,
+    "questionStem": "A 14-year-old girl with Down syndrome is being evaluated for polycythemia. Her hemoglobin concentration is 16.8 g/dL. Examination shows mild to moderate cyanosis and digital clubbing. An S2 is increased in intensity; no cardiac murmurs are heard. Echocardiography shows a large ventricular septal defect and a dilated main pulmonary artery. Which of the following is the most likely cause of this patient's polycythemia?",
+    "choices": {
+      "A": "Cardiac tamponade",
+      "B": "Decreased serum erythropoietin concentration",
+      "C": "Iron deficiency anemia",
+      "D": "Pulmonary artery hypertension",
+      "E": "Tetralogy of Fallot"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Pulmonary artery hypertension • Eisenmenger’s syndrome: chronic left-to-right shunting → pulmonary artery HTN → shunt reversal → cyanosis and polycythemia",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-15",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 16,
+    "questionStem": "A previously healthy 17-year-old girl is brought to the emergency department by police after she was found lying on the street. The outside temperature was 40°F. En route to the hospital, paramedics administered oxygen, and an ECG showed a J-wave pattern. On arrival, she is lethargic and poorly responsive to verbal commands. Her temperature is 32°C (89.6°F), pulse is 60/min, respirations are 12/min, and blood pressure is 90/60 mm Hg. There is an odor of ethanol on her breath. Examination shows no other abnormalities. Which of the following is the most likely explanation for this patient's cardiac findings?",
+    "choices": {
+      "A": "Cocaine toxicity",
+      "B": "Ethanol toxicity",
+      "C": "Hyperkalemia",
+      "D": "Hypocalcemia",
+      "E": "Hypothermia",
+      "F": "Increased intracranial pressure",
+      "G": "Myocardial infarction"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Hypothermia • J wave = positive deflection occurring at the junction between the QRS complex and the ST segment (J wave = Osborn wave) • J wave are suggestive of hypothermia (but are not pathognomonic) • Height of J wave is proportional to the degree of hypothermia",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-16",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 17,
+    "questionStem": "A 12-year-old boy has recently begun to snore loudly. He has a history of chronic upper respiratory tract infections and steatorrhea. Which of the following most likely explains his new symptom?",
+    "choices": {
+      "A": "Branchial cleft cyst",
+      "B": "Deviated septum",
+      "C": "Nasal polyps",
+      "D": "Respiratory muscle weakness",
+      "E": "Tonsillar hypertrophy"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Nasal polyps • Chronic URIs and steatorrhea are consistent with cystic fibrosis (CF) • ~10-40% of CF patients have nasal polyps (due to chronic inflammation)",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-17",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 18,
+    "questionStem": "A 16-year-old boy comes to the physician 2 months after discovering a painless lump in his right breast. He is otherwise healthy. Sexual development is Tanner stage 4. Examination shows a 1-cm, smooth, firm mass under the right nipple; there is no nipple or skin retraction and no axillary lymphadenopathy. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Accessory breast tissue",
+      "B": "Carcinoma",
+      "C": "Cystic mastopathy",
+      "D": "Fibroadenoma",
+      "E": "Physiologic pubertal development"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Physiologic pubertal development • Gynecomastia occurs in ~33% of pubescent boys; goes away with development",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-18",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 19,
+    "questionStem": "A 2410-g (5-lb 5-oz) newborn is delivered at 37 weeks' gestation to a 32-year-old woman, gravida 1, para 1, following an uncomplicated delivery. The mother has a history of intravenous drug use and received no prenatal care. She did not take any medications during pregnancy. Rapid HIV testing of the mother after delivery is positive. Examination of the newborn shows no abnormalities. Which of the following is the most appropriate next step in management of the newborn?",
+    "choices": {
+      "A": "A 6-week course of oral zidovudine (AZT) beginning at the 2-week examination",
+      "B": "A 6-week course of oral AZT only if the CD4+ T-lymphocyte count decreases to less than 200/mm³",
+      "C": "A 6-week course of oral AZT within 12 hours after delivery",
+      "D": "A 6-week course of triple antiretroviral therapy beginning at the 2-week examination",
+      "E": "A 6-week course of triple antiretroviral therapy if the CD4+ T-lymphocyte count decreases to less than 200/mm³",
+      "F": "A 6-week course of triple antiretroviral therapy within 24 hours after delivery",
+      "G": "No therapy indicated"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "A 6-week course of oral AZT within 12 hours after delivery * guidelines on this are in flux - unlikely to be tested* • If mother is HIV ⊕ then baby gets 6 weeks of of AZT within 6 hours of birth • Wether to add on other antiretrovirals after that is based on moms viral load and other risk factors",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-19",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 20,
+    "questionStem": "A 12-month-old African American girl with sickle cell disease is brought to the emergency department because of the sudden onset of high fever, irritability, and tachypnea 6 hours ago. Her diet consists of iron-fortified formula and pureed fruits and vegetables. Her mother states that she only misses an occasional dose of her penicillin prophylaxis. She appears ill. Her temperature is 39°C (102.2°F), pulse is 180/min, and respirations are 48/min. Examination shows conjunctival pallor. A grade 2/6 systolic murmur is heard best at the left sternal border. Laboratory studies show a hematocrit of 23%, leukocyte count of 23,000/mm3, and platelet count of 250,000/mm3. The most appropriate initial step in management is administration of which of the following?",
+    "choices": {
+      "A": "Oral penicillin",
+      "B": "Intravenous cefotaxime",
+      "C": "Intravenous corticosteroids",
+      "D": "Intravenous immune globulin",
+      "E": "Intravenous nafcillin",
+      "F": "Intravenous penicillin"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Intravenous cefotaxime • High leukocyte count (indicates infection) warrants antibiotics • She already takes penicillin prophylaxis (the bug she has is probably resistant) • 3rd generation cephalosporins treats possible meningitis",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-20",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 21,
+    "questionStem": "A 16-year-old boy comes to the physician because of a 3-day history of pain and pressure over the left cheek. He has a history of streptococcal pneumonia at the ages of 6 and 10 years and two episodes of sinusitis over the past 2 years. His temperature is 38.1°C (100.5°F), pulse is 88/min, respirations are 20/min, and blood pressure is 120/60 mm Hg. Examination shows no other abnormalities except for bilateral tender maxillary sinuses and boggy turbinates. A sputum culture grows Haemophilus influenzae. Which of the following is the most likely cause of this patient's recurrent infections?",
+    "choices": {
+      "A": "Combined immunodeficiency",
+      "B": "Complement deficiency",
+      "C": "Impaired cell-mediated immunity",
+      "D": "Impaired chemotaxis",
+      "E": "Impaired humoral immunity"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Impaired humoral immunity • Common variable immunodeficiency (CVID) → defect in B-cell differentiation → ↓ plasma cells and immunoglobulins → ↑ sinopulmonary infections • Combine immunodeficiency (eg, SCID) would have evidence of recurrent/severe viral and fungal infections (not just bacterial infections)",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-21",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 22,
+    "questionStem": "A previously healthy 2-year-old boy is brought to the emergency department because of a 5-day history of temperatures to 40°C (104°F). On arrival, he appears ill. His temperature is 39°C (102.2°F), pulse is 130/min, and blood pressure is 90/60 mm Hg. On cardiac examination, a grade 3/6 systolic murmur is heard best at the left lower sternal border. The patient has no other history of a murmur. The spleen tip is palpated 4 cm below the left costal margin. In addition to echocardiography, which of the following studies is most likely to confirm the diagnosis?",
+    "choices": {
+      "A": "Antinuclear antibody assay",
+      "B": "Determination of erythrocyte sedimentation rate",
+      "C": "Measurement of serum cardiac enzyme activities",
+      "D": "Serial blood cultures",
+      "E": "ECG"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Serial blood cultures • Fever + new systolic murmur (mitral regurgitation) = Endocarditis",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-22",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 23,
+    "questionStem": "A 3-year-old girl is admitted to the hospital because of progressive failure to thrive. Her parents say that she has had frequent, large, greasy stools and flatus over the past 3 months. She was born at term following an uncomplicated pregnancy and delivery and weighed 3200 g (7 lb 1 oz); she did not pass meconium until the age of 3 days. She is below the 5th percentile for height and weight. Examination shows decreased soft tissue mass. The lungs are clear to auscultation. The abdomen is soft with no masses. Which of the following is the most likely cause of this patient's failure to thrive?",
+    "choices": {
+      "A": "Aganglionic segmented colon",
+      "B": "Biliary atresia",
+      "C": "Dilation of the intestinal lymphatic vessels",
+      "D": "Exocrine pancreatic insufficiency",
+      "E": "Parasitic infection",
+      "F": "Villous atrophy of the small bowel"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "xocrine pancreatic insufficiency • Failure to thrive, steatorrhea, meconium ileus, ↓ soft-tissue mass (< 5th percentile for weight) = Cystic fibrosis (CF) • Pancreatic insufficiency → malabsorption with steatorrhea → fat-soluble vitamin deficiencies (A, D, E, K)",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-23",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 24,
+    "questionStem": "A 3-year-old girl is brought to the emergency department 10 minutes after an episode of syncope followed by generalized tonic-clonic movements lasting 30 seconds. Two minutes after the episode, she is fully alert. On arrival, she stops talking, closes her eyes, and has 3 to 4 rhythmic jerks of the right upper extremity. During the episode, an ECG shows P waves at 80/min with no QRS complexes; normal sinus rhythm resumes in 20 seconds. One minute later, she is fully alert. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Absence seizure",
+      "B": "Adams-Stokes attack",
+      "C": "Adverse effect of medication",
+      "D": "Breath-holding episode",
+      "E": "Carotid artery trauma",
+      "F": "Narcolepsy-cataplexy",
+      "G": "Vasovagal syncope",
+      "H": "Ventricular tachyarrhythmia"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Adams-Stokes attack • P waves, no QRS = AV block • High grade AV block (ie, complete or Mobitz type II) = Stokes- Adams attack • Tx: Pacemaker 25. P) Sinusitis • >10 day history of fever, headache, and nasal discharge • Post-nasal drip → erythematous posterior pharyngeal wall",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-24",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 26,
+    "questionStem": "A previously healthy 5-year-old boy is brought to the physician because of a 2-day history of fever, persistent cough, and abdominal pain. He has had no vomiting or diarrhea. All other family members are well. He appears ill. His temperature is 39.2°C (102.6°F), pulse is 120/min, and respirations are 32/min. Pulse oximetry on room air shows an oxygen saturation of 92%. Breath sounds are decreased at the right lung base. Abdominal examination shows diffuse tenderness without guarding or rebound. An x-ray of the chest shows a right lower lobe density.",
+    "choices": {
+      "A": "Atelectasis",
+      "B": "Bacterial pneumonia",
+      "C": "Bacterial tracheitis",
+      "D": "Bronchial asthma",
+      "E": "Bronchiectasis",
+      "F": "Bronchiolitis",
+      "G": "Cystic fibrosis",
+      "H": "Foreign body aspiration",
+      "I": "Laryngotracheobronchitis",
+      "J": "Mycoplasma pneumoniae infection",
+      "K": "Pancreatitis",
+      "L": "Pertussis",
+      "M": "Pneumocystis jiroveci (formerly P. carinii) pneumonia",
+      "N": "Pneumothorax",
+      "O": "Pulmonary tuberculosis",
+      "P": "Sinusitis"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Bacterial pneumonia • Decreased breath sounds, right lower lobe density (consolidation), abdominal pain (referred pain secondary to diaphragmatic irritation from basal pneumonia or from overuse of abdominal muscles secondary to persistent cough)",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "PEDS-1-26",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 27,
+    "questionStem": "A 16-year-old girl comes to the physician for a school physical examination. She feels well. Menarche was at the age of 13 years. Her last menstrual period was 18 months ago. She has never been sexually active. She does not drink alcohol or use illicit drugs. She does well in school and participates on numerous school sports teams. She says that she does not diet but has lost weight during the past year from physical activity and 'watching what I eat.' She is 165 cm (5 ft 5 in) tall and weighs 45 kg (99 lb); BMI is 17 kg/m². Vital signs are within normal limits. Physical examination shows no other abnormalities. This patient is at increased risk for which of the following?",
+    "choices": {
+      "A": "Endometrial cancer",
+      "B": "Hypothyroidism",
+      "C": "Osteoporosis",
+      "D": "Polycystic ovarian syndrome",
+      "E": "Rheumatoid arthritis"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Osteoporosis • Modifiable risk factors for osteoporosis: ↓ physical activity, low body weight, excessive ethanol or tobacco use, premature menopause, glucocorticoid use • This patient is headed toward the female athlete triad: low BMI, irregular periods, and fractures",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-27",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 28,
+    "questionStem": "Two days after delivery, a newborn has urinary dribbling and decreased urine output. He was born at term to a healthy 25-year-old primigravid woman following an uncomplicated pregnancy, labor, and delivery. His mother did not take any medications during pregnancy. The newborn has been feeding well on formula and appears well hydrated. On examination, a 6-cm, round, midline, suprapubic pelvic mass is palpated. He has not been circumcised. Laboratory studies show: Serum Na+ 137 mEq/L Cl- 102 mEq/L K+ 4.2 mEq/L HCO3- 21 mEq/L Creatinine 0.5 mg/dL Urine pH 6 Specific gravity 1.009 Protein trace Which of the following is the most likely cause of the oliguria?",
+    "choices": {
+      "A": "Chronic glomerulonephritis",
+      "B": "Phimosis",
+      "C": "Posterior urethral valves",
+      "D": "Urinary tract infection",
+      "E": "Vesicoureteral reflux"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Posterior urethral valves • Most common cause of urinary tract obstruction in newborn boys • Vesicoureteral reflux is a common cause of recurrent UTI in kids 29) Pyloric stenosis • Forceful, projectile, non-bilious vomiting • Dehydration & weight loss • Dx: abdominal U/S • Tx: Pyloromyotomy 30) T lymphocytes • T-cell deficit → fungal/viral infections",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-28",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 31,
+    "questionStem": "A 16-year-old boy has had the facial rash shown for 2 weeks. The rash started on the chin and has gradually spread over the face. Examination shows no other abnormalities. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Allergic contact dermatitis",
+      "B": "Herpes simplex",
+      "C": "Impetigo contagiosa",
+      "D": "Molluscum contagiosum",
+      "E": "Tinea faciei"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Impetigo contagiosa • Honey-crusted lesions ≈ Impetigo • Unlikely to be herpes simplex since the lips are spared",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "PEDS-1-31",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 32,
+    "questionStem": "In the morning, a 30-month-old girl has abdominal pain, two loose stools, and a temperature of 38.3°C (101°F). Malaise and fever persist throughout the day, and she has two more loose, bloody stools. That night, she has a generalized tonic-clonic seizure and is taken to the emergency department. Examination shows an alert, oriented patient with a temperature of 39.7°C (103.5°F), no nuchal rigidity, and slightly decreased skin turgor. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Hemolytic-uremic syndrome",
+      "B": "Henoch-Schönlein purpura",
+      "C": "Idiopathic seizure disorder",
+      "D": "Shigellosis",
+      "E": "Toxic megacolon"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Shigellosis • Fever, campy abdominal pain, dysentery = Shigella • Seizures = common neurologic complication of shigella; associated with fever > 39 °C (102.2 °F) • Ekiri syndrome = lethal toxic encephalopathy due to shigellosis • Characterized by rapid development of seizures and coma in patients with high fever & dysentery",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-32",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 33,
+    "questionStem": "A 2-year-old boy is brought to the emergency department 30 minutes after the onset of severe respiratory distress characterized by rapid breathing and retractions. He has a 5-day history of fever and cough that has not responded to acetaminophen therapy. He lives with a foster family, and no medical history is available about his biological parents prior to 5 months of age except for maternal drug use. Since 5 months of age, he has had failure to thrive, frequent thrush, and recurrent diarrhea. He is at the 5th percentile for height and below the 5th percentile for weight. His temperature is 38.5°C (101.3°F), pulse is 125/min, respirations are 65/min, and blood pressure is 100/52 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 82%. Examination shows tachypnea, grunting, and nasal flaring. Diffuse crackles are heard; air entry is symmetrical. Abdominal examination shows hepatosplenomegaly. A chest x-ray shows diffuse interstitial infiltrates. Which of the following is the most appropriate next step in diagnosis of this patient's pulmonary problem?",
+    "choices": {
+      "A": "Sputum culture",
+      "B": "Blood culture",
+      "C": "Serologic VDRL test",
+      "D": "Silver stain of bronchoalveolar fluid",
+      "E": "CT scan of the chest"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Silver stain of bronchoalveolar fluid • Pneumocystis pneumonia (caused by the yeast-like fungus Pneumocystis jirovecii) • Mother had history of IV drug use • Baby’s frequent thrush and failure to thrive (FTT) = immunocompromised",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-33",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 34,
+    "questionStem": "A 12-hour-old female newborn becomes irritable, has difficulty breathing, and then has a 2-minute generalized tonic-clonic seizure. She was born at 36 weeks' gestation by cesarean delivery for a breech presentation and weighed 3997 g (8 lb 13 oz). Her mother had gestational diabetes poorly controlled with diet; she refused insulin therapy. Apgar scores were 7 and 8 at 1 and 5 minutes, respectively. Examination shows decreased tone and lethargy. Pulse oximetry shows an oxygen saturation of 99%. An ECG shows a prolonged QT interval. In addition to measurement of serum glucose concentration, the most appropriate next step is measurement of which of the following serum concentrations?",
+    "choices": {
+      "A": "Bicarbonate",
+      "B": "Bilirubin",
+      "C": "Calcium",
+      "D": "Magnesium",
+      "E": "Thyroid-stimulating hormone"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Calcium • Seizures & prolonged QT = symptoms of hypocalcemia • Infants of diabetic mothers often have decreased magnesium and calcium • Infants have difficulty absorbing calcium due to surpassed PTH (ketonuria → ↓ magnesium → suppression of PTH → ↓ calcium)",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-34",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 35,
+    "questionStem": "A 9-month-old boy is brought to the physician for a well-child examination. He can only sit with support. He bangs two blocks together but does not scribble. He says 'mama' and 'dada' but not specifically to his parents. He is at the 50th percentile for length and weight. Examination shows no abnormalities. Which of the following is the most accurate assessment of this patient's development?",
+    "choices": {
+      "A": "Delayed delayed delayed",
+      "B": "Delayed delayed normal",
+      "C": "Delayed normal delayed",
+      "D": "Delayed normal normal",
+      "E": "Normal delayed delayed",
+      "F": "Normal delayed normal",
+      "G": "Normal normal delayed",
+      "H": "Normal normal normal"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Delayed gross motor, normal fine motor, normal language development • Child should be sitting up by himself after 6 months (this patient is 9 months old and is still unable)",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-35",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 36,
+    "questionStem": "One day after undergoing appendectomy for perforated appendicitis, a 16-year-old girl with type 1 diabetes mellitus has an ileus. During the operation, she was found to have diffuse peritonitis and received 3.5 L of lactated Ringer solution. Her initial postoperative course was uncomplicated. Current medications include cefepime, morphine, and insulin. Her temperature is 38°C (100.4°F), pulse is 100/min, respirations are 18/min, and blood pressure is 110/70 mm Hg. Abdominal examination shows moderate distention and diffuse tenderness. The surgical incisions are clean and dry. Laboratory studies show: Hemoglobin 11 g/dL Hematocrit 32% Leukocyte count 23,400/mm³ Platelet count 357,000/mm³ Serum Na⁺ 128 mEq/L K⁺ 3.9 mEq/L Cl⁻ 96 mEq/L HCO₃⁻ 22 mEq/L Urea nitrogen 14 mg/dL Glucose 642 mg/dL Creatinine 0.9 mg/dL Which of the following is the most likely cause of this patient's serum sodium concentration?",
+    "choices": {
+      "A": "Acute tubular necrosis",
+      "B": "Anemia",
+      "C": "Chronic glomerular disease",
+      "D": "Excessive administration of free water during the operation",
+      "E": "Hyperglycemia",
+      "F": "Sepsis"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Hyperglycemia • Pseudo-hyponatremia from hyperglycemia • Hyperglycemia causes osmotic shifts of water from the ICF to the ECF → dilution hyponatremia • Hyperglycemia → ↑ diuresis → osmotic diuresis → hyponatremia",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-36",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 37,
+    "questionStem": "A 17-year-old girl comes for a precollege physical examination. She is not sexually active. Her menses occur at regular 28-day intervals. She has smoked one-half pack of cigarettes daily for 3 years and drinks 1 oz of alcohol weekly. Her 50-year-old mother was diagnosed with breast cancer 1 year ago. Her father and grandfather died of heart disease during their 30s. Her blood pressure is 130/70 mm Hg while sitting. Which of the following is the most appropriate screening test?",
+    "choices": {
+      "A": "Serum lipid studies",
+      "B": "Urinalysis",
+      "C": "Mammography",
+      "D": "X-ray of the chest",
+      "E": "Exercise stress test"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Serum lipid studies • AAP recommends universal lipid studies for kids age 9-11 (pre-puberty), and again at age 17-21 (post-puberty) • “heart disease” in father and grandfather ≈ hypercholesterolemia",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-37",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 38,
+    "questionStem": "A 16-year-old boy comes to the physician for an examination prior to participation in school sports. Both testes are descended. A painless mass is palpated in the scrotum; the mass can be \"milked\" into the abdomen through the inguinal ring. The patient says that he did not notice it previously. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Epididymitis",
+      "B": "Hydrocele",
+      "C": "Inguinal hernia",
+      "D": "Leydig cell tumor",
+      "E": "Teratoma of the testis",
+      "F": "Torsion of the testis",
+      "G": "Varicocele"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Inguinal hernia • “milked” = reducible hernia",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-38",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 39,
+    "questionStem": "A 13-year-old girl is brought to the physician by her mother because of a 6-week history of constant abdominal pressure, breast tenderness, and weight gain. She has no history of serious illness and takes no medications. She has never had a menstrual period. She follows a normal diet and regularly participates in physical education activities at her middle school. She is at the 50th percentile for height and 75th percentile for weight. Vital signs are within normal limits. Breast and pubic hair development are Tanner stage 3. Abdominal examination shows a nontender mass below the umbilicus. Which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "Urinalysis",
+      "B": "Measurement of serum α-fetoprotein concentration",
+      "C": "Measurement of serum β-hCG concentration",
+      "D": "X-ray of the abdomen",
+      "E": "CT scan of the pelvis"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Measurement of serum β-hCG concentration • Always rule out pregnancy first, even if she hasn’t begun menstruation yet (tanner stage is highly indicative of impending menstruation) • X-ray & CT = radiation exposure = dangerous for potential fetus",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-39",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 40,
+    "questionStem": "A 3-year-old boy is brought to the emergency department by his father because of rapid breathing for 1 hour. The patient states that he cannot catch his breath. His temperature is 37°C (98.6°F), pulse is 100/min, respirations are 30/min, and blood pressure is 120/80 mm Hg. The lungs are clear to auscultation. There is slight hyperresonance on the right side of the chest. Decreased breath sounds are heard on the right. An x-ray of the chest shows slight overexpansion of the right lung compared with the left; there are no infiltrates or effusions. Oxygen is administered via nasal cannula. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Administration of hyperbaric oxygen",
+      "B": "CT scan of the chest",
+      "C": "Bronchoscopy",
+      "D": "Thoracotomy",
+      "E": "Tube thoracostomy"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Bronchoscopy • Foreign body → air-trapping → hyperinflation → hyper-resonance & ↓ breath sounds • Bronchoscopy for removal of foreign body",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "PEDS-1-40",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 41,
+    "questionStem": "An 8-year-old child is referred by the school nurse practitioner for evaluation of a murmur heard during an annual school physical examination. There is no history of cyanosis, decreased exercise tolerance, or rheumatic fever. Examination shows no cardiomegaly. The apical impulse is tapping and there are no thrills; the split S1 widens during inspiration. There is pronounced sinus bradycardia. A low-pitched vibratory murmur is heard throughout the cardiac cycle; it is most prominent at the left upper sternal border when the child is in the sitting position. The murmur disappears when the child is in the supine position and when his neck is rotated in the sitting position. Which of the following is the most likely cause?",
+    "choices": {
+      "A": "Atrial septal defect",
+      "B": "Coarctation of the aorta",
+      "C": "Patent ductus arteriosus",
+      "D": "Peripheral pulmonic stenosis",
+      "E": "Venous hum"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Venous hum • Innocent, benign murmur in children • Turbulent flow of venous return in the jugular veins and SVC; occurs during systole and diastole • Accentuated or eliminated with head position; disappears when supine or with digital compression of the jugular vein",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-41",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 42,
+    "questionStem": "A previously healthy 3-year-old girl is brought to the physician because of a 3-week history of fever, pallor, and decreased appetite. She has been taking acetaminophen. Over the past week, her mother also has noticed bruises on her daughter's legs. The patient's temperature is 38.5°C (101.3°F), pulse is 120/min, and respirations are 24/min. Examination shows pallor and scattered ecchymoses over the lower extremities. There are several ulcerations of the oral cavity. There is no lymphadenopathy. The lungs are clear to auscultation. Abdominal examination shows no hepatosplenomegaly. Laboratory studies show: Hemoglobin 4.5 g/dL, Leukocyte count 300/mm³, Segmented neutrophils 1%, Lymphocytes 99%, Platelet count 2000/mm³. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Aplastic anemia",
+      "B": "Chédiak-Higashi syndrome",
+      "C": "Child abuse",
+      "D": "Chronic myelocytic leukemia",
+      "E": "Congenital agranulocytosis",
+      "F": "Cyclic neutropenia",
+      "G": "Drug-induced neutropenia",
+      "H": "Leukocyte adhesion deficiency",
+      "I": "Viral-mediated neutropenia"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Aplastic anemia • Aplastic anemia = pancytopenia (↓ RBC, ↓ WBC, ↓ Platelets) • Aplastic crisis = ↓ Erythrocytes",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-42",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 43,
+    "questionStem": "A 14-year-old girl is brought to the emergency department 4 hours after a 3-minute generalized tonic-clonic seizure that occurred at a party. Her symptoms began with bizarre behavior. She has had a low-grade fever and cough for 3 days. On arrival, she is arousable but confused; she does not answer questions appropriately and cannot follow commands. Her temperature is 38.9°C (102°F). Examination shows mild resistance to neck flexion. Deep tendon reflexes are brisk in all extremities. Babinski sign is present bilaterally. A CT scan of the head without contrast shows mixed areas of hyperdensity and hypodensity in the right temporal lobe. Cerebrospinal fluid analysis shows: Glucose 60 mg/dL, Protein 45 mg/dL, Leukocyte count 35/mm³, Segmented neutrophils 20%, Lymphocytes 80%, Erythrocyte count 1250/mm³. Which of the following is the most likely causal organism?",
+    "choices": {
+      "A": "Arbovirus",
+      "B": "Borrelia burgdorferi",
+      "C": "Cytomegalovirus",
+      "D": "Enterovirus",
+      "E": "Herpes simplex virus",
+      "F": "HIV",
+      "G": "Listeria monocytogenes",
+      "H": "Rickettsia rickettsii",
+      "I": "Toxoplasma gondii",
+      "J": "Varicella-zoster virus"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Herpes simplex virus • Temporal lobe hyper/hypo-densities = HSV • Herpes encephalopathy = ↑ RBC, normal glucose, ↑/normal protein, ↑ lymphocytes",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "PEDS-1-43",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 44,
+    "questionStem": "A 6-month-old boy is brought to the physician because of a 1-day history of fever and foul-smelling urine. Urinalysis shows 30–50 WBC/hpf, positive nitrites, and positive leukocyte esterase. A urine culture grows Escherichia coli. Antibiotic therapy is initiated, and his symptoms resolve. Renal ultrasonography shows no abnormalities. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Observation for recurrent symptoms",
+      "B": "Repeat urine culture in 3 months",
+      "C": "Intravenous pyelography",
+      "D": "Voiding cystourethrography",
+      "E": "Cystoscopy"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Voiding cystourethrography • Question is out of date - Should be 'Observation for recurrent symptoms' • Does not meet indications for VCUG (voiding cystourethrography) • Posterior urethral valves are the most common cause of UTI in a baby boy • Voiding cystourethrography checks the posterior urethral valves • However, cystourethrogram is generally not indicated in first time UTIs unless U/S shows hydronephrosis, scarring or the patient is < 1 month old",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-44",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 45,
+    "questionStem": "A 6-month-old boy is brought to the physician because of a 1-week history of episodes of unprovoked startle-like movements. Each movement consists of sudden, quick flexion of the head, arms, and legs. He cries during these movements, which usually occur in clusters after awakening from sleep. He has had a heart murmur since birth. His father has mild mental impairment. Examination shows three areas of skin hypopigmentation, each measuring 1 to 2 cm. A CT scan of the head shows four periventricular nodules that distort the normally smooth ventricular margins. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Duchenne muscular dystrophy",
+      "B": "Facioscapulohumeral muscular dystrophy",
+      "C": "Hepatolenticular degeneration (Wilson disease)",
+      "D": "Myotonic dystrophy",
+      "E": "Neurofibromatosis",
+      "F": "Tuberous sclerosis"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "Tuberous sclerosis • Skin hypopigmentation = ash-leaf spots • Periventricular masses = subependymal astrocytomas",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "PEDS-1-45",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 46,
+    "questionStem": "A 14-year-old girl has noticed progressive enlargement of the neck over the past 5 months. She also has had decreased energy and cold intolerance. Examination shows a diffusely enlarged, firm, nontender thyroid gland. Laboratory studies show a serum thyroxine (T4) concentration of 3 μg/dL and a serum thyroid-stimulating hormone concentration of 15 μU/mL. A thyroid scan shows patchy and irregular uptake of radioisotopes. A biopsy specimen of the thyroid gland is most likely to show which of the following?",
+    "choices": {
+      "A": "Epstein-Barr virus DNA",
+      "B": "Granulomas",
+      "C": "Lymphocytic infiltration",
+      "D": "Medullary carcinoma",
+      "E": "Microabscesses"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Lymphocytic infiltration • Hashimoto thyroiditis → lymphocytic infiltrate (autoimmune process) • Lymphoid aggregates with germinal centers • MCC of hypothyroidism in iodine-sufficient regions",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "PEDS-1-46",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 47,
+    "questionStem": "A 2-year-old girl is brought to the emergency department 20 minutes after her mother found her ill and breathing rapidly. She found an open bottle of aspirin in the child's play area but does not know how many tablets are missing. On arrival, the patient appears mildly lethargic. Her temperature is 38°C (100.4°F), pulse is 130/min, respirations are 46/min, and blood pressure is 100/70 mm Hg. There is adequate perfusion. The remainder of the examination shows no abnormalities. Measurement of serum aspirin concentration is ordered. Arterial blood gas analysis on room air is most likely to show which of the following?",
+    "choices": {
+      "A": "Metabolic acidosis",
+      "B": "Metabolic alkalosis",
+      "C": "Mixed metabolic acidosis and respiratory acidosis",
+      "D": "Mixed metabolic acidosis and respiratory alkalosis",
+      "E": "Mixed metabolic alkalosis and respiratory acidosis",
+      "F": "Mixed metabolic alkalosis and respiratory alkalosis",
+      "G": "Respiratory acidosis",
+      "H": "Respiratory alkalosis"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Mixed metabolic acidosis and respiratory alkalosis • Salicylate toxicity (early) stimulates medulla respiratory centres → hyperventilation → respiratory alkalosis • Salicylate toxicity (late) decreases cellular respiration via uncoupling oxidative phosphorylation → anaerobic metabolism → metabolic acidosis • This child was brought to the ED 20 minutes after her mother found her, not 20 minutes after ingestion of the aspirin...",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-47",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 48,
+    "questionStem": "A 4-year-old girl is brought to the physician because of fever, abdominal cramps, and diarrhea for 2 days. She attends day care, and several other children at the center have similar symptoms. Four days ago, the day-care center had a picnic at a local lakeside park where barbecued chicken and several salads were served. The center has a pet hamster. The patient's temperature is 39.3°C (102.7°F). She is well hydrated. Abdominal examination shows mild diffuse tenderness. The remainder of the examination shows no abnormalities. Laboratory studies show: Hemoglobin 11 g/dL, Leukocyte count 10,400/mm³, Segmented neutrophils 33%, Bands 7%, Lymphocytes 60%, Platelet count 340,000/mm³. Examination of the stool for ova and parasites is negative. A stool culture grows Salmonella species. Rotavirus testing is negative.",
+    "choices": {
+      "A": "Cholera immunization",
+      "B": "Cooking meats completely",
+      "C": "Day-care center closure",
+      "D": "Removing the pets from the day-care center",
+      "E": "Strict hand-washing techniques at the day-care center",
+      "F": "Swimming prohibition in the lake",
+      "G": "Typhoid immunization",
+      "H": "Use of only disposable diapers at the day-care center",
+      "I": "Well water filtration"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Cooking meats completely • Humans and animals are reservoirs for Salmonella species (except Salmonella typhi) • Humans are the only reservoir for S. tyhphi • Poultry (BBQ chicken), eggs, pets, and turtles are common sources • Non-typhoidal Salmonella → gastroenteritis",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-48",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 49,
+    "questionStem": "An 18-month-old boy is brought to the physician because of diarrhea for 3 days. He attends day care, and several other children at the center have similar symptoms. The water source for the day-care center is a private well. The center has a pet turtle and two canaries. The patient's temperature is 37.7°C (99.9°F). He is well hydrated. The remainder of the examination shows no abnormalities. Laboratory studies show: Hemoglobin 12 g/dL, Leukocyte count 8400/mm³, Segmented neutrophils 39%, Bands 1%, Lymphocytes 60%, Platelet count 240,000/mm³. Examination of the stool for ova and parasites is negative. A stool culture grows no enteric pathogens. Rotavirus testing is positive.",
+    "choices": {
+      "A": "Cholera immunization",
+      "B": "Cooking meats completely",
+      "C": "Day-care center closure",
+      "D": "Removing the pets from the day-care center",
+      "E": "Strict hand-washing techniques at the day-care center",
+      "F": "Swimming prohibition in the lake",
+      "G": "Typhoid immunization",
+      "H": "Use of only disposable diapers at the day-care center",
+      "I": "Well water filtration"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Strict hand-washing techniques at the day-care center • Rotavirus is transmitted through the fecal/oral route via contact with contaminated hands, surfaces and objects.",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-49",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  },
+  {
+    "questionNumber": 50,
+    "questionStem": "A 4-day-old female newborn is brought to the physician by her mother because her skin appears yellow. She has been breast-feeding and has had normal stool and urine output. She was born at term, and delivery required vacuum extraction. She had a large cephalhematoma at birth. Examination now shows a cephalhematoma, scleral icterus, and jaundice of the lower extremities. The blood group of the newborn is O, Rh-positive. The blood group of the mother is A, Rh-positive. A direct antiglobulin (Coombs) test is negative. Serum total bilirubin concentration is 20.8 mg/dL. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Cessation of breast-feeding",
+      "B": "Supplementation of breast-feeding with formula",
+      "C": "Second bilirubin concentration measurement in 6 hours",
+      "D": "Phototherapy",
+      "E": "Intravenous fluid bolus",
+      "F": "Partial exchange transfusion",
+      "G": "No intervention is indicated"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Phototherapy • Unconjugated hyperbilirubinemia from birth trauma (cephalohematoma) • This baby has been breast-feeding and has normal stool & urine output • If the child had a positive Coombs test and signs of acute bilirubin encephalopathy (eg, high- pitched cry, lethargy, poor feeding, and hypotonia), they should be treated with exchange transfusion as this is a medical emergency • Mild elevation (>10 mg/dL) Rx: phototherapy • Severe elevation (>20-25 mg/dL) Rx: exchange transfusions",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "PEDS-1-50",
+    "section": "PEDS",
+    "subsection": "CMS-1",
+    "system": null
+  }
+]

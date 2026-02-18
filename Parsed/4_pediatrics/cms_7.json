@@ -1,0 +1,753 @@
+[
+  {
+    "questionNumber": 1,
+    "questionStem": "Apreviously healthy 6-year-old boy is brought to the office because of a 2-day history of right ear pain. He went swimming in a lake 3 days ago. On examination, the right ear canal appears normal with no pain on motion of the canal or tragus; the eardrum is red, bulging, and immobile. The left ear and pharynx appear normal. The neck is supple; there is no lymphadenopathy. The remainder of the examination shows no abnormalities. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "B": "Bullous otitis",
+      "C": "Foreign body",
+      "D": "Labyrinthitis",
+      "E": "Otitis externa",
+      "A": "F ) Otitis media with effusion"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Acute otitis media is an infection of the middle ear that classically occurs in children. Causative agents include viral or bacterial pathogens, commonly Streptococcus pneumoniae, Moraxella catarrhalis, or nontypeable Haemophilus influenzae. |t presents with ear pain, often with fever, an erythematous tympanic membrane with retrotympanic pus or a middle ear effusion, and conductive hearing loss. The middle ear is bounded externally by the tympanic membrane and internally by the oval window. It is connected to the nasopharynx via the eustachian (auditory) tubes, which open into the posterior nasopharynx near the torus tubarius. Infection usually spreads to the middle ear by way of the eustachian tubes. First-line therapy includes antibiotic treatment with amoxicillin with or without clavulanate, as well as symptomatic treatment. Recurrent episodes may lead to inflammation of the adjacent mastoid bone, a condition known as mastoiditis. Features of mastoiditis include those of otitis media, plus opacification of mastoid air cells on CT scan and deviation of the ear. Children with recurrent episodes of acute otitis media may benefit from surgical drainage with myringotomy and tympanostomy tube placement. . @ € - a https://.me/U SM LENBM E2CK Score Report Lab Values Calculator Help Pause",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "PEDS-7-1",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 2,
+    "questionStem": "A22-month-old girl with recurrent cough and shortness of breath is brought to the physician for a follow-up examination. She was born at term and weighed 3200 g (7 Ib 1 oz). Pregnancy was uncomplicated. Recurrent episodes of wheezing with cough began after the age of 6 months and were successfully treated with combinations of oral antibiotics and B..-adrenergic agonists. She was admitted to the hospital for treatment of lobar pneumonia at the ages of 9, 12, and 16 months. She was treated for rectal prolapse 2 months ago. There is a family history of childhood-onset asthma of varying severity persisting into adulthood. She is alert and acyanotic. She weighs 10.4 kg (23 Ib). Her temperature is 37.3°C (99.2°F), pulse is 115/min, and respirations are §2/min. Examination shows mild subcostal and intercostal retractions. Diffuse inspiratory crackles are heard with hyperresonance to percussion. There is minimal clubbing of the nail beds. An x-ray of the chest shows generalized hyperinflation, bronchial thickening in the upper lobes, and patchy atelectasis throughout the lungs. Which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "Measurement of serum IgE concentration",
+      "B": "PPD skin test",
+      "C": "Sweat chloride test",
+      "D": "Methacholine bronchial challenge test",
+      "E": "Nasal mucosal biopsy"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Cystic fibrosis is an autosomal recessive disorder caused by a defect in the CFTR gene, leading to a deficiency in a chloride channel that secretes chloride in the lungs and gastrointestinal tract, and reabsorbs chloride in sweat glands. This abnormal chloride transport causes decreased chloride and water secretion and increased water reabsorption, leading to abnormally viscous mucous. The thick mucus in the gastrointestinal tract contributes to pancreatic insufficiency, steatorrhea, and malabsorption, leading to a deficiency of fat-soluble vitamins A, D, E, and K. In the lungs, the disease manifests as recurrent pneumonia, especially with Staphylococcus aureus and Pseudomonas aeruginosa. Repeat antibiotic exposure increases the risk for colonization with resistant organisms. Obstruction and destruction of the airways leads to hypoxemia, air trapping, and bronchiectasis. Physical examination may show hypertrophic osteoarthropathy (clubbing), cyanosis, rales and rhonchi, and hyperresonance to percussion of the chest. Imaging findings include hyperinflation, bronchiectasis with peribronchial cuffing, and diffuse nonspecific inflammatory changes. Diagnosis is made using the sweat chloride test. . https://.me/U SM LENBM E2CK 4 © ” Previous Next Score Report Lab Values Calculator Help Pause @ = ¢ c",
+    "incorrectExplanation": "",
+    "image": true,
+    "id": "PEDS-7-2",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 3,
+    "questionStem": "A2495-g (5-lb 8-0z) female newborn has tachypnea and intercostal retractions 25 minutes after delivery at 32 weeks' gestation to a 23-year-old primigravid woman. Membranes ruptured 1 hour prior to delivery; no meconium was noted. Apgar scores were 7 and 7 at 1 and 5 minutes, respectively. The mother is afebrile. Recent vaginal culture of the mother was negative for group B (he patient appears pink. Her temperature is 36.8°C (98.2°F), pulse is 150/min, respirations are 70/min, and blood pressure is 60/30 mm Hg. Examination shows perioral cyanosis, nasal flaring, runting, and intercostal retractions. Breath sounds are decreased bilaterally. Pulse oximetry on room air shows an oxygen sSRRSHOR BROAMSNGES adinicistiaton-ot oxygen (4 L/min) by face mask, oxygen saturation increases to 91%. An x-ray of the chest shows diffuse, bilateral haziness in the lungs. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Bacterial pneumonia",
+      "B": "Congenital emphysema",
+      "E": "Meconium aspiration",
+      "F": "Transient tachypnea of the newborn"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Respiratory distress syndrome of the newborn, also called hyaline membrane disease and neonatal respiratory distress syndrome (NRDS), commonly occurs in premature infants, and is caused by an inadequate production of pulmonary surfactant. Surfactant produced by type II pneumocytes functions to decrease surface tension of the alveolar membrane. Without enough surfactant, high surface tension leads to alveolar collapse. NRDS presents with tachypnea, hypoxia, accessory muscle use, and cyanosis, and may lead to death. Chest x-ray commonly shows diffuse, bilateral airspace and interstitial opacities. Biopsy is not required for diagnosis, but if performed at autopsy, it will show atelectasis with deposition of proteinaceous alveolar debris and hyaline material. A fetus’ risk for NRDS may be estimated bv amniocentesis and calculation of the ratio of lecithin to sohinaomvelin in the amniotic fluid. Surfactant is rich in bhospholipids. such as lecithin and C Cc ¢ https://.me/U SM LENBME2CK @ = € c Previous Next Score Report Lab Values Calculator Help Pause",
+    "incorrectExplanation": "",
+    "image": true,
+    "id": "PEDS-7-3",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 5,
+    "questionStem": "A 12-year-old girl is brought to the physician because of vaginal bleeding for 2 weeks. Pubertal development began at the age of 10 years. Her first menstrual period began 6 weeks ago and lasted for 10 days; she used 10 to 12 sanitary pads daily. Her second menstrual period began 2 weeks ago and has not stopped. She had been using 12 pads daily until 2 days ago; since then, she has used 6 daily. Her temperature is 37°C (98.6°F), pulse is 100/min, respirations are 16/min, and blood pressure is 95/60 mm Hg. Examination shows no other abnormalities. Laboratory studies show: Hemoglobin 10 g/dL Leukocyte count 10,000/mm3 with a normal differential Platelet count 180,000/mm?3 Prothrombin time 12 sec (INR=1) Partial thromboplastin time 45 sec Which of the following is the most likely cause of these findings?",
+    "choices": {
+      "A": "Acute lymphocytic leukemia",
+      "B": "Anovulatory menstrual cycles",
+      "C": "Factor XI deficiency",
+      "D": "Factor XIll deficiency",
+      "E": "Hyperthyroidism",
+      "F": "SH"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "4 ry o https: //t.me/U SM LENBME2CK & € Previous Next Score Report Lab Values Calculator",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "PEDS-7-5",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 6,
+    "questionStem": "A2-week-old newborn is brought for a well-child examination. He was born at 38 weeks' gestation to a 27-year-old primigravid woman following an uncomplicated pregran ari GSI SS WM IGhiae 270009. (G INT Seine Tecate Rai DeGRnNSHEE ANH, weight, and head circumference. Examination shows short palpebral fissures, maxillary hypoplasia, micrognathia, and a thin upper lip. The lungs are clear to auscultation. A grade 1/6 systolic murmur is heard at the left sternal border with radiation to the left axilla and back. Femoral pulses are normal. Neurologic examination shows mild hypotonia. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Congenital toxoplasmosis",
+      "B": "Down syndrome",
+      "D": "Fragile X syndrome",
+      "E": "Seminiferous tubule dysgenesis (Klinefelter syndrome)",
+      "F": "Trisomy 13 syndrome"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Alcohol is a proven teratogen, as alcohol use during pregnancy leads to irreversible fetal neurological effects and physical malformations in a cluster of symptoms called fetal alcohol syndrome. Due to the disruption of cell migration during development, fetal alcohol syndrome presents with physical abnormalities, such as microcephaly, facial abnormalities (eg, small palpebral fissures, maxillary hypoplasia, thin vermilion border, cleft lip/palate, smooth philtrum), limb deformities, and congenital heart disease. Fetal alcohol syndrome is the leading cause of intellectual disability in the United States. Muscular abnormalities (eg, gross motor delays, hypotonia, tremulousness) are also common. Patients with fetal alcohol syndrome may demonstrate abnormal bone development (eg, cervical spine fusion) and delayed bone growth.",
+    "incorrectExplanation": "nd F. q > ¢",
+    "image": null,
+    "id": "PEDS-7-6",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 7,
+    "questionStem": "A15-month-old girl is brought to the physician because she has not begun to crawl or walk. She has been exclusively breast-fed since birth. She is at the 50th percentile for length and the 85th percentile for weight. Her language and social skills are appropriate for age. Examination shows no abnormalities except for widening of the wrists. Which of the following serum findings is most likely to be increased?",
+    "choices": {
+      "A": "ALT activity",
+      "B": "Alkaline phosphatase activity",
+      "C": "Calcium concentration",
+      "D": "Magnesium concentration",
+      "E": "Phosphorus concentration"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Alkaline phosphatase is an enzyme present in bile ductules and bone. It plays a role in bone mineralization by osteoblasts, though the exact mechanism is unknown. Vitamin D plays a role in serum calcium and phosphate homeostasis by promoting intestinal absorption of calcium and phosphate, increasing bone mineralization at low concentrations, and increasing bone resorption at higher concentrations. Parathyroid hormone (PTH) also has a role in calcium and phosphate regulation by stimulating osteoclastic bone reabsorption and calcium reabsorption and phosphate excretion in the kidney. Vitamin D deficiency can be caused by malabsorption in the intestinal tract, malnutrition or insufficient dietary intake, and decreased sun exposure. Decreased concentrations of vitamin D result in decreased intestinal calcium absorption and hypocalcemia, sensed by the parathyroid gland via calcium-sensing receptors, leading to an increase in secretion of PTH to normalize serum calcium concentrations. Increased PTH results in increased osteoclast activity, intestinal calcium absorption, and kidney tubular absorption of calcium and excretion of phosphorus. Increased osteoclast activity leads to increased bone turnover, which releases calcium and alkaline phosphatase into the bloodstream. This leads to rickets in children, characterized by frontal bossing, bone pain and deformities such as bowing of the legs, widening of zones of mineralization on radiography caused by unmineralized osteoid, hypoplastic teeth, bulging of costochondral junctions, and growth delay. In infants, such as this patient, bone pain may manifest as refusal or inability to crawl or walk. Because of the risk for vitamin D deficiency, breastfed infants are recommended to receive oral vitamin D supplementation. https://.me/U SM LENBM E2CK G € a e Previous Next Score Report Lab Values Calculator Help Pause",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "PEDS-7-7",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 8,
+    "questionStem": "A6-year-old boy is brought to the clinic by his mother because of intermittent bed-wetting. He was toilet trained at the age of 4 years but has never remained dry through the night and typically wets the bed three to four times weekly. He does not wet himself during the day. He has not had pain with urination or urinary urgency, hesitancy, or dribbling. Urine stream is normal ERS RRB Seve RET RACORT GR GTIDTS CLIEAR he is a “heavy sleeper.” He has not had fever, diarrhea, or constipation. He recently started first grade and has not yet made any friends. Growth and development are otherwise appropriate for age. Vital signs are within normal limits. The abdomen is soft and nontender. The penis is circumcised. The testes are descended. Urinalysis shows: pH 7.0 Specific gravity 1.020 Blood negative Glucose negative Protein negative Ketones negative Nitrites negative Leukocyte esterase negative Which of the following is the most likely explanation for this patient's enuresis?",
+    "choices": {
+      "A": "Adjustment disorder",
+      "B": "Detrusor muscle overactivity",
+      "D": "Primary sleep disorder",
+      "E": "Urinary tract infection"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "q > ¢ https://.me/U SM LENBM E2CK S} € (2 ¢ Previous Next Score Report Lab Values Calculator Help Pause",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "PEDS-7-8",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 9,
+    "questionStem": "An 18-year-old woman comes to the physician because she has never had a menstrual period. She takes no medications. She is 163 cm (5 ft 4 in) tall and weighs 60 kg (132 Ib); BMI is 23 kg/m2. Her temperature is 37°C (98.6°F), pulse is 80/min, respirations are 20/min, and blood pressure is 110/60 mm Hg. Breast development is sox ating stage 1, and pubic hair development is sexual maturity rating stage 3. Pelvic examination shows a normal vagina and a small uterus. Her serum follicle-stimulating hormone concentration is 92 mlU/mL. Which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "B": "Measurement of serum progesterone concentration",
+      "C": "Vaginal cytology",
+      "D": "Hysterosalpingography",
+      "E": "CT scan of the head"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Gonadal dysgenesis 45,X (Turner syndrome) is a cause of primary amenorrhea, which is secondary to ovarian dysgenesis in the setting of a 45,XO genotype. Other signs of gonadal dysgenesis 45,X include a short stature, cystic hygroma or webbed neck, swelling in the hands/feet, coarctation of the aorta, bicuspid aortic valve, horseshoe kidney, and infertility. Additionally, because of decreased estrogen concentrations, patients fail to develop secondary sexual characteristics, such as breasts, and demonstrate an underdeveloped uterus. Vital signs will be normal, and diagnosis is made through a karyotype analysis. Other laboratory studies that may aid in diagnosis are increased concentrations of luteinizing hormone (LH) and follicle-stimulating hormone (FSH) caused by the lack of negative feedback from estrogen. Gonadal dysgenesis 45,X management in adolescents commonly involves monitoring for cardiac complications, growth hormone replacement, and estrogen replacement to promote increased stature and development of secondary sexual characteristics.",
+    "incorrectExplanation": "nd E. q > ¢",
+    "image": null,
+    "id": "PEDS-7-9",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 10,
+    "questionStem": ") /A’3+mionth-old female linfant born at'34 Weeks\" gestation is admitted to the hospital in January becalise of/a’3-day history of copious rhinorrhea, fever, poor feeding, and periods of tachypnea. Her 3-year-old brother was diagnosed with an upper respiratory tract infection 5 days ago. Her temperature is 38°C (100.4°F), respirations are 66/min, and blood oximetry on room 21a ea examination shows intercostal retractions. Wheezes are heard bilaterally. A chest x-ray shows hyperinflation and peribronchial thickening. Which of the following is the most likely pathogen?",
+    "choices": {
+      "A": "Bordetella pertussis",
+      "B": "Chlamydia trachomatis",
+      "C": "Influenza virus",
+      "D": "Listeria monocytogenes",
+      "E": "Mycoplasma pneumoniae",
+      "G": "Staphylococcus aureus",
+      "H": "Streptococcus pneumoniae"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "Bronchiolitis is a common cause of lower respiratory tract infection in children under age 2 years. It is typically caused by a viral infection, most commonly from respiratory syncytial virus. It presents with a viral prodrome of fever, nasal congestion, and rhinorrhea followed by cough, dyspnea, and lethargy as inflammation progresses to the lower airway. Auscultation may disclose wheezes and crackles. Severe disease is marked by the presence of increased respiratory effort (tachypnea, accessory muscle use, intercostal retractions, nasal flaring, grunting), hypoxemia, and apnea. Patients presenting with severe disease should be : q > ¢ https://.me/U SM LENBM E2CK S} € (2 ¢ Previous Next Score Report Lab Values Calculator Help Pause",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "PEDS-7-10",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 12,
+    "questionStem": "A 10-year-old girl is brought to the physician because of a 6-month history of increased facial hair growth and facial acne. She is at the 50th percentile for height and weight, Her temperature is 37°C (98.6°F), pulse is 64/min, respirations are 12/min, and blood pressure is 110/60 mm Hg. Examination shows mild clitoral enlargement and an early male pubic hair pattern. Laboratory studies show a serum testosterone concentration of 0.2 nmol/L (N=0.17-0.7), dehydroepiandrosterone sulfate concentration of 9 g/mL (N=0.5—5.4), and urine 17-ketosteroid excretion of 20 mg/24 h (N=6-15). Pelvic ultrasonography shows no abnormalities. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "B": "Androgen insensitivity syndrome",
+      "C": "Ovarian adenoma",
+      "D": "Pituitary adenoma",
+      "E": "Polycystic ovarian syndrome"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "The adrenal cortex is composed of three zones including the zona glomerulosa producing aldosterone, zona fasciculata producing cortisol, and zona reticularis producing dehydroepiandrosterone sulfate. In the zona reticularis, 17-hydroxypregnenolone is converted to dehydroepiandrosterone sulfate by 17a-hydroxylase. Patients who present with virilization of the female genitalia, hirsutism, and elevation of dehydroepiandrosterone sulfate and 17-ketosteroid excretion should be evaluated for the development of an adrenal adenoma. These patients will have normal testosterone concentrations as well as normal pelvic ultrasound.",
+    "incorrectExplanation": "nd E. Androgen insensitivity syndrome (Choice B) results from defect in the androgen receptor. Genotypically male patients with this condition exhibit a normal-appearing female phenotype with female external genitalia and rudimentary vagina but internally develop normal functioning testes. This patient does not display the physical characteristics of androgen insensitivity syndrome. q > ¢",
+    "image": null,
+    "id": "PEDS-7-12",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 13,
+    "questionStem": "A2-day-old male newborn is evaluated in the hospital for hydronephrosis first seen on prenatal ultrasonography at 28 weeks' gestation. He was born at term following spontaneous vaginal delivery. He feeds well from a bottle. Vital signs are within normal limits. He voids unig oe BaRnalBoe Kane OLDE h dribbling of urine from the penis. Postnatal ultrasonography shows bilateral hydronephrosis and hydroureter and a thick-walled bladder. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Duplicated renal collecting system",
+      "B": "Neurogenic bladder",
+      "D": "Ureteropelvic junction obstruction",
+      "E": "Vesicoureteral reflux"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Congenital urinary tract abnormalities include but are not limited to unilateral renal agenesis, fused kidneys, ureteral stricture and stenosis, duplex collecting system, posterior urethral valves, bladder agenesis, bladder exstrophy, hypo- or epispadias, and urethral strictures. Posterior urethral valves are formed from an abnormal remnant of the mesonephric (wolffian) duct and can result in urinary tract obstruction. This is often diagnosed on prenatal ultrasonography showing bladder distention, hydronephrosis, oligohydramnios, and a fetus that is small for gestational age. Some of these features were notable in this patient's case. In this patient, an abnormal voiding pattern plus postnatal ultrasonography suggest posterior urethral valves as a cause of urinary obstruction. Complications include rupture of a calyx around the kidney, bladder rupture, and kidney failure. Definitive diagnosis of posterior urethral valves is made with voiding cystourethrogram showing dilation, elongation, and tapering of the urethra. Treatment is with endoscopic valve ablation.",
+    "incorrectExplanation": "nd E. A duplicated renal collecting system (Choice A) would be revealed on ultrasonography as two ureters exiting one kidney. Sometimes they are asymptomatic, but also may be complicated by hydronephrosis or urinary tract infections. : q > ¢",
+    "image": null,
+    "id": "PEDS-7-13",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 14,
+    "questionStem": "Apreviously healthy 15-month-old boy is brought to the physician in late winter by his mother because of persistent vomiting followed by fever and diarrhea. His symptoms began 2 days ago after a large family gathering. His mother tried to give him apple juice, but he vomited the juice after drinking only 4 ounces. The patient is crying and appears alert. His temperature is 39°C (102.2°F), pulse is 120/min, respirations are 36/min, and blood pressure is 88/56 mm Hg. Capillary refill time is normal. Examination shows tear production and slightly dry mucous membranes. The abdomen is nontender; bowel sounds are hyperactive. Test of the stool for occult blood is negative. Which of the following is the most appropriate treatment for this patient?",
+    "choices": {
+      "A": "Oral bismuth subsalicylate",
+      "B": "Oral hydration solution",
+      "C": "Oral loperamide",
+      "D": "Rectal prochlorperazine",
+      "E": "Intravenous 5% dextrose in water"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Acute-onset fever, emesis, and diarrhea is consistent with a likely diagnosis of gastroenteritis. Though this is typically a self-limiting illness, children with gastroenteritis are at increased risk for volume depletion in comparison to adults, and this patient should be treated initially with oral hydration solution. Clinical signs of volume depletion include tachycardia, tachypnea, hypotension, dry mucous membranes, poor skin turgor, and prolonged capillary refill. Children may present with irritability or lethargy. Laboratory evaluation may show perturbations in serum sodium, bicarbonate, and potassium concentrations. Volume depletion secondary to diarrhea is usually accompanied by a significant stool loss of bicarbonate, which in combination with the hypoperfusion of end organs, may result in metabolic acidosis. Urinalysis shows aciduria and a high urinary specific gravity. Treatment includes the repletion of fluids and electrolytes.",
+    "incorrectExplanation": "nd E. Oral bismuth subsalicylate (Choice A) is a nonantibiotic treatment option for adults with acute gastroenteritis but should be avoided in infants and pregnant women q > ¢",
+    "image": null,
+    "id": "PEDS-7-14",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 15,
+    "questionStem": "A4-month-old girl is brought to the physician for a well-child examination in October. Pregnancy and delivery were uncomplicated. Immunizations are up-to-date. Growth and development are appropriate for age. Vital signs are within normal limits. Examination shows no abnormalities. Immunization against which of the following is most appropriate at this time?",
+    "choices": {
+      "A": "Chickenpox",
+      "B": "Influenza",
+      "C": "Measles-mumps-rubella",
+      "E": "Shingles"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Rotavirus is a double-stranded RNA virus that causes infectious diarrhea in children. Rotavirus infection is the most common cause of diarrheal illness in children in the world and is commonly acquired during the first several years of life. The virus is transmitted fecal-orally and is highly contagious. Viral shedding in the stool can occur prior to the development of symptoms and potentially allow asymptomatic patients to become vectors for disease. The diarrhea caused by rotavirus is watery, profuse, and often foul-smelling, and is typically not bloody. While most cases are self-resolving, severe infections may produce dehydration, which may be life- threatening, particularly in low-resource settings and developing countries. Rotavirus vaccine is available in a variety of live-attenuated formulations and is recommended for all children. The vaccine is given in a two or three dose series between age 2 and 6 months.",
+    "incorrectExplanation": "nd E. Chickenpox (Choice A) is caused by infection with varicella virus. Vaccine against varicella is administered in a two-dose series at age 12 months and between age 4 to 6 years.",
+    "image": null,
+    "id": "PEDS-7-15",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 18,
+    "questionStem": "A3-day-old girl undergoes evaluation prior to discharge from the hospital. She was born at 39 weeks' gestation following an uncomplicated pregnancy and cesarean delivery for cephalopelvic disproportion and weighed 3256 g (7 Ib 3 oz). Examination at birth showed no abnormalities. She is exclusively breast-fed. She is alert and active. Her temperature S7TG 105.0 cise a 1OMATNL an eMeREaTe Soran. Pulse oximetry on room air shows an oxygen saturation of 99%. A new grade 2/6, early systolic murmur is heard in the pulmonic area with radiation to the lung fields and is loudest in the right axilla. Peripheral pulses are normal. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Aortic stenosis",
+      "B": "Atrial septal defect",
+      "C": "Patent ductus arteriosus",
+      "E": "Ventricular septal defect"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "The most likely diagnosis is pulmonary stenosis. It is often diagnosed early in life and in female patients more than male. Pulmonary stenosis is typically congenital and benign, or it may be associated with other congenital cardiac syndromes. The blockage may occur at the level of the pulmonic valve as a result of fusion of the commissures or other defects of the leaflets, subvalvular caused by narrowing of the right ventricular outflow tract, or supravalvular (also called peripheral pulmonic stenosis) caused by narrowing or impingement of the pulmonary artery. Physical examination findings depend on the severity of stenosis. Most patients will have a systolic ejection murmur with radiation to the back. Some may have an associated ejection click, split So, or left parasternal heave. Most patients are asymptomatic, though complications can occur if the condition persists into adulthood. Surgical revision and balloon valvotomy have excellent prognosis.",
+    "incorrectExplanation": "nd E. Aortic stenosis (Choice A) presents with a crescendo-decrescendo systolic murmur, best heard at the upper right sternal border, and radiates to the carotid arteries. » q > ¢",
+    "image": null,
+    "id": "PEDS-7-18",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 19,
+    "questionStem": "Apreviously healthy 10-month-old boy is brought to the emergency department by his mother because of a 10-hour history of bloody, mucoid stools. He also has vomited three times during this time. His mother says that he cries and draws up his legs during the episodes of vomiting. Between episodes, he appears comfortable. He is playful and is not in distress. His temperature is 37.1°C (98.8°F), pulse is 110/min, respirations are 24/min, and blood pressure is 96/58 mm Hg. Abdominal examination shows mild distention. A 4-cm, tender, elongated mass is palpated in the right upper quadrant. There is no hepatosplenomegaly. Rectal examination shows bloody mucoid stool in the rectal vault. Results of a contrast enema are shown. Which of the following is the most likely explanation for these findings?",
+    "choices": {
+      "A": "Bleeding diverticulum",
+      "B": "Intussusception",
+      "C": "Malrotation volvulus",
+      "D": "Peptic ulcer",
+      "E": "Pyloric stenosis"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Intussusception occurs when a segment of bowel telescopes into an adjacent segment, resulting in colicky abdominal pain, nausea, vomiting, and potential bloody, mucoid stools. Classically, it presents in an infant or young child with recurrent episodes of severe abdominal pain often punctuated by asymptomatic periods. Intussusception typically occurs due to the presence of a pathologic lead point, often lymphoid hyperplasia, lymphadenopathy, Meckel diverticulum, stricture, or malignancy, which acts to draw one segment of bowel into an adjacent segment during peristalsis. If the intussusception self-resolves, there may be no symptoms. If it does not resolve, traction on mesenteric vessels can result in hypoperfusion of the segment with resultant inflammation, hemorrhage, obstruction, and pain. It may be detected on physical examination as an elongated mass, often in the right upper quadrant. Diagnosis consists of clinical history, physical examination, and is supported by imaging. Ultrasound evaluation is preferred in young children and will show telescoping interposed bowel segments in longitudinal orientation, or a targetoid appearance in transverse orientation. A contrast enema can also demonstrate intussusception with appearance of a mass prolapsing into the lumen and an inability of the contrast to reach the proximal bowel. Treatment of an ileocolic intussusception requires the administration of a contrast enema, which reduces the intussusception. Contrast enema is both diagnostic and therapeutic in this setting. Surgery may be required in cases where there is repetitive failure of the enema to reduce the intussusception or if the patient presents with symptoms concerning for bowel necrosis or perforation. q > ¢ https://.me/U SM LENBM E2CK S} € (2 ¢ Previous Next Score Report Lab Values Calculator Help Pause",
+    "incorrectExplanation": "",
+    "image": true,
+    "id": "PEDS-7-19",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 20,
+    "questionStem": "Apreviously healthy 13-year-old boy is brought to the physician because of a 4-week history of intermittent left groin pain associated with a limp. He has not had fever. He is not in acute distress. He is at the 50th percentile for height, 97th percentile for weight, and above the 97th percentile for BMI. His temperature is 37°C (98.6°F), pulse is 90/min, respirations are 20/min, and blood pressure is 116/75 mm Hg. On examination, internal rotation and abduction of the left hip are limited. Internal and external rotation to 75 degrees produces pain. The left hip externally rotates on passive flexion. Examination of the right hip and both knees shows no abnormalities. AP and cross-table lateral x-rays of the left hip show irregular widening of the epiphyseal plate of the left femur and mild osteopenia of the left femoral neck and head. In addition to analgesic therapy and discussion about weight loss, which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Physical therapy",
+      "B": "Abduction bracing",
+      "C": "Traction",
+      "D": "Spica cast immobilization",
+      "E": "Internal fixation"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Slipped capital femoral epiphysis (SCFE) most commonly occurs in overweight children between the ages of 10 to 15. It results in displacement of the femoral epiphysis relative to the femoral neck secondary to anterosuperior movement of the metaphysis because of a Salter-Harris type 1 fracture of the growth plate. SCFE typically presents with a painful limp, and if severe, may result in restricted range of motion of the hip joint (eg, limited abduction and internal rotation of the hip) and inability to bear weight on the affected lower extremity. Diagnosis requires evaluation of both hips in frontal and frog-leg views for comparison. If untreated, complications include avascular necrosis of the femoral head, limited range of motion and gait impairment, and premature osteoarthritis. To prevent these complications, treatment requires surgical fixation of the femoral epiphysis. q > ¢ https://.me/U SM LENBM E2CK S} € (2 ¢ Previous Next Score Report Lab Values Calculator Help Pause",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "PEDS-7-20",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 21,
+    "questionStem": "A9-month-old boy is brought to the office for a well-child examination. His mother says he is a happy baby. He likes to lie on the floor and can roll from his stomach to his back; he has been trying to roll from his back to his stomach over the past 2 weeks. He can sit with support. His appetite is good, and he likes to feed himself crackers and cereal from the high-chair table. He jabbers, imitates sounds, and says \"Dada\" and \"Mama\" to everyone and everything. Immunizations are up-to-date. He is at the 75th percentile for length and 50th percentile for weight. Examination shows no abnormalities. Which of the following is the most accurate assessment of this patient's development? Fine Motor Gross Motor Language Social Development Development Development Development B+} Delayed detayed nermrat Rorpret",
+    "choices": {
+      "D": "Delayed normal normal normal",
+      "G": "Normal normal normal delayed",
+      "H": "Normal normal normal normal"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Developmental milestones refer to the actions that most infants or children can perform at a given age. By age of 9 months, infants are typically able to initiate and maintain a sitting position without support. The patient in this example is unable to sit without support, indicating that his gross motor development is delayed. In the fine motor category, infants are expected to be able to rake food toward themselves and move objects between hands. In the language category, most children. q > ¢ https://.me/U SM LENBM E2CK S} € (2 ¢ Previous Next Score Report Lab Values Calculator Help Pause",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "PEDS-7-21",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 22,
+    "questionStem": "Apreviously healthy 15-year-old girl is brought to the physician because of severe cramps during menses since menarche 6 months ago. Menses occur at regular 28-day intervals. Treatment with over-the-counter analgesics and nonsteroidal anti-inflammatory drugs has not relieved the pain. Examination, including pelvic examination, shows no abnormalities. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Reassurance",
+      "B": "Psychiatric assessment",
+      "C": "Narcotic analgesic therapy",
+      "E": "Laparoscopy"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Primary dysmenorrhea is defined as menstrual pain that accompanies each menstrual cycle but is not associated with any underlying pathology. To diagnose primary dysmenorrhea, causes of secondary dysmenorrhea must be ruled out. These may include endometriosis, leiomyomata uteri (fibroids), adhesions, pelvic inflammatory disease, or adenomyosis. Many of these can be reasonably assessed on pelvic examination, which in this case did not show any abnormalities. Primary dysmenorrhea typically presents with pain in the lower abdomen and pelvis, which may radiate to the lower back or thighs. It is often accompanied by nausea, diarrhea, headaches, and flushing. Symptoms typically begin in adolescence. It can be attributed to uterine vasoconstriction in response to an excess of prostaglandin. Thus, treatment targets this pathway with medications including nonsteroid anti-inflammatory drugs and topical heat therapy. Combined oral contraceptives or a progestin intrauterine device may also be utilized to regulate these symptoms if persistent.",
+    "incorrectExplanation": "nd E. Reassurance (Choice A) would be inappropriate as this patient is having severe symptoms that are likely interfering with her day-to-day activities during her menstrual period. Since there are options for treating this patient's symptoms that have not yet been utilized, oral contraceptive therapy is a more appropriate option. , q > ¢",
+    "image": null,
+    "id": "PEDS-7-22",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 23,
+    "questionStem": "Apreviously healthy 10-year-old boy has a 10-day history of progressive eouigh) low-grade fever, and slight dyspnea on exertion. Examination shows diffuse crackles bilaterally. An x-ray of the chest shows a diffuse perihilar infiltrate. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Pneumonia due to respiratory syncytial virus",
+      "B": "Pneumonia due to Streptococcus pneumoniae",
+      "D": "Congestive heart failure",
+      "E": "Tuberculosis"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "The diagnosis is most likely pneumonia due to Mycoplasma pneumoniae. Mycoplasma pneumoniae is a pleomorphic organism lacking a cell wall that is typically associated with causing atypical pneumonia in young patients. It is transmitted by respiratory droplets. The most common symptoms include mild fever, headache, and non-productive cough. Physical examination findings may include bilateral crackles and/or wheezing and a vesicular rash. The chest x-ray characteristically has an appearance that is more severe than the patient's clinical presentation, with patchy or diffuse bilateral interstitial infiltrates. Mycoplasma is a fastidious organism and can be grown on Eaton agar, though this can take weeks. It also may not appear on Gram stain because it lacks a cell wall. The diagnosis is usually based on clinical presentation. Laboratory studies that support the diagnosis include a high titer of serum cold agglutinins (IgM antibodies). Treatment is with macrolide antibiotics, doxycycline, or fluoroquinolones. Other causes of atypical pneumonia that may present similarly include respiratory viruses, Chlamydophila pneumoniae, and Legionella infections.",
+    "incorrectExplanation": "nd E. Pneumonia due to respiratory syncytial virus (Choice A) is less common than acute bronchiolitis in children, though disease can progress from the bronchioles to the lung parenchyma. Patients typically present with fever, tachypnea, rhinorrhea, and wheezing. Patients may also display apneic episodes. In general, bronchiolitis is less common beyond infancy. q > ¢",
+    "image": true,
+    "id": "PEDS-7-23",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 24,
+    "questionStem": "A3200-g (7-lb 1-0z) male newborn is delivered at 38 weeks’ gestation. Pregnancy, labor, and delivery Were Uncomplicated. Apgar scores are 8 and 9 at 1 and 5 minutes, respectively. Examination shows no abnormalities except jateral flank masses. Laboratory studies show: H 50% pH 6 Specific gravity 1.009 Blood moderate Protein trace Ultrasonography shows bilateral enlargement of the kidneys with mixed echogenicity. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Nephroblastoma (Wilms tumor)",
+      "B": "Neuroblastoma",
+      "D": "Renal cell carcinoma",
+      "E": "Renal vein thrombosis"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Daluavetin Lidnaw diennen can ha nithar autacamal rannccivin ar daminant nalinuetic Vidnayw diennen Asitancamal ranneeivin nahinvuetic Lidnau dieanen (ADDUDY eneilte https://.me/U SM LENBM E2CK € 4 & @ Previous Next Score Report Lab Values Calculator",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "PEDS-7-24",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 25,
+    "questionStem": "A 10-year-old boy is brought te'the office because of a 2-day history of redness and mild pain in his left 6yél He is afebrile, Examination of the left eye shows a mildly erythematous conjunctiva. There is conjunctival edema and tenderness and a 3-mm nodule at the lower lateral lid margin. Examination of the right eye shows no abnormalities. Which of the following is the most appropriate treatment?",
+    "choices": {
+      "A": "Nasolacrimal massage",
+      "B": "Oral amoxicillin",
+      "C": "Topical prednisolone",
+      "D": "Topical tetrahydrozoline"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Ahordeolum, or stye, is a common, acute infection of the oil glands of the eyelid. Patients present with a focal, well-defined subcutaneous nodule at the eyelid margin with associated skin erythema. A blocked glandular orifice may be visible as a focal white point at the eyelid margin with associated discharge, which may cause ocular surface irritation and conjunctival injection and chemosis. A hordeolum may progress to preseptal cellulitis, which is characterized by diffuse erythema, warmth, and edema of the preseptal soft tissues. The underlying cause is obstruction of the oil gland orifice, with subsequent accumulation of sebaceous material and overgrowth of skin flora, most commonly with Staphylococcal species. The meibomian glands or the glands of Zeiss and Moll may be affected. Initial treatment is with warm compresses and gentle massage of the lesion, which help to dissolve inspissated glandular material and promote drainage of the gland. Topical antibiotic ointment is helpful, although systemic antibiotics are not usually necessary. Incision and drainage may be considered for hordeola that do not improve within several weeks. A hordeolum should be distinguished from a chalazion, which is a sterile, noninfectious, chronic, granulomatous inflammation of obstructed meibomian gland material on the eyelid margin.",
+    "incorrectExplanation": "nd D. q > ¢",
+    "image": null,
+    "id": "PEDS-7-25",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 26,
+    "questionStem": "A 16-year-old girl is brought to the emergency department because of a 3-day history of cough productive of thick yellowish sputum and a 1-day history of shortness of breath. She has not had fever. She has a history of asthma treated with albuterol and inhaled corticosteroids for which she required hospitalization on 10 occasions between the ages of 8 and 10 years. She has smoked one and one-half packs of cigarettes daily for 4 years. Her temperature is 37°C (98.6°F), pulse is 102/min, respirations are 42/min, and blood pressure is 108/80 mm Hg. Examination shows mild clubbing of the digits and increased anteroposterior chest diameter. Occasional end-expiratory wheezes are heard on auscultation. A chest x-ray shows no abnormalities other than severe bilateral hyperinflation. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "a+-Antitrypsin deficiency",
+      "B": "Congenital lobar emphysema",
+      "C": "Kartagener syndrome",
+      "D": "Pulmonary sequestration",
+      "E": "Sarcoidosis"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "The most likely cause of the findings in this patient is a-antitrypsin deficiency, an inherited protease inhibitor deficiency. a4-Antitrypsin normally regulates neutrophil elastase, which is a serine protease secreted by neutrophils and macrophages as part of a localized inflammatory response. a 4-Antitrypsin deficiency is an inherited disorder caused by mutations in the SERPINA71 gene, which encodes aj,-antitrypsin. Reduced activity of a;-antitrypsin results in host tissue damage from neutrophil elastase, especially in the lungs. Pulmonary manifestations classically include panlobular emphysema (especially in the lung bases), as suggested by this patient's evaluation. The diagnosis should be suspected in a young patient presenting with evidence of chronic lung disease with bibasilar emphysematous changes. Patients are also at risk for chronic liver inflammation and cirrhosis because of the accumulation of misfolded aj-antitrypsin polymers in hepatocytes.",
+    "incorrectExplanation": "nd E. q > ¢",
+    "image": null,
+    "id": "PEDS-7-26",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 26,
+    "questionStem": "A5-year-old boy is brought to the office because of a 3-day history of a rash on his left leg. He has had five previous skin abscesses that have required rolonged treatment. He was admitted to the hospital for osteomyelitis at the ages of 2 and 4 years and pneumonia at the age of 3 eaRIHRseaN) Shclar aie taeiagaliensantoniarst the age of 5 years. The patient's temperature is 38.8°C (101.8°F). Examination shows several enlarged, tender left inguinal lymph nodes. There is a 2 x 3-cm warm, erythematous macular rash over the left lower extremity. Which of the following mechanisms of disease is the most likely cause of this patient's symptoms?",
+    "choices": {
+      "A": "Abnormal leukocyte adhesion",
+      "B": "Abnormal leukocyte degranulation",
+      "C": "Bone marrow infiltration",
+      "D": "Impaired leukocyte chemotaxis"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Chronic granulomatous disease (CGD) is a rare primary immunodeficiency syndrome caused by mutations in the gene coding for NADPH oxidase. It is inherited in an X-linked, recessive pattern and results in defective intracellular killing of catalase-positive pathogens because NADPH oxidase is a necessary enzyme in producing the respiratory/oxidative burst. The impaired leukocyte microbicidal activity makes patients susceptible to recurrent pyogenic bacterial and fungal infections with organisms such as Staphylococcus aureus, Staphylococcus epidermidis, Serratia marcescens, Aspergillus species, and Candida species. Symptoms often appear within the first few years of life with recurrent pneumonia, lung abscesses, aspergillosis infection, skin abscesses, osteomyelitis, and chronic diarrhea. Physical examination may show hepatosplenomegaly and lymphadenopathy. Diagnosis is made by an abnormal dihydrorhodamine test or a nitroblue tetrazolium reduction test. In the latter test, normal phagocytes use the action of NADPH to reduce nitroblue, which leads to a color change from yellow to blue. Patients with CGD will not demonstrate a color change. q > ¢ https://.me/U SM LENBM E2CK S} € (2 ¢ Previous Next Score Report Lab Values Calculator Help Pause",
+    "incorrectExplanation": "nd E. Congenital lobar emphysema (Choice B) is a rare pulmonary disorder caused by disrupted embryonic bronchopulmonary development and is characterized by air trapping and lung hyperinflation, which can be visualized on chest imaging. The severity of disease varies widely and may be asymptomatic until adulthood or present in the newborn with respiratory distress. a,-Antitrypsin deficiency is more common. Kartagener syndrome (Choice C) is an inherited disorder of ciliary function that generally presents in early childhood. Patients typically present with situs inversus, impaired mucociliary clearance with recurrent pneumonia and bronchiectasis, chronic sinusitis, and infertility disorders. Pulmonary sequestration (Choice D) is a congenital lung malformation in which a segment of dysplastic, nonfunctional lung tissue is formed that does not communicate with the rest of the airway. Patients typically present with recurrent pneumonia in the same localized region of the lung. Other clinical manifestations include persistent cough, hemoptysis, exertional dyspnea, and back pain. Sarcoidosis (Choice E) is a chronic granulomatous inflammatory condition that can affect multiple organ systems, especially the lungs and lymphatic system. It typically presents with a cough, dyspnea, and bilateral hilar lymphadenopathy, and potentially with anterior uveitis, erythema nodosum, and arthralgias. Characteristic imaging findings include bilateral hilar lymphadenopathy, with or without bilateral upper lobe predominant interstitial infiltrates. Educational Objective: a4-Antitrypsin deficiency should be suspected in young patients who present with emphysematous lung changes. a4-Antitrypsin is a protease inhibitor responsible for regulating neutrophil elastase. Patients are also at risk for chronic liver inflammation and cirrhosis because of the accumulation of misfolded ay-antitrypsin polymers in hepatocytes. q > ¢",
+    "image": null,
+    "id": "PEDS-7-26",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 28,
+    "questionStem": "A 12-year-old girl has had cramping abdominal pain, nausea, and four episodes of vomiting over the past 24 hours. Over the past 2 months, she has been drinking large quantities of fluids and has had urinary frequency; she has had a 6.8-kg (15-Ib) weight loss during this period. She appears tired but is alert and answers questions appropriately. There is diffuse abdominal tenderness and a fruity odor to her breath. Which of the following is the most likely additional finding in this patient?",
+    "choices": {
+      "A": "Exophthalmos",
+      "B": "Hypertension",
+      "C": "Increased tidal volume",
+      "D": "Neutropenia",
+      "E": "Thrombocytopenia"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "This patient with nausea, abdominal pain, and a fruity odor to her breath has a presentation consistent with diabetic ketoacidosis (DKA). DKA occurs most commonly in the setting of type 1 diabetes mellitus and may be the initial presentation in a patient who has not yet been diagnosed. It is caused by accumulation of serum ketones such as beta-hydroxybutyric acid, acetoacetic acid, and acetone in the setting of insulin deficiency or acute catabolic stressors such as infection. L Dysregulated fatty acid degradation and ketone synthesis occurs because of the relative state of starvation created by absent insulin signaling. Patients with DKA may present with fatigue, polyuria, polydipsia, shortness of breath or tachypnea, and diffuse abdominal discomfort. Vital signs may show tachycardia, tachypnea, and hypotension due to severe hypovolemia, which occurs secondary to osmotic diuresis from hyperglycemia. Kussmaul respiration, a rapid and deep breathing pattern, is a classic physical examination finding due to respiratory compensation for the underlying metabolic acidosis. Patients may demonstrate physical examination signs of hypovolemia (eg, dry mucous membranes, decreased skin turgor) along with a sweet breath odor secondary to ketones. Laboratory analysis typically show increased serum glucose and ketones, metabolic acidosis, and a high anion-gap due to the accumulation of unmeasured anions in serum. A metabolic acidosis is accompanied by a decreased bicarbonate concentration in the serum, as bicarbonate is consumed in the neutralization of increased acidic molecules (hydrogen ions) in the blood. The initial management of DKA should focus on volume repletion with isotonic fluids, which is crucial to hemodynamically stabilize the patient, restore tissue perfusion, and clear ketones. Volume repletion should be followed by insulin, correction of electrolyte abnormalities, and treatment of any precipitating conditions. q > ¢ https://.me/U SM LENBM E2CK S} € (2 ¢ Previous Next Score Report Lab Values Calculator Help Pause",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "PEDS-7-28",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 29,
+    "questionStem": "A2-month-old girl is brought to the physician by her mother for a well-child examination. Six weeks ago, she had watery diarrhea with blood in her stool. At that time, she was switched from a cow milk-based formula, which she had been fed since birth, to a soy-based formula, and the diarrhea resolved. She appears well. She is at the 50th percentile for length, weight, and head circumference. Examination shows no abnormalities. The mother should be counseled about which of the following regarding this patient's diet?",
+    "choices": {
+      "A": "She will likely have lifelong lactose intolerance",
+      "B": "She will likely have lifelong milk protein intolerance",
+      "C": "She will likely outgrow her lactose intolerance"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "This patient's initial presentation is consistent with cow's milk protein intolerance (CMPI). The underlying cause is a hypersensitivity reaction to unknown non-native antigens in cow's milk and is mediated by both IgE-dependent and non—lgE-dependent mechanisms. CMPI presents in infants with colic, regurgitation, diarrhea, hematochezia, urticarial rash, atopic dermatitis, and iron deficiency anemia. Severe cases may rarely present with failure to thrive, wheezing, or anaphylaxis. The diagnosis is clinical and confirmed with improvement in symptoms following elimination of cow's milk from the diet. In breastfed infants, elimination of cow's milk from the mother’s diet is also necessary. In contrast to lactose intolerance, CMPI resolves in half of children by 1 year of age and in nearly all children by 5 years of age.",
+    "incorrectExplanation": "nd C. Lifelong lactose intolerance (Choice A) is typical for patients affected by lactose intolerance. Lactose intolerance is a common, often heritable, condition associated with inadequate expression of lactase. It is a distinct clinical entity from CMPI, although it presents similarly in children (and adults) with cramping abdominal pain, bloating, flatulence, and diarrhea. Lactose intolerance typically presents after 2 to 3 years of age, in contrast to CMPI, which presents in infancy. In further contrast to CMPI, lactose intolerance is typically lifelong, while outgrowing lactose intolerance (Choice C) is atypical. q > ¢",
+    "image": null,
+    "id": "PEDS-7-29",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 31,
+    "questionStem": "A7-year-old gi the physician by her mother because of a 2-day history of a burning sensation during urination. She has been treated with nitro} infections on two separate occasions; cultures at the time of the infections were negative. Examination shows a frothy vaginal discharge. The vulva is normal, and there is a small uterus. A wet mount preparation of the discharge shows Trichomonas vaginalis. Urinalysis shows no abnormalities except for occasional T. vaginalis. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "B": "Urine culture",
+      "C": "Clotrimazole therapy",
+      "D": "Intravenous pyelography",
+      "E": "Cystoscopy"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Trichomoniasis is a sexually transmitted infection by Trichomonas vaginalis that causes vaginitis and cervicitis in women and urethritis in men. Trichomonas commonly presents with vaginal pruritus, dyspareunia, cervical erythema, and abnormal discharge that is green, frothy, and malodorous. Trichomoniasis can lead to overactive bladder (frequency, urgency, urge incontinence). As T. vaginalis is transmitted through sexual contact, a young child with trichomoniasis should be promptly evaluated for sexual abuse.",
+    "incorrectExplanation": "nd E. Urine culture (Choice B) is not needed as the diagnosis of trichomoniasis has already been established by positive T. vaginalis on wet mount. Urine and vaginal cultures are utilized less frequently than nucleic acid amplification testing as it takes days for cultures to result. Topical clotrimazole therapy (Choice C) can be utilized to treat candidal vulvovaginitis. It is not a recommended trichomoniasis treatment. q > ¢",
+    "image": null,
+    "id": "PEDS-7-31",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 33,
+    "questionStem": "A1-month-old male newborn is brought to the emergency department because of a 2-day history of forceful, nonbilious vomiting. His mother reports that the vomiting has been getting worse and that he now seems irritable and acts hungry afterward. He was born at term and weighed 2948 g (6 Ib 8 02). There were no prenatal or perinatal complications. He has not had any sick contacts and does not attend day care. His mother underwent pyloromyotomy as an infant. The patient's current weight is 2835 g (6 Ib 4 oz). His temperature is 37°C (98.6°F), pulse is 180/min, respirations are 36/min, and blood pressure is 60/40 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 99%. On physical examination, the anterior fontanel is sunken and mucous membranes are dry. Which of the following sets of electrolyte findings is most likely in this patient? Na* (mEq/L) K+ (mEq/L) Cl- (mEq/L) HCO,-(mEqI/L)",
+    "choices": {
+      "B": "136 47 84 38",
+      "D": "145 4 105 38"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Pyloric stenosis is caused by hypertrophy of the pyloric sphincter, leading to gastric outlet obstruction and vomiting. It commonly presents with nonbloody, nonbilious emesis after feedings beginning around 3 to 6 of age and is more common in male infants. Symptoms may begin with occasional vomiting, then progress to projectile emesis after every feed, dehydration, and malnutrition as the stenosis worsens. Repeated bouts of vomiting can cause metabolic and electrolyte derangements, classically hypochloremic, hypokalemic metabolic alkalosis caused by losses of hydrochloric acid, a major component of stomach secretions. Metabolic alkalosis occurs secondary to dehydration and subsequent volume contraction plus relative excess of bicarbonate. Volume depletion also leads to activation of the renin-angiotensin-aldosterone system, which in turn stimulates kidney tubule bicarbonate reabsorption and new bicarbonate generation. Metabolic alkalosis, volume depletion, and increased concentrations of aldosterone also lead to renal potassium excretion and hypokalemia. Hypokalemia also q > ¢ https://.me/U SM LENBM E2CK S} € (2 ¢ Previous Next Score Report Lab Values Calculator Help Pause xam Section : Item 33 of 50 National Board of Medical Examin Ped ics Self-Assessmen' nonbilious emesis after feedings beginning around 3 to 6 of age and is more common in male infants. Symptoms may begin with occasional vomiting, then progress to projectile emesis after every feed, dehydration, and malnutrition as the stenosis worsens. Repeated bouts of vomiting can cause metabolic and electrolyte derangements, classically hypochloremic, hypokalemic metabolic alkalosis caused by losses of hydrochloric acid, a major component of stomach secretions. Metabolic alkalosis occurs secondary to dehydration and subsequent volume contraction plus relative excess of bicarbonate. Volume depletion also leads to activation of the renin-angiotensin-aldosterone system, which in turn stimulates kidney tubule bicarbonate reabsorption and new bicarbonate generation. Metabolic alkalosis, volume depletion, and increased concentrations of aldosterone also lead to renal potassium excretion and hypokalemia. Hypokalemia also contributes to metabolic alkalosis via transcellular exchange of extracellular sodium and protons for potassium ions. Diagnosis of pyloric stenosis is typically by abdominal ultrasonography, which shows thickened pyloric musculature, and treatment requires surgical pyloromyotomy.",
+    "incorrectExplanation": "nd E. Choice A demonstrates isolated hypochloremia. Hypochloremia most commonly occurs with metabolic alkalosis, as chloride is excreted in exchange for the reabsorption of bicarbonate in the kidney. This bicarbonate is normal, making this an incorrect profile for a patient with pyloric stenosis. Choice C demonstrates a normal basic metabolic panel. This would not be present in a patient with significant vomiting and dehydration. Choice D demonstrates an isolated metabolic alkalosis with an increased bicarbonate concentrations but normal electrolytes. As patients with pyloric stenosis lose chloride and potassium through their gastric secretions as well as their kidneys, these patients are more likely to have hypochloremia and hypokalemia associated with their metabolic alkalosis. Choice E shows evidence of dehydration with a normal bicarbonate value. This patient has increased values of sodium, potassium, and chloride, suggesting a relative lack of intravascular water and volume depletion. However, patients with pyloric stenosis, despite being dehydrated, have low concentrations of potassium and chloride because of their loss in gastric secretions and through the kidney. Educational Objective: Pyloric stenosis is caused by hypertrophy of the pyloric sphincter, leading to gastric outlet obstruction and vomiting. As it commonly presents with recurrent emesis after feedings in male children around 3 to 6 weeks of age, it is associated with hypochloremic, hypokalemic metabolic alkalosis. Diagnosis is made with abdominal ultrasonography, and treatment requires a surgical pyloromyotomy. : © € i",
+    "image": null,
+    "id": "PEDS-7-33",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 34,
+    "questionStem": "A17-year-old boy comes to the physician because of a 1-day history of swelling of his right hand. The swelling began 6 hours after he was involved in a fistfight at school the previous day. On questioning, he says he hit his opponent in the mouth and abdomen. Examination shows an erythematous, tender dorsum of the right hand. There is a small laceration over the fourth metacarpal head. Which of the following organisms are the most likely cause of this patient's symptoms?",
+    "choices": {
+      "A": "Aerobic gram-positive cocci",
+      "B": "Anaerobic gram-positive cocci",
+      "C": "Gram-negative bacilli",
+      "D": "Gram-positive bacilli"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Human bites are associated with mixed oral flora and skin flora including Staphylococcus aureus, Streptococcus pyogenes, Eikenella corrodens, and various anaerobes. Human bites may be accidental, intentional, or the result of a clenched-fist injury. When the skin barrier is interrupted, these injuries are at a high risk for infection, often with multiple organisms. Signs of superficial skin infection include tenderness at the effected site, erythema, swelling, purulent drainage, and potentially fever. Affected patients should be evaluated for the development of infection at the site of injury. In general, these wounds should be irrigated and left open due to the high risk for infection. The first-line antibiotic of choice for infected human bites is amoxicillin-clavulanate acid.",
+    "incorrectExplanation": "nd D. Aerobic gram-positive cocci (Choice A), including Staphylococcus and Streptococcus spp., along with anaerobic gram-positive cocci (Choice B), including Peptostreptococcus are commensal organisms that may be present and associated with additional oral or skin flora in a secondarily infected human bite. : q > ¢",
+    "image": null,
+    "id": "PEDS-7-34",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 35,
+    "questionStem": "A9-month-old boy is brought to the emergency department by his mother who reports that he injured his right thigh 2 hours ago when he slipped on a wet floor. Examination of Renae thigh show tentlettiess and swelling. Range of motion of the right hip is limited. An x-ray of the right lower extremity shows a spiral fracture of the femur. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "B": "Measurement of serum calcium concentration",
+      "C": "Complete blood count",
+      "D": "Bone scan of the right femur",
+      "E": "CT scan of the hip"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "This infant with a spiral femur fracture after slipping on a wet floor has a presentation concerning for child abuse. There are several “red flags” that should alert medical providers to potential child abuse, including a history inconsistent with the type of injury present, mechanism of injury inconsistent with child's physical ability (eg, 3-week-old infant rolled off the bed), and delay in presentation. Certain physical examination findings, such as retinal hemorrhages, bruises on the ears, trunk neck, and certain burn patterns (eg, circumferential hand or foot distribution, cigarette burns) should also alert the provider to potential abuse. Fractures of posterior ribs, metaphyseal corner fractures, and subdural hematomas in an infant are all suspicious imaging findings. Spiral fractures typically occur when a rotational force is applied, such as twisting of a limb. This infant has an injury that is inconsistent with the history that is given, and child protective services (CPS) should be notified immediately.",
+    "incorrectExplanation": "nd E. Measurement of serum calcium concentration (Choice B) may be useful if hypocalcemia was thought to contribute to this patient's fracture. Vitamin D deficiency can lead to hypocalcemia and rickets in children and may increase the risk for fractures. This child does not have any examination findings consistent with rickets. q > ¢",
+    "image": true,
+    "id": "PEDS-7-35",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 36,
+    "questionStem": "A2000-g (4-lb 7-0z) female newborn is jittery. She was born at 35 weeks' gestation to a 16-year-old primigravid patient. The membranes ruptured 6 hours before delivery. Her rectal re is 35.6°C (96°F). Examination shows no abnormalities except increased irritability. A he: lood glucose concentration is 35 mg/dL. After administration of glucose water, a repeat heel-stick blood glucose concentration is 40 mg/dL. Blood is drawn for a complete blood count and culture. Urinalysis and cerebrospinal fluid analysis are ordered. Which of the following is the most appropriate pharmacotherapy for this newborn?",
+    "choices": {
+      "B": "Ceftriaxone",
+      "C": "Cilastatin-imipenem",
+      "D": "Erythromycin",
+      "E": "Penicillin G and tobramycin"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "This preterm newborn presents with hypothermia and hypoglycemia, indicating neonatal sepsis. Neonatal sepsis is most commonly caused by a bacterial infection and presents with fever or hypothermia, hypoglycemia, lethargy, irritability, and poor feeding. Evaluation should include a complete blood count, blood culture, urine culture, as well as testing and culture of the cerebrospinal fluid. Common microbiological causes of neonatal sepsis include Escherichia coli, Streptococcus agalactiae (group B), and Listeria monocytogenes. Risk factors for the development of neonatal sepsis include preterm birth, low birth weight, premature rupture of membranes, and maternal infection. The most common pathogen associated with early-onset neonatal sepsis is considered to be Streptococcus (group B), but the frequency of sepsis from this has decreased through the routine use of intrapartum antibiotic therapy for mothers that test positive for it in the antepartum period. Neonatal sepsis is treated with ampicillin and gentamicin for appropriate broad-spectrum coverage.",
+    "incorrectExplanation": "nd E. q > sd https: //.me/U SM LENBME2CK & € e Ci Previous",
+    "image": null,
+    "id": "PEDS-7-36",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 37,
+    "questionStem": "A 12-year-old girl is brought to the physician for a follow-up examination. She has a 3-month history of moderate asthma. Her pulse is 90/min, respirations are 20/min, and blood pressure is 110/70 mm Hg. Examination shows diffuse expiratory wheezes bilaterally. Which of the following is the most appropriate initial pharmacotherapy for this patient?",
+    "choices": {
+      "A": "Inhaled corticosteroid daily and inhaled short-acting B-adrenergic agonist as needed",
+      "B": "Inhaled short-acting B-adrenergic agonist as needed",
+      "C": "Intramuscular long-acting corticosteroid every 2 months",
+      "D": "Oral corticosteroid daily",
+      "E": "Oral corticosteroid and oral bronchodilator daily"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Asthma, a reversible obstructive lung disease, presents with shortness of breath, cough, tachypnea, increased work of breathing, and wheezing on examination. It is often triggered by exercise, allergens, illness, and smoke. It is characterized by a reversible bronchospasm, which causes obstruction of airflow. Generally, exhalation is affected more than inhalation. The diagnosis is based on clinical history and examination, and confirmed through pulmonary function tests (PFTs), L which reveal an obstructive pattern characterized by a decrease in FEV,, decreased FEV,:FVC ratio, and preservation of FVC. Asthma can also be diagnosed based on the reversibility of bronchospasm using beta-agonists or methacholine, with PFTs demonstrating alleviated (beta-agonist) or exacerbated (methacholine) obstruction. Treatment depends on the severity of asthma but initial treatment should include low-dose inhaled corticosteroid (ICS) daily, often in combination with an inhaled short-acting B-adrenergic agonist (SABA)as needed. It is no longer recommended to treat asthma with SABA alone as it can lead to overuse and treats only the symptoms rather than the underlying disease.",
+    "incorrectExplanation": "nd E. Inhaled short-acting B-adrenergic agonist as needed (Choice B) can be included in the initial treatment regimen for patients with asthma, but should not be the only q > ¢",
+    "image": null,
+    "id": "PEDS-7-37",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 38,
+    "questionStem": "A 10-year-old girl is brought to the physician for her first well-child examination. She was recently adopted from an orphanage in Eastern Europe. Her parents were informed that she has an unrepaired congenital heart defect, but further details are not available. Growth and development are appropriate for age. Her pulse is 96/min, respirations are 24/min, and blood pressure is 102/66 mm Hg in the right upper extremity and 114/72 mm Hg in the right lower extremity. Pulse oximetry on room air shows an oxygen saturation of 93%. Cardiac examination shows a hyperdynamic precordium with a right ventricular impulse. There is a loud, narrowly split S,. A grade 2/6 early to mid-systolic murmur is heard over the lower left sternal border. The liver edge is palpated 2 cm below the right costal margin. Brachial and femoral pulses are normal. An ECG shows right ventricular hypertrophy. The most likely mechanism of this patient's condition is an increase in which of the following?",
+    "choices": {
+      "A": "Central venous pressure",
+      "B": "Left ventricular end-diastolic pressure",
+      "C": "Pulmonary vascular resistance",
+      "D": "Systemic cardiac output",
+      "E": "Systemic vascular resistance"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Ventricular septal defects (VSD) are among the most common congenital heart malformations. The genetic cause of VSDs is heterogeneous and includes known associations with well-defined syndromes such as thymic aplasia (DiGeorge), Down, or Holt-Oram syndrome. It may also occur in isolation and via nonspecific, random mutations and individual point mutations that are de novo. VSDs are characterized by a holosystolic murmur best heard in the left lower sternal border and may have an associated palpable thrill. VSDs result in a left to right shunt, which increases pulmonary blood flow. This leads to remodeling of the pulmonary vasculature and resultant smooth muscle hypertrophy. In turn, concentric narrowing of the pulmonary arterioles occurs, which results in the development of pulmonary arterial hypertension. If severe and progressive enough, this can cause increased right ventricular pressures and associated myocardial hypertrophy, which can be associated with a narrowly split So, because of the timing of closing of the pulmonary valve, right ventricular heave, and signs of right heart failure, such as lower extremity edema and hepatomegaly. This patient has evidence of right-sided hypertrophy because of increased pulmonary vascular resistance (PVR) in tha aattina af a lana atandina Iaft ta rinht ohiint If thie natianntle VCD anne tinnarractad tha inaranenad ricnht cidad nraceiurne nan eitheanciuanths lasad ta rauareal af q > ¢ https://.me/U SM LENBM E2CK S} € (2 ¢ Previous Next Score Report Lab Values Calculator Help Pause",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "PEDS-7-38",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 40,
+    "questionStem": "A 12-year-old girl with a 5-year history of type 1 diabetes mellitus is brought for a follow-up examination. Over the past 4 weeks, she has had persistent sweating, shakiness, and pallor di se concentrations continue to range between 40 and 59 mg/dL throughout the day. Her exercise regimen and dietary intake have d. Examination shows no abnormiliSerum studies show: Na* 137 mEq/L Cl- 102 mEq/L K* 4.2 mEq/L HCO, 24 mEq/L Glucose 45 mg/dL Insulin increased C peptide not detectable Glucagon increased Cortisol increased Which of the following is the most likely cause of these findings?",
+    "choices": {
+      "A": "Decreased growth hormone production",
+      "D": "Increased epinephrine production",
+      "E": "Insulin resistance"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "; qd > ¢ https://.me/U SM LENBM E2CK S} € Previous Next Score Report Lab Values Calculator",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "PEDS-7-40",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 41,
+    "questionStem": "Apreviously healthy 10-year-old girl is brought to the emergency department 2 hours after the onset of pain in her right knee. She also has had a decreased appetite for 12 hours. There is no history of trauma to the knee or hip. Her temperature is 38.9°C (102°F). Examination shows erythema, swelling, and warmth of the right knee. Passive range of motion of the knee is limited by pain; the associated muscles are in spasm. She walks with an obvious limp. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Juvenile idiopathic arthritis",
+      "B": "Osteomyelitis",
+      "C": "Septic arthritis",
+      "D": "Transient synovitis of the hip",
+      "E": "Transient synovitis of the knee"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "This patient with an erythematous, swollen, and painful knee with associated decreased range of motion has a presentation consistent with septic arthritis. Septic arthritis results from a bacterial infection of the synovial joint space, most commonly by Staphylococcus aureus, and classically presents with joint pain, worse with loading, ranging, and use, swelling, and overlying erythema. Children, immunocompromised patients, those with a history of traumatic injury to the joint, and those with existing abnormal joint anatomy (eg, rheumatoid arthritis, gout) may be more commonly affected. The mechanism of infection may be direct inoculation, hematogenous spread, or extension from a neighboring local infection (eg, osteomyelitis). Vital signs may show fever and tachycardia. Physical examination classically shows an erythematous, edematous joint with a palpable effusion, and tenderness elicited on range of motion or palpation. If direct trauma preceded the infection, a wound or laceration may be present in association with the joint findings. Laboratory analysis typically shows leukocytosis, along with increased erythrocyte sedimentation rate and C-reactive protein concentrations. Arthrocentesis is essential to diagnose septic arthritis, and to differentiate the condition from osteoarthritis and inflammatory arthropathies, such as gout and rheumatoid arthritis. Synovial fluid can also be sent for culture and Gram stain plus sensitivity testing of offending organisms, permitting targeted treatment. The leukocyte count in synovial fluid is generally greater than 50,000/mm® and predominantly neutrophilic when the infectious agent is bacterial, as in this patient. Treatment includes broad spectrum antibiotics, and often arthrocentesis with operative irrigation and q > ¢ https://.me/U SM LENBM E2CK S} € (2 ¢ Previous Next Score Report Lab Values Calculator Help Pause",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "PEDS-7-41",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 42,
+    "questionStem": "An 18-year-old woman is brought to the emergency department 1 hour after she attempted suicide by ingesting a hydrochloric acid solution. She has substernal chest pain. Her temperature is 37.6°C (99.7°F), pulse is 110/min, respirations are 20/min, and blood pressure is 135/85 mm Hg. The lungs are clear to auscultation. The abdomen is soft, nondistended, and nontender; bowel sounds are normal. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Administration of sodium bicarbonate solution",
+      "B": "Barium swallow",
+      "C": "CT scan of the chest",
+      "E": "Placement of a nasogastric tube"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Ingestion of caustic substances may occur accidentally, as is often the case in young children, or intentionally, and can cause significant damage to the esophagus and stomach. Ingestion of strong alkali contained in common household cleaning products and drain cleaner is most common, and results in liquefactive necrosis. Acid ingestion is less common and leads to coagulative necrosis. Clinical presentation varies and depends on the amount and type of substance ingested. Patients may present with oropharyngeal or epigastric pain, dysphagia, odynophagia, and drooling. If the upper respiratory tract is involved, the patient may present with stridor, hoarseness, and difficulty breathing. Early complications include esophageal or gastric perforation, and later complications may include bleeding and formation of fistulae and strictures. Initial management in the emergency department includes respiratory support, fluid resuscitation, and pain control. If there is concern for perforation, chest and abdominal CT scan should be performed immediately, in conjunction with surgical consultation. All patients should have esophagoscopy or upper endoscopy performed 12 to 48 hours after initial ingestion to assess the extent of damage and guide further management.",
+    "incorrectExplanation": "nd E. q",
+    "image": null,
+    "id": "PEDS-7-42",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 44,
+    "questionStem": "An 11-month-old boy is brought to the emergency department because of a 2-day history of fever, cough, and rash. He was born at term after an uncomplicated pregnancy and delivery. He has had frequent episodes of otitis media since birth and was hospitalized at the age of 6 months for meningitis. He is at the 10th percentile for length and 5th percentile for weight. His temperature is 39°C (102.2°F) , pulse is 140/min, respirations are 40/min, and blood pressure is 86/56 mm Hg . Examination shows an erythematous scaly rash with several weeping lesions over the trunk and extremities. There is bilateral scarring of the tympanic membranes and dried blood and crusty material in the nares. Decreased breath sounds are heard on the right. Laboratory studies show: Hemoglobin 10.3 g/dL Leukocyte count 12,400/mm3 Platelet count 75,000/mm3 An x-ray of the chest shows a right middle lobe consolidation. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Chronic granulomatous disease",
+      "B": "HIV infection",
+      "C": "Severe combined immunodeficiency",
+      "D": "Thymic-parathyroid dysplasia (DiGeorge syndrome)",
+      "E": "Wiskott-Aldrich syndrome"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Wiskott-Aldrich syndrome is caused by a mutation in the WAS gene on the X-chromosome that encodes a protein essential for actin cytoskeleton rearrangement that occurs during interactions between T lymphocytes, antigen-presenting cells, and B lymphocytes, leading to an impaired innate and adaptive immune system. The nhenotvne is variahle and natients can nresent with eczema thramhacvtanenia and infectinne with encancilated hacteria and annortiinistic nathanens q > ¢ https://.me/U SM LENBM E2CK S} € (2 ¢ Previous Next Score Report Lab Values Calculator Help Pause",
+    "incorrectExplanation": "",
+    "image": true,
+    "id": "PEDS-7-44",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 45,
+    "questionStem": "A 16-year-old boy is brought to the physician for a follow-up examination. Six months ago, he noticed a lump in his right testicle after participating in a soccer game, during which he sustained a kick to the groin. Ultrasonography 2 days later showed a cystic lesion consistent with trauma. He was advised to avoid contact sports for 2 weeks and was told that the lesion would resolve without treatment. The patient reports that since that time, the lump has increased in size and has become firm. He also reports facial acne, swelling of his breasts, stretch marks over his abdomen, and a 4.5-kg (10-Ib) weight gain despite eating no more than usual. He has not had respiratory, gastrointestinal, or urinary symptoms. He appears well. Vital signs are within normal limits. Examination shows facial acne. There are striae over the lower abdomen. A firm, fixed, 6-cm, nontender mass is palpated in the right testicle. There is no inguinal lymphadenopathy. Measurement of which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "Serum alkaline phosphatase activity",
+      "C": "Serum a-fetoprotein and B-hCG concentrations",
+      "D": "Serum prostate-specific antigen concentration",
+      "E": "Urine homovanillic—vanillyimandelic acid"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Testicular cancer most often occurs in those who were assigned male at birth, either during adolescence or before age 40 years. It presents with a painless, firm nodule in the testis, which is commonly asymptomatic, although it can also present with a dull ache in the surrounding region. Patients may report first noticing the lesion following a testicular trauma. Testicular tumors can be categorized as germ cell tumors and non-germ cell tumors. Germ cell tumors comprise most testicular cancer and include seminoma, choriocarcinoma, teratoma, yolk sac tumor, and embryonal carcinoma. Non-germ cell tumors are often sex cord-gonadal stromal tumors originating from Sertoli or Leydig cells. Risk factors for the development of germ cell tumors include cryptorchidism, family history, seminiferous tubule dysgenesis (Klinefelter syndrome), and heavy marijuana use. Laboratory evaluation will often reveal increased concentrations of LDH, a-fetoprotein, or B-hCG, the last of which can cause gynecomastia, depending on the subtype of testicular cancer. Ultrasonography is the initial step in evaluation of a palpable testicular mass. Malignant neoplasms will show a heterogeneous mass with solid or cystic components, sometimes including calcifications. Initial metastatic spread is commonly to q > ¢ https://.me/U SM LENBM E2CK S} € (2 ¢ Previous Next Score Report Lab Values Calculator Help Pause z 5 4 5 of5 c",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "PEDS-7-45",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 46,
+    "questionStem": "The mother of a 12-hour-old newborn expresses concern about the shape of his head. He was born at term after an uncomplicated pregnancy. The second stage of labor was 18 hours and low forceps were used to complete delivery. Apgar scores were 8 and 9 at 1 and 5 minutes, respectively. His temperature is 36.8°C (98.2°F), pulse is 128/min, and respirations are 32a Ic. Examination shows prominent molding of the head. There is a boggy 5 x 7-cm area of swelling that extends across the sagittal suture from the right parieto-occipital area to the left parietal area. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "B": "Cephalhematoma",
+      "C": "Epidural hematoma",
+      "D": "Intracerebral hematoma",
+      "E": "Subdural hematoma"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Caput succedaneum is a benign condition that is caused by peripartum trauma to the infant's scalp. It is characterized by the development of edema and/or a hematoma in the subcutaneous tissues of the scalp above the galea. Because it is above the periosteum, it will cross suture lines. Presentation is typically during delivery or shortly thereafter. Physical exam will demonstrate a boggy or fluctuant area of soft tissue swelling that crosses sutures lines and can cross the midline. Caput succedaneum is usually self-limited and often resolves within 48 hours.",
+    "incorrectExplanation": "nd E. Cephalhematomas (Choice B) are traumatic subperiosteal hematomas that can occur with routine vaginal deliveries or those assisted by vacuum or forceps. They present several hours after birth with firm or fluctuant nontender scalp swelling that does not cross suture lines (limited to one cranial bone). They are usually self- limited and resorb spontaneously within 2 weeks to 3 months but can develop complications, including calcification of the hematoma with prolonged bony swelling and cranial deformities, infection, and osteomyelitis. Unconjugated hyperbilirubinemia can occur due to the resorption of extravasated blood products. q > ¢",
+    "image": null,
+    "id": "PEDS-7-46",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 47,
+    "questionStem": "A3-year-old boy is brought to the physician by his parents because of a bowleg deformity that has become more noticeable during the past year. He was adopted at the age of 8 months. The birth parents were told that he had hypotonia as a newborn, but no other medical history was provided. He sat upright at the age of 12 months and walked at the age of 24 months. He is at the 3rd percentile for height and 20th percentile for ‘ot Examination shows frontal bossing and a small nasal bridge, a normal trunk, short limbs, and increased lumbar lordosis. There is genu varum of aie SLRoOan or the Knees 1S NIN aNa eras HO NGRP ERS. X-rays of the lower extremities show metaphyseal flaring, inverted V-shape distal femoral physis, and a disproportionately long fibula. The most likely explanation for these findings is a defect of which of the following?",
+    "choices": {
+      "A": "Cartilage oligometric matrix protein",
+      "C": "Sulfate transport protein",
+      "D": "Type 1 collagen",
+      "E": "Type 2 collagen"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Achondroplasia is most commonly associated with mutation in the fibroblast growth factor (FGF) 3 gene. This mutation in the FGF3 gene causes constitutive activation and downstream effects including inhibition of endochondral ossification required for the development of long bones. Patients with achondroplasia present with macrocephaly with frontal bossing and a depressed nasal bridge, short stature secondary to decreased length of the upper and lower limbs, varus deformity, and hypotonia in infancy. Diagnosis is made based on clinical and radiologic findings. Most gene mutations are spontaneous in origin, although patients pass down the mutation in an autosomal dominant pattern.",
+    "incorrectExplanation": "nd E. Cartilage oligometric matrix protein (Choice A) is an extracellular matrix protein present in cartilage and may be used as a marker for cartilage turnover. This gene is . q > ¢",
+    "image": null,
+    "id": "PEDS-7-47",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 49,
+    "questionStem": "A 15-year-old girl is brought to the physician because of a 1-week history of constant severe abdominal pain. During the past year, she has had 10 episodes of cramps; each episode lasts 3 to 5 days. She has no history of serious illness and takes no medications. She has never had a menstrual period. She is sexually active with one male partner and uses condoms inconsistently. She is at the 80th percentile for height and weight. Her temperature is 37.8°C (100°F), pulse is 120/min, respirations are 16/min, and blood pressure is 90/50 mm Hg. Breast and genital development is sexual maturity rating stage 5. Abdominal examination shows moderate tenderness. A mass is palpated in the suprapubic ric BSE Te THN TOSoo 2 GT RRR SORETTEUAISE ‘ernal genitalia and lower vagina. The cervix cannot be visualized because of bluish bulging vaginal tissue that obscures the upper vagina. Which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "Karyotype analysis",
+      "B": "Urine culture",
+      "C": "Intravenous pyelography",
+      "E": "Laparoscopy"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "A transverse vaginal septum may occur when there is failure of canalization of the vaginal canal, preventing the excretion of menstrual blood. A transverse vaginal septum presents with primary amenorrhea, cyclic pelvic pain, and a bulging pelvic mass in an adolescent with otherwise normal sexual development. Significant accumulation of menstrual blood products may give the bulging septum a blue appearance that is present on physical examination, a condition known as hematocolpos. Diagnosis is made by pelvic ultrasonography. A transverse vaginal septum is treated with transvaginal incision and drainage with resection of the septum and evacuation of the accumulated blood.",
+    "incorrectExplanation": "nd E. q > ¢",
+    "image": null,
+    "id": "PEDS-7-49",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 50,
+    "questionStem": "A14-month-old girl is brought to the physician because of intermittent vomiting for 12 hours. During this period, her playing and sleeping have been interrupted by episodes of crying and fretfulness that last 20-30 minutes. Over the past hour she has had two bowel movements, one containing blood. Examination shows no abdominal distention. A noncontrast x-ray of the abdomen shows no evidence of bowel obstruction. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Appendicitis",
+      "B": "Dysentery",
+      "D": "Viral gastroenteritis",
+      "E": "Volvulus"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Intussusception occurs when a segment of bowel telescopes into an adjacent segment, resulting in colicky abdominal pain, nausea, vomiting, and potentially bloody, mucoid stools. Classically, it presents in an infant or young child with recurrent episodes of severe abdominal pain often punctuated by asymptomatic periods. Intussusception typically occurs because of the presence of a pathologic lead point, often lymphoid hyperplasia, lymphadenopathy, Meckel diverticulum, stricture, or malignancy, which acts to draw one segment of bowel into an adjacent segment during peristalsis. If the intussusception self-resolves, there may be no symptoms. If it does not resolve, traction on mesenteric vessels can result in hypoperfusion of the segment with resultant inflammation, hemorrhage, obstruction, and pain. It may be detected on physical examination as an elongated mass, often in the right upper quadrant. Diagnosis consists of clinical history and physical examination and is supported by imaging. Ultrasound evaluation is preferred in young children and will show telescoping interposed bowel segments in longitudinal orientation, or a targetoid appearance in transverse orientation. A contrast enema can also show intussusception with appearance of a mass prolapsing into the lumen and an inability of the contrast to reach the proximal bowel. Treatment of an ileocolic intussusception requires the administration of a contrast enema, which reduces the intussusception. Contrast enema is both diagnostic and therapeutic in this setting. Surgery may be required in cases where there is repetitive failure of the enema to reduce the intussusception or if the patient has symptoms concerning for bowel necrosis or perforation. q > ¢ https://.me/U SM LENBM E2CK S} € (2 ¢ Previous Next Score Report Lab Values Calculator Help Pause",
+    "incorrectExplanation": "",
+    "image": true,
+    "id": "PEDS-7-50",
+    "section": "PEDS",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  }
+]

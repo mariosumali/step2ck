@@ -1,0 +1,778 @@
+[
+  {
+    "questionNumber": 1,
+    "questionStem": ") A2-year-old girl is brought to the office by her mother for'a follow-tip examination, Five days ago, she completed a 10-day course of amoxicillin for acute otitis media of the right ear. She has had three episodes of otitis media during the past year. She is not allergic (oS SRRA EASED ETRE tions are up-to-date. Growth and development are appropriate for age. On examination, the tympanic membranes are pearly gray and retracted; there is decreased mobility bilaterally. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Adenoidectomy",
+      "B": "Amoxicillin therapy",
+      "C": "Cefdinir therapy",
+      "D": "Prednisone therapy"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Otitis media with effusion (OME) is suggested by the presence of a middle ear effusion in the absence of signs of acute otitis media. Eustachian tube obstruction or dysfunction leads to the accumulation of serous fluid within the middle ear. Such dysfunction is common in the setting of an upper respiratory tract infection due to the inflammation of the nasal mucosa occluding the ostium of the eustachian tube, or as a sequela following acute otitis media. Fluid accumulation typically presents with hearing loss, ear tugging, or vertigo. Patients with OME lack findings of fever, tympanic membrane erythema, or retrotympanic pus, which are commonly found in acute otitis media. Treatment is supportive, as the condition is usually self-limited.",
+    "incorrectExplanation": "nd D. Adenoidectomy (Choice A) may be used in combination with tympanostomy for children with severe or persistent cases of OME. Surgical intervention is not indicated for this patient who presents with OME for several days, which will most likely resolve spontaneously. @ - > ri",
+    "image": null,
+    "id": "PEDS-8-1",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 2,
+    "questionStem": "A6-year-old girl is brought to the office by her mother béeaisé Of Compulsive eating since the age of 3 yéars!|Shé was born following an uncomplicated pregnancy; delivery was complicated by breech presentation. During infancy, the patient had hypotonia. She began walking at the age of 2 years and talking at the age of 2% years. The patient lives with her mother and older sister. She is at the 52nd percentile for height and 98th percentile for weight. , respirations are 20/min, and blood pressure is 86/50 mm Hg. Physical examination shows almond-shaped eyes and a prominent nasal bridge. Examination of the extremities shows hypotonia. Mental status examination shows delayed speech and motor development. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Angelman syndrome",
+      "B": "Down syndrome",
+      "C": "Fetal alcohol syndrome",
+      "E": "Rett disorder",
+      "F": "Williams syndrome"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Prader-Willi syndrome is a rare genetic disease caused by the lack of expression of paternal genes in the chromosome region 15q11-13. It is inherited in a sporadic pattern and may result from mutations or deletions in the paternal alleles, errors in the genetic imprinting of these alleles, or their complete absence in the case of maternal uniparental disomy. The syndrome has several characteristic features. Hypotonia is common and can lead to abnormal uterine position of the fetus and complicated labor, as well as feeding difficulties and failure to thrive in infancy. Developmental delays, intellectual disability, and disruptive behavioral patterns are commonly observed. It is associated with growth hormone deficiency and short stature. Hyperphagia and obesity are also hallmark manifestations of Prader-Willi syndrome. Individuals tend to have distinct facies with almond-shaped eyes, strabismus, and a wide, flattened nasal bridge. The prognosis is good, as patients tend to do well into adulthood. 4 ne @ - > ri https://.me/U SM LENBM E2CK Previous Next Score Report Lab Values Calculator Help Pause",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "PEDS-8-2",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 3,
+    "questionStem": "Five minutes after delivery, a full-term newborn shows peripheral cyanosis, decreased muscle tone, and decreased reflex activity. His pulse is 80/min, and respirations are irregular. Which of the following is the most likely Apgar score?",
+    "choices": {
+      "A": "0-1",
+      "B": "2-3",
+      "D": "7-8",
+      "E": "9-10"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Apgar scoring is performed at 1 and 5 minutes after birth to assess the status of the newborn and need for possible resuscitation. The Apgar score consists of points given in five different categories (appearance, pulse, grimace or reflex irritability, activity/muscle tone, and respiratory effort) summed together to compute the Apgar score. Each category is given 0, 1, or 2 points, with 0 points for absent function, 1 for diminished or irregular function, and 2 for a normal, expected presentation. Newborns with lower scores, especially below 7, may require further evaluation and/or intervention. This patient would receive a score of 1 for peripheral cyanosis, 1 for decreased muscle tone, 1 for decreased reflex activity, 1 for pulse less than 100/min, and 1 for irregular respirations, totaling an Apgar score of 5. This indicates the potential need for further resuscitation. Apgar scores are not necessarily associated with later functional or developmental abnormalities.",
+    "incorrectExplanation": "nd E. An Apgar score of 0-1 (Choice A) or 2-3 (Choice B) would require extreme deficiency in several assessed categories (absent pulse, general cyanosis, absent muscle tone, absent respirations, and/or no response to stimulation). This patient has objective, scorable neonatal Apgar features, even if they are suboptimal. An Apgar score of 7-8 (Choice D) or 9-10 (Choice E) would be more reassuring but would require the newborn to have a pink acyanotic appearance, pulse greater than 100/min, active response to stimulation, normal muscle tone with active movement, or a vigorous cry. - G € f © ¢",
+    "image": null,
+    "id": "PEDS-8-3",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 4,
+    "questionStem": "An asymptomatic 14-year-old boy is brought for a well-child examination. He has had a murmur since 4 years of age. A grade 2/6 pet es cee in 1/6, early diastolic murmur at the midleft sternal border are heard. Echocardiography shows a bicuspid aortic valve with mild gradient. For which of the following conditions is this patient at greatest risk during childhood?",
+    "choices": {
+      "B": "Brain abscess",
+      "C": "Congestive heart failure",
+      "D": "Dissecting aortic aneurysm",
+      "E": "Syncope"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Bicuspid aortic valves may be inherited or sporadic. As a result of their geometry and abnormal leaflet excursion, they are subject to more blood flow turbulence (generating the murmur) and shear forces. This leads to increased local tissue inflammation and calcification compared with trileaflet valves. Bicuspid valves are more prone to the development of early aortic stenosis or aortic regurgitation. Abnormal valve architecture can also present a nidus for infection; hence, patients are at increased risk for bacterial endocarditis. There is also a small risk for systemic thromboembolic disease from clots that form on the valve. Congenital and hereditary conditions associated with bicuspid aortic valves include Turner syndrome, Marfan syndrome, Ehlers-Danlos syndrome, coarctation of the aorta, patent ductus arteriosus, and ventricular septal defects.",
+    "incorrectExplanation": "nd E. Brain abscess (Choice B) is a potential complication of infective endocarditis due to septic emboli. A bicuspid aortic valve is not a direct risk factor for brain abscess. Conaestive heart failure (Choice C) is a lona-term comolication of an untreated bicusnid aortic valve that mav result due to chronically increased left ventricle fa eC 4 a q Cc ¢€",
+    "image": null,
+    "id": "PEDS-8-4",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 6,
+    "questionStem": "Apreviously healthy 6-year-old girl is brought to the physician in June because of a 4-day history of persistent fever and severe headache and a 1-day history of rash over her hands. She lives in a rural area and is frequently bitten by mosquitoes. One month ago, she was treated with corticosteroids for poison ivy. She appears ill. Her temperature is 39°C (102.2°F), pulse is 110/min, and respirations are 22/min. Examination shows bilateral, nonpurulent conjunctival injections and scattered petechial lesions over the palms and distal aspect of the upper extremities. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Dengue fever",
+      "B": "Erysipelas",
+      "C": "Erythema infectiosum (fifth disease)",
+      "D": "Exanthema subitum",
+      "E": "Measles",
+      "G": "Mucocutaneous lymph node syndrome (Kawasaki disease)",
+      "H": "Rocky Mountain spotted fever"
+    },
+    "correctAnswer": "H",
+    "correctExplanation": "Rocky Mountain spotted fever is a tick-borne disease caused by Rickettsia rickettsii, which are gram-negative, obligate intracellular organisms. These organisms target endothelial cells, triggering vascular injury and permeability. This illness is most common in the early spring and summer, following a tick bite in an endemic area (eg, Mid-Atlantic/Southeastern United States). Incubation occurs 2 to 14 days after exposure and manifestations include fever, headache, and petechial rash. Other manifestations include conjunctivitis, seizures, encephalitis, acute respiratory distress syndrome, cardiac arrhythmias, and coagulopathy. Laboratory testing ~ 4 ne @ - > ri https://.me/U SM LENBM E2CK Previous Next Score Report Lab Values Calculator Help Pause",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "PEDS-8-6",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 7,
+    "questionStem": "A4-year-old boy is brought to the office for a well-child visit. He can imitate a straight line, but he cannot copy a circle. He combines words, and only half his speech can be understood. He can jump but cannot balance on one foot. Physical examination shows no abnormalities. Which of the following is the most accurate assessment of this patient's development? Gross Fine Language Motor Development Motor Development Development",
+    "choices": {
+      "C": "Delayed delayed",
+      "E": "Normal delayed delayed",
+      "G": "Normal normal delayed"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Screening for developmental milestone achievement is an important element of the pediatric well-child examination. Gross motor, fine motor, cognitive, social, and language milestones should be evaluated. This patient has a presentation consistent with global developmental delay, defined as significant delay in two or more domains of development. By age 4 years, most children can draw a stick figure, speak in full sentences that can be understood by others, hop on one foot, and play cooperatively with friends. Patients who are delayed in meeting developmental milestones should be evaluated for underlying causes and referred for early - G eC > f Lab Values Calculator Help Pause Cc ¢€ https://Lme/U SM LEN BME2CK Previous Next Score Report",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "PEDS-8-7",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 9,
+    "questionStem": "A3-month-old boy is brought to the emergency department because of a 3-day history of pale complexion, low-grade fever, vomiting, occasional diarrhea, and poor feeding. On arrival, he appears mildly dehydrated and cyanotic. His temperature is 37.8°C (100°F), pulse is 165/min, respirations are 35/min, and blood pressure is 80/48 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 85%. A grade 3/6, harsh systolic ejection murmur is heard over the entire precordium. Perfusion and muscle tone are normal. During attempts to insert an intravenous catheter, the patient begins to cry and becomes agitated. His oxygen saturation decreases to 60%, and the murmur becomes barely audible. Supplemental oxygen is administered. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Atrial septal defect",
+      "B": "Coarctation of the aorta",
+      "C": "Pulmonary stenosis",
+      "D": "Tetralogy of Fallot",
+      "E": "Ventricular septal defect"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Tetralogy of Fallot is the most likely diagnosis in this patient with paroxysmal cyanosis during crying spells and a 3/6 systolic ejection murmur on examination. Tetralogy of Fallot consists of pulmonary infundibular stenosis, overriding aorta, ventricular septal defect (VSD), and right ventricular hypertrophy, resulting in a right- to-left shunt with cyanosis first noted in infancy. Right ventricular outflow tract (RVOT) obstruction eventually leads to right ventricular hypertrophy. The murmur heard with Tetralogy of Fallot, which is typically a holosystolic murmur best heard in the left lower sternal border, is caused by RVOT obstruction, not as often by the VSD. Paroxysmal cyanosis that occurs during periods of crying is a classic presentation and these episodes are referred to as “tet” spells. Patients during one of these spells often exhibit rapid, deep breathing, agitation, and progressive cyanosis. These periods of cyanosis occur as a result of transient obstruction or occlusion of the RVOT leading to decreased blood flow through the pulmonary circulation, although the cause of the underlying transient obstruction is unclear. Treatment of tetralogy of Fallot is with surgical correction. Surgery aims to relieve the RVOT obstruction, close the VSD, and separate the pulmonary and systemic circulation. Surgery is usually performed in the first 6 months of life and almost always within the first year. 4 ne @ FG) https://.me/U SM LENBM E2CK Previous Next Score Report Lab Values Calculator",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "PEDS-8-9",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 10,
+    "questionStem": "A5-day-old boy of Mediterranean descent is brought to the physician because of a 2-day history of progressive jaundice. He has had five yellow, seedy stools daily during this period. He was born at term to a 32-year-old primigravid woman. During the third trimester, his mother took an old prescription of sulfamethoxazole for cystitis without consulting the physician. The blood group of the mother and the newborn is O, Rh-positive. He receives 2 ounces of a cow's milk-based formula every 2 hours. Examination shows no abnormalities except for jaundice from the head to the upper thighs. His hematocrit is 33%, and total serum bilirubin concentration is 20 mg/dL with a direct component of 0.9 mg/dL. Direct and indirect antiglobulin (Coombs) tests are negative. Which of the following is the most likely explanation for this patient's jaundice?",
+    "choices": {
+      "A": "Dehydration",
+      "B": "Enzyme deficiency",
+      "C": "Milk protein allergy",
+      "D": "Physiologic jaundice",
+      "E": "Sepsis"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Neonatal jaundice is defined as an increased bilirubin (>5 mg/dL) that results from either increased hemolysis (bilirubin generation) or decreased bilirubin conjugation or excretion. Hyperbilirubinemia can be divided into direct and indirect forms in which either conjugated or unconjugated bilirubin accumulate, respectively. It can also be divided into physiologic and pathologic forms. This patient has anemia and an indirect (unconjugated) hyperbilirubinemia that has presented in the first few days of life, suggesting a pathologic hemolytic process. The differential includes immune-mediated hemolysis, inherited erythrocyte membrane defects, and erythrocyte enzyme deficiencies. For this patient with a negative Coombs test and Mediterranean background, the most likely cause of his unconjugated hyperbilirubinemia is deficiency of the enzyme glucose-6-phosphate dehydrogenase (G6PD). G6PD is an enzyme in erythrocytes that makes NADPH from NADP+. An inadequate supply of NADPH leads to decreased concentrations of glutathione, which is a critical scavenger of reactive oxygen species within erythrocytes. Increased oxidative stress, which can occur with exposure to sulfa-containing compounds, results in hemolysis. . G € Pa © q Cc ¢€ https://Lme/U SM LEN BME2CK Previous Next Score Report Lab Values Calculator Help Pause",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "PEDS-8-10",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 11,
+    "questionStem": "AT-year-old boy is brought to the physician for a follow-up examination 3 weeks after a nail punctured his right foot through his shoe. The wound was thoroughly cleaned and bandaged, but he continues to have moderate pain at the site. The patient received the tetanus vaccine at age 5 years and is aitiobwias héalthy Hie Wanelatatins BO7.22C ATEN eer UL signs are within normal limits. Examination of the wound site shows erythema and warmth of the overlying skin with tenderness to palpation. Which of the following is the most likely causal organism?",
+    "choices": {
+      "A": "Aeromonas hydrophila",
+      "B": "Group A streptococcus",
+      "C": "Klebsiella pneumoniae",
+      "E": "Staphylococcus aureus"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Osteomyelitis may occur from hematogenous spreading from adjacent skin and soft tissue infection, or direct inoculation in the case of trauma. Osteomyelitis clinically presents with pain at the site, erythema, tenderness to palpation, swelling, decreased range of motion, and fever. Pseudomonas aeruginosa is an aerobic, oxidase positive, gram-negative bacteria that is associated with hospital acquired infections, as well as osteomyelitis following a puncture wound (classically through an athletic shoe). Patients who suffer puncture wounds and diabetic patients are at the highest risk for Pseudomonas-associated osteomyelitis. X-ray or MRI may be used to identify osteomyelitis, although MRI is more sensitive, and patients should undergo operative debridement to remove necrotic tissue, cultures to identify the organism, and be initiated on empiric antibiotic coverage.",
+    "incorrectExplanation": "nd E. Aeramnonas hvdranhila (Choice A\\ is a aram-nenative anaernhic hacteria nresent in water These araaniems mav catise diarrhea annnartiinistic infectinne in a Gl eC i> q Cc",
+    "image": null,
+    "id": "PEDS-8-11",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 12,
+    "questionStem": "A 16-year-old girl is brought to the physician by her mother because she has not yet had a menstrual period. She has no history of serious illness and takes no medications. She appears in no distress. She is 170 cm (5 ft 7 in) tall and weighs 54 kg (120 Ib); BMI is 19 kg/m2 Breast development is sexual matt aig aie saad ei RA @RINCIHGRE DUBE hair development. Pelvic examination shows normal external female genitalia. The cervix is not visible, and no pelvic masses are palpable. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Follow-up examination in 6 months",
+      "C": "Measurement of serum estrogen concentration",
+      "D": "MRI of the pituitary gland",
+      "E": "Estrogen therapy"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Androgen insensitivity syndrome is caused by a defect in the androgen receptor complex resulting in a genotypic 46,XY person developing phenotypic female or atypical genitalia and female secondary sexual characteristics. Testes are present and produce testosterone normally, but the absence of a functioning androgen receptor prevents hormone binding and thereby prevents the development of secondary male sexual characteristics. Patients present with female external genitalia, scant pubic and axillary hair, absent uterus and fallopian tubes, and a rudimentary vagina. Menses does not occur because of the lack of cyclic progesterone and estrogen, and the lack of a functional uterus with endometrial lining. Patients show increased concentrations of testosterone, estrogen, and luteinizing hormone on laboratory evaluation. Diagnosis is made with karyotype analysis showing XY chromosomes in a patient with phenotypically female characteristics.",
+    "incorrectExplanation": "nd E. A follow-up examination in 6 months (Choice A) would be inappropriate as early recognition and diagnosis of androgen insensitivity syndrome promotes clinical interventinn where nasscihle Additinnally evaliuatinn far caices of nrimary amenorrhea is nenerally indicated if menarche has nat accirred at ar hefnre ane 1h vears ~ ne @ FG) - > ri",
+    "image": null,
+    "id": "PEDS-8-12",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 13,
+    "questionStem": "A 14-year-old girl is brought to the physician because of dark-colored urine for 5 days and a facial rash for 1 day. She has a history of diffuse joint pain treated with acetaminophen. Her blood pressure is 115/70 mm Hg. She appears pale and thin. Examination shows a prominent, erythematous, butterfly- shaped macular eruption over the face. Which of the following laboratory findings is most likely to be decreased?",
+    "choices": {
+      "A": "Eosinophil count",
+      "B": "Factor D",
+      "C": "Factor P",
+      "E": "Serum C9 concentration"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Systemic lupus erythematosus (SLE) is an autoimmune disorder with a wide range of presentations. Cutaneous manifestations include an erythematous rash over the malar cheeks that spares the nasolabial folds after sun exposure or discoid lesions with hyperpigmented edges and pink, atrophic centers. Painless oral ulcers and nonspecific hair loss may also occur. Fatigue, joint pain, and fever are also common presenting signs. Lupus nephritis is a common complication of SLE, particularly in younger women. Patients with lupus nephritis typically present with evidence of active SLE and may additionally display oliguria or anuria, signs and symptoms of hypertension (eg, headache, visual disturbance), uremia (eg, fatigue, nausea, vomiting, pruritus, altered mental status), hyperkalemia (eg, peaked T waves on ECG), and hypervolemia with peripheral edema. Lupus nephritis involves glomerular deposition of antibodies, including IgG, IgM, and IgA, as well as activation of the classical complement pathway. Laboratory studies therefore generally show hypocomplementemia with decreased serum concentrations of early classical pathway components such as C1q, C2, C3, C4, and CHS50, as well as increased creatinine. Kidney biopsy is useful for disease staging and may show a range of histologic patterns from mesangial glomerulonephritis to diffuse proliferative or membranous glomerulonephritis.",
+    "incorrectExplanation": "nd E. 4 ne @ FG) -",
+    "image": null,
+    "id": "PEDS-8-13",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 14,
+    "questionStem": "A9-year-old boy is brought to the emergency department by paramedics 20 minutes after the sudden onset of severe shortness of breath after walking up a flight of steps. He has had similar episodes over the past 12 weeks. En route, administration of 40% oxygen by face mask did not relieve his symptoms. He appears anxious and restless. His temperature is 37°C (98.6°F), pulse is 110/min, respirations are 30/min, and blood pressure is 110/60 mm Hg. Faint expiratory wheezing is heard. Breath sounds are distant bilaterally. Which of the following is the most likely underlying mechanism of this patient's condition?",
+    "choices": {
+      "A": "Activation of alveolar macrophages",
+      "B": "Activation of mast cells",
+      "C": "Increased neutrophil-endothelial cell adhesion",
+      "D": "Increased pulmonary capillary hydrostatic pressure",
+      "E": "Increased pulmonary vascular resistance"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "This patient's presenting signs and symptoms of exertional-induced wheezing, chest tightness, dyspnea, and tachypnea are suggestive of an asthma exacerbation. Asthma is characterized by the reversible obstruction to airflow caused by spasm of smooth muscle in the bronchi and small airways. It is often triggered by an allergen (eg, smoke, pollen), exercise, or temperature change. In the case of allergen-induced asthma, bronchoconstriction is triggered by IgE-mediated activation of mast cells, followed by degranulation and histamine release. Such mast cell activation is classified as a type | hypersensitivity reaction. These reactions are composed of two phases, the immediate and the late phase. In the immediate phase, preformed IgE on the surface of mast cells and basophils is crosslinked by an antigen leading to their degranulation and release of histamine, which results in vasodilation, vascular permeability, and bronchoconstriction among other effects. The late phase occurs hours after the initial insult and is mediated by the release of prostaglandins and leukotrienes synthesized by the mast cells. Treatment for asthma depends on the classification (intermittent, mild/moderate/severe persistent). In the case of exacerbations triqgered by allergens, agents that act on mast - Cc ¢€ https://Lme/U SM LEN BME2CK @ € C Previous Next Score Report Lab Values Calculator Help Pause",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "PEDS-8-14",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 15,
+    "questionStem": "An 8-day-old newborn is brought to the emergency department 10 minutes after she developed weakness and stopped breathing while being bottle-fed. On arrival, she is intubated and stabilized. During stabilization, she has a 3-minute episode of bicycling movements of the lower extremities and deviation of the eyes to the left. Phenobarbital is administered. Her pulse is 160/m tion shows poor response to stimulation and decreased muscle tone. Deep tendon reflexes are brisk. Babinski sign nt bilaterally. A lumbar puncture is performed. Cerebrospinal fluid analysis shows: Glucose 55 mg/dL Protein 65 mg/dL Erythrocyte count 350/mm3 Leukocyte count 70/mm? Segmented neutrophils 20% Lymphocytes 80% Treatment with antibiotics is begun, and she is admitted to the intensive care unit. Which of the following is the most likely causal organism?",
+    "choices": {
+      "A": "Cytomegalovirus",
+      "B": "Escherichia coli",
+      "C": "Group B streptococcus",
+      "E": "Toxoplasma gondii"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "4 ne @ - > ri https://.me/U SM LENBM E2CK Previous Next Score Report Lab Values Calculator Help Pause",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "PEDS-8-15",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 16,
+    "questionStem": "Apreviously healthy 10-month-old boy is brought to the emergency department because of a 3-day history of profuse watery diarrhea, frequent vomiting, and poor feeding. He usually breast-feeds well but refused all feedings today. Growth and development are appropriate for age. He appears tattiatgies His EEE ications are 48/min, and blood pressure is 68/54 mm Hg. Examination shows mild abdominal distention. Capillary refill time is 4 seconds. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Oral rehydration",
+      "B": "Continuous infusion of fluids at maintenance doses",
+      "C": "Intravenous administration of dopamine",
+      "D": "Intravenous administration of fresh frozen plasma"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "This infant with a recent gastrointestinal illness has a presentation consistent with dehydration. Dehydration is categorized as mild, moderate, or severe, based on the presenting signs and symptoms. Patients with mild dehydration will present with normal vital signs as well as normal mental status and urine output. Patients with moderate to severe dehydration may present with tachycardia, tachypnea, hypotension, delayed capillary refill, lethargy, sunken fontanelles, and decreased urine output. Patients with moderate to severe dehydration should receive an initial bolus of 20 cc/kg of intravenous crystalloid (eg, normal saline, lactated ringers) for volume expansion. Patients with severe dehydration and hypovolemic shock can quickly decompensate and progress to cardiovascular collapse if not adequately resuscitated, and therefore, should be frequently re-evaluated with additional fluid boluses given if needed.",
+    "incorrectExplanation": "nd D. Oral rehydration (Choice A) is appropriate in cases of mild dehydration in a child that is tolerating oral intake. This patient, with vomiting, poor feeding, and signs of mare cinnificant dehvdratinn needs annranriate reciiccitatinn with intravenaiis ervetallaid ne @ FG) - > ri",
+    "image": null,
+    "id": "PEDS-8-16",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 18,
+    "questionStem": "An 18-month-old boy is brought to the emergency department because of a 2-day history of increasingly rapid breathing and irritability. Two months ago, he had a high-grade fever, \"pink eye,\" red swollen hands, enlarged lymph nodes, and cracked red lips; these symptoms resolved spontaneously within 14 days. He is in obvious discomfort. His temperature is 38°C (100.4°F), pulse is 150/min, respirations are 60/min, and blood pressure is 60/40 mm Hg. Examination shows no other abnormalities. An x-ray of the chest shows cardiomegaly. An ECG shows right-axis deviation, left ventricular hypertrophy, and ST-segment depression in leads II and III. Which of the following is the most likely mechanism of this patient's tachypnea?",
+    "choices": {
+      "A": "Chronic inflammatory interstitial lung disease",
+      "B": "Congestive heart failure",
+      "C": "Mitral valve obstruction",
+      "D": "Pericardial effusion",
+      "E": "Thickened internal layer of pulmonary arterioles"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "This patient's prior illness and current presentation are highly concerning for congestive heart failure caused by mucocutaneous lymph node syndrome (Kawasaki disease). Kawasaki disease is a multisystem vasculitis in children characterized by fever for at least 5 days, bilateral nonexudative conjunctivitis, a polymorphous rash, lymphadenopathy, erythema and edema of the hands and feet, and erythema affecting the mucous membranes with dry, cracked lips. To diagnose Kawasaki disease, fever for 5 days or more plus four of the remaining criteria are required. Laboratory studies may show thrombocytosis and increased ESR. Complications of Kawasaki disease include coronary artery aneurysms, and, if untreated, can lead to aneurysmal expansion, rupture, myocardial infarction, and/or congestive heart failure. Therefore, children suspected of having Kawasaki disease require immediate evaluation with ECG and echocardiography, treatment, and monitoring for progression or complications. Treatment of Kawasaki disease involves high-dose aspirin and intravenous immunoglobulin, and is the only widely accepted indication for aspirin use in febrile children due to the risk for Reye syndrome. Kawasaki disease is one of the most common pediatric vasculitides and a cause of pediatric heart disease. (3) q Cc ¢€ https://Lme/U SM LEN BME2CK Previous Next Score Report Lab Values Calculator",
+    "incorrectExplanation": "",
+    "image": true,
+    "id": "PEDS-8-18",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 19,
+    "questionStem": "A12-year-old boy is brought to the office because of a 2-day history of severe bilateral calf pain. One week ago, he had a dry cough, sore throat, = headache, and fever, which resolved with ibuprofen therapy after 5 days. Currently, he is not taking any medications. His temperature is 37°C (98.6°F). Examination shows marked tenderness to palpation of the calves. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "B": "Influenza-induced myositis",
+      "C": "Mucocutaneous lymph node syndrome (Kawasaki disease)",
+      "D": "Parvovirus B19-induced arthritis",
+      "E": "Rheumatic fever"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Influenza-induced myositis is a common cause of viral induced myositis and triggered by influenza A or influenza B infection. Most patients report associated viral symptoms such as fever, anorexia, and arthralgias. Myositis may occur during active infection or after the infection, and symptoms include myalgias and tenderness. Additional symptoms range from mild weakness to quadriparesis, in addition to rhabdomyolysis. Laboratory analysis may show increased creatinine kinase activity, in addition to myoglobinuria. Testing for influenza virus is diagnostic for influenza-induced myositis in the setting of appropriate signs and symptoms plus additional supporting laboratory features.",
+    "incorrectExplanation": "nd E. Dermatomyositis (Choice A) presents with cutaneous and musculoskeletal manifestations. Cutaneous findings include a heliotrope rash, Gottron papules overlying the joints of the dorsal hands, and a rash in a shawl distribution. Musculoskeletal findings include proximal muscle weakness in the upper and lower extremities. Diagnosis is made with a combination of clinical findings and serologic testing, including antinuclear antibody, anti-Jo-1, anti-SRP, and anti-Mi-2 antibodies. Patients diagnosed with dermatomyositis should undergo further workup including age-appropriate cancer screening to rule out an underlying occult malignancy. G € Pa © Cc ¢€",
+    "image": null,
+    "id": "PEDS-8-19",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 20,
+    "questionStem": "A12-month-old girl is scheduled for discharge 7 days after adm treatment with intravenous antibiotics. This is her third admission to the hospital for treatment of st 9 months. She has received no immunizations. Examination shows no abnormalities. Serum studies show a decreased T-lymphi dditional serum studies show: IgA 50 mg/dL (N=11—106) IgG 200 mg/dL (N=172-1069) IgM 50 mg/dL (N=41-173) CD4+ T-lymphocyte count 100/mm3(N21000) Which of the following vaccines should be administered at this time?",
+    "choices": {
+      "A": "BCG",
+      "C": "Rotavirus",
+      "D": "Varicella",
+      "E": "No vaccines can be safely administered"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "T-lymphocyte function is an essential component of host defense and is impaired in this patient, leading to recurrent bacterial infections. Haemophilus influenzae type b is an encapsulated gram-negative bacterium that can result in various mucosal infections, such as conjunctivitis, otitis media, bronchitis, and pneumonia. It was the leading cause of epiglottitis in children prior to widespread immunization. The Haemophilus influenzae type b vaccination uses conjugated capsular https://Lme/U SM LEN BME2CK @ é € C 4 ne @ Previous Next Score Report Lab Values Calculator Help Pause",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "PEDS-8-20",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 21,
+    "questionStem": "A5-year-old girl is brought to the clinic by her mother because of a 5-day history of progressive burning with urination and redness in the vaginal area. Her mother also noticed a small amount of yellow discharge on the patient's underwear. The patient has not had fever, vomiting, or diarrhea. She has no history of serious illness and receives no medications. There is no history of sexual abuse. Vital signs are within normal limits. Genitourinary examination shows moderate erythema over the vagina and entire perineum, including the perianal area. No vesicles or pustules are noted. There is a small amount of white discharge at the introitus. The remainder of the examination shows no abnormalities. Results of a culture of the vaginal discharge are pending. Which of the following is the most appropriate pharmacotherapy?",
+    "choices": {
+      "A": "Intramuscular ceftriaxone and oral azithromycin",
+      "B": "Oral acyclovir",
+      "C": "Oral amoxicillin",
+      "D": "Oral metronidazole",
+      "E": "Topical nystatin"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "This pediatric patient with vulvar erythema and white vaginal discharge likely has vulvovaginitis. Candida albicans is a fungal pathogen that causes a variety of infections, including vulvovaginitis, urethritis, thrush, and sepsis. Patients with vulvovaginitis may present with an erythematous rash, vaginal itching, and thick, white discharge. Examination is characterized by thick, white, coarse discharge, and diagnosis is via pseudohyphae on microscopy. Common risk factors include diabetes mellitus and recent antibiotic or corticosteroid use. Treatment of superficial cutaneous candidiasis infection is with topical antifungal medications such as nystatin.",
+    "incorrectExplanation": "nd D. Bin nd far tha amnicin teantmant af an nuanantad infantian with Mainaacian Inteamiinailar anftrinuana and acal acitheamuanin (OhaAiAn A\\ Aen antimiarahial ananta",
+    "image": null,
+    "id": "PEDS-8-21",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 22,
+    "questionStem": "Apreviously healthy 7-year-old boy is brought to the physician by his mother because of a 5-day history of runny nose and mild cough. His mother says his nasal discharge was clear at first but has been yellow for 24 hours. He had a low-grade fever for the first 2 days of his illness but has not had fever for 3 days. The patient's father recently had a cold. The patient is at the 50th percentile for height and weight’ His temperature ie 36.9% (08.4°F), pulas ia ations are 24/min, and blood pressure is 96/62 mm Hg. Examination shows a moderate amount of yellow-to-white discharge from both nostrils. There is no periorbital edema or erythema. Multiple 1.5-cm, freely mobile, nontender nodules are palpated in the anterior cervical area bilaterally. The remainder of the examination shows no abnormalities. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Allergic rhinitis",
+      "B": "Allergic sinusitis",
+      "C": "Bacterial sinusitis",
+      "D": "Cervical lymphadenitis"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "This patient with rhinorrhea, mild cough, low-grade fever, and bilateral cervical adenopathy has a presentation consistent with viral rhinosinusitis. Acute rhinosinusitis (ARS) is defined as symptomatic inflammation of the sinuses and nasal cavity lasting less than 4 weeks and can be classified as either viral or bacterial. Most cases of ARS are viral in cause, with rhinovirus, influenzavirus, and parainfluenza virus being the most implicated pathogens. Patients with viral rhinosinusitis may present with cough, nasal congestion, clear or purulent nasal discharge, and facial pain that is worse when leaning forward. In viral rhinosinusitis, fever, if present, typically resolves after 24 to 48 hours. Physical examination may show tenderness to percussion over the sinuses. Treatment of viral rhinosinusitis involves supportive care with over-the-counter analgesics, antipyretics, saline nasal spray, and oral or intranasal decongestants. Antibiotics are not indicated unless bacterial infection is suspected. 7s ne @ - i> ri https://.me/U SM LENBM E2CK Previous Next Score Report Lab Values Calculator Help Pause",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "PEDS-8-22",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 23,
+    "questionStem": "An asymptomatic 17-year-old boy comes to the physician for a routine examination prior to participation in school sports. Examination shows no is abnormalities except for approximately 10 light brown hyperpigmented lesions over the trunk and extremities; the lesions vary in size from 0.6 to 2 cm in diameter. There are also some freckle-like lesions over both axillae. Compared to the general population, this patient is at increased risk for which of the following?",
+    "choices": {
+      "A": "Arteriovenous malformation",
+      "B": "Cerebral aneurysm",
+      "C": "Craniopharyngioma",
+      "D": "Medulloblastoma",
+      "E": "Optic nerve glioma"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Neurofibromatosis 1 (NF1) is an autosomal dominant neurocutaneous disorder (phakomatosis) that typically results from an inherited mutation of the NF1 tumor suppressor gene on chromosome 17. NF7 is inherited with complete penetrance and variable expressivity. Rarely, the mutation in the NF1 gene occurs sporadically. NF1 presents with cutaneous neurofibromas (benign neoplasms derived from neural crest cells), plexiform neurofibromas, hyperpigmented maculae, axillary or inguinal freckling, pigmented iris hamartomas (Lisch nodules), cognitive disability, and seizures. Patients with NF1 are at increased risk for optic nerve glioma and pheochromocytoma. Optic nerve gliomas are typically indolent lesions and are most frequently low-grade pilocytic astrocytomas. The lesion may involve one or both optic nerves or the optic chiasm. Affected patients present with insidious vision loss, proptosis, and optic nerve atrophy. The diagnosis of NF1 is typically based on physical examination findings, but genetic testing may be used to confirm ambiguous cases. Treatment includes surgical debulking of tumors, management of seizures and neurological complications, and genetic counseling. The management of optic nerve glioma is controversial and may involve a combination of chemotherapy, radiotherapy, and surgical excision. Children with NF1 should undergo regular screening examinations, including ophthalmic examination, at least annually to facilitate early detection and treatment of optic nerve glioma. G € Pa © Cc ¢€ https://Lme/U SM LEN BME2CK Previous Next Score Report Lab Values Calculator Help Pause",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "PEDS-8-23",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 25,
+    "questionStem": "A3-year-old girl is brought to the office for a follow-up examination. She has a seizure disorder and strabismus. Her only medication is valproic acid. She is at the 25th percentile for height and weight and 3rd percentile for head circumference. She appears happy, has an excitable demeanor, and frequently smiles and laughs. Examination shows a flattened posterior aspect of the head, prominent jaw, and widely spaced teeth. She flaps her hands repeatedly. She has a stiff-legged gait and cannot climb stairs without assistance. Her attention span is short. She uses some gestures and sounds to communicate but has not spoken any words. Which of the following is the most likely genetic defect in this patient?",
+    "choices": {
+      "A": "Chromosome 7 deletion",
+      "B": "Chromosome 15 deletion, maternally inherited",
+      "C": "Chromosome 15 deletion, paternally inherited",
+      "D": "Mutation of MECP2 gene",
+      "E": "Trisomy 15",
+      "F": "Trisomy 21"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Angelman syndrome is a genetic disorder caused by the microdeletion of the maternally inherited chromosome region 15q11-13, which contains the gene for the ubiquitin pathway protein UBE3A. Angelman syndrome is characterized by abnormal development of particular areas of the brain (eg, hippocampus, cortex, cerebellum) in which the paternally inherited copy of UBE3A is inactivated through imprinting (an epigenetic process involving selective gene inactivation through DNA and histone methylation), thus creating a reliance on the maternally inherited copy for normal development. In contrast, microdeletion of paternally inherited UBES3A leads to the different clinical presentation of Prader-Willi syndrome. Children with Angelman syndrome present with characteristic signs and symptoms, including severe developmental delay and cognitive disability, seizures, ataxia, speech delay, and microcephaly. Patients typically also display a happy, excitable demeanor, uncontrolled laughter, and repetitive hand flapping movements. Other findings may include characteristic facial features (eg, flat posterior aspect of the head, prominent mandible with widely spaced teeth and protruding tonque) strabismus, sleep disturbances, and a notable fascination with water. - q Cc ¢€ https://Lme/U SM LEN BME2CK Previous Next Score Report Lab Values Calculator FG) -",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "PEDS-8-25",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 27,
+    "questionStem": "A2-month-old boy is brought to the physician for an initial examination because of persistent jaundice. He is described as a \"good\" baby, who breast-feeds reasonably well but often needs to be awakened to feed. Examination shows an umbilical hernia, mild jaundice, and cool extremities. Growth is appropriate for age. Which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "Karyotype analysis",
+      "B": "Measurement of sweat chloride concentration",
+      "D": "CT scan of the head",
+      "E": "CT scan of the liver"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Congenital hypothyroidism typically presents without symptoms due to placental crossing of maternal thyroid hormone. However, if hypothyroidism is left untreated, infants may develop lethargy, hypothermia, feeding problems, hoarse cry, myxedematous facies, macroglossia, hypotonia, umbilical hernia, prolonged jaundice caused by impaired feeding and decreased bilirubin conjugation, and dry skin. Intellectual disability in childhood may develop. Diagnosis requires evaluation of thyroid function tests, which typically shows increased TSH and decreased thyroxine (T4) concentrations at birth. In patients with decreased thyroid hormone concentrations on serum testing, thyroid scans and thyroid-binding globulin concentrations help elucidate the cause of hypothyroidism (eg, distinguishing between thyroid dysgenesis and defective thyroid hormone synthesis). Management requires proactive newborn screening and levothyroxine therapy.",
+    "incorrectExplanation": "nd E. A karyotype analysis (Choice A) would be helpful in the diagnosis of chromosomal diseases such as Turner syndrome, congenital adrenal hyperplasia, or trisomy 21. RA nnncienmant Af micinat abladida annanntentina IMbatan PV tn cinad tn tha dlawnania ab aintia Slhenain Duntin Slonaian tn a bacadiban: ablacdda ahannalanathss that cnasdlin 4 ne @ - i> ri",
+    "image": null,
+    "id": "PEDS-8-27",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 28,
+    "questionStem": "A3-week-old girl is admitted to the hospital because of a 1-day history of fever and irritability and a 2-day history of diarrhea that has become bloody during the past 6 hours. She was born at 39 weeks’ gestation; pregnancy and ces were uncompleted Herd ori of cow milk-based formula. The family occasionally eats out at fast-food restaurants. There are two pet lizards at home. The patient able. She is at the 25th percentile for length and weight and 50th percentile for head circumference. Her temperature is 39.1°C (102.4°F), pulse is 170/min, and respirations are 40/min. Capillary refill time is less than 2 seconds. Her hemoglobin concentration is 16 g/dL, leukocyte count is 18,000/mm4, and platelet count is 260,000/mm3. Serum c ‘olytes, urea nitrogen, and creatinine are within the reference ranges. After 24 hours, blood and stool cultures grow gram-negative rods. Which of the following is the most likely causal organism?",
+    "choices": {
+      "B": "Eseheriehia-eot- O45 HF",
+      "C": "Listeria monocytogenes",
+      "E": "Shigella sonnei"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Salmonella enteritidis is a motile, gram-negative bacillus that is a major cause of diarrhea worldwide. In the United States, it is most associated with undercooked poultry, eggs, or meats, and in some cases has been associated with pets (eg, turtles, reptiles, chickens). The incubation period typically ranges from 8 to 72 hours and patients will subsequently develop diarrhea, nausea, vomiting, and fever. Bloody stools are common in children and Sa/monella gastroenteritis is usually self- limited, with fevers resolving within 3 days and diarrhea resolving in approximately 1 week. Supportive care, including oral rehydration, is the cornerstone of management and antibiotics are not generally recommended in immunocompetent individuals with mild to moderate infections. Stool studies may show gram- negative bacilli. eS 4 ne @ - i> ri https://.me/U SM LENBM E2CK Previous Next Score Report Lab Values Calculator Help Pause",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "PEDS-8-28",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 29,
+    "questionStem": "A 2-day-old full-term newborn is brought to the physician because of bilateral eye discharge. He was delivered at home by his father and has not yet been examined by a physician. He appears well. Vital signs are within normal limits. Examination shows marked swelling of the eyelids; there is profuse yellow discharge from both eyes. The conjunctivae cannot be visualized because of the swelling. No other abnormalities are noted. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Allergic conjunctivitis",
+      "B": "Chemical conjunctivitis",
+      "C": "Chlamydial conjunctivitis",
+      "E": "Mucocutaneous lymph node syndrome (Kawasaki disease)"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Gonococcal conjunctivitis is the result of direct inoculation of bacteria from the genital canal to the newborn's eyes during the process of delivery. Patients present with erythema, profuse purulent discharge, eyelid swelling, and lymphadenopathy. Gram stain of purulent discharge will show gram-negative diplococci. In the hospital setting, erythromycin eye drops are provided to newborns at the time of delivery to prevent gonococcal conjunctivitis. Newborns diagnosed with gonococcal conjunctivitis should be hospitalized, cultures should be obtained, and patients should be provided ceftriaxone. Patients may also be provided artificial tears until their condition improves.",
+    "incorrectExplanation": "nd E. Allergic conjunctivitis (Choice A) presents with erythema, pruritus, and watery discharge involving the bilateral eyes. Patients should be instructed to avoid potential triggers, including allergens, and may be treated with topical eye drops with an antihistamine or an alpha-1 agonist. FG) - > ri q Cc ¢€",
+    "image": null,
+    "id": "PEDS-8-29",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 31,
+    "questionStem": "A5-day-old newborn has hemorrhagic disease due to vitamin K deficiency. He is bleeding from the nose, mouth, and gastrointestinal tract and into the subdural space. In addition to vitamin K therapy, administration of which of the following is the most appropriate next step?",
+    "choices": {
+      "A": "Cryoprecipitates",
+      "B": "Factor Vill concentrate",
+      "D": "Lactated Ringer solution",
+      "E": "Platelets"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Vitamin K is a fat-soluble vitamin that plays an important role in the synthesis of several coagulation factors, including factors II, VII, IX, and X, as well as proteins C and S. Primary sources of vitamin K include leafy green vegetables and endogenous production by intestinal bacterial flora. Vitamin K deficiency is common in newborns due to poor placental transfer of vitamin K, low concentrations of vitamin K in breast milk, as well as immature neonatal intestinal flora and poor absorption. Vitamin K deficiency presents with signs and symptoms of bleeding (also known as hemorrhagic disease of the newborn), which may include cutaneous bleeding (eg, bruising, petechiae, oozing from venipuncture sites), hematomas, epistaxis, or gastrointestinal, retroperitoneal, or intracranial hemorrhage. All newborns should be administered prophylaxis with intramuscular vitamin K. Newborns with evidence of bleeding should be treated with oral or intravenous replacement of vitamin K and fresh frozen plasma (FFP), although treatment should be tailored according to the type and severity of bleeding. FFP contains all coagulation factors, as well as fibrinogen and proteins C and S.",
+    "incorrectExplanation": "nd E. Cryoprecipitate (Choice A) contains concentrated fibrinogen along with factors VIII and XIII, and von Willebrand factor. It is commonly used for the treatment of coaaulonathic states with decreased concentrations of fibrinoaen and factor VIII. such as disseminated intravascular coaaulation. Crvoprecipitate does not contain ~ 4 ne @ - ri",
+    "image": null,
+    "id": "PEDS-8-31",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 32,
+    "questionStem": "A5-week-old boy is brought to the emergency department because of a 1-day history of vomiting immediately after each feeding. During this time, he has had only two wet diapers. He was born at term following an uncomplicated pregnancy and delivery and weighed 3317 g (7 lb 5 oz). He was exclusively breast-fed during his first 3 weeks of life; for the past 2 weeks, his diet has consisted of a cow milk-based formula. He has been ‘one 4to5o0z Oe feeding and, until yesterday, had minimal spitting up after each feeding. At his most recent examination 1 week ago, he weighed 422: EET; arination shows no other abnormalities. After the examination, he is given a bottle of formula, drinks 4 oz, and vomits a large amount. This patient most likely has an obstruction at which of the following locations?",
+    "choices": {
+      "A": "Duodenum",
+      "B": "Gastroesophageal junction",
+      "C": "Jejunum",
+      "D": "Midesophagus"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Pyloric stenosis is a disorder of the pyloric sphincter that occurs in young infants and can result in partial or complete gastric outlet obstruction. It is caused by hypertrophy of the pylorus and an inability to relax the pyloric sphincter. Infants classically present within the first 1 to 2 months of life with forceful nonbilious emesis. Physical examination is notable for a characteristic ovoid mass in the epigastric region. The recurrent emesis, if severe, may result in signs of volume depletion and malnutrition. Laboratory studies typically show a hypochloremic, hypokalemic metabolic alkalosis as a result of the loss of gastric hydrochloric acid and potassium ions. Additionally, the resultant volume depletion causes activation of the renin-angiotensin-aldosterone system, resulting in renal losses of potassium and protons. Confirmatory diagnosis is made by ultrasound imaging to evaluate the thickness and length of the pyloric muscle. Patients are treated with surgical pyloromyotomy to relieve the stenosis. . 4 ne @ - i> ri https://.me/U SM LENBM E2CK Previous Next Score Report Lab Values Calculator Help Pause",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "PEDS-8-32",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 33,
+    "questionStem": "A4-month-old female infant is brought to the physician because of a rash in the diaper area for 5 days. The infant has had two episodes of otitis media treated with oral antbotic therapy but has been otherwise heathy, Her temperature is 37°C (98.6°F). Physical examination shows a red, confluent rash with sharply demarcated borders, pustules, and satellite papules in the diaper area. Which of the following is the most appropriate pharmacotherapy?",
+    "choices": {
+      "A": "Topical mupirocin",
+      "C": "Oral cephalexin",
+      "D": "Oral ketoconazole",
+      "E": "Intravenous amphotericin B",
+      "B": "F ) No pharmacotherapy is indicated"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Topical nystatin is a polyene that is used topically to treat mucocutaneous candida infections. Candida is part of the normal mucocutaneous flora, but infection is common in intertriginous areas like the diaper area in infants along with the genital and inframammary regions in adults. Candida infections may be associated with beefy red patches, favoring the skin folds, with satellite papules and pustules. First-line treatment includes topical antifungals, such as nystatin.",
+    "incorrectExplanation": "nd F. Topical mupirocin (Choice A) is used in the treatment of superficial antibacterial infections, such as Staphylococcus aureus. Mupirocin binds bacterial tRNA synthetase, which decreases RNA and protein synthesis. Mupirocin is not effective for the treatment of candidiasis. Oral cephalexin (Choice C) is a first-generation cephalosporin antibiotic that is effective against gram-positive organisms as well as some gram-negative organisms. ~ 4 ne @ FG) - > ri",
+    "image": null,
+    "id": "PEDS-8-33",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 34,
+    "questionStem": "A 2-year-old boy who is HIV positive is brought to the family clinic by his mother for a follow-up examination. He is currently taking three antiretroviral Srila: Fil PINE poate FockbseF sialso taking multiple antiretroviral drugs; she has chronic cryptosporidiosis and has had a 5-kg (11-Ib) weight loss during the past 2 months. The father is not in contact with the family. The child's growth and development are appropriate for age, and immunizations are up-to- date. Examination shows two small, nontender, mobile lymph nodes in the right axilla. Laboratory studies show: Child Mother Leukocyte count 12,800/mm3 ented neutrophils 55% 80% Lymphocytes 35% 10% Monocytes 10% 10% CD4+ T-lymphocyte count 1852/mm3 (Normal21000) 4/mm3 (Normal2500) Plasma HIV viral load undetectable 38,000 copies/mL Serum hepatitis C antibody negative positive Which of the following is the most appropriate topic to discuss at this visit?",
+    "choices": {
+      "A": "The advantages of three-drug versus four-drug antiretroviral regimens",
+      "C": "The child's immunization schedule",
+      "D": "Hand-washing techniques to prevent HIV transmission",
+      "E": "Long-term complications of HIV infection"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "4 ry a ) eC https://.me/U SM LENBM E2CK Previous Next Score Report Lab Values Calculator",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "PEDS-8-34",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 35,
+    "questionStem": "A 2-day-old female newborn is examined before being discharged home. She was born at term following an uncomplicated pregnancy and spontaneous vaginal delivery. She is 50 cm (20 in) in length and weighs 3515 g (7 Ib 12 oz). Her temperature is 36.8°C (98.2°F), pulse is 128/min, respirations are 38/min, and blood pressure is 70/54 mm Hg. Examination shows a generalized rash with small yellow papules on an erythematous base, predominantly over the trunk. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Culture of lesions and antibiotic therapy to eradicate Staphylococcus aureus",
+      "B": "Culture of lesions for herpes simplex virus",
+      "C": "KOH stain of a lesion scraping for Candida species",
+      "D": "Topical corticosteroid therapy",
+      "E": "Reassurance to the parents that the rash will resolve in a few days"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Erythema toxicum neonatorum is a common, benign skin eruption of newborns that typically begins in the days following delivery and lasts from hours to days. This condition is characterized by 1- to 2-mm pale to yellow papules or pustules with an erythematous base, typically found on the trunk. Diagnosis is made based on clinical presentation. If performed, a bedside Wright stain of vesicular fluid would show numerous eosinophils. Reassurance that the rash will resolve in a few days following diagnosis should be provided to the newborn's parents. Erythema toxicum, in isolation, follows a benign and harmless course.",
+    "incorrectExplanation": "nd D. Culture of lesions and antibiotic therapy to eradicate Staphylococcus aureus (Choice A) would be appropriate in cases of superficial bacterial infections such as impetigo. Impetigo may present as a superficial erosion with an overlying honey-colored crust. Localized cases may be treated with topical antibiotics, such as mupirocin. s r 4 ry od eC > f",
+    "image": null,
+    "id": "PEDS-8-35",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 36,
+    "questionStem": "A5-week-old boy is brought to the emergency department by his parents in the fall because of a 2-week history of progressive cough. He often coughs uncontrollably until he is struggling to breathe and vomits. He has not had fever. He had moderate nasal congestion for the first 5 days of his illness. He was born following an uncomplicated pregnancy and delivery. The patient's father also has had a cough for 3 weeks. During the examination, the patient is not in distress except when he is coughing. He is at the 25th percentile for length, weight, and head circumference. His temperature is 37.1°C (98.8°F), pulse is 148/min, and respirations are 40/min. Pulse oximetry on room air shows an oxygen saturation of 95%. The lungs are clear to auscultation. The remainder of the examination shows no abnormalities. Laboratory studies show: Leukocyte count 28,000/mm 3 (N=6000-14,000) Segmented neutrophils 14% Bands 1% Lymphocytes 80% Monocytes 5% A chest x-ray shows no abnormalities. Which of the following is the most likely causal organism?",
+    "choices": {
+      "B": "Influenza virus",
+      "C": "Mycoplasma pneumoniae",
+      "D": "Respiratory syncytial virus",
+      "E": "Streptococcus pneumoniae",
+      "A": "chest x-ray shows no abnormalities. Which of the following is the most likely causal organism?"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "4 ne @ FG) - https://.me/U SM LENBM E2CK Previous Next Score Report Lab Values Calculator",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "PEDS-8-36",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 37,
+    "questionStem": "A 17-year-old boy comes to the office for an examination prior to participating in football. The patient says he feels well. He has no history of serious illness and takes no medications. There is no family history of serious illness. The patient is 180 cm (5 ft 11 in) tall and weighs 93 kg (205 Ib); BMI is 29 kg/m2. His blood pressure in the right upper extremity, obtained by automated oscillometric device, is 138/88 mm Hg (95th percentile for age and height). Repeat blood pressure by the device is 140/89 mm Hg. Examination shows no other abnormalities. Which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "B": "Echocardiography",
+      "C": "24-Hour ambulatory blood pressure monitoring",
+      "D": "Repeat blood pressure measurement by oscillometric device in the office daily for the next 3 days",
+      "E": "Repeat blood pressure measurement by oscillometric device in the office in 2 weeks"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Hypertension is an increasing finding among pediatric and adolescent patients as rates of obesity have risen. Childhood and adolescent hypertension is associated with both an increased risk for persistent hypertension during adulthood and an increased risk for adverse cardiovascular events in later life. In adolescent patients, hypertension is defined as a blood pressure greater than the 95th percentile. Accurate blood pressure measurement is essential for staging and aids in guiding treatment and blood pressure recheck intervals. Oscillometric devices are commonly used for hypertension screening and routine office measurements, but frequently overestimate both systolic and diastolic blood pressures. If initial measurement by an oscillometric device reading is high, repeat measurements by auscultation should be performed and averaged to determine the patient's stage of hypertension. Initial treatment of hypertension is with lifestyle modifications targeting modifiable risk factors, such as obesity.",
+    "incorrectExplanation": "nd E. 4 ne @",
+    "image": null,
+    "id": "PEDS-8-37",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 39,
+    "questionStem": "A7-year-old boy is brought to the emergency department because of the acute onset of pain over the anterior surface of the neck; the pain is exacerbated by swallowing or sticking out his tongue. He also has a 1-day history of fever and chills. Examination shows tenderness in the midline over the trachea in the region of the thyroid isthmus. There is cervical lymphadenopathy. He has scratches on his arm from playing with his 4-year-old cat. Which of the following is the most likely cause of these findings?",
+    "choices": {
+      "A": "Cat-scratch disease",
+      "C": "Infectious mononucleosis",
+      "D": "Tonsillitis",
+      "E": "Viral syndrome"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "The findings of fever, chills, and midline neck pain that worsens with swallowing or sticking out the tongue is most suggestive of an infected thyroglossal duct cyst. Thyroglossal duct cysts are a common congenital abnormality that results from failure of the thyroglossal duct to close after the embryonic migration of the thyroid from where it forms in the foramen cecum to its anatomic position in the neck. The thyroid begins to form in the third week of gestation as an outgrowth from the pharynx at the junction between the anterior two-thirds and posterior third of the tongue. It then descends along the thyroglossal duct, passing anterior to the hyoid bone and stopping in the midline neck. The thyroglossal duct then closes. If a segment of the duct persists, epithelial secretions result in cyst formation.",
+    "incorrectExplanation": "nd E. Cat-scratch disease (Choice A) is caused by infection with the gram-negative pleomorphic coccobacillus Bartonella henselae acquired via bites or scratches from cats. It most commonly causes localized lymphadenitis along the lymphatic drainage route proximal to the scratch. The axillary and cervical lymph nodes are cammonly affected Thoth the natient has an eynaciire hic nresentatinn is not eansictent with eat-ccratch disease D2 ry @ FG) eC i> a",
+    "image": null,
+    "id": "PEDS-8-39",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 40,
+    "questionStem": "A6-month-old girl with Beckwith-Wiedemann syndrome is brought to the physician because of a eo. She I receives no medications. Vital signs are within normal limits. Examination shows macroglossia and right-sided hyp examination, a firm mass is palpated in the right upper quadrant. Laboratory studies show: B-hCG 0 mIU/mL a-Fetoprotein 15,678 ng/mL (N<10) Urine Homovanillic acid/creatinine 10 mg/g Cr (N=0-42) Vanillyimandelic acid/creatinine 5.6 mg/g Cr (N=0-27) Abdominal ultrasonography is ordered. Which of the following is the most likely explanation for this patient's mass?",
+    "choices": {
+      "A": "Germ cell tumor",
+      "C": "Nephroblastoma (Wilms tumor)",
+      "D": "Neuroblastoma",
+      "E": "Spina bifida occulta"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Beckwith-Wiedemann syndrome is a genetic disorder involving mutations of any of several genes located at the 11p15.5 locus that may result from a variety of mechanisms, including defects of imprinting or uniparental disomy. Beckwith-Wiedemann syndrome is characterized by cellular overgrowth and a predisposition to the development of malignancy. Its presentation is heterogenous but commonly includes an above average birth weight, macrosomia, macroglossia, visceromegaly, ~ 4 ne @ - > ri https://.me/U SM LENBM E2CK Previous Next Score Report Lab Values Calculator Help Pause",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "PEDS-8-40",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 42,
+    "questionStem": "An 8-year-old girl is brought to the physician because her parents are concerned that she is different from their older child and prefers to be alone instead of socializing with peers or family. She carries a doll that she found at a yard sale wherever she goes but never plays with it. Whenever she is without the doll, she becomes distraught and has a tantrum. The parents once invited a girl from their daughter's class to their home, but the patient appeared disinterested and would not play with the other girl. The patient's teachers report that she is often off task and distracted in her second-grade class but that she answers direct questions. She does not participate in games at recess, and she tends to drift off by herself and wander about the playground. She is at the 50th percentile for height, 30th percentile for weight, and 90th percentile for head circumference. Physical examination shows no abnormalities. During the examination, the patient holds an undressed doll by its feet. She makes little eye contact. She occasionally repeats the physician's words instead of answering questions. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Learning disorder",
+      "B": "Mild intellectual developmental disorder",
+      "C": "Oppositional defiant disorder",
+      "D": "Parent-child relational problem",
+      "E": "Pervasive developmental disorder"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Pervasive developmental disorder, which has been reclassified as autism spectrum disorder (ASD), includes a group of neurodevelopmental/neurodivergent syndromes that are characterized by atypical forms of social communication and interaction. ASD includes autism, Asperger syndrome, childhood disintegrative disorder, and pervasive developmental disorder not otherwise specified. ASD is characterized by a broad range of signs and symptoms involving restricted and repetitive patterns of behavior or activities. Children with autism often display decreased interest in socializing and may have challenging behaviors conflicting with established societal norms. Children may also display a narrow and focused range of interests, an increased reliance on routine, and apprehension to change or - G € Pa © q Cc ¢€ https://Lme/U SM LEN BME2CK Previous Next Score Report Lab Values Calculator Help Pause",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "PEDS-8-42",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 43,
+    "questionStem": "A 10-year-old girl is brought to the physician by her mother 3 hours after she refused to get out of bed this morning. Over the past 4 days, she has had fever, malaise, and severe pain in her elbows, wrists, and knees. The family recently lived in a refugee camp. She appears flushed and acutely ill. Her pulse is 110/min, respirations are 20/min, and blood pressure is 100/40 mm Hg. The knee and ankle joints are warm and swollen. A grade 4/6 holosystolic murmur is heard at the apex and radiates to the left axilla. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Dengue fever",
+      "B": "Lyme disease",
+      "C": "Malaria",
+      "D": "Mucocutaneous lymph node syndrome (Kawasaki disease)",
+      "E": "Rheumatic fever",
+      "F": "Typhoid fever"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "The most likely diagnosis for this patient is rheumatic fever, characterized by arthritis and a murmur suggestive of mitral regurgitation. Rheumatic fever is a sequela of untreated Streptococcus (group A) infection, commonly pharyngitis, in which there is a type II hypersensitivity reaction to self-antigens having a similar structure to, and thus molecularly mimicking, streptococcal M protein. Diagnosis is made by the Jones criteria, which describe many of the core clinical features of rheumatic fever, including the major criteria of polyarthritis, carditis, subcutaneous nodules, erythema marginatum, and Sydenham chorea, as well as minor criteria of fever, leukocytosis, arthralgia, and PR interval prolongation. Patients often have an increased antistreptolysin O titer. Complications of rheumatic fever include mitral valve inflammation leading to long-term sequelae of chronic mitral valve regurgitation, prolapse, or stenosis. Treatment of the initial streptococcal infection is effective for reducing the risk for developing rheumatic fever. Per American Heart Association guidelines, once rheumatic fever has developed, treatment includes salicylates and a prolonged course of monthly penicillin treatments to reduce the risk for recurrence and further valvular damage. ne @ - > ri https://.me/U SM LENBM E2CK Previous Next Score Report Lab Values Calculator Help Pause",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "PEDS-8-43",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 44,
+    "questionStem": "3 mg/dL Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Acute hyperammonemia",
+      "B": "Acute viral gastroenteritis",
+      "C": "Gastroesophageal reflux",
+      "D": "Hemolytic-uremic syndrome",
+      "E": "Malrotation of the intestine",
+      "F": "Porphyria"
+    },
+    "correctAnswer": "G",
+    "correctExplanation": "Pyloric stenosis is a disorder of the pyloric sphincter that occurs in young infants and can result in partial or complete gastric outlet obstruction. It is caused by hypertrophy of the pylorus and an inability to relax the pyloric sphincter. Infants classically present within the first 1 to 2 months of life with forceful, nonbilious emesis. Physical examination is notable for a characteristic ovoid mass in the epigastric region. The recurrent emesis, if severe, may result in signs of volume depletion and malnutrition. Laboratory studies typically show a hypochloremic, hypokalemic metabolic alkalosis caused by the loss of gastric hydrochloric acid and potassium ions. Additionally, the resultant volume depletion causes activation of the renin-angiotensin-aldosterone system, resulting in renal losses of potassium and protons. Confirmatory diagnosis is made with ultrasonography to evaluate the thickness and length of the pyloric muscle. Patients are treated with surgical pyloromyotomy to relieve the stenosis.",
+    "incorrectExplanation": "nd F. 7 ~ E € c",
+    "image": null,
+    "id": "PEDS-8-44",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 45,
+    "questionStem": "A 17-year-old girl comes to the office because of a 5-day history of a nontender lesion on her vagina. She is sexually active with three male partners, and they use condoms inconsiste ifill H&E Ratna aT OTs ella SN RDUTAOHTS BFE 18min, and blood pressure is 106/68 mm Hg. Examination shows a 2 x 2-cm ulcerated lesion with raised borders over the right labium majus. Which of the following is the most likely causal organism?",
+    "choices": {
+      "A": "Gram-negative bacillus",
+      "B": "Gram-negative diplococcus",
+      "C": "Obligate intracellular bacterium",
+      "D": "Protozoan",
+      "F": "Virus"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Syphilis is a sexually transmitted disease from the spirochete Treponema pallidum that can present in multiple stages. Primarily syphilis presents with a painless chancre (ulcer) of the genitalia. There are typically no systemic signs or symptoms of syphilis infection at this stage. Rapid plasma reagin can be falsely negative in the primary stage of syphilis. Dark-field microscopy of fluid from the chancre is the most sensitive test for diagnosis of primary syphilis. The treatment for primary syphilis is a single benzathine Penicillin G intramuscular injection. Testing and treatment for additional sexually transmitted infections is appropriate, as they often coinfect patients.",
+    "incorrectExplanation": "nd F. Agram-negative bacillus (Choice A), Haemophilus ducreyii, causes the sexually transmitted infection chancroid. Chancroid presents with painful genital ulceration and inguinal lymphadenopathy. 4 ne @ - > ri",
+    "image": null,
+    "id": "PEDS-8-45",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 46,
+    "questionStem": "A 12-year-old boy is brought for a well-child examination. Since his last visit 1 year ago, he has had no illnesses. His pulse is 102/min, respirations are 21/min, and blood pressure is 102/60 mm Hg. Examination shows no abnormalities. Urinalysis shows 3+ protein. Which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "B": "Intravenous pyelography",
+      "C": "Renal ultrasonography",
+      "D": "Trial of corticosteroid therapy",
+      "E": "Renal biopsy"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "The first approach in assessing incidentally found proteinuria in a healthy asymptomatic child is to repeat the urinalysis. The most common cause of proteinuria in asymptomatic children is transient proteinuria secondary to other causes such as fever, stress, exercise, and dehydration. In addition, proteinuria can be orthostatic or postural, with increased protein in a standing or upright position that normalizes when a patient is supine or recumbent. Orthostatic proteinuria is common in adolescent males. A repeat urinalysis on awakening would likely show a normal urinalysis, and a urinalysis at bedtime would show proteinuria. In a patient with persistent proteinuria, further workup should be done to evaluate kidney disease.",
+    "incorrectExplanation": "nd E. Intravenous pyelography (Choice B) involves the intravenous injection of radio-opaque contrast to visualize the renal collecting system, ureters, and bladder under fluoroscopy. This allows for the investigation of suspected urinary tract anatomic abnormalities, malignancies, and strictures. Renal ultrasonoaranhv (Choice C) is useful in the evaluation of obstruction. abscess. tumors. or cvsts. A reneat urinalvsis is a more annronriate initial sten for the fa eC 4 q Cc ¢€",
+    "image": null,
+    "id": "PEDS-8-46",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 47,
+    "questionStem": "Ahealthy 16-month-old girl is brought to the physician because of a painless right-sided limp since she began to walk 4 months ago. She was delivered at term by cesarean section because of breech presentation. There is no family history of musculoskeletal disorders. Examination shows a left lower extremity that is shorter than the right; sensation, circulation, and muscle strength are normal. Abduction of the left hip is limited to 30 degrees. Examination of the right hip shows no abnormalities. Which of the following is the most likely underlying mechanism of these findings?",
+    "choices": {
+      "A": "Acute epiphyseal fracture",
+      "B": "Acute suppurative arthritis",
+      "C": "Avulsion of muscle origin",
+      "D": "Displacement of the capital femoral epiphysis",
+      "E": "Failure of osteoid to mineralize"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "Developmental dysplasia of the hip occurs as the result of an abnormal or poorly developed acetabulum in infants. Risk factors include female sex, breech position during delivery, and family history of the condition. In infants, there may be an associated limb-length discrepancy and inability to abduct the limb. In infants, the Barlow and Ortolani maneuvers may be used to test for hip instability and help diagnose developmental dysplasia of the hip. Additional testing including ultrasonography may be useful to diagnose infants younger than age 4 months. If left untreated, developmental dysplasia of the hip may result in functional disability, pain, and early osteoarthritis. The most common treatment for infants with this condition is an abduction splint, most commonly the Pavlik harness.",
+    "incorrectExplanation": "nd E. FG) - > ri q Cc ¢€",
+    "image": null,
+    "id": "PEDS-8-47",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 48,
+    "questionStem": "A 16-year-old girl is brought to the office by her mother for a health maintenance examination. She has no history of serious illness and takes no medications. Immunizations are up-to-date. Menses occur at irregular 28- to 35-day intervals. Her last menstrual period was 3 weeks ago. She does not smoke cigarettes, drink alcohol, or use illicit drugs. She has been sexually active with one male partner for 1 year; they do not use condoms. Her mother was diagnosed with breast cancer at the age of 40 years. The patient is 163 cm (5 ft 4 in) tall and weighs 65 kg (143 Ib); BMI is 25 kg/m2. Vital signs are within normal limits. Breast examination shows no masses or discharge. The external genitalia appear normal; there is no vaginal discharge. Breast and pubic hair development are sexual maturity rating stage 5. Which of the following is the most appropriate screening test to administer at this time?",
+    "choices": {
+      "A": "Mammography",
+      "B": "Measurement of fasting serum glucose concentration",
+      "C": "Measurement of hemoglobin concentration",
+      "E": "Pap smear"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "For this healthy, adolescent female patient, preventive measures will primarily address her sexual health. The US Preventive Services Task Force (USPSTF) recommends screening all sexually active women under age 25 years for Chlamydia trachomatis and Neisseria gonorrhoeae infection. C. trachomatis is a common sexually transmitted infection that can cause various infections, including cervicitis, pelvic inflammatory disease, epididymitis, and urethritis. However, in many cases it is asymptomatic, and thus, screening asymptomatic patients is important for finding and treating active infections before long-term sequelae develop. C. trachomatis and N. gonorrhoeae commonly coinfect the same patient.",
+    "incorrectExplanation": "nd E. Mammanran bast (Ohbainn AV in rannamman ARA far heraannt nnanannr anrann Inn Avian: 4 tn 9D ARAen far natiantar avuar aan AN vAanrn ne @ - i> ri",
+    "image": null,
+    "id": "PEDS-8-48",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 49,
+    "questionStem": "A17-year-old girl comes to the office because she has had a burning sensation at the beginning of urination for the last 24 hours. She has no history of similar symptoms. Examination shows no abnormalities. Urinalysis shows marked pus and no bacteria. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Sitz baths",
+      "C": "Wet mount preparation with KOH",
+      "D": "X-ray screening for urinary anomaly",
+      "E": "No intervention"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "The clinician should offer testing for sexually transmitted diseases, or sexually transmitted infections (STIs), at this time. STIs including chlamydia, gonorrhea, and syphilis, are a major public health concern as they are often asymptomatic and can cause significant complications if left untreated. Adolescents are an at-risk demographic, especially as stigma regarding sexual activity and concerns about confidentiality may make individuals uncomfortable in disclosing any exposures or concerns regarding STIs. Urinary symptoms are a common presenting complaint for sexually active patients, and urinary tract infections (UTIs) often occur concurrently with STIs. Patients presenting with clinical findings of infection, such as dysuria and pyuria in this case, should be evaluated for both urinary tract infections and sexually transmitted infections, and appropriate treatment based on the results should be prescribed.",
+    "incorrectExplanation": "nd E. Sitz baths (Choice A) can help alleviate symptoms of a UTI but should not replace appropriate diagnostic testing and antimicrobial therapy. Sitz baths are more commonly used for perianal pathologies, such as hemorrhoids. ne @ - > ri",
+    "image": null,
+    "id": "PEDS-8-49",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 50,
+    "questionStem": "A6-month-old boy is brought to the office for a well-child examination. He is exclusively fed cow milk-based formula. His mother reports that he takes his bottle vigorously, but he frequently spits up after eating. He has not had diarrhea or fever. Development is appropriate for age. He has dropped from the 50th percentile to the 35th percentile for weight since his last visit 2 months ago. Length and head circumference remain at the 50th percentile. Examination shows decreased subcutaneous fat. No other abnormalities are noted. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "B": "Inflammatory bowel disease",
+      "C": "Necrotizing enterocolitis",
+      "D": "Pancreatitis",
+      "E": "Pyloric stenosis"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Gastroesophageal reflux disease is extremely common in infants. This is the result of diminished closing pressure of the lower esophageal sphincter, permitting acidic contents of the stomach to reflux into the esophagus. Reflux events may occur up to 30 times per day. Some of these episodes result in contents entering the oral cavity and decrease through the first year of life. Infants who demonstrate good weight gain, are feeding well, and are not irritable, are managed conservatively. Modifications that may improve symptoms include having infants avoid secondhand smoke exposure, smaller and more frequent meals, and keeping infants upright after feeding when possible. Infants who experience reflux and poor weight gain should undergo further evaluation for calorie count, ultrasonography to rule out pyloric stenosis, and have their diets adjusted to thickened feeds or breast milk. In patients with refractory cases, a trial of proton pump inhibitors may be warranted.",
+    "incorrectExplanation": "nd E. Inflammatary howel disease (Choice R) includes tleerative colitis and Crahn disease | Ileerative colitis is accaciated with inflammation of the micnsal laver af the D2 4 ne @ - > ri",
+    "image": null,
+    "id": "PEDS-8-50",
+    "section": "PEDS",
+    "subsection": "CMS-8",
+    "system": "Unknown"
+  }
+]

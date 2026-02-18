@@ -1,0 +1,838 @@
+[
+  {
+    "questionNumber": 1,
+    "questionStem": "A 67-year-old woman comes to the emergency department 60 minutes after the sudden onset of shortness of breath. She also has had a 2-day history of swelling of her abdomen and legs. She received the diagnos is of carcinoma of the right breast 6 years ago and underwent lumpectomy followed by radiotherapy and chemotherapy. She has type 2 diabetes mellitus well controlled with diet. On arrival, she is in severe respiratory distress. Her pulse is 122/min, respirations are 28/min, and blood pressure is 94/60 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 88%. Examination shows jugular venous distention. Heart sounds are distant. A pericardia! rub is heard best at the second to fourth left intercostal spaces. The abdomen is distended and nontender. The liver is enlarged. There is 2+ edema of the lower extremities. An ECG shows sinus tachycardia and ST-segment elevations throughout all leads. An x-ray of the chest is shown. Which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "Bedside cardiac ultrasonograph",
+      "B": "Cardiac catheterization",
+      "C": "CT scan of the chest"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Bedside cardiac ultrasonography is the most appropriate next step in diagnosis. This patient has a history of breast cancer and now presents with tachycardia, jugular venous distention, pulmonary edema, and hypotension with a pericardia! friction rub, hepatomega ly, and ST elevations on ECG. Together this is concerning for pericardia! tamponade, likely seconda ry to malignancy. Further assessment with bedside ultrasonography should be the next step. Characteristic findings on echocardiography include a pericardia! effusion, collapse of the right atrium at the end of diastole, and a collapse of the right ventricle in the early part of diastole. Additional ly, pulsus paradoxus, which is a clinical finding defined by a drop in the systolic blood pressure of greater than 10 mm Hg with inspiration can also be visualized on echocardiography as changes in the volume of the left and right ventricles with respiration. As a result of increased diastolic filling pressures and equalization of diastolic pressures between the left and right heart, other potential findings include congestive hepatopathy and tender hepatomegaly from flow reversa l within the hepatic veins, and pulmonary edema.",
+    "incorrectExplanation": "nd H. Cardiac catheterization (Choice B) is appropriate for patients with ST-elevation myocardial infarction (STEMI). This patient may also have acute coronary syndrome, but an echocardiography should be performed prior to catheterization as decompression of the pericardium via a pericardiocentesis should be performed first.",
+    "image": true,
+    "id": "EM-2-1",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 2,
+    "questionStem": "A 14-month-old girl is brought to the emergency department 20 minutes after having a genera lized tonic-clonic seizure at home. The seizure began after she awoke from a nap and lasted approx imately 3 minutes. She was drowsy afterward. This morning, her parents noted that she had mild rhinorrhea. She was born at term following an uncomplicated pregnancy and delivery. Development has been appropr iate for age. On examinat ion, she is alert and respons ive. Her temperature is 39.8°C (103.6°F), pulse is 140/min, respirations are 24/min, and blood pressure is 90/60 mm Hg. There are copious nasal secretions. The neck is supple. The lungs are clear to auscultation. Muscle strength is normal. Which of the following is the most appropriate next step in management of this patient's seizure?",
+    "choices": null,
+    "correctAnswer": "A",
+    "correctExplanation": "This infant's generalized tonic-clonic seizure, which occurred in the setting of a febrile, upper respiratory illness, is consistent with a diagnosis of simple febrile seizure. Febrile seizures typica lly occur in children between the ages of 6 months and 6 years and may be simple (generalized and lasting for less than 15 minutes) or complex (focal, recurrent, or lasting longer than 15 minutes). The majority of febrile seizures are simple, and neither require treatment nor carry a significantly increased risk for future epilepsy. A careful history and physical examination are necessary to distinguish benign, febrile seizures from complex seizures resulting from viral or bacterial central nervous system infections.",
+    "incorrectExplanation": "nd E. CT scan of the head (Choice B) is useful for identifying an intracranial mass lesion or hemorrhage. This child does not display focal neurologic signs or altered mental status to suggest an underlying intracrania l pathology. Anticonvulsant therapy (Choice C) is useful in the management of epilepsy. Simple febrile seizures are typically self-limited and do not carry a significantly increased risk for future epilepsy. EEG (Choice D) is useful for the diagnosis of epilepsy. Generalized tonic-clonic seizures lasting less than 15 minutes in the setting of a febrile illness do not require evaluation with an EEG. Recurrent seizures or those occurring outside of a period of febrile illness should be evaluated with an EEG. Lumbar puncture (Choice E) may be useful for the diagnosis of meningitis or encephalitis. This child lacks symptoms suggestive of",
+    "image": null,
+    "id": "EM-2-2",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 5,
+    "questionStem": "An 18-year-old man is brought to the emergency department because of a 6-hour history of fever, severe headac he, and neck and back pain. He appears acutely ill and lethargic. His temperature is 40°C (104 °F). When he attempts to flex his neck, he has severe neck pain and automat ically flexes his thighs. Examination shows small petechial hemorrhages over his abdomen and thighs. He is oriented to person but not to place or time. Cerebrospina l fluid analysis in this patient is most likely to show which of the following sets of findings?",
+    "choices": null,
+    "correctAnswer": "E",
+    "correctExplanation": "This patient demonstrates findings of acute meningococcal meningitis including fever, severe headache, neck stiffness, and a petechial rash. This patient also demonstrates Brudzinski sign, in which flexion of the neck induces hip flexion. Meningococcal meningitis is caused by infection with Neisseria meningitidis, the most common cause of bacterial meningitis in teenagers and young adults. Clusters of infections may be seen among young adults sharing close living quarters such as college dormitories or military barracks. The cerebrospinal fluid (CSF) analysis of bacterial meningitis demonstrates increased leukocytes with a neutrophil predominance, increased protein, and decreased glucose concentration. The appearance of the fluid is often cloudy and additiona l studies such as gram stain and bacterial culture will often be positive. Thus, the CSF findings in this patient are most likely to show cloudy fluid with a leukocyte count of 2600/mm 3 with 70% segmented neutrophils, increased protein (258 mg/dl), and decreased glucose (10 mg/dl).",
+    "incorrectExplanation": "nd D. Clear fluid with a low leukocyte count, whether 10/mm 3 (Choice A) or 28/mm 3 (Choice B), is not generally seen in bacterial meningitis. Clear fluid with a norma l glucose concentration (Choice C) does not represent the typical findings seen in bacterial meningitis. In bacterial meningitis, the neutrophils recruited to the CSF in respo nse to the infection utilize glucose to perform their metabolic activities, resulting in a decreased glucose concentration within the CSF. Cloudy fluid with 250/mm 3 leukocytes, 90% monocytes, increased protein, and decreased glucose (Choice D) is consistent with a viral, fungal, or mycobacterial meningitis. In contrast, bacterial meningitis will have a predominance of neutrophils.",
+    "image": null,
+    "id": "EM-2-5",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 6,
+    "questionStem": "A 42-year-o ld woman comes to the emergency department because of a 2-day history of moderate, intermittent right upper abdomina l pain that radiates to her right shoulder blade. The pain typically occurs 30 minutes after eating and is associated with nausea and vomiting. She says she has not eaten much today but continues to have pain. She also had a tem perature of 38.3°C (101 °F) earlier. She has no history of similar symptoms. She has mild asthma treated with an albutero l inhaler as needed . She has no history of operative procedures and has no known drug allergies. Her current temperature is 38.1 °C (100.5°F), pulse is 92/min, respirations are 16/min, and blood pressure is 136/72 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 100%. The abdomen is soft; there is tenderness to palpation of the right upper quadra nt. The patient ceases inspiration during palpation of the right upper quadra nt. Laboratory studies show: Hematocrit Leukocyte count Platelet count Serum Na+ K+ HCO -3 Bilirubin, total Direct AST ALT Lipase 38% 13,000/mm 3 (13 x 109/L) 284,000 /mm 3 (284 x 109/L) 134 mEq/L (134 mmol/L) 3.5 mEq/L (3.5 mmol/L) 21 mEq/L (21 mmol/L) 2.8 mg/dL (47.88 µmol/L) 1.2 mg/dL (20.5 µmol/L) 243 U/L 187 U/L 62 U/L [N=14-280] Urinalys is shows no abnormalities. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Endoscopy and colonoscopy",
+      "B": "Ketorolac therapy",
+      "C": "Methylpredniso lone therapy",
+      "D": "Piperacillin-tazoba ctam therap Yi",
+      "E": "Placement of a nasogastric tube"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Acute cholecystitis occurs secondary to obstruction of the cystic duct from a gallstone, which results in subsequent inflammation of the gallbladder wall. Risk factors for developing gallstones include female gender, multiparity, increasing age, and obesity. High rates of gallstone formation are also seen after periods of rapid weight loss, though the mechanism by which this occurs is not fully understood. Acute cholecystitis typically presents with fever, abdominal pain, and tenderness to palpation in the right upper quadrant, often in a • - -· ' . - .... - . - •• .. - . - ·- • - . •• - - . - • - - . ·- .... ·- .. - - • - -· .. •• - ·-r ~, ~ ~ r, Previous Next Score Report Lab Values Calculator Help Pause https://t.me/USMLENBME2CK Exam Section: Item 6 of 50 National Board of Medical Examiners ■ Mark Emergency Medicine Self-Assessment Correct Answer: D. Acute cholecystitis occurs secondary to obstruction of the cystic duct from a gallstone, which results in subsequent inflammation of the gallbladder wall. Risk factors for developing gallstones include female gender, multiparity, increasing age, and obesity. High rates of gallstone formation are also seen after periods of rapid weight loss, though the mechanism by which this occurs is not fully understood. Acute cholecys titis typically presents with fever, abdominal pain, and tenderness to palpation in the right upper quadrant, often in a patient with a history of biliary colic and cholelithiasis. The pain may also radiate to the right shoulder or interscapular region. It may be distinguished from biliary colic by its constant rather than intermittent nature and associated findings of fever and leukocyto sis. Abdominal ultrasonography is the first-line diagnostic examinat ion for the evaluation of potential acute cholecystitis. Characteristic ultrasonography findings of acute cholecystitis include gallbladder wall thickening and hyperemia, pericholecystic fluid, presence of gallstones, a dilated cystic duct or common bile duct, and a sonographic Murphy sign (pain with compression directly over the gallbladder). Treatment includes supportive therapy, intravenous fluids, intravenous antibiotics, and urgent surgical resection of the gallbladder (cholecystectomy). Intravenous antibiotic therapy should cover Gram-negative rods and anaerobes, making piperacillin­ tazobactam therapy the most appropriate next step.",
+    "incorrectExplanation": "nd E. Endoscopy and colonoscopy (Choice A) are used to evaluate gastrointestinal bleeding, which can present with fatigue, hematemesis, hematochezia, and melena. Endoscopic retrograde cholangiopancreatography can be performed if there is concern for choledocholithiasis, but antibiotics are a more appropriate initial next step. Ketorolac therapy (Choice B) may be useful in managing this patient's pain. However, it is more pertinent to start antibiotic therapy as soon as possible to prevent complications of acute cholecystitis, such as abscess formation or bacteremia. Methylprednisolone therapy (Choice C) is used in the treatmen t of allergic, autoimmune, and inflammatory conditions, such as autoimmune hepatitis, Crohn disease, or ulcerative colitis flares. This patient has localized right upper quadrant pain, associated with fever, leukocytosis, and mildly increased bilirubin and hepatic transaminase s, making acute cholecystitis the more likely diagnosis. Placement of a nasogastric tube (Choice E) is utilized in small bowel obstruction, which presents with nausea, emesis, abdominal pain, distension, and constipation or obstipation, most commonly in a patient with a history of previous abdomina l surgery. While this patient is having nausea and emesis, her pain is localized to her right upper quadrant, making acute cholecys titis more likely. Educationa l Objective: Acute cholecystitis occurs secondary to cystic duct obstruction by a gallstone. It presents with fever and right upper quadrant abdominal pain, in addition to leukocytosis, and potential mild hyperbilirubinemia and transaminitis. Treatment includes supportive therapy, intravenous fluids, antibiotics, and urgent surgical resection. Antibiotic therapy should include coverage of Gram­ negative rods and anaerobes, such as that provided by piperacillin-tazobactam therapy.",
+    "image": null,
+    "id": "EM-2-6",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 7,
+    "questionStem": "A 78-year-old woman is brought to the emergency department by paramedics because of a 1-day history of generalized weakness and confusion . Medical history includes mild dementia , hypertension, and osteoporosis . Medications are alendronate , atenolol, and donepezil. On arrival, the patient appears ill. She is oriented to person but not to place or time. Her temperature is 35.4 °C (95.7°F), pulse is 128/min, respirations are 22/min, and blood pressure is 76/50 mm Hg. The remainder of the physical examination shows no abnormalities. Urinalysis shows: Leukocyte esterase 2+ WBC 50-100 /hpf RBC 10-2Wh~ A central venous catheter is inserted while the patient is lying supine. Ceftriaxone and 0.9% saline (2 L) are administered during the first hour. After fluid resuscitation , central venous pressure is 2 mm Hg (N=3-8 ). Which of the following is the most likely explanation for this finding?",
+    "choices": {
+      "A": "Anaphylaxis from ceftriaxone",
+      "B": "Dehydration",
+      "C": "Failure to place the patient in Trendelenburg position",
+      "D": "Improper placement of the central venous cathete",
+      "E": "Vasodilation caused by septic shock"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "This patient demonstrates persistently decreased central venous pressure despite fluid resuscitation , which is suggestive of vasodilation caused by septic shock. The Third International Consensus Definitions for Sepsis and Septic Shock defined septic shock by a vasopressor requirement to maintain mean arterial pressure greater than 65 mm Hg or a serum lactate concentration greater than 2 mmol/L despite fluid resuscitation. This patient presents with findings concerning for a urinary tract infection as a source, with a urinalysis demonstrating increased WBCs and leukocyte esterase . This is the likely cause of the patient's probable bacteremia and sepsis, which predisposed her to developing septic shock. Septic shock is characterized by profound circulatory dysregulation causing abnormal peripheral vasodilation , which results in decreased systemic vascular resistance, decreased mean arterial pressure, and consequent organ hypoperfusion and dysfunction.",
+    "incorrectExplanation": "nd D. Anaphylaxis from ceftriaxone (Choice A) is typically accompanied by respiratory and cutaneous findings such as wheezing, flushing, or urticaria. Dehydration (Choice B) is unlikely in this patient whose central venous pressure did not respond to 2 L of intravenous 0.9% saline. !!- - ••••• -· ••• - • - -· ' •• • - ..... - •-· - - • ··- - - -· •• - •••• -· •• . - ·- - • ·- ,. ~, ~ P",
+    "image": null,
+    "id": "EM-2-7",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 8,
+    "questionStem": "A 66-year-o ld woman is brought to the emergency department (ED) from the skilled nursing facility because of a 1-day history of shortness of breath. Staff noted that her breathing has been more labored since yesterday; earlier today, pulse oximetry on room air done as part of routine vital sign assessment showed an oxygen saturation of 88%. She has morbid obesity, hypertension, type 2 diabetes mellitus, coronary artery disease , obstructive sleep apnea , and dementia. Medications are metoprolol, amlodipine , isosorb ide, glyburide, metformin, aspirin, and donepezil. She has no known allergies. BMI is 34 kg/m2 • She is somnolent but arousab le and states her correct name. Her temperature is 36.2°C (97.2°F), pulse is 108/min, respirations are 24/min, and blood pressure is 154/86 mm Hg. Pulse oximetry on 6 L/min supplementa l oxygen via nasal cannula shows an oxygen saturation of 94%. Auscultation of the lungs discloses diffuse diminished breath sounds with shallow respirations. Cardiac examination discloses tachycardic and regular rhythm with normal heart sounds. Bilevel positive pressure ventilation is begun shortly after arrival to the ED. Twenty minutes later, vital signs and physical examination findings are unchanged . Arterial blood gas analysis shows: pH 7.18 Pco 2 94 mm Hg (12.5 kPa) Po 2 66 mm Hg (8.78 kPa) HCO 3- 36 mEq/L (36 mmol/L) Chest x-ray shows hypoinflation. Which of the following is the most appropriate next step in treatme nt?",
+    "choices": {
+      "A": "Adjust bilevel positive pressure ventilation settings",
+      "B": "Administer albuterol",
+      "C": "Administer helium and oxygen",
+      "D": "Administer methylprednisolone",
+      "E": "Intubate the patient"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "This patient is presenting with shortness of breath and shallow respirations with associated hypercarbic respiratory failure as seen on arterial blood gas (ABG) analysis. This patient likely has underlying obstructive lung disease secondary to obstructive sleep apnea or obesity hypoventilation syndrome, as evidenced by an increased HCO 3- indicating a compensatory metabolic alkalosis in the setting of respiratory acidosis. Nevertheless, and regardless of the reason for the derangement, this patient's hypercarbia is severe, acute on chronic, and causing persistent respiratory acidosis as evidenced by a decreased pH in spite of noninvasive and appropriate corrective measures. Hypercarbia is the most likely underlying cause of the patient's decreased level of consciousness and is likely compounding baseline deficits from dementia. Noninvasive positive pressure ventilation is often the first step in the management of hypercarbic respiratory failure, but if it is insufficient, as in this case with continued altered mental status and severe acidosis, endotracheal intubation to protect the airway and facilitate invasive positive pressure ventilation is necessary. • • • !a • • ! : - •• • r ~, ~ ~ r, Previous Next Score Report Lab Values Calculator Help Pause https://t.me/USMLENBME2CK Exam Section : Item 8 of 50 National Board of Medical Examiners ■ Mark Emergency Medicine Self-Assessment Chest x-ray shows hypoinflation. Which of the following is the most appropriate next step in treatment? -- A) Adjust bilevel positive pressure ventilation settings B) Administer albuterol C) Administer helium and oxygen D) Administer methylprednisolone E) Intubate the patient Correct Answer: E. This patient is presenting with shortness of breath and shallow respirations with associated hypercarbic respiratory failure as seen on arterial blood gas (ABG) analysis . This patient likely has underlying obstructive lung disease secondary to obstructive sleep apnea or obesity hypoventilation syndrome , as evidenced by an increased HC0 3- indicating a compensatory metabolic alkalosis in the setting of respiratory acidosis . Nevertheless , and regardless of the reason for the derangement , this patient's hypercarbia is severe , acute on chronic , and causing persistent respiratory acidosis as evidenced by a decreased pH in spite of noninvasive and appropriate corrective measures. Hypercarbia is the most likely underlying cause of the patient's decreased level of consciousness and is likely compounding baseline deficits from dementia . Noninvasive positive pressure ventilation is often the first step in the management of hypercarbic respiratory failure, but if it is insufficient, as in this case with continued altered mental status and severe acidosis, endotracheal intubation to protect the airway and facilitate invasive positive pressure ventilation is necessary . Incorrect Answers : A, B, C, and D. Adjusting bilevel positive pressure ventilation settings (Choice A) would be appropriate if the patient showed a positive response to initial treatment or if initial settings were incorrect or inadequate. However, the patient's mental status remains unchanged , making intubation a more appropriate next step. Administering albuterol, helium, oxygen , or methylprednisolone (Choices B, C, and D) can be helpful in the setting of a chronic obstructive pulmonary disease exacerbation and may be helpful in this patient with hypercarbic respiratory failure . However, medical management should follow endotracheal intubation , which is the most appropriate next step. Educational Objective : Hypercarbic respiratory failure can present with shortness of breath , shallow respirations , and altered mental status. If noninvasive positive pressure ventilation does not improve the patient's respiratory status, endotracheal intubation is the most appropriate next step. r ~, ~ p r, Previous Next Score Report Lab Values Calculator Help Pause • ...",
+    "incorrectExplanation": null,
+    "image": null,
+    "id": "EM-2-8",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 9,
+    "questionStem": "A 53-year-o ld woman comes to the emergency department because of two episodes of dark brown emesis during the past 4 hours. She has taken ibuprofen daily during the past 2 weeks because of chronic, intermittent low back pain. She has no history of serious illness and does not take any other medications. She has no known allergies. She drinks two to three glasses of wine daily. She has smoked one pack of cigarettes daily for the past 30 years. Her temperatu re is 36.6°C (97.9°F), pulse is 116/min, respirations are 18/min, and blood pressure is 92/54 mm Hg. Pulse oximetry on room air shows an oxygen saturat ion of 97%. Lungs are clear to auscultat ion. Abdomen is soft, and there is mild tenderness to palpation over the epigastric region. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Administration of omeprazole",
+      "B": "Administration of 0.9% saline",
+      "C": "Insertion of a nasogast ric tube",
+      "D": "Tagged red blood cell scan",
+      "E": "Upperendoscopy"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Gastritis classica lly presents with left upper quadrant or epigastric pain, nausea, and vomiting. If erosive gastritis or an ulcer is present, emesis may be blood-streaked, frankly bloody, or coffee-ground in character. If bleeding has been present for several hours, stool may be melanotic. Gastritis common ly occurs from alcohol abuse, excess use of nonsteroidal anti-inflammatory drugs (NSAIDs), steroids, infections, or smoking. Other causes of upper gastrointestina l (GI) bleeding include esophagitis, esophagea l varices, peptic ulcer disease, and arteriovenous malformations. Regardless of the cause of bleeding, any patient presenting with tachycardia, dry mucous membranes, and signs of hemorrhagic shock (such as this patient's borderline hypotension) should receive immediate intravenous fluid resuscitation, typically with isotonic crystalloids such as 0.9% saline. Massive hematemesis, persistent hemodynamic instability, or concern for active bleeding should prompt emergent blood transfusion.",
+    "incorrectExplanation": "nd E. Omeprazole (Choice A), a proton pump inhibitor, is the first-line pharmacotherapy for patients presenting with gastroesophagea l reflux (GERO), reflux esophagitis, and peptic ulcer disease. While it may be helpful in the treatment of this patient, the first step in management of a patient who is hypotensive and tachycardic is fluid resuscitation. Insertion of a nasogastric tube (Choice C) has a role in gastric decompression in cases of small bowel obstruction but does not have a primary role in the management of undifferentiated upper gastrointestina l bleeding. It is arguably contraindicated in cases of esophageal varices, as placement of the tube may exacerbate a variceal bleed by disrupting a thrombus or worsening the culprit bleeding lesion. . ----- -------- ---- ---- •",
+    "image": null,
+    "id": "EM-2-9",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 10,
+    "questionStem": "A 23-year-old man with major depressive disorder is brought to the emergency department by paramedics after jumping from a third-story apartment window in a suicide attempt. The fall was witnessed by the patient's girlfriend, who says that he has been despondent since losing his job . En route to the hospital , he lost consciousness and bag-valve-mask ventilation was begun. A cervical collar is in place. The patient withdraws to painful stimuli but does not open his eyes. His temperature is 36°C (96.8°F), pulse is 100/min, respirations are 7/min, and blood pressure is 90/50 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 96%. Examination shows contusions and lacerations over the scalp. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "CT scan of the head",
+      "B": "Determination of Glasgow Coma Scale score",
+      "C": "Full neurologic examination",
+      "D": "Orotracheal intubation",
+      "E": "X-rays of the cervical spine"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "The initial evaluation of a critically ill patient includes assessing the airway, breathing , circulation, central nervous system , and any external threats to morbidity or mortality. Airway management should take place prior to further management. In acute trauma , airway and breathing must be managed before circulation and central nervous system lesions. A patient with a compromised airway and insufficient respiratory drive is at immediate risk of decompensation and death. Examples of airway compromise include facial or neck trauma , airway foreign bodies, expanding neck hematomas , uncontrolled emesis, or loss of airway protective reflexes (altered mental status). Orotracheal intubation and ventilation is the most appropriate next step for this patient with a depressed Glasgow Coma Scale score, bradypnea , and obtundation or coma.",
+    "incorrectExplanation": "nd E. CT scan of the head (Choice A) will be critical in the diagnosis and management of this patient with head trauma. However, any diagnostic imaging should be performed after the evaluation and management of the patient's airway, breathing , and circulation. Determination of the Glasgow Coma Scale score (Choice B) is a part of the primary survey after airway, breathing , and circulation. While the Glasgow Coma Scale score can help determine the need for intubation, this patient will already require airway management caused by a decreased respiratory rate and altered mental status. Full neurologic examination (Choice C) is appropriate in the setting of head trauma and altered mental status; however, a detailed examination and further secondary survey should be performed after managing the patient's airway, breathing , and circulation. - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - -- - - - - - - - - - - r ~, ~ p",
+    "image": null,
+    "id": "EM-2-10",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 11,
+    "questionStem": "A 25-year-o ld man comes to the emerge ncy department because of a 1-week history of right knee pain and swelling and a 2-day history of pain and swelling in his left elbow. He has not had any other symptoms. He has no history of serious illness and takes no medications. His temperature is 38°C (100.4 °F), pulse is 80/min, respirations are 16/min, and blood pressure is 140/70 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 100%. Physical examination discloses a swollen and erythemato us left elbow. Passive and active range of motion of the elbow is limited. Radial pulses are 2+ bilaterally. Examination of the right knee discloses swelling and erythema. Active and passive range of motion of the knee is limited. Arthrocentesis of the knee is done, and results of synov ial fluid analysis show a leukocyte count of 75,000/mm3 (75 x 109/L). Gram stain of the fluid shows no organisms. Microscop ic examination is negative for crystals. In addition to culturing the synovia l fluid of the elbow, which of the following is the most appropr iate next step in management?",
+    "choices": {
+      "A": "Cultures of urethral swab",
+      "B": "lntraarticular injection of triamcinolone",
+      "C": "Oral azithromycin therapy",
+      "D": "Oral colchicine therapy",
+      "E": "Serum antistreptolys in O test"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Neisseria gonorrhoeae is a sexually transmitted Gram-negative diplococci and can cause pharyngitis, urethritis, epididymitis, vaginitis, cervicitis, and pelvic inflammatory disease. It can also cause disseminated infection if it persists untreated. When patients present with disseminated infection, there are often no proceeding symptom1s suggesting a sexually transmitted infection. These patients present with fevers, malaise, polyarthritis or oligoarthritis, tenosynovitis, and vesiculopustular dermatitis. However, patients may also present solely with purulent arthritis of one or more extremity joints (eg, knees, elbows, ankles), as in this patient. Further evaluation of a septic joint (as evidenced in this patient by swollen, erythematous joints with limited passive and active ranges of motion) includes arthrocentesis for synovial fluid analysis. In the setting of gonococcal arthritis, the synovial fluid leukocyte count will be greater than 20,000 to 50,000/mm 3 but no organisms will be visible on Gram stain because Neisseria gonorrhoeae is an intracellular organism. Blood cultures and cultures of the synovial fluid should also be obtained. Therefore, in this patient whose arthralgias are likely caused by disseminated gonorrhea, cultures of a urethral swab should also be collected to diagnose an underlying gonococcal infection.",
+    "incorrectExplanation": "nd E. lntraarticular injections of triamcinolone (Choice B) can be used in the management of some causes of joint pain, such as that caused by rheumatoid arthritis or osteoarthritis. Injection of glucocorticoids into a septic joint is contraindica ted, as it can lead to worsening of the infection. Oral azithromycin therapy (Choice C) may be warranted in the treatment of this patient. It is effective against Chlamydia trachomatis, - - - - - - - -- -- - - - - - - - - - - - - - - - - ..",
+    "image": null,
+    "id": "EM-2-11",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 12,
+    "questionStem": "A 37-year-o ld woman comes to the emergency department because of a 9-hour history of severe headache and vomiting that began sudden ly. She describes the headache as the \"worst of my life.\" It began while she was working on her computer. She has not had fever, trauma to the head, or sensitivity to light or sound. She has no history of serious illness and takes no medications. Her temperature is 37°C (98.6°F), pulse is 92/min, respirations are 16/min, and blood pressure is 124/78 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 99%. Examination shows no neck pain or rigidity. Neurolog ic examination shows no focal findings. A CT scan of the head shows no abnormalities. Which of the following is the most appropriate next step in evaluation?",
+    "choices": {
+      "A": "Carotid ultrasonography",
+      "B": "EEG",
+      "C": "Lumbar puncture",
+      "D": "Measurement of erythrocyte sedimentation rate",
+      "E": "MRI of the brain"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Noncontrast CT scan of the head is a highly sensitive, but not perfectly sensitive method for the detection of subarachnoid hemorrhage (SAH). The sensitivity of a CT scan for SAH decreases over time from the onset of bleeding or with smaller volume hemorrhages. Patients with a presenting history concerning for SAH who have a negative CT scan should undergo emergent lumbar puncture. Lumbar puncture is useful for identifying findings of SAH, including xanthochromia, increased opening pressure, or an increased cerebrospinal fluid concentration of red blood cells that does not clear across several tubes of collected fluid. CT scan is most sensitive to detect SAH when performed within 6 hours from the onset of symptoms and may reveal hyperdense blood products in the subarachnoid space or ventricles.",
+    "incorrectExplanation": "nd E. Carotid ultrasonography (Choice A) is useful for the diagnosis of carotid stenosis but has little role in the diagnosis of SAH. EEG (Choice B) is useful for the evaluation of seizures but has little role in the diagnosis of SAH. Measurement of erythrocyte sedimentation rate (Choice D) is useful for the diagnosis of temporal arteritis. Temporal arteritis is rare in patients younger than age 50 years. It typically presents with unilateral or bilateral temporal headaches of subacute onset that are often accompanied by jaw claudication, amaurosis fugax, or sudden vision loss. This patient's history of severe, acute headache and vomiting is more consistent with SAH. MRI of the brain (Choice E) has high sensitivity for the detection of SAH but is a time-consuming study and will result in a delay in - - -- - - -- - - - - - - - - - - - - -- - - -- -- - - - - - - - - - - - .",
+    "image": true,
+    "id": "EM-2-12",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 13,
+    "questionStem": "A 62-year-o ld woman is brought to the emergency department by her husband because of a 2-day history of generalized weakness. The husband reports that the patient has had a poor appetite during this time and has not gotten out of bed often. Today, he noticed that she was not able to provide coherent answers to questions. The patient's medical history includes hypertens ion, type 2 diabetes mellitus, coronary artery disease with prior stenting, and bipolar disorder. He notes that she has not taken any of her daily medications for the past 5 days. Her prescribed medications are lisinopri l, hydroch lorothiazide , metformin , glybur ide, and lamotrigine. She has no known allerg ies. She does not drink alcoholic beverages , smoke cigarettes, or use illicit drugs. On arrival , she is drowsy but responds to her name . She is oriented to person only and is unable to engage in a coherent conversat ion. Her temperatu re is 37 .3°C (99.2°F), pulse is 128/min, respirations are 20/min, and blood pressure is 178/94 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 97%. Physical examinat ion shows dry mucous membranes. Lungs are clear to auscu ltation. Heart sounds are norma l. The abdomen is soft and nontender. She moves all four extrem ities spontaneously but does not comp ly with a full neurologic examination. Fingerstick blood glucose concentration is determ ined to be too high to calculate with a glucomete r. Serum studies show: Na+ K+ HCO -3 Glucose 128 mEq/L (128 mmol/L) 3.0 mEq/L (3 mmol/L) 20 mEq/L (20 mmol/L) 950 mg/dl (52. 72 mmol/L) In addition to 0.9% saline, which of the following is the most appropr iate to administer?",
+    "choices": null,
+    "correctAnswer": "D",
+    "correctExplanation": "Potassium should be administered in conjunction with 0.9% saline in this patient with hyperglycemic hyperosmolar syndrome (HHS) and hypoka lemia. HHS is a consequence of profound hyperglycem ia and manifests with increased glucose concentration (often above 600 mg/dl), altered mental status, and hypovolemia in the absence of ketosis. It is more common than diabetic ketoacidosis (OKA) in patients with type 2 diabetes mellitus. Glucose is an osmotically active substrate and can, at high concentrations, lead to a dramatic increase in the osmolality of the serum with consequent mental status changes. Other common laboratory findings include pseudohyponatremia, increased serum osmolality, and hypokalemia without a metabolic acidosis. The treatment is with intrave nous hydration and insulin. Intravenous potassium supplementation should always be given before insulin if the serum potassium concentration is below 3.5 mEq/L as insulin causes potassium to shift intracellularly, which can lead to life-threatening hypokalemia with .. -· -· - . - - .... - - •• •- -. ·- .. - .... -· - ..... ·- ..... -· -· -· .... - ... . . r ~, ~ ~ r, Previous Next Score Report Lab Values Calculator Help Pause https://t.me/USMLENBME2CK Exam Section: Item 13 of 50 National Board of Medical Examiners ■ Mark Emergency Medicine Self-Assessment • - I \"' I E) Sodium bicarbonate Correct Answer: D. Potassium should be administered in conjunction with 0.9% saline in this patient with hyperglycemic hyperosmolar syndrome (HHS) and hypoka lemia. HHS is a consequence of profound hyperglycem ia and manifests with increased glucose concentration (often above 600 mg/dl), altered mental status, and hypovolemia in the absence of ketosis. It is more common than diabetic ketoacidosis (OKA) in patients with type 2 diabetes mellitus. Glucose is an osmotically active substrate and can, at high concentrations, lead to a dramatic increase in the osmolality of the serum with consequent mental status changes. Other common laboratory findings include pseudohyponatremia, increased serum osmolality, and hypokalemia without a metabolic acidosis. The treatment is with intravenous hydration and insulin. Intravenous potassium supplementation should always be given before insulin if the serum potassium concentration is below 3.5 mEq/L as insulin causes potassium to shift intracellularly, which can lead to life-threatening hypokalemia with consequent cardiac arrhythmias and death. The potassium concentration should be monitored frequently during intravenous insulin administration and should be repleted when it falls below 3.5 mEq/L.",
+    "incorrectExplanation": "nd E. Calcium gluconate (Choice A) should be given to patients with hypocalcemia or acute hyperkalemia. HHS does not typically result in hypocalcemia or acute hyperka lemia, so administration is not necessary unless the measured value is low. Hypertonic saline (Choice B) is not appropriate for this patient and could potentially worsen her condition. Hypertonic saline is typically reserved for patients with increased intracranial pressure and those with severe, symptomatic hyponatremia . Insulin (Choice C) is a necessary part of the treatment algorithm for HHS, but when given before repleting potassium, it can result in life-threatening hypokalemia secondary to the transce llular shift of potassium into cells. Thus, potassium should be repleted first. Sodium bicarbonate (Choice E) is occasional ly indicated for patients with severe acidosis. This patient's bicarbonate is normal, so she does not require sodium bicarbonate. Educational Objective: HHS may occur in patients with type 2 diabetes mellitus as either an initial presentation of the disease, or in patients with uncontrolled disease who fail to take their medications appropriate ly. It presents with profound hyperglycemia and altered mental status from increased plasma osmolality and is treated with intravenous crystalloids and insulin. Potassium should always be repleted first if less than 3.5 mEq/L, as insulin therapy causes a transcellula r shift of potassium into the cell and can result in life­ threatening hypoka lemia.",
+    "image": null,
+    "id": "EM-2-13",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 14,
+    "questionStem": "A 20-year-o ld man is brought to the emergency department 45 minutes after he developed nausea, unsteady gait, muscle cramps, and headac he while running in a marathon. On arrival, he is confused and disoriented. His temperature is 40°C (104 °F), pulse is 155/min, and blood pressure is 100/60 mm Hg. Examination shows warm skin and diaphoresis. Neurologic exam ination shows no focal findings. Which of the following is the most likely explanation for these findings?",
+    "choices": {
+      "A": "Depletion of total body magnesium",
+      "B": "Depletion of total body potass ium",
+      "C": "High-output cardiac failure",
+      "D": "Inadequate dissipation of body heat",
+      "E": "Release of creatine kinase from muscle cells"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Athletes are at an increased risk for heat exhaustion or heat stroke as a result of strenuous exercise in hot temperatures and increased humidity. Other risk factors include lack of acclimatization, obesity, dehydration, and poor physical fitness. During exertion, the body is able to dissipate heat by increasing blood flow to skin and producing sweat to facilitate evaporative cooling. However, when ambient temperature is increased and humidity is high, these mechanisms are less effective at dissipating heat, potentially resulting in heat exhaustion or heat stroke. Heat exhaustion is characterized by exercise intolerance, increased core body temperature, and the absence of neurologic disturbances (eg, altered mental status, confusion, or seizure). Heat stroke is characterized by hyperthermia, altered mental status or neurologic deficits, and variable physical signs and symptoms depending on severity. In this case, this patient was running a marathon and was susceptible to overheating from the environment. His examination shows tachycardia, hypotension, and warm, flushed skin. Laboratory work-up may disclose hypernatremia, hyperchloremia, hyperkalemia, along with increased serum creatinine, blood urea nitrogen, and creatine kinase concentrations. Management of heat-related illness involves removing the individual from the heat, removing excess clothing, and initiating cooling measures such as immersion in cool water or evaporative cooling.",
+    "incorrectExplanation": "nd E. While exercise can lead to the depletion of magnesium (Choice A), it would not explain the patient's hyperthermia and altered mental status. Exercise typically causes hyperkalemia, not hypokalemia (Choice B) as a result of potassium release from muscle cells. Potassium derangement would generally only cause muscle cramps and ECG abnormalities and would not completely explain the clinical picture in this case.",
+    "image": null,
+    "id": "EM-2-14",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 15,
+    "questionStem": "A previous ly healthy 3-year-old boy is brought to the emergency department 1 hour after he fell off a boat during a lake party. He was submerged for approximately 1 minute and initially had difficulty breathing and a severe cough when pulled from the water. He currently is asymptomatic. His temperatu re is 36.7°C (98.1 °F), pulse is 110/min, respirations are 30/min, and blood pressure is 90/56 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 92%. Physical examination shows no abnormalities. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Discharge home and recomme nd follow up with his primary care provider in 1 week",
+      "B": "Intravenous administration of antibiotics",
+      "C": "Intravenous administration of corticosteroids",
+      "D": "Observation for serial examination",
+      "E": "Rapid sequence intubation"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Near-drowning in children can result in a variety of clinical presentations depending on the severity of the drowning incident. Patients can present with aspiration, hypoxemia, respiratory distress, and laryngospasm. Hypoxemia can lead to ischemic neuronal damage resulting in cerebral edema. In the case of drowning, aspirated fluid causes local inflammation in the lung, along with the dilution of surfactant, leading to impaired compliance and airspace infiltration. This can result in persistent and severe hypoxia despite management with positive end-expiratory pressure and increased fraction of inspired oxygen. Asymptomatic patients should be observed in the emergency department and admitted to the hospital if any clinical deterioration occurs. Symptomatic patients or patients who have continued hypoxia should be admitted to the hospital and be monitored until symptoms and hypoxia resolve. Point­ of-time evaluation is generally insufficient in these cases, as near-drowning can result in progressively worsening inflammation and hypoxia over hours to days, such that an initially normal evaluation may be falsely reassuring.",
+    "incorrectExplanation": "nd E. Discharge home and follow up in 1 week (Choice A) is inappropriate in this patient who has continued mild hypoxia on room air. The patient should be admitted for observation, as aspirated fluid can cause delayed inflammation and the patient is at risk for potential clinical deterioration and respiratory distress. Intravenous administration of antibiotics (Choice B) or corticosteroids (Choice C) would not be appropriate. There is no strong evidence to support the use of prophylactic antibiotics or routine steroids in near-drowning victims. Antibiotics should only be used in patients who later develop a pulmonary infection. Rapid sequence intubation (Choice E) would be appropriate in patients with severe respiratory distress, hypoxic and/or hypercarbic",
+    "image": null,
+    "id": "EM-2-15",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 16,
+    "questionStem": "A 23-year-o ld woman with asthma comes to the emergency department because of a 24-hour history of abdominal pain and mild nausea. She says the pain was initially genera lized but is now concentrated in the right lower abdomen. She has not had vomiting, urinary symptoms, or vaginal discharge or bleeding. Menses occur at regular intervals and last 4 days. Her last menstrua l period was 3 weeks ago. She is sexually active with one male partner; they use condoms consistently. A home pregnancy test was negative. On arrival, she appears uncomfortable. Her temperatu re is 38.8°C (101.8°F), pulse is 113/min, respirations are 22/min, and blood pressure is 119/54 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 98%. Abdomina l examinat ion shows tenderness to palpation in the right lower quadrant with rebound tenderness and guarding. Pelvic examination shows no abnorma lities. While awaiting surgical evaluation, which of the following is the most appropriate pain management?",
+    "choices": {
+      "A": "Intravenous ketorolac",
+      "B": "Intravenous morphine",
+      "C": "Oral acetaminophen",
+      "D": "Oral oxycodone",
+      "E": "Withhold medication prior to surgical evaluation"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "This patient is presenting with fever, abdomina l pain, and tenderness in the right lower quadrant, raising suspicion for appendicitis. Appendicitis typical ly presents with right lower quadrant abdominal pain that is often periumbi lical at onset, along with nausea, anorexia, fever, leukocytosis, and tenderness to palpation in the right lower quadrant on examination. This patient also has signs of complicated or ruptured appendicitis presenting with peritoneal signs such as rebound tenderness and guarding on examination. Patients with appendicitis and other intra-abdominal infections typically have acute, severe pain that should be treated appropriately. Morphine is an opioid analgesic used to manage moderate to severe pain. It acts on µ-opioid receptors to provide pain relief and is available in oral, intravenous, intramuscular, and suppository formulations. It is a potent analgesic that would be effective in treating this patient's pain.",
+    "incorrectExplanation": "nd E. Intravenous ketorolac (Choice A) can be used to treat moderate pain, but this patient likely has severe pain from a complicated appendicitis with peritoneal signs on examination. It would likely be inadequate in treating this patient's pain. Additionally, this patient will require surgery, and ketorolac, a nonsteroidal anti-inflammatory drug, presents an adverse effect of bleeding because of its effect on prostaglandin pathways. Oral acetaminophen (Choice C) and oral oxycodone (Choice D) should not be given to this patient awaiting a surgical consultation. Oral medications should be avoided in patients who may require em1ergent surgery, such as in this patient, because of the risk for aspiration while under anesthesia.",
+    "image": null,
+    "id": "EM-2-16",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 17,
+    "questionStem": "A 45-year-o ld woman comes to the emergency department because of a 2-day history of pain, swelling, and redness in her right knee. She is unable to bear weight on the knee. She has not had fever or trauma. The patient has hypertension treated with hydroch lorothiazide. Her temperatu re is 37°C (98.6°F), pulse is 90/min, respirations are 16/min, and blood pressure is 140/70 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 99%. The right knee is swollen, erythematous, and warm to touch. Passive range of motion of the knee is full, but active range of motion elicits mild pain. Dorsalis pedis pulses are 2+ bilateral ly. Measurement of which of the following is most likely to confirm the diagnosis?",
+    "choices": {
+      "A": "Serum C-reactive protein concentration",
+      "B": "Serum o-dimer assay",
+      "C": "Serum uric acid concentration",
+      "D": "Synovial fluid crystal analysis",
+      "E": "Synovial fluid lactic acid concentration"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Synovial fluid crystal analysis is the most appropriate test to confirm the diagnosis. This patient with right knee pain, swelling, and erythema most likely has gout and is experiencing an acute flare. Gout is an inflammatory joint disease that is caused by the precipitation of uric acid crystals in the joint space, which are highly inflammatory and lead to swelling, erythema, and pain. The most common ly affected joints are the first metatarsophalangeal (MTP) joints, but knees, elbows, wrists, and other joints can be involved. The diagnosis is made definitive ly by analysis of the joint aspirate, which will demonstrate needle-shaped crystals that are negatively birefringent under polarized light. Aside from synovia l fluid crystal analysis, it is also important to perform a cell count and culture on the joint aspirate to rule out infection as septic arthritis and acute gout attacks can exist simultaneously in the same patient and in the same joint. Treatment for acute gout attacks includes the use of nonsteroidal anti-inflammatory drugs (NSAIDs), colchicine, or steroids. Long­ term urate lowering therapy is indicated in patients with kidney disease, tophaceous gout, and those with frequent gout attacks.",
+    "incorrectExplanation": "nd E. Serum C-reactive protein concentration (Choice A) is an inflammatory marker that, while potentially increased in acute gout attacks, is nonspecific. It would not be helpful in making a diagnosis in this case. Serum d-dimer assay (Choice B) is incorrect. The d-dimer is a useful tool for patients who are thought to have a low to intermediate probability of pulmonary embolism (PE) or deep venous thrombosis (DVT). When negative, it effectively rules out a thrombus. This patient does not have signs or symptoms concerning for a PE or DVT. Serum uric acid concentration (Choice C) may be deceivingly low during acute gout flares and is not used to make a diagnosis of gout. ...",
+    "image": null,
+    "id": "EM-2-17",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 18,
+    "questionStem": "A previously healthy 36-year-old man comes to the emergency department because of a 1-hour history of nausea and sharp, intermittent pain in his right midback that radiates to his right flank. He has had two episodes of vomiting during this time. He takes no medicat ions. His temperat ure is 37.0°C (98.6°F), pulse is 90/min, respirations are 20/min, and blood pressure is 140/60 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 100%. Physical exam ination shows tenderness to percussion at the right costovertebral angle. No abdom inal tenderness is noted. A CT scan of the abdomen is shown. The most appropriate next step is adm inistration of which of the following?",
+    "choices": {
+      "A": "Allopurinol",
+      "B": "Aspir in",
+      "C": "Ceftriaxone",
+      "D": "Esmolol",
+      "E": "Tamsulosin"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Renal calculi typically cause symptoms of unilatera l acute flank or back pain, nausea, vomiting, and hematuria. There are three main r ~, ~ ~ r, Previous Next Score Report Lab Values Calculator Help Pause .... https://t.me/USMLENBME2CK Exam Section : Item 18 of 50 National Board of Medical Examiners ■ Mark Emergency Medicine Self-Assessment B) C) D) E) Aspirin Ceftriaxone Esmolol Tamsulosin Correct Answer: E. Renal calculi typically cause symptoms of unilatera l acute flank or back pain, nausea, vomiting, and hematuria. There are three main sites of anatomic narrowing along the ureter that may obstruct the passage of a calculus: at the ureteropelvic junction of the renal pelvis and the ureter, the ureterovesical junction as the ureter enters the posterior bladder, and at the pelvic inlet when the ureter crosses the common iliac vessel bifurcation. This patient 's CT scan demonstrates a ureteral calculus at the site of the right ureterovesical junction. The initial management of ureterolithiasis includes oral fluid hydration, analgesia, and pharmacologic therapy to facilitate the passage of the calculus. a-Adrenergic blockers, such as tamsu losin, cause ureteral smooth muscle relaxation, which encourages passage of the calculus.",
+    "incorrectExplanation": "nd D. Allopurinol (Choice A) is usefu l for the prevention of nephrolithiasis in patients with a history of uric acid stones. Uric acid stones are often radiolucent on CT scans. Aspirin (Choice B) is a nonsteroidal anti-inf lammatory drug (NSAID) that is useful as an analgesic. However, its antip latelet effects contraindicate its use in this setting, as it increases the risk for bleeding if this patient requires extracorporeal shock wave lithotripsy or surgical ureteral stenting via cystoscopy. Ceftriaxone (Choice C) is useful for the management of pyelonephritis. Pyelonephritis also presents with acute-onset nausea, vomiting, and flank pain, but is typically accompanied by fever. Esmolol (Choice D) is a cardiose lective ~-adrenergic blocker that is useful for the management of supraventricu lar tachycardia and other tachyarrhythmias. It does not play a significant role in the management of nephrolithiasis or ureterolithiasis. Educational Objective: The initial management of uretero lithiasis includes oral fluid hydration, analgesia, and pharmacologic therapy to facilitate the passage of the calculus. a-Adrenergic blockers, such as tamsu losin, cause ureteral smooth muscle relaxation, which encourages passage of the calcu lus.",
+    "image": true,
+    "id": "EM-2-18",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 19,
+    "questionStem": "A 45-year-old man is brought to the emergency department 4 hours after the sudden onset of severe shortness of breath. He has coronary artery disease, chron ic obstructive pulmonary disease (COPD), recurrent pneumonia, and congestive heart failure. His medications are albutero l, prednisone, aspir in, and hydralaz ine. He has no known allergies . On arrival, he appears pale and has labored breathing. His temperatu re is 37.5°C (99.5°F), pulse is 124/min, respirations are 28/min, and blood pressure is 235/103 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 85% . Card iac exam ination discloses no abnormalities. Diffuse crackles are heard throughout the lung fields. Breath sounds and air movement are decreased. There is mode rate pitting edema of the lower extremities. An x-ray is shown. Wh ich of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Acute bilatera l pneumonia",
+      "B": "Cardiogenic pulmonary edema",
+      "C": "COPD exacerbation",
+      "D": "Large, left-sided pleural effus ion",
+      "E": "Pulmonary embolism"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Cardiogenic pulmonary edema results from increased filling pressures or impaired forward flow in the heart. This increases hydrostatic pressure in the pulmonary venous circulation, resulting in the transudation of fluid from the pulmonary capillaries into the pulmonary interstitial and alveolar spaces, impairing gas exchange. Cardiogenic pulmonary edema can be brought on suddenly by an increase in blood pressure (known as \"flash\" pulmonary edema), which is likely the cause in this case. Patients with cardiogenic pulmonary edema typica lly experience progressive dyspnea on exertion and then at rest, paroxysma l nocturnal dyspnea, and orthopnea. Physical examination findings include hypoxia, crackles (representing fluid-filled alveoli opening suddenly), and decreased breath sounds. Initially, crackles will be present only in the dependent regions of the lung, but with increasing severity of edema, will spread to involve the lung fields diffusely. This patient's lower extremity edema further suggests a status of volume overload. The chest x-ray also demonstrates diffuse interstitia l infiltrates, suggesting pulmonary edema.",
+    "incorrectExplanation": "nd E. Acute bilateral pneumonia (Choice A) would not explain this patient's chest x-ray findings or peripheral edema. A patient with an acute infection may also be hypotensive as a feature of sepsis rather than severely hypertensive, as in this case. COPD exacerbation (Choice C) is characterized by shortness of breath and shallow respirations with wheezing present on physica l examination. Accumu lation of carbon dioxide as a result of the inability to fully expire will also cause a respiratory acidosis, which may present with altered mental status. The patient's physical examination findings are more consistent with cardiogenic pulmonary edema. Large, left-sided pleural effusion (Choice D) would demonstrate opacification of the left hemithorax with blunting of the left costophrenic angle. Physical examination would demonstrate dullness to percussion and decreased breath sounds on the left side only. This patient's physica l examination and x-ray findings instead suggest cardiogenic pulmonary edema. Pulmonary embolism (Choice E) presents with acute onset dyspnea and may present with pleuritic chest pain. Asymmetric lower extremity edema may be present, indicating the presence of a deep venous thrombosis. However, diffuse crackles and diffuse interstitial infiltrates are not characteristic. Additionally, hypotension and hemodynamic instability would be more likely than hypertension, especially in the setting of a large enough embolus to result in tachycardia and a new oxygen requirement. Educational Objective: Cardiogenic pulmonary edema results from increased hydrostatic pressure in the pulmonary venous circulation, leading to the transudation of fluid from the pulmonary capillaries into the alveolar space. It is a feature of acute congestive heart failure exacerbation and can be triggered by severe hypertension.",
+    "image": true,
+    "id": "EM-2-19",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 20,
+    "questionStem": "A 22-year-o ld woman is brought to the emergency department because of a 6-hour history of severe right lower abdom inal pain and near loss of consciousness. She also has a 2-week history of vaginal bleeding. Her last menstrua l period was 45 days ago. Menses previous ly occurred at regular 28-day intervals . She has no history of serious illness and takes no medicat ions. She is sexually active with one male partner; they use condoms inconsistently. Her temperature is 37°C (98.6°F), pulse is 104/min, and blood pressure is 85/55 mm Hg. Abdomina l examination shows right lower quadrant tenderness on deep palpation. Pelvic exam ination shows a small amount of dark blood in the vaginal vault. The cervical os is closed, and there is no active bleeding. The uterus is soft and nontender. Laborato ry studies show a hemoglobin concentration of 10 g/dl (100 g/L) and a leukocyte count of 13,000/mm 3 (13 x 109/L). A urine pregnancy test is positive. Which of the following is the most appropr iate next step to confirm the diagnosis?",
+    "choices": {
+      "A": "CT scan of the abdomen and pelvis",
+      "B": "Measurement of serum ~-hCG concentrat ion",
+      "C": "Ultrasonography of the pelvis",
+      "D": "Urinalys is",
+      "E": "X-ray of the abdomen"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Pregnancy is suspected when there is a missed or delayed menstrual period. Ectopic pregnancy is a nonviable, abnorma l pregnancy in which the fertilized ovum implants in the fallopian tube (most common), on the ovary, within the peritonea l cavity, or in any non­ endometrial location. An ectopic pregnancy often presents with vaginal bleeding and abdominope lvic pain early in pregnancy caused by the restricted area for fetal development. Physical examination may demonstrate adnexal tenderness on the side of implantation, as well as tenderness to palpation of the lower abdomen. Ectopic pregnancy can be complicated by rupture, bleeding, and hemoperitoneum, which can present with signs of hemodynamic instability, such as tachycardia and hypotension, as in this patient. Ultrasonography can be used to evaluate for an intrauterine pregnancy and may potential ly visua lize the location of an ectopic pregnancy, making it the most appropriate next step in the management of this patient. Ectopic pregnancy can be managed medical ly, using methotrexate for small, early pregnancies, but may require salpingectomy or evacuation with laparoscopy for larger pregnancies, in cases of medical treatment failure, or in any case of complication such as rupture.",
+    "incorrectExplanation": "nd E. CT scan of the abdomen and pelvis (Choice A) may disclose the diagnosis of ectopic pregnancy. However, it exposes the patient and her fetus (if it is a viable intrauterine pregnancy) to unnecessary radiation. Ultrasonography should first be utilized to evaluate this patient. Measurement of the serum ~-hCG concentration (Choice B) is used in the evaluation of a potential ectopic pregnancy in - - -- - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ~ - - - - - - - - - - - - - - - - - - - - - - -- - - - - A •",
+    "image": null,
+    "id": "EM-2-20",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 21,
+    "questionStem": "A 70-year-o ld woman with a 20-year history of hyperlipidemia and hypertens ion is brought to the emergency department 30 minutes after an episode of facial drooping and difficulty speaking. Her symptoms lasted 30 minutes and have now resolved. Medications include lisinopril and pravastatin. She has smoked one pack of cigarettes daily for 40 years. Vital signs are within normal limits. Physical examinat ion, including neurologic examination, shows no abnormal ities. An ECG shows a normal sinus rhythm at a rate of 80/min. Noncontrast CT scan of the head shows no evidence of hemorrhage or infarct. Which of the following drugs is most appropriate to admin ister at this time?",
+    "choices": {
+      "A": "Aspirin",
+      "B": "Clopidogre l",
+      "C": "Dipyridamole",
+      "D": "Tissue plasminogen activato",
+      "E": "Warfarin"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Transient ischemic attack (TIA) is defined as a transient episode of neurologic dysfunction lasting less than 24 hours caused by focal brain, spinal cord, or retinal ischemia without evidence of infarction. This patient has developed focal neurologic deficits that resolved after 30 minutes, qualifying as a TIA. TIA can be induced by either an embolus arising from a proximal site or from temporarily decreased blood flow to a watershed area in the brain. A \"low-flow\" TIA typically lasts minutes while an embolic TIA lasts longer, as in this case. An embolic ischemic stroke involves an event in which a clot breaks off and travels to the brain, occluding blood flow within a cerebral artery. Emboli most commonly originate from proximal vessels, such as the internal carotid artery, or from an atrial thrombus. If the embolus successfully undergoes physiologic thrombolysis, blood flow is restored to the affected area and reverses the clinical symptoms. After a TIA, measures for the prevention of an ischemic stroke should be enacted. In this case, the most appropriate pharmacotherapy to administer for secondary prophylaxis of a cerebral infarction is aspirin. Hypertension and hyperlipidemia are also stroke risk factors which should be optimized, though in this case the patient is already receiving treatment for these comorbidities.",
+    "incorrectExplanation": "nd E. Clopidogre l (Choice B) or dipyridamole (Choice C) may be used as combination therapy with aspirin in patients with a TIA or stroke who are already taking aspirin. However, as this patient's only previous medications are lisinopril and pravastatin, aspirin is the first-line choice for secondary prophylaxis of a cerebral infarction. Tissue plasminogen activator (Choice D) is used for its thrombolytic properties to treat ischemic stroke provided that it can be initiated within 4.5 hours of symptom onset. Because this patient's symptoms have resolved, she does not require tissue plasminogen activator. Oral anticoagulation with warfarin (Choice E) may be indicated in a patient with atrial fibrillation who develops a TIA. However, in this",
+    "image": true,
+    "id": "EM-2-21",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 22,
+    "questionStem": "A 26-year-o ld woman comes to the emergency department because of a 3-day history of lower abdomina l pain and yellow vagina l discharge. She says her pain has increased today and that she has a fever. She has not had flank pain, urinary urgency, or vomiting. She became sexually active with a new male partner 2 weeks ago; they use condoms inconsistent ly. The patient has no history of serious illness and takes no medications. She has no known allergies. She is lying on a stretcher and is in mild distress. BMI is 22 kg/m2. Her temperatu re is 38.1 °C (100.6°F), pulse is 96/min, respirations are 14/min, and blood pressure is 124/74 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 97%. Cardiopulmonary exam ination shows no abnormalities. There is tenderness to palpation of the lower abdomen bilaterally; there is no guarding. Bowel sounds are normal. Pelvic examinat ion shows a friable cervix, cervical motion tenderness, and adnexa l tenderness bilaterally. Which of the following is the most appropriate pharmacotherapy?",
+    "choices": {
+      "A": "Azithromycin and metronidazo le",
+      "B": "Ceftriaxone and doxycycline",
+      "C": "Ciprofloxacin and vancomycin",
+      "E": "Penicillin and tetracycline"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Chlamydia trachomatis and Neisseria gonorrhoeae can cause vaginitis, cervicitis, and pelvic inflammatory disease (PIO) in women. Risk factors for PIO and other sexually transmitted infections include adolescence, multiple sexual partners, and not using barrier contraception such as condoms. Vaginitis typically presents with mucopurulent discharge and pruritus. Cervicitis presents with similar discharge, but also with an erythematous, friable cervix and cervica l motion tenderness on examination. When infection spreads to the fallopian tubes and ovaries, pelvic inflammatory disease with purulent cervical discharge, uterine and adnexal tenderness, and systemic symptoms such as fever can result. If left untreated, PIO can become complicated by a tube-ovarian or intraabdominal abscess, presenting with focal tenderness and a fluctuant mass. Treatment of PIO involves intravenous antibiotics such as cephalosporins and tetracyclines to cover potential infectious organisms, making ceftriaxone and doxycycline the most appropriate pharmacotherapy.",
+    "incorrectExplanation": ", 0, and E. Azithromycin and metronidazole (Choice A) would treat an infection from Chlamydia trachomatis or trichomoniasis, as well as bacterial vaginosis. However, it does not provide coverage for Neisseria gonorrhoeae, which is a common cause of PIO. Ciprofloxacin and vancomycin (Choice C) would not appropriately cover the causative organisms of PIO. While ciprofloxacin was previously used to treat Neisseria gonorrhoeae, resistance in the United States is now common. Vancomycin is most commonly used to treat methicillin-resistant Staphylococcus aureus. - - - -- - - - - - - -- - - - - - - - .",
+    "image": null,
+    "id": "EM-2-22",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 23,
+    "questionStem": "A 72-year-old man is brought to the emergency department 25 minutes after a motor vehicle collision in which he was the restrained driver. He had no loss of consciousness following the collision. On arrival, he is alert and fully oriented; he reports severe abdominal pain. His pulse is 110/min, respirations are 26/min, and blood pressure is 130/70 mm Hg. There are large ecchymoses over the left shoulder, chest, and lower abdomen. Breath sounds are normal bilaterally. Cardiac examination shows no abnorma lities. Abdominal examination shows severe left upper quadrant tenderness with rebound. There is no posterior midline cervical spine tenderness . Abdominal ultrasonography for trauma (FAST) is shown. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Duodenal hematoma",
+      "B": "Laceration of the inferior vena cava",
+      "C": "Laceration of the left kidney",
+      "D": "Perforated viscus",
+      "E": "Splenic rupture"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "The spleen is one of the most common organs damaged during blunt abdominal trauma, with injury patterns such as laceration and rupture. Ultrasonography demonstrates the left upper quadrant of the abdomen, with hypoechoic fluid in between the spleen and the left kidney, raising concern for acute blood products in the setting of trauma. Splenic rupture can cause large amounts of blood to leak into the peritoneal and retroper itoneal spaces, which can result in hemodynamic instability characterized by tachycardia and if severe, hypotension. Patients with splenic injuries may have left upper quadrant tenderness, peritonitis from blood products irritating the peritoneum, or referred pain to the left shoulder secondary to diaphragmatic irritation. In hemodynamically stable patients, minor splenic injuries may be treated nonoperatively with observation and reassessment. In unstable patients, exploratory laparotomy is required for repair of the injury or splenectomy, depending on the nature and severity of the splenic injury.",
+    "incorrectExplanation": "nd D. Duodenal hematoma (Choice A) can occur after blunt abdominal trauma to the epigastric region, especial ly in children (eg, seat belt injury). The presentation can be subtle with nonspecific symptoms such as nausea, vomiting, and decreased oral intake. Patients may demonstrate a midline mass on examination along with increased amylase and lipase concentrations on laboratory examination caused by associated pancreatitis. Duodenal hematomas can be diagnosed on CT scan of the abdomen, but not on a focused assessment with sonography for trauma (FAST) examination, which evaluates for free fluid in the abdomen. Laceration of the inferior vena cava (IVC) (Choice B) is an uncommon injury because of its retroper itoneal position and protection by surrounding structures. An IVC injury can lead to severe hemorrhage and high mortality. Because of its retroperitoneal location, free fluid may not appear on a FAST examination, which primarily evaluates for intraperitoneal blood and fluid. As a result of its retroperitoneal location, laceration of the left kidney (Choice C) would not cause intraperitoneal free fluid. A FAST examination showing intraper itoneal free fluid in the left upper quadrant is more likely caused by a splenic injury. Kidney injury can present with hematu ria and is best evaluated with a CT scan. Perforated viscus (Choice D) can present after blunt abdominal trauma with abdominal pain, distention, tenderness to palpation, peritonitis, anemia, leukocytosis, and x-ray evidence of pneumoperitoneum. Peritonitis requires an emergent surgical laparotomy to identify and repair any perforation, lavage the peritoneum, and prevent sepsis, exsanguination, and bowel necrosis. Educational Objective: The spleen is one of the most commonly injured organs in the setting of blunt abdominal trauma . It can present with abdominal tenderness and if severe, hemodynamic instability from large volume hemope ritoneum. Abdomina l ultrasonography with FAST can evaluate for intraperitoneal free fluid.",
+    "image": true,
+    "id": "EM-2-23",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 24,
+    "questionStem": "A 48-yea r-old man is brought to the emergency departme nt by paramed ics 30 minutes after he sustained a gunshot wound to the chest. He is anxious and has severe shortness of breath. His temperature is 37°C (98.6°F), pulse is 122/min, respirations are 20/min, and blood pressure is 82/55 mm Hg. Examination shows an open gunshot wound on the right side of the chest. There is jugular venous distention. Breath sounds are decreased , and there is palpable crepitus over the right hemithorax. Peripheral pulses are weak throughout. Which of the following is the most approp riate next step in management?",
+    "choices": {
+      "A": "Chest x-ray",
+      "B": "CT scan of the chest",
+      "C": "Needle thoracostom Yi",
+      "D": "Trachea l intubation and mechanical ventilation",
+      "E": "Transfus ion of packed red blood cells"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Tension pneumothorax can be a complication of a penetrating thoracic trauma and occurs when air is able to enter the pleural space but is prevented from exiting. Increasing amounts of trapped air in the pleural space compresses the lung parenchyma, creating an inability for the lung to expand and causing it to collapse. As the pneumothorax progresses and continues to increase in size, it can result in tracheal or mediastinal deviation away from the affected hemithorax. It can also result in decreased venous return to the heart, which manifests with hypotension and obstructive shock. Tension pneumothorax is characterized by absent breath sounds and hyperresonance to percussion as a result of the increased air in the pleural space displacing normal lung parenchyma along with hemodynamic instability. In cases of acute tension pneumothorax, evacuating the accumulated air via needle decompression and aspiration permits expansion of the lung and eliminates tension on the mediastinum. Immediate needle thoracostomy for decompression is followed by tube thoracostomy, which prevents re-accumulation and promotes repair of the pleural defect.",
+    "incorrectExplanation": "nd E. Chest x-ray (Choice A) and CT scan of the chest (Choice B) are both diagnostic imaging modalities that can disclose a traumatic pneumothorax or hemothorax, rib fractures, pulmonary contusions, or other injuries. However, in patients who are hemodynamica lly unstable, management should precede diagnostic imaging. In this case, a tension pneumothorax is a clinical diagnosis that should be treated prior to further diagnostic imaging. Trachea l intubation and mechanical ventilation (Choice D) would not be indicated in this patient prior to emergent needle thoracostomy. Intubation would increase positive pressure and air entry into the pleural space, increasing the severity of mediastinal deviation, hypotension, and obstructive shock. A thoracostomy must be performed to relieve the tension pneumothorax and allow air to escape the pleural space.",
+    "image": null,
+    "id": "EM-2-24",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 25,
+    "questionStem": "A 78-year-o ld man is brought to the emergency department by paramed ics 30 minutes after a friend found him confused and disoriented in his home. The patient lives alone and appeared normal when the friend last saw him 3 days ago. He has type 1 diabetes mellitus and hypercholesterolemia treated with insulin and simvastat in. His friend says the patient drinks alcoholic beverages socially and has smoked one-half pack of cigarettes daily for the past 35 years. He has no known medication allergies. The patient appears drowsy but is easily aroused and follows commands. His temperature is 37.6°C (99.7°C), pulse is 118/min, respirations are 18/min, and blood pressure is 92/54 mm Hg. Pulse oximetry on room air shows an oxygen saturat ion of 97%. Physical examination shows decreased skin turgor, dry mucous membranes, and flat nec k veins. Laboratory studies show: Hemoglob in Hematocrit Leukocyte count Platelet count Serum Na+ CI- K+ HC0 3- Ca2+ Urea nitrogen Glucose Creatin ine 15.8 g/dL (158 g/L) 46% 9,200/mm 3 (9.2 x 109/L) 227,000 /mm3 (227 x 109/L) 143 mEq/L (143 mmol/L) 104 mEq/L (104 mmol/L) 3.9 mEq/L (3.9 mmol/L) 26 mEq/L (26 mmol/L) 11.6 mg/dL (2.9 mmol/L) 68 mg/dL (24.3 mmol/L) 562 mg/dL (31.19 mmol/L) 3.6 mg/dL (318.24 µmol/L) A basic metabolic profile obtained 3 months ago was within the reference ranges. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Administration of insulin",
+      "B": "Administration of metoprolol",
+      "C": "Administration of 0.9% saline",
+      "D": "CT scan of the head",
+      "E": "Hemodialysis",
+      "F": "Ultrasonography of the kidneys and bladde"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "This patient's laboratory panel suggests severe dehydration as the primary aberrancy driving his clinical picture. Features of severe r ~, ~ ~ r, Previous Next Score Report Lab Values Calculator Help Pause .... https://t.me/USMLENBME2CK Exam Section: Item 25 of 50 National Board of Medical Examiners ■ Mark Emergency Medicine Self-Assessment Correct Answer: C. This patient's laboratory panel suggests severe dehydration as the primary aberrancy driving his clinical picture. Features of severe dehydration include hypotension, tachycardia, decreased skin turgor , dry mucous membranes, and flat neck veins. His severely increased creatinine concentrations suggests acute prerenal kidney injury, which is caused by ineffective perfusion of the kidneys, whether caused by hypovolemia, as in this case, or hypotension. His hyperglycemia also suggests a high serum osmolality induced by dehydration as does his hypercalcemia. Treatment of dehydration and prerenal kidney injury is with intravenou s isotonic fluids, such as 0.9% saline. This will expand his intravascular volume and improve perfusion to the kidneys. However, if decreased perfusion to the kidneys persists to the point of ischemia, then acute tubular necrosis, a form of intrinsic kidney injury, can develop. Prerenal and intrinsic kidney injury can be distinguished by the fractional excretion of sodium, which is <1 % in prerenal and >2% in intrinsic kidney in Jury.",
+    "incorrectExplanation": "nd F. Administration of insulin (Choice A) is not the best first step as the primary cause of his hyperglycemia is dehydration. Administering insulin would be critical if the patient were demonstrating signs of diabetic ketoacidosis. However, he has a normal serum bicarbonate and anion gap at this time. Thus, addressing his dehydration will likely resolve the majority of his hyperglycemia and should be the first step in management. Administration of metoprolol (Choice B) is not appropriate in this case as the patient is tachycardic as a result of dehydration, not because of a primary arrhythmia. The patient's decreased intravascular volume and consequent decreased stroke volume require tachycardia to maintain cardiac output and hemodynamic stability. If metoprolo l were administered, his heart rate would decrease, and he would likely begin to suffer further complications of inadequate perfusion and end-organ ischemia. CT scan of the head (Choice D) may be warranted as a componen t of this patient's work-up but is not the most appropriate first step in management. If the patient is still disoriented after correcting his metabolic disturbances, then a CT scan of the head is warranted. Hemodialysis (Choice E) is indicated when acute kidney injury causes severe acidemia, electrolyte disturbances such as hyperkalemia , volume overload, or uremia. None of these are present in this case. This patient's prerenal kidney injury will likely correct with intravenous fluid administration. Ultrasonography of the kidneys and bladder (Choice F) is indicated in patients whose acute kidney injury is suspected to be caused by postrenal obstruction causing hydronephrosis, such as nephrolithiasis or an enlarged prostate. This patient's clinical and laborato ry picture are more consistent with a prerenal cause. Educational Objective: Acute kidney injury, defined as a rapid decrease in renal function, may be caused by prerenal, intrinsic, or postrenal causes. Dehydration is a common cause of prerenal kidney injury and should be first treated with intravenous isotonic fluids, such as 0.9% saline.",
+    "image": null,
+    "id": "EM-2-25",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 26,
+    "questionStem": "A 36-year-old woman with a 15-year history of intravenous drug use is brought to the emerge ncy department because of a 4-day history of progressive redness and pain of her left arm at the site of a recent injection of heroin. Her temperature is 39°C (102.2°F), pulse is 110/min, respirations are 24/min, and blood pressure is 100/58 mm Hg. Physica l examination shows a 10 x 10-cm area of erythema , warmth, and tenderness of the left antecubital fossa. Multiple attempts at peripheral intravenous access are unsuccess ful, and she requires placement of a central venous catheter. Which of the following is necessary to discuss with the patient in order to obtain informed consent for this procedure?",
+    "choices": {
+      "A": "Advantages of using a subclavia n catheter over a femoral cathete",
+      "B": "Anticipated length of time intravenous access will be needed",
+      "C": "Number of prior central venous catheters placed by the physician",
+      "D": "Risk of pneumothorax associated with placement of a subclavian cathete r.",
+      "E": "Informed consent is not needed in this situation"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Ensuring informed consent has been obtained is a physician's duty before performing a procedure in a non-emergent setting. Informed consent fulfills the ethics principle of autonomy, which dictates that patients should be able to make their own decisions about their healthcare, including whether to accept or decline a procedure. Informed consent also benefits the physician-patient relationship and encourages physicians to thoroughly review the indications, benefits, and risks of the procedure, and whether alternatives could be considered. Informed consent in this case must include an explanation of the proposed procedure, alternative options, the risks and benefits of the procedure, and the risk of refusing the procedure. In this case, the informed consent process should include discussion of the risk of pneumothorax associated with placement of a subclavian catheter.",
+    "incorrectExplanation": "nd E. Advantages of using a subclavian catheter over a femoral catheter (Choice A) should be considered by the physician when determining the appropriate management of this patient but does not need to be described to the patient as part of the informed consent process. Anticipated length of time intravenous access will be needed (Choice B) is not likely known at this point in the patient's course and does not need to be included in the informed consent. Number of prior central venous catheters placed by the physician (Choice C) is not necessary to disclose as part of the informed consent process. However, it is necessary to disclose to the patient whether trainees such as residents and medical students will participate in the procedure. Informed consent is necessary before any procedure occurs in a non-emergent setting. Thus, it is required in this situation (Choice E)",
+    "image": null,
+    "id": "EM-2-26",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 27,
+    "questionStem": "A 49-year-old woman comes to the emergency department because of the sudden onset of right wrist pain 5 hours ago, when she tripped, fell, and landed on her outstretched right hand. She did not sustain any other injury. She has hypothyroidism treated with levothyroxine. She has no known allergies. She does not drink alcoholic beverages, smoke cigarettes, or use illicit drugs. Vital signs are within normal limits. Examination of the right wrist shows mild diffuse swelling without gross deformity. There is tenderness over the radial aspect of the wrist including the snuffbox. Active and passive range of motion is limited by pain. She is able to extend, flex, abduct, and adduct her fingers, and sensation is intact to light touch. X-rays of the wrist are shown. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Activity as tolerated",
+      "B": "Arthrocentesis",
+      "C": "Elastic bandage and ice packs for comfort",
+      "D": "Fracture reduction",
+      "E": "Thumb spica splint"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "This patient's history of wrist pain overlying the snuffbox following a fall on an outstretched hand, as well as her radiographic findings, - • 81 •1 , I - -818 I - • 1• -118 I - II -1 . 8 - • - • - II 81 -1 8 • 1•1 1-11 a• - • 8 r ~, ~ ~ r, Previous Next Score Report Lab Values Calculator Help Pause https://t.me/USMLENBME2CK Exam Section: Item 27 of 50 National Board of Medical Examiners ■ Mark Emergency Medicine Self-Assessment . - \" - - ... '' . - . ... . - . -·· .. - - - -. - .. - - -- A) Activity as tolerated B) Arthrocentesis C) Elastic bandage and ice packs for comfort D) Fracture reduction E) Thumb spica splint Correct Answer: E. This patient's history of wrist pain overlying the snuffbox following a fall on an outstretched hand, as well as her radiographic findings, are consistent with a scaphoid fracture. The scaphoid is at significant risk for fracture after falling on an outstretched hand because of its narrow and fragile central waist. Scaphoid fractures can have significant and long-lasting effects as a result of the risk for nonunion and proximal osteonecrosis of the bone, which receives its vascular supply in a distal-to-proximal fashion. Patients with non-displaced scaphoid fractures should undergo thumb spica splinting until union has been demonstrated with follow -up x-rays . Patients with displaced fractures , carpal instability, or delayed presentation should be referred for surgical repair. Incorrect Answers : A, B, C, and D. Activity as tolerated (Choice A) prior to union of the fracture increases the patient's risk for non-union and of prolonged functional deficits. Arthrocentesis (Choice B) is useful for the diagnosis of septic or inflammatory arthritis . This patient's lack of fever and her presentation immediately following a fall are more suggestive of a traumatic fracture of the scaphoid. Elastic bandage and ice packs (Choice C) will result in insufficient restriction of mobility in comparison to a thumb spica splint and are not recommended for the treatment of a scaphoid fracture. Fracture reduction (Choice D) is recommended for displaced scaphoid fractures, carpal instability, or patients with a delayed presentation. This patient's x-rays are more consistent with a non-displaced acute scaphoid fracture . Educational Objective : The scaphoid is at significant risk for fracture after falling on an outstretched hand as a result of its narrow and fragile central waist. Patients with non-displaced scaphoid fractures should undergo thumb spica splinting until union has been demonstrated with follow -up x-rays. r ~, ~ p r, Previous Next Score Report Lab Values Calculator Help Pause ...",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "EM-2-27",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 28,
+    "questionStem": "A 30-year-o ld woman is brought to the emergency depart ment because of a 1-hour history of sharp, left-sided chest pain and shortness of breath . She has not had fever, cough, nausea, or vomiting. Her symptoms started while she was at rest at home. She has hypercho lesterolemia but has declined pharmacotherapy for this condition. Her only current medication is a combination oral contraceptive. She leads a sedentary lifestyle and eats foods that have a high salt content. She has smoked one pack of cigarettes daily for 10 years. She does not use illicit drugs. BMI is 32 kg/m2. Her temperature is 36. 7°C (98°F), pulse is 110/min, respirations are 24/min, and blood pressure is 160/70 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 94%. Physical examination shows tenderness and edema of the left calf. Which of the following is the strongest predisposing factor for this patient's current condition?",
+    "choices": {
+      "A": "High-sodium diet",
+      "B": "Lack of exercise",
+      "C": "Uncontrol led hypertens ion",
+      "D": "Untreated hyperc holesterolemia",
+      "E": "Use of an oral contraceptive"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Use of an oral contraceptive is the strongest risk factor for this patient's current condition, which is most consistent with a deep venous thrombosis (DVT) of the left lower leg with likely embolization to the pulmonary arteries (pulmonary embolism). The cause of venous thromboembo lism (VTE) is considered provoked if it occurs after surgery, malignancy, or prolonged immobilization, but is considered unprovoked in situations where there does not appear to be an inciting factor. While this distinction can sometimes be useful in estimating the risk for subsequent VTE events, it is not always useful in clinical practice. Regardless of the cause, all patients should receive chronic anticoagulant medications such as warfarin, low molecular weight heparin, or one of the direct oral anticoagulant medications. Additionally, underlying risk factors for VTE should be addressed. This patient's cigarette use increases her risk for VTE, but the use of oral contraceptives, especially in a patient who smokes cigarettes, confers a substantia lly higher risk for VTE. This patient should be started on an anticoagulant medication and her oral contraceptives should be discontinued. Additionally, she should receive counseling on tobacco cessation.",
+    "incorrectExplanation": "nd D. High-sodium diet (Choice A), in addition to obesity, can contribute to the development of hypertension, which is apparent in this patient, but a high-sodium diet does not predispose to VTE. Lack of exercise (Choice B) is not a risk factor for VTE, although prolonged periods of immobility such as during international flights may confer some increased risk.",
+    "image": null,
+    "id": "EM-2-28",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 29,
+    "questionStem": "A previous ly healthy 28-year-o ld woman comes to the emergency department 2 days after boiling water splashed on her left foot while she was brewing beer and caused a painful red area on her toes. Five minutes after the incident, a blister develope d on one portion of the area. She has no other symptoms. She takes no medications. Her only allergy is to wasp stings. Her temperature is 37°C (98.6°F), pulse is 60/min, respirations are 14/min, and blood pressure is 120/60 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 100%. A photograph of the foot is shown. Which of the following is the most likely diagnosis?",
+    "choices": null,
+    "correctAnswer": "D",
+    "correctExplanation": "This patient's physical examination findings suggest a diagnosis of partial-thickness (second-degree) burn. Burns may be caused by heat, as in this case, electrical discharge, chemicals, radiation, or friction, and are classified based on their depth. When heat is the cause of a burn, the depth of injury is related to the temperature and the duration of contact with the causative agent. A superficial (first­ degree) burn is characterized by dry, blanchab le erythema, which is painful and takes several days to heal. A partial-thickness (second­ degree) burn demonstrates blisters and redness, which may weep serous fluid. Partial-thickness burns are typical ly painful to temperature, air, and touch, and take 1 to 3 weeks to heal. A full­ thickness (third-degree) burn may be white, gray, or black, and have a leathery or charred appearance. It does not blanch with pressure and only deep pressure causes pain. Full-thickness burns do not typica lly heal unless surgical ly treated. Treatment of this partial-thickness wound should include pain management with acetaminophen or nonsteroidal anti-inflammatory drugs, cleaning and debridement of r ~, ~ ~ r, Previous Next Score Report Lab Values Calculator Help Pause .... https://t.me/USMLENBME2CK Exam Section : Item 29 of 50 ■ Mark Correct Answer: D. National Board of Medical Examiners Emergency Medicine Self-Assessment This patient's physical examination findings suggest a diagnosis of partial-thickness (second-degree) burn. Burns may be caused by heat, as in this case, electrical discharge, chemicals, radiation, or friction, and are classified based on their depth. When heat is the cause of a burn, the depth of injury is related to the temperature and the duration of contact with the causative agent. A superficial (first­ degree) burn is characterized by dry, blanchab le erythema, which is painful and takes several days to heal. A partial-thickness (second­ degree) burn demonstrates blisters and redness, which may weep serous fluid. Partial-thickness burns are typical ly painful to temperature, air, and touch, and take 1 to 3 weeks to heal. A full­ thickness (third-degree) burn may be white, gray, or black, and have a leathery or charred appearance. It does not blanch with pressure and only deep pressure causes pain. Full-thickness burns do not typica lly heal unless surgical ly treated. Treatment of this partial-thickness wound should include pain management with acetaminophen or nonsteroidal anti-inflammatory drugs, cleaning and debridement of ruptured blisters (though any intact blisters should general ly not be ruptured intentiona lly), and basic dressing of the area with a layer of nonadherent gauze followed by dry gauze. Topical antibiotics should genera lly be employed to prevent secondary infection (eg, silver sulfadiazine, bacitracin).",
+    "incorrectExplanation": "nd E. This examination does not demonstrate signs of burn wound infection (Choice A). Full thickness burns are at high risk for infection from both common and opportunistic organisms, but partial-thickness burns have less risk. Contact dermatitis (Choice B), when acute and severe, may cause small vesicles to develop in the distribution of exposure to the allergen. This patient's erythema and bullae have a sharp cut-off where her shoe protected her foot. The combination of this finding and the history of a thermal burn make contact dermatitis unlikely.",
+    "image": true,
+    "id": "EM-2-29",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 30,
+    "questionStem": "A 44-year-o ld woman who is a firefighter is brought to the emergency department by paramed ics because of smoke inhalation. She was fighting a house fire when her personal protective equipment failed approximately 15 minutes ago. She has no history of serious illness and takes no medications. Her temperatu re is 37°C (98.6°F), pulse is 115/min, respirations are 24/min, and blood pressure is 110/50 mm Hg. Pulse oximetry while breathing 100% oxygen via nonrebreather mask shows an oxygen saturation of 100%. Physical exam ination shows soot in the airway. Auscu ltation of the neck and lungs discloses strider on inspiration. In addition to continued oxygen admin istration, which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Administration of amyl nitrite",
+      "B": "Administration of hydroxocobalamin",
+      "C": "Arterial blood gas analysis",
+      "D": "Endotrachea l intubation",
+      "E": "X-ray of the chest"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Endotrachea l intubation is the most appropriate next step in management of the patient's airway in the setting of acute smoke inhalation injury. Smoke inhalation injury should be suspected in patients presenting with facial burns, hoarse voice, wheezing, soot in the airway, strider, or carbonaceous sputum. The inhalation of smoke and additional chemicals in the setting of a fire presents the risk for injury to the pharyngeal, laryngea l, and tracheal mucosa. Resultant inflammation drives the rapid development of mucosa! edema, which can cause acute airway obstruction. Airway obstruction is an immediate life-threatening condition that must be managed at or before the time it occurs. If care is not taken to immediately maintain an unobstructed path for air to flow into the tracheobronchia l tree, rapid hypoxia, hypercapnia, and death can occur if significant airway edema ensues. Emergent endotrachea l intubation is the most appropriate initial step and should be performed immediately to prevent airway obstruction.",
+    "incorrectExplanation": "nd E. Cyanide inhibits the electron transport chain, leading to lactic acidosis, compensatory respiratory alkalosis, hypotension, lethargy, and bradycardia. The management of cyanide poisoning includes supportive care with intravenous fluids and vasopressors, sodium thiosulfate, which increases the conversion of cyanide to thiocyanate for renal excretion, amyl nitrites (Choice A) to induce methemoglobinemia, which binds with cyanide and prevents it from acting on the electron transport chain, and hydroxocoba lamin (Choice B), which combines with cyanide to create nontoxic cyanocobalamin. This patient may require these interventions but not prior to securing the airway. Arteria l blood gas analysis (Choice C) and an x-ray of the chest (Choice E) are not helpful at this time to make further decisions about management. This patient is at risk for imminent airway obstruction as a result of signs of smoke inhalation injury and strider on",
+    "image": null,
+    "id": "EM-2-30",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 31,
+    "questionStem": "A previous ly healthy 23-year-old man comes to the emergency department because of fever, muscle aches, pain in both of his knees, pain in his left forearm and wrist, and a diffuse rash. His current temperature is 38.2°C (100.8°F), pulse is 90/min, respirations are 16/min, and blood pressure is 115/75 mm Hg. Examination shows effusion of the knees bilatera lly and a diffuse rash. A photograph of one of the lesions is shown. Which of the following is the most likely causa l pathogen?",
+    "choices": {
+      "A": "Chlamydia trachomatis",
+      "B": "Herpes simplex virus",
+      "C": "Molluscum contagiosum virus",
+      "D": "Neisseria gonorrhoeae",
+      "E": "Treponema pallid um"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Infection of the genital and urinary tracts with Neisseria gonorrhoeae may lead to bacteremia and disseminated gonococca l infection. Disseminated gonococcal infection presents with signs and symptoms including fever, chil ls, septic polyarthritis, tenosynovitis, and dermatitis characterized by a pustular rash. Symptoms are typically acute in onset and may follow genitourinary infectious symptoms such as dysuria, pruritus, or mucopuru lent discharge. The affected joints display erythema, swelling, and warmth. Arthrocentesis and synovia l fluid analysis may show Gram­ negative diplococci and a marked ly increased concentration of neutrophi ls. N. gonorrhoeae may be isolated from genital swabs or from blood cultures. Treatment includes antibiotic therapy with intravenous ceftriaxone. Recently, treatment has been comp licated by the emergence of multidrug resistant strains of N. gonorrhoeae.",
+    "incorrectExplanation": "nd E. Chlamydia trachomatis (Choice A) is a common sexually transmitted infection that can cause cervicitis, pelvic inflammatory disease, epididymitis, and urethritis. C. trachomatis does not typica lly cause septic arthritis or a disseminated rash. Herpes simplex virus (Choice B) can cause herpetic whitlow, which presents with painful, non-puru lent vesicles that occur on the fingers. Herpetic whitlow typica lly",
+    "image": true,
+    "id": "EM-2-31",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 32,
+    "questionStem": "A 41-year-o ld man who works as a research assistant comes to the emergency department 15 minutes after pricking himself with a visibly contaminated needle left in an examinat ion room. He was wear ing gloves at the time and washed his hands with soap and water immediately afterward. He is unsure when he received his last tetanus booster. He was vaccinated for hepatitis B 2 years ago. Medical history is unremarkable. Vital signs are within normal limits. Physical examination shows a small puncture wound consistent with a needlestick injury; the wound is not bleeding. The patient is concerned about transmiss ible diseases and, after a discussion of the risks and benefits, requests HIV prophylaxis. This patient should also receive which of the following?",
+    "choices": {
+      "A": "Amoxici llin/clavulanate only",
+      "B": "Hepatitis B immune globulin (HBIG) and amoxici llin/clavulanate",
+      "C": "HBIG only",
+      "D": "Tetanus booster and amoxici llin/clavulanate",
+      "E": "Tetanus booster onlYi",
+      "F": "Tetanus booster and HBIG",
+      "G": "Tetanus booster, HBIG, and amoxicillin/clavulanate",
+      "H": "No additiona l treatme nt is necessary at this time"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Needlestick injuries are a common occupational hazard for healthcare workers. These injuries put the worker at risk for inoculation of bloodborne pathogens and subsequent infection with hepatitis B, hepatitis C, and HIV. Needlestick injuries also put the injured worker at risk for tetanus infection. Following such an injury, the worker should be asked about their previous vaccinations (including hepatitis Band tetanus) and should be counseled on the risks and benefits of HIV prophylaxis. If the patient had not received his hepatitis B vaccine series, he should be treated with vaccination as well as with hepatitis B immune globulin (HBIG). If a patient has received their tetanus vaccine, they should receive a tetanus booster if their last dose was more than 10 years ago for a clean or minor wound or if there has been more than 5 years ago for all other wounds. If they have not received their vaccination for tetanus, they should receive the tetanus immune globu lin only for large or dirty wounds. This patient has been vaccinated against hepatitis B, making HBIG unnecessary, and has been vaccinated against tetanus. Since he is unsure when his last tetanus vaccination was performed, he should receive a tetanus booster.",
+    "incorrectExplanation": "nd H. Treatment with amoxici llin/clavu lanate (Choices A, B, D, and G) is utilized in the management of skin and soft tissue infections, such as those sustained from a bite wound. As this was an overall clean wound without inocu lation of the joint capsule, antibiotic therapy is not warranted unless the patient develops signs and symptoms of infection.",
+    "image": null,
+    "id": "EM-2-32",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 33,
+    "questionStem": "A 55-year-old man is brought to the emergency department (ED) because of a 1-day history of subjective fever and altered mental status. He was seen in the ED 3 days ago because of painful joint swelling . At that time, he was presumptively diagnosed with gouty arthritis and discharged with a prescription for indomethacin . He has no history of serious illness and takes no other medications. The patient is alert but confused. He is oriented to person only. His temperature is 38.5°C (101.3°F), pulse is 116/min, respirations are 23/min, and blood pressure is 87/54 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 98%. The skin is cool and clammy. The left ankle is swollen, erythematous, and warm. Movement of the ankle elicits pain. The remainder of the physical examination shows no abnormalities . In addition to joint fluid analysis, which of the following is most likely to predict this patient's clinical course?",
+    "choices": {
+      "A": "Blood cultures",
+      "B": "Complete blood count",
+      "C": "Serum C-reactive protein concentration",
+      "D": "Serum lactate concentration",
+      "E": "Serum uric acid concentration"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "The Third International Consensus Definitions for Sepsis and Septic Shock defined sepsis as life-threatening organ dysfunction caused by a dysregulated host response to infection, and septic shock as a subcategory of sepsis characterized by a vasopressor requirement to maintain mean arterial pressure greater than 65 mm Hg or a serum lactate concentration greater than 2 mmol/L despite fluid resuscitation. Serum lactate concentration is reflective of organ hypoperfusion and dysfunction. The measurement of serum lactate is therefore of prognostic utility for this patient with a clinical presentation concerning for septic arthritis and sepsis, as septic shock is associated with an approximate four-fold increase in mortality (40%) as compared to sepsis alone (10%). These new criteria replaced the previously adopted Systemic Inflammatory Response Syndrome (SIRS) Criteria , although the SIRS criteria remain widely used in clinical practice.",
+    "incorrectExplanation": "nd E. Blood cultures (Choice A) are useful for the identification of the causative pathogen and for guiding antimicrobia l therapy but are not of prognostic significance. Complete blood count (Choice B) may disclose leukocytosis in patients with sepsis. This finding is nonspecific , however, and does not necessarily suggest a dysregulated , life-threatening host response. Serum C-reactive protein concentrat ion (Choice C) is indicative of an acute phase inflammatory response but is nonspecific and of little prognostic significance in patients with septic shock. r ~, ~ p",
+    "image": null,
+    "id": "EM-2-33",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 34,
+    "questionStem": "A 35-year-o ld woman is brought to the emergency depart ment by ambulance after the patient called 911 to say that she had taken an overdose and that she wanted to die. When the ambulance arrived 9 minutes later, the paramedics say they found her on the sofa. She was obtunded and had vomitus on her. Her pulse was 110/min and thready, respirations were 20/min, and blood pressure was 90/46 mm Hg. She was diaphoretic and was given intravenous naloxone. Now, in the emergency department, vital signs are unchanged. Physical exam ination shows no abnorma lities except for obtundation. She is responsive to deep pain only; reflexes are 4+ and symmetric. ECG shows sinus tachycardia at 110/min and a prolonged, corrected QT interval. Her medical record lists her current medications as imipramine, atenolol, an oral contracept ive, and acetaminophen. Past medicat ions include paroxetine and triazolam , which were discontinued 3 months ago. After inserting a large-bore intravenous catheter for fluid administration, which of the following is the most appropriate initial management?",
+    "choices": {
+      "A": "Administer activated charcoal through a nasogastric tube",
+      "B": "Administer 50% dextrose solution, intravenously",
+      "C": "Intubate the patient",
+      "D": "Perform emergency hemodialysis",
+      "E": "Perform gastric lavage"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "This patient has attempted suicide by overdose likely with imipramine, a tricyclic antidepressant. Features of tricyclic antidepressant overdose include confusion, delirium, cardiac arrhythmias, hypotension, and anticholinergic toxicity. This patient is obtunded and unable to protect her airway. Thus, the first step in stabilizing this patient is to intubate her, even before addressing the underlying cause of her symptoms. Following intubation of this patient, further resuscitation includes the administration of sodium bicarbonate to treat the patient's cardiac toxicity (demonstrated in this case by her prolonged corrected QT interval) and the administration of intravenous fluids to correct her hypoten sion. A dose of activated charcoal may be given to bind any remaining imipramine but may only be used if the airway is protected. The mainstay of treatment for tricyclic antidepressant overdose is sodium bicarbonate to treat the associated cardiac toxicity and prevent further arrhythmias. A broad set of laboratory analyses should be sent to assess for end-organ dysfunction and co-ingestion.",
+    "incorrectExplanation": "nd E. Administer activated charcoa l through a nasogastric tube (Choice A) should not be performed prior to intubation in a patient who is unable to protect their airway. In this patient, activated charcoal can be used following intubation but not before. Administer 50% dextrose solution, intravenous ly (Choice B) is not indicated prior to intubation outside of suspected cases of profound hypoglycemia. Following intubation, an isotonic fluid such as 0.9% saline should be used for fluid resuscitation to address the patient's hypotension. The administration of excess dextrose in a presumed euglycemic is not necessary and would not assist in improving the - - - - - - - -- - - - - -- - - .",
+    "image": null,
+    "id": "EM-2-34",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 35,
+    "questionStem": "A 60-year-o ld man in cardiac arrest is brought to the emergency department by paramedics. Bystanders initiated cardiopu lmonary resuscitation (CPR) within minutes of his collapse. Paramedics say his initial rhythm was pulseless electrical activity (PEA) when they arrived at the scene. En route to the hospital, paramedics continued CPR and obtained a supraglott ic airway. Three doses of epinephrine were administered . No medical history is available. On arrival, CPR is continued, and the first rhythm is PEA. The supraglottic airway is functio ning appropriately. Auscu ltation of the lungs discloses coarse breath sounds bilaterally. On a brief secondary survey, an arteriovenous graft is noted in the patient's left arm, and he has had a right-sided below-knee amputation. There are no signs of trauma. Fingerstick blood glucose concentration is 312 mg/dl (17.32 mmol/L). Which of the following interventions is most likely to improve this patient's condition?",
+    "choices": {
+      "A": "Administration of atrop ine",
+      "B": "Administration of calcium chloride",
+      "C": "Administration of insulin",
+      "D": "Administration of vasopressin (ADH)",
+      "E": "Endotracheal intubation",
+      "F": "Needle thoracostomy"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Cardiac arrest can be caused by a variety of conditions, including hypovolemia, hypoxia, acidosis, hypothermia, hyperkalemia, hypokalemia, overdose, cardiac tamponade, acute coronary syndrome, pulmonary embolism, hypoglycemia, and tension pneumothorax among others. In this patient with evidence of an upper extremity arteriovenous graft presenting in pulseless electrical activity (PEA) arrest, there is high suspicion for hyperkalemia as a cause of cardiac arrest as a result of underlying kidney injury. Patients with end-stage kidney disease requiring dialysis are prone to electrolyte abnormalities, especially hyperkalemia. Severe hyperkalemia leads to reduced myocardial excitability resulting in repolarization abnormalities, conduction dysfunction, heart block, and bradycardia. These abnorma lities can manifest on an ECG with peaked T waves, P-R interval prolongation, loss of P waves, and if severe, widened ORS complexes, bradycardia, and cardiac arrest. Hyperkalemia resulting in ECG changes or cardiac arrest requires the emergent administration of calcium gluconate or calcium chloride to induce cardiac cell membrane stabilization. Further treatment after calcium may involve insulin and glucose, ~-adrenergic agonists, or bicarbonate to shift potassium into cells, loop diuretics to facilitate the urinary excretion of potassium, and sodium polystyrene sulfonate to promote binding of potassium within the lumen of the gut. For severe or refractory cases, dialysis may be necessary.",
+    "incorrectExplanation": "nd F. Administration of atropine (Choice A), a cholinergic inhibitor, is used in the management of symptomatic bradycardia and in organophosphate toxicity. It has no role in the management of PEA arrest outside of these cases.",
+    "image": null,
+    "id": "EM-2-35",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 36,
+    "questionStem": "A 43-year-old woman comes to the emergency department because of a 1-day history of upper abdomina l pain that radiates to the back and several episodes of vomiting. She also notes a 1-month history of epigastric and right upper quadrant pain that lasts between 30 minutes and 1 hour and is triggered by eating, particularly fatty foods. These episodes subside with time and are associated with nausea but no vomiting . She has heavy menstrual bleeding treated with oral contraceptive therapy . Vital signs are within normal limits. Abdominal examination discloses epigastric tenderness to palpation with voluntary guarding. Which of the following laboratory results are most likely in this patient?",
+    "choices": {
+      "A": "Decreased serum alkaline phosphatase activity",
+      "B": "Decreased serum urea nitrogen :creatinine ratio",
+      "C": "Increased serum indirect bilirubin concentration",
+      "D": "Increased serum lipase activity",
+      "E": "Positive Helicobacter pylori stool antigen"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Increased serum lipase activity is commonly seen in acute pancreatitis. Acute pancreatitis presents with epigastric abdominal pain that radiates to the back, along with nausea and emesis, often in a patient with a history of gallstones , alcoholism , trauma , hypertriglyceridemia , or hypercalcemia . Gallstone pancreatitis may be preceded by other signs of cholelithiasis including biliary colic , as seen in this case. Acute pancreatitis can be complicated by necrosis , hemorrhage , abscess, or the formation of pseudocysts. Laboratory evaluation often shows increased serum amylase and lipase concentrations. Treatment of uncomplicated acute pancreatitis is largely supportive and should include intravenous fluids , either 0.9% saline or lactated Ringer solution , bowel rest, and pain control. Surgical intervention may be required in cases of complications. Incorrect Answers : A, B, C, and E. Increased , not decreased serum alkaline phosphatase activity (Choice A), is seen in some complications of gallstones such as choledocholithiasis , ascending cholangitis, and gallstone pancreatitis . Acute pancreatitis can cause a severe inflammatory response accompanied by hypotension leading to a prerenal acute kidney injury. Increased , not decreased serum urea nitrogen :creatinine ratio (Choice B), characterizes this type of kidney injury. Direct, not indirect (Choice C), bilirubin concentration is increased by obstruction of the biliary tree. Direct bilirubin is secreted into the bile canaliculi of the liver and eventually drains into the common bile duct before entering the duodenum . Obstruction of the flow of bile in the setting of choledocholithiasis or ascending cholangitis causes direct bilirubin to leak into the surrounding interstitium and vasculature . • -- - - ------ - - --- -- --- ---- ----- --- --- ---- - -- ------ -- ---- - ------ - - r ~, ~ p r, Previous Next Score Report Lab Values Calculator Help Pause .... https://t.me/USMLENBME2CK Exam Section: Item 36 of 50 National Board of Medical Examiners ■ Mark Emergency Medicine Self-Assessment C) Increased serum indirect bilirubin concentratio n D) Increased serum lipase activitYi E) Positive Helicobacter pylori stool antigen Correct Answer: D. Increased serum lipase activity is commonly seen in acute pancreatitis. Acute pancreatitis presents with epigastric abdominal pain that radiates to the back, along with nausea and emesis, often in a patient with a history of gallstones, alcoholism, trauma, hypertriglyceridemia, or hypercalcemia. Gallstone pancreatitis may be preceded by other signs of cholelithiasis including biliary colic, as seen in this case. Acute pancreatitis can be complicated by necrosis, hemorrhage, abscess, or the formation of pseudocysts. Laboratory evaluation often shows increased serum amylase and lipase concentrations. Treatment of uncomplicated acute pancreatitis is largely supportive and should include intravenous fluids, either 0.9% saline or lactated Ringer solution, bowel rest, and pain control. Surgical intervention may be required in cases of complications.",
+    "incorrectExplanation": "nd E. Increased, not decreased serum alkaline phosphatase activity (Choice A), is seen in some complications of gallstones such as choledocholithiasis, ascending cholangitis, and gallstone pancreatitis. Acute pancreatitis can cause a severe inflammatory response accompanied by hypotension leading to a prerenal acute kidney injury. Increased, not decreased serum urea nitrogen:creatinine ratio (Choice B), characterizes this type of kidney injury. Direct, not indirect (Choice C), bilirubin concentration is increased by obstruction of the biliary tree. Direct bilirubin is secreted into the bile canalicu li of the liver and eventually drains into the common bile duct before entering the duodenum. Obstruction of the flow of bile in the setting of choledocholithiasis or ascending cholangitis causes direct bilirubin to leak into the surrounding interstitium and vasculature. Positive Helicobacter pylori stool antigen (Choice E) is seen in patients with peptic ulcer disease induced by Helicobacter pylori infection. While gastric or duodenal ulcers are also a cause of epigastric pain, this patient's history of biliary colic is more suggestive of gallstone pancreatitis. Educational Objective: Acute pancreatitis presents with epigastric abdominal pain that radiates to the back, along with nausea and emesis, often in a patient with a history of gallstones, alcoholism, trauma , hypertriglyceridemia, or hypercalcemia. Laboratory evaluation often shows increased serum amylase and lipase concentrations.",
+    "image": null,
+    "id": "EM-2-36",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 37,
+    "questionStem": "An otherwise healthy 25-year-old woman comes to the emergency department because of a 5-day history of low-grade fever and pain, redness, and swelling of an area on her left thigh. There is no history of recent trauma to the thigh. Her temperature is 37°C (98.6°F), pulse is 85/min, respirations are 14/min, and blood pressure is 110/78 mm Hg. Physical examination shows tenderness of the left thigh. There is no fluctuance. A photograph of the left thigh is shown. No other abnormalities are noted. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Complete blood count with differential",
+      "B": "CT scan of the lower extremity with contrast",
+      "C": "Empiric antibiotic therapYi",
+      "D": "Incision and drainage of the affected area",
+      "E": "Needle aspiration"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "1•110! l \"! II I O!I• 1• . \"! •I •1•1 • • 1 1• I• \"! •I •11 O!I I . ~ Score Report Lab Values Calculator Help Pause https://t.me/USMLENBME2CK Exam Section : Item 37 of 50 National Board of Medical Examiners ■ Mark Emergency Medicine Self-Assessment A) B) C) D) E) Comp lete blood count with differentia l CT scan of the lower extremity with contrast Empiric antibiotic therap y; Incision and drainage of the affected area Needle aspiration Correct Answer: C. Cellulitis presents with cutaneous erythema, warmth, and induration, often following inoculation from an injury such as an abrasion. Systemic symptoms, including fever, tachycardia, and leukocytosi s are often present. Most common ly, it is acute and results from a bacterial infection of the skin. The two most common pathogens to cause cellulitis are Staphylococcus aureus and Streptococcus pyogenes (group A). Clinically, the cellulitis caused by S. aureus is typically purulent while that caused by S. pyogenes is not. Treatment of uncomplicated cellulitis, as seen in this case, is with empiric antibiotic therapy, which covers both S. aureus and S. pyogenes, such as cephalexin. If the cellulitis demonstrates purulence or the patient has a history of prior methicil lin-resistant S. aureus (MRSA) infections, coverage of MRSA is also warranted. Potential oral antibiotic choices for MRSA coverage include doxycycline, trimethoprim­ sulfamethoxazole, or clindamycin.",
+    "incorrectExplanation": "nd E. Complete blood count with differentia l (Choice A) is not necessary in the work up of uncomplicated cellulitis in an otherwise healthy patient who is afebrile and has no vital sign instabi lity. If the patient demonstrated any signs of sepsis, then a complete blood count with differential and blood cultures would be indicated prior to initiating intravenous antibiotics. CT scan of the lower extremity with cont rast (Choice B) is not necessary in the management of uncompl icated cellulitis. Occasionally, bacterial abscesses may involve the underlying soft tissues, in which case imaging may be warranted. Incision and drainage of the affected area (Choice D) or needle aspiration (Choice E) is not necessary in this case given that there is no evidence of an abscess on physical examination. If an abscess is present, then incision and drainage in addition to antibiotic therapy is necessary. Educational Objective: Empiric antibiotic therapy is the treatment of choice for uncompl icated cellulitis. Coverage of the most common causative organisms, Staphylococcus aureus and Streptococcus pyogenes, is vital. If the cellulitis demonstrates purulence, or the patient has a history of prior methicillin-resistant S. aureus (MRSA) infections, then coverage of MRSA is also warranted.",
+    "image": true,
+    "id": "EM-2-37",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 38,
+    "questionStem": "A 67-year-old man is brought to the emergency department because of a 45-minute history of chest heaviness, shortness of breath, and nausea . He says he was shoveling snow when the symptoms began. He has hypertension and type 2 diabetes mellitus. His medications are lisinopril and metform in. He does not smoke cigarettes or drink alcohol. On arriva l, he appears anxious and is in moderate distress. He is pale and diaphoretic. His temperature is 37.1 °C (98.8°F), pulse is 85/min, respirations are 16/min, and blood pressure is 138/75 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 97%. The lungs are clear to auscu ltation. Card iac exam ination discloses no murmurs or rubs . An ECG is shown. This patient most likely has a lesion of which of the following arteries?",
+    "choices": null,
+    "correctAnswer": "A",
+    "correctExplanation": "The patient is presenting with classic signs and symptoms of acute coronary syndrome, with angina, nausea, dyspnea, anxiety, and diaphoresis that began during exertion. Additional ly, the ECG shows marked ST-segment elevations in the precordial leads V2 through V6. Polarization and repolarization abnormalities along these vectors correspond with injury to the myocardial territory supplied by the left anterior descending coronary artery, which includes the anterior portion of the interventricular septum, the anterior left ventricle, and ·- -• - . - - - ·-• - .. - ·- - -• - . ·- ..... - - . -• ·- ... ·- - ••- .. ••- - - -•· ... - - r ~, ~ ~ r, Previous Next Score Report Lab Values Calculator Help Pause https://t.me/USMLENBME2CK Exam Section: Item 38 of 50 National Board of Medical Examiners ■ Mark Emergency Medicine Self-Assessment • • • • • • Correct Answer: A. The patient is presenting with classic signs and symptoms of acute coronary syndrome, with angina, nausea, dyspnea, anxiety, and diaphoresis that began during exertion. Additional ly, the ECG shows marked ST-segment elevations in the precordial leads V2 through V6. Polarization and repolarization abnormalities along these vectors correspond with injury to the myocardial territory supplied by the left anterior descending coronary artery, which includes the anterior portion of the interventricular septum, the anterior left ventricle, and the anterolatera l papillary muscle. The left anterior descending artery branches from the left main coronary artery and perfuses a significant portion of the myocardium. An occlusive atherosclerotic or thromboembolic lesion in this vesse l resulting in transmural myocardial ischemia and infarction is likely underlying this patient 's presentation. Treatment requires the use of antiplatelet agents (eg, aspirin, clopidogrel) plus anticoagulants (eg, heparin), pain control, and revascularization through angiop lasty, thrombo lysis, or coronary artery bypass grafting. Potentia l complications include papillary muscle rupture with subsequent mitral regurgitation, dysrhythmias, cardiogenic shock, pulmonary edema, ventricular wall rupture, and post-infarction pericarditis.",
+    "incorrectExplanation": "nd E. The left circumflex (Choice B) artery originates from the left maiin coronary artery and primarily provides perfusion to the lateral and posterior walls of the left ventricle, the antero lateral papillary muscle, and some blood flow to the AV node. Infarction of this territory may result in ST-segment changes in the lateral, posterior, and/or inferior ECG leads (depending on right- or left-dominant coronary artery circulation). The posterior coronary (Choice C) artery, in the setting of a right-dominant circulation (~85% of patients), provides a majority of the blood supply to the inferior portion of the heart. Corresponding ST-segment changes are typically found in the inferior ECG leads II, Ill, and aVF. The right coronary (Choice D) artery primari ly provides blood flow to the right ventricle, right atrium, sinoatria l (SA) node, atrioventricu lar (AV) node, and gives rise to the posterior coronary artery in the majority of the population (~85% of patients). Corresponding ST­ segment changes are typica lly seen in the inferior ECG leads II, Ill, and aVF. Impaired perfusion to the SA and AV nodes can also result in significant bradycardia or heart block. Septal perforating (Choice E) branches of the left anterior descending artery provide most of the blood supply to the interventricular septum. A lesion isolated to these vessels typica lly presents with ST-segment changes in the anterior precordial leads V1 through V3 without much effect on the lateral leads V4 through V6. Educational Objective: ST-segment changes observed throughout the anterior and lateral precordial leads are most suggestive of a lesion involving the left anterior descending artery, which provides blood supply to the anterior portion of the interventricular septum, the anterior left ventricle, and the antero lateral papillary muscle.",
+    "image": true,
+    "id": "EM-2-38",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 41,
+    "questionStem": "A 45-year-old man is brought to the emergency department because of multiple episodes of vomiting during the past 30 minutes. The first episode was nonbloody, but all subsequent episodes have been a mixture of bright red blood and a coffee-ground-like substance. He has no history of similar symptoms. He has a history of major depressive disorder treated with fluoxetine. He drinks 12 beers daily. On arrival, he is alert and fully oriented. He is retching actively in the bed. His skin is pale and diaphoretic. His temperature is 37.3°C (99.1 °F), pulse is 145/min, respirations are 22/min, and blood pressure is 80/35 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 96%. Abdomina l examinat ion shows distention with a positive fluid wave; there is no tenderness , guarding, or rebound. Rectal examination shows brown stool; test of the stool for occult blood is negative. Two large-bore intravenous catheters are inserted, and 0.9% saline (2 L) is admin istered. His pulse now is 140/min, and blood pressure is 90/60 mm Hg. Which of the following is the most likely cause of this patient's bleeding?",
+    "choices": {
+      "A": "Acid reflux",
+      "B": "Coagu lopathy",
+      "C": "Esophageal rupture",
+      "D": "Helicobacter pylori infection",
+      "E": "Varices"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Varices secondary to cirrhosis is the most likely cause of this patient's bleeding. Major causes of upper gastrointestinal bleeding (UGIB) include peptic ulcer disease, Mallory-Weiss tear, gastritis, and Dieulafoy lesion among others, but few etiologies cause hemorrhage as dramatic and potentially catastrophic as ruptured esophageal varices. This patient has evidence of decompensated cirrhosis with a distended abdomen and fluid wave indicating ascites. Both ascites and esophageal varices are consequences of portal venous hypertension, which occurs as a result of obstruction of flow through the sinusoids within the liver. All patients with bleeding esophageal varices should have two large-bore intravenous catheters inserted for the administration of isotonic crystalloids and packed red blood cells (pRBCs). This patient continues to have signs of hemorrhagic shock despite adequate fluid resuscitation; thus, he should also receive pRBCs. Additionally, patients with bleeding varices should receive intravenous antibiotics, such as ceftriaxone, an octreotide infusion, and a proton pump inhibitor. Initial care should focus on stabilizing the patient to facilitate upper endoscopy, at which point varices can be ligated for definitive source control and to prevent further bleeding.",
+    "incorrectExplanation": "nd D. Acid reflux (Choice A) does not independently cause hemorrhage and is not the cause of this patient's hemorrhagic shock. Common symptoms of acid reflux include retrosternal pain after meals or in the supine position. Coagulopathy (Choice B) is not the cause of this patient's bleeding, although a baseline coagulopathy is common in patients with cirrhosis. Even though the international normalized ratio (INR) may be increased in patients with cirrhosis, these patients may be prone",
+    "image": null,
+    "id": "EM-2-41",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 42,
+    "questionStem": "A 32-year-o ld woman is brought to the emergency department 2 hours after a drug overdose. Empty bottles of diazepam and acetaminophen with codeine were found in her room. She is somnolent. Examination shows a decreased gag reflex and decreased deep tendon reflexes bilaterally. Which of the following is the most effective method to prevent pulmonary complications in this patient?",
+    "choices": {
+      "A": "Administration of prophylactic antibiotics",
+      "B": "Continuous observat ion",
+      "C": "Endotrachea l intubation",
+      "D": "Placement of a large-bore nasogast ric tube",
+      "E": "Placement of the patient on her side"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Initial examination of a patient in distress should include an evaluation of the airway, breathing, and circulation. The most common reasons for urgent endotracheal intubation are an inability to protect the airway, apnea, hypoxemia, and hypercarbia, although other reasons also exist. These include dynamic airway changes in the setting of neck trauma or hematoma, inhalationa l injuries, and anaphylaxis or angioedema. This patient is lethargic with absent protective airway reflexes (eg, gag reflex), which puts her at an increased risk for aspiration. Aspiration occurs when gastric or oropharyngeal contents enter the airway, which can lead to pneumonitis or pneumonia. Aspiration pneumonia presents with cough, shortness of breath, pleuritic chest pain, fever, and abnormal breath sounds. Chest x-ray will exhibit patchy infiltrates, most commonly in the right lower lobe if the patient was upright while the aspiration occurred, or the posterior, gravity-dependent portions of the lungs if the patient was supine. Therefore, in order to prevent this patient from aspirating and developing consequent aspiration pneumonia, rapid sequence endotracheal intubation should occur.",
+    "incorrectExplanation": "nd E. Administration of prophylactic antibiotics (Choice A) for aspiration pneumonia may be considered in this patient once she is clinically stable, although the evidence for prophylactic antibiotics in aspiration is mixed. Additionally, endotrachea l intubation will be more beneficial in preventing aspiration before it occurs. Continuous observation (Choice B) is inappropriate, as this patient is unable to protect her airway and is thus at risk for significant aspiration. Urgent endotracheal intubation should occur as soon as possible. Placement of a large-bore nasogastric tube (Choice D) may be warranted in this patient as a way of removing the contents of her stomach. However, placing a large-bore tube through the gastroesophageal junction in an obtunded patient without a secure airway greatly increases the risk for aspiration. Therefore, endotracheal intubation should occur first. .",
+    "image": null,
+    "id": "EM-2-42",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 43,
+    "questionStem": "A 38-year-o ld woman is brought to the emergency department by her husband after she had a syncopal episode at home 30 minutes ago. On arrival, the patient is doubled over in pain. She says that she had abdominal pain about an hour before she fainted, and that it has been continuous for the past 30 minutes. She says that she has never been pregnant, has been healthy, and is not taking any medications. Her temperatu re is 37.3°C (99.2°F), pulse is 120/min, respirations are 22/min, and blood pressure is 80/40 mm Hg. Which of the following is the most appropriate first step?",
+    "choices": {
+      "A": "Acute abdominal series",
+      "B": "ECG",
+      "C": "Intravenous fluid resuscitation with 0.9% saline",
+      "D": "Ultrasonography of the pelvis",
+      "E": "Urine pregnancy test"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Intravenous fluid resuscitation with 0.9% saline is the most appropriate first step for this patient with hypotension who recently suffered a syncopal event. The cause of syncope is variable and may occur as a result of reflex or neural-mediated causes, ventricular arrhythmias, or orthostasis. While syncope is often benign, it is important to obtain an ECG to evaluate for cardiac causes of syncope, such as ventricular arrhythmias or structural heart disease including hypertrophic cardiomyopathy, but this should only be done after appropriate fluid resuscitation has been started. In patients with hypotension, such as this patient, attempts should be made to restore intravascular volume with the intravenous administration of isotonic crystalloids. While this patient's underlying condition causing abdominal pain remains undifferentiated, she should receive fluid resuscitation while undergoing a workup for her abdominal pain. Additiona l diagnostic studies should follow the correction of her vital sign abnormalities.",
+    "incorrectExplanation": "nd E. Acute abdominal series (Choice A) may ultimately be utilized to further delineate the cause of this patient's abdominal pain, but it should follow appropriate fluid resuscitation. ECG (Choice B) should always be obtained in patients with syncope to rule out arrhythmogenic causes of syncope, but this patient's hypotension should be corrected first. Ultrasonography of the pelvis (Choice D) and urine pregnancy test (Choice E) may both be necessary to further differentiate the cause of this patient's pain, but they should occur after appropriate fluid resuscitation. Educational Objective: Syncope may be neural-mediated (eg, vasovagal syncope) but may also be secondary to orthostasis from",
+    "image": null,
+    "id": "EM-2-43",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 44,
+    "questionStem": "A 58-year-old man is brought to the emergency department by paramedics because of a 2-hour history of palpitations and shortness of breath. His symptoms began suddenly while he was making breakfast and are associated with light-headedness . During the past 15 minutes he has become diaphoretic and feels more light-headed. He has not had fever, chest pain, or cough. He has hypertens ion, type 2 diabetes mellitus, coronary artery disease with prior stenting, and atrial fibrillation. He takes metoprolo l, lisinopril, metformin, aspirin, and clopidogrel. He has no known allergies. He does not drink alcoholic beverages, smoke cigarettes, or use illicit drugs. On arrival, the patient appears diaphoretic and pale. His temperatu re is 37.1 °C (98.8°F), pulse is 158/min and irregular, respirations are 22/min, and blood pressure is 82/46 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 95%. Lungs are clear to auscultation. Cardiac examination discloses no further abnormalities. There is no jugular venous distention. The remainder of the examination discloses no abnormalities. ECG is shown. Which of the following is the most appropriate initial treatment?",
+    "choices": {
+      "A": "Amiodarone therapy",
+      "B": "Defibrillation",
+      "C": "Diltiazem therapy",
+      "D": "Heparin therapy",
+      "E": "Metopro lol therapy",
+      "F": "Synchronized cardioversion"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "The ECG shows an irregu lar, narrow-complex arrhythmia lacking P-waves consistent with atrial fibrillation. Heart failure and atrial fibrillation share many common risk factors, and each predisposes to the development of the other. Atrial fibrillation with rapid ventricu lar response (pulse >100/min) can result in reduced stroke volume and decreased cardiac output leading to symptomatic heart failure, and potential ly hypotension and hemodynamic instability in severe cases. This patient is presenting with hemodynamically unstable atrial fibrillation with hypotension and tachycardia. The most appropriate initial treatment is synchronized cardioversion to quickly correct the arrhythmia and restore adequate cardiac output.",
+    "incorrectExplanation": "nd E. Amiodarone therapy (Choice A), diltiazem therapy (Choice C) , and metopro lol therapy (Choice E) are appropriate therapy options for hemodynamically stable patients presenting with atrial fibrillation with rapid ventricu lar response. Rate control with diltiazem or metoprolol is recommended for most patients as opposed to rhythm control with amiodarone becaue of similar efficacy and fewer adverse effects. Synchronized cardioversion is more appropriate in this hemodynamica lly unstable patient. Defibril lation (Choice B) is effective at terminating atrial fibrillation with rapid ventricu lar response but carries a risk for inducing a ventricular arrhythmia. Synchronized cardioversion is preferred to avoid this risk. Heparin therapy (Choice D) is not indicated in the acute management of hemodynamical ly unstab le atrial fibrillation. Chronic atrial fibrillation is a risk factor for systemic thromboembolic disease, especia lly stroke, and patients should be counseled on long-term antiplatelet and anticoagulation options to reduce this risk. Educational Objective: Hemodynamica lly unstable atrial fibrillation with rapid ventricular response requires immediate treatment with synchronized cardioversion to restore normal sinus rhythm and adequate cardiac output.",
+    "image": true,
+    "id": "EM-2-44",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 45,
+    "questionStem": "A 44-year-o ld woman comes to the emergency department 2 hours after the sudden onset of epigastric pain. The patient says the pain radiates to her back and improves when she leans forwa rd. She rates the pain as a 9 on 10-point scale. She has vomited twice and still feels nausea ted. She has obesity and cholelithiasis. She does not take any medicat ions and has no known allergies . She drinks two glasses of wine on the weekends and does not smoke cigarettes or use illicit drugs. BMI is 29 kg/m2. She appears uncom fortable. Her temperatu re is 37.3°C (99.2°F), pulse is 96/min, respirations are 18/min, and blood pressure is 138/87 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 98%. Physical exam ination discloses tenderness to palpation of the epigastr ium. The remainder of the examinat ion discloses no abnorma lities. Laboratory studies show: Leukocyte count Serum ALT AST Alkaline phosphatase Lipase 14,000/mm3( 14 x 109/L) 184 U/L 126 U/L 210 U/L 368 U/L (N=14-280) Which of the following is the most appropriate pharmacotherapy at this time?",
+    "choices": null,
+    "correctAnswer": "B",
+    "correctExplanation": "Opioid analgesics, including hydromorphone, are the cornerstone of acute pancreatitis pain management. Acute pancreatitis presents with epigastric abdominal pain that radiates to the back, along with nausea and emesis, often in a patient with a history of cholelithiasis, alcoholism, trauma, hypertriglyceridemia, or hypercalcemia. Acute pancreatitis can be complicated by necrosis, hemorrhage, abscess, or the formation of pseudocysts. Laboratory evaluation often shows increased serum amylase and lipase. Treatment of acute pancreatitis is largely suppo rtive and should include intravenous fluids, either normal saline or lactated Ringer solution, and bowel rest in addition to pain cont rol. The associated pain from acute pancreatitis is typically severe and often requires the use of opioid analgesics.",
+    "incorrectExplanation": "nd E. - ••·. ·- •• - ! - • - - -·. - • - ••· -· • ·-- - - ••••• • - ·- ·•• - •- - - •• ·- - •• •••",
+    "image": null,
+    "id": "EM-2-45",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 46,
+    "questionStem": "A 57-year-o ld man is brought to the emergency department by his son 30 minutes after he had a tonic-clonic seizure that lasted 1 minute. The patient is disheveled and has difficulty giving a coherent history. The son reports that his father has a 20-year history of alcoholism and typically consumed 16 to 32 oz (0.5 to 1 L) of vodka daily. The patient's temperatu re is 37.8°C (100°F), pulse is 110/min, respirations are 20/min, and blood pressure is 150/70 mm Hg. The skin is slightly jaund iced, and there are spider angiomas over the chest. Abdominal examination shows ascites. The liver edge is palpated 5 cm below the right costal margin. Neurologic examination shows a diffuse symmetrical tremor. No asterixis is noted. His Mini-Menta l State Examination score cannot be quantified because he does not cooperate. In addition to intravenous fluids, multivitamins, folic acid, and vitamin B 1 (thiamine), administration of which of the following is the most appropriate next step in management?",
+    "choices": null,
+    "correctAnswer": "B",
+    "correctExplanation": "Alcohol use disorder causes changes in the expression of central nervous system y-aminobutyric acid (GABA) and glutamate receptor subunits, leading to sympathetic hyperactivity in the setting of alcohol withdrawal. Initially, this hyperexcitab ility results in tremors, anxiety, diaphoresis, hypertension, tachycardia, and nausea. Within hours of the last drink, alcoholic hallucinosis (auditory or visual hallucinations without confusion or autonomic instability) and seizures (as a result of cortical hyperactivity) can occur. Delirium tremens, the most concerning and life-threatening complication of alcohol withdrawal, involves severe confusion and disorientation, fluctuations in consciousness, agitation, visual hallucinations, and autonomic instability (fluctuations in heart rate and blood pressure with hyperthermia). As a result of their activating effect on GABA receptors, benzodiazepines, such as diazepam, are effective in reducing the psychomotor hyperactivity associated with alcohol withdrawal. Long-acting benzodiazepines are preferred because they reduce the risk for recurrent seizures. Many centers employ a symptom-based approach to the treatment of alcohol withdrawal using clinical assessment tools such as the Clinical Institute Withdrawal Assessment for Alcohol, revised (CIWA-Ar) scale .",
+    "incorrectExplanation": "nd E. Atenolol (Choice A) should not be used to treat alcohol withdrawal, as its efficacy for reducing seizures is less well-characterized than that of benzodiazepines. It may also mask the signs of hemodynamic instability that are associated with delirium tremens. Haloperidol (Choice C) is contraindicated for most patients with alcohol withdrawal, as it lowers the threshold for seizures. Treatment with anticonvulsants, such as phenytoin (Choice D) or valproic acid (Choice E), is not typically necessa ry for seizures ----- - -- - - ---- -- - - --- ---- -- --- --- -- --- -- -- -- - -- -- -- ·",
+    "image": null,
+    "id": "EM-2-46",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 47,
+    "questionStem": "A 60-year-old man is brought to the emergency department 30 minutes after a syncopa l episode. The patient experienced palpitations, weakness, and dizziness, and then collapsed and lost consciousness for approx imately 1 minute. He reports a similar episode 1 week ago for which he did not seek care. The patient has congestive heart failure and hypertension treate d with furosem ide and atenolol. On arrival, his tempe rature is 37°C (98.6°F), pulse is 70/min, respirations are 18/min, and blood pressure is 120/70 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 98%. Auscu ltation of the chest discloses clear lungs and no murmurs. During the examination he exper iences another episode of palpitations. A rhythm strip is shown. The episode passes and he reports feeling \"no rmal\" after resolution of the palpitations. Vital signs and physica l exam ination remain unchanged after the episode. Adm inistration of which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Amiodarone",
+      "B": "Atropine",
+      "C": "Calcium gluconate",
+      "D": "Epinephrine",
+      "E": "Lidoca ine",
+      "F": "Magnesium"
+    },
+    "correctAnswer": "F",
+    "correctExplanation": "The ECG shows torsades de pointes , a dangerous form of polymorphic ventricular tachycardia characterized by a sinusoidal pattern with cyclic variation in amplitude. Episodes are typically brief and resolve spontaneously , but patients are at risk for progressing to ventricular fibrillation , hemodynamic collapse , and death . Patients with prolongation of the Q-T interval (which may be familial or acquired, such as with adverse effects of several medications) ,are susceptible to developing torsades de pointes. Medications that are associated with torsades de pointes include class IA and Ill antij arrhythmic agents , macrolide and fluoroquinolone antibiotics , methadone, antipsychotics , antidepressants , antiemetics, and diuretics such as furosemide . Hypomagnesemia , hypokalemia , and hypocalcemia also increase risk. The patient presentation typically involves palpitations, syncope , lightheadedness , tachycardia , and pallor. Immediate treatment requires intravenous magnesium administration , which inhibits calcium influx into myocardia l cells and suppresses early afterdepo larizations to interrupt the arrhythmia. Any potential QT-prolonging medications should be discontinued , and consultation with a cardiologist or electrophysiologist is recommended to determine if long-term pharmacologic therapy or an implantable cardiac device is indicated . Hemodynamically unstable patients generally require cardioversion (which may not be possible given the polymorphic nature of the arrhythmia) or defibrillation . Incorrect Answers : A, B, C, D, and E. Amiodarone (Choice A) is an antiarrhythmic agent that is commonly used to treat ventricular arrhythmias ; however , it causes QT­ prolongation and can worsen torsades de pointes . Amiodarone should be avoided in this patient. Atropine (Choice B) is an anticholinergic agent used in the treatment of bradyarrhythmias because of its muscarinic inhibition . Atropine increases heart rate and shortens the Q-T interval but is not recommended in the treatment of torsades de pointes . Magnesium administration is standard therapy. Calcium gluconate (Choice C) may be considered in addition to magnesium in the treatment of torsades de pointes , as hypocalcemia increases the risk for the arrhythmia as well. Magnesium should be administered first. Epinephrine (Choice D) is used in the treatment of numerous cardiac arrhythmias as a result of its positive inotropic and chronotropic effects. Increasing the heart rate shortens the Q-T interval and may provide a benefit; however , magnesium has been demonstrated as the most effective initial therapy . Lidocaine (Choice E) may be considered as an adjunct to magnesium for persistent torsades de pointes as it does not prolong the Q-T interval. Magnesium should be administered first. Educationa l Objective : The initial treatment of torsades de pointes is intravenous magnesium therapy, which inhibits calcium influx into myocardial cells and decreases the frequency of early afterdepolarizations that propagate the arrhythmia . r ~, ~ F' r, Previous Next Score Report Lab Values Calculator Help Pause •",
+    "incorrectExplanation": null,
+    "image": true,
+    "id": "EM-2-47",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 48,
+    "questionStem": "A 62-year-old woman is brought to the emergency department because of a 2-hour history of severe chest pain. She has hypertens ion and type 2 diabetes mellitus. Her medications are insulin, lisinopril, and hydroch lorothiazide. During the triage process, she sudden ly collapses. The patient is apneic and pulseless. A rhythm strip is shown. After initiating high-qua lity cardiopulmonary resuscitation, which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Administration of amiodarone",
+      "B": "Administration of epinephrine",
+      "C": "Administration of vasopressin",
+      "D": "Defibrillation",
+      "E": "Intubation and mechanical ventilation"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "The patient is presenting with cardiac arrest, and cardiopulmonary resuscitation (CPR) has been initiated appropriate ly. The most important factors that improve the chance of survival from cardiac arrest are early activation of the emergency response system (this patient was already present in the emergency department), immediate initiation of high-qua lity chest compressions with minima l interruptions, early defibrillation (for shockable rhythms), and early initiation of advanced cardiac life support (ACLS) protocols. The rhythm strip shows ventricular fibrillation, and the most appropriate next step in management is defibri llation. Defibrillation should be administered to patients presenting without a pulse that exhibit either ventricular fibrillation or ventricular tachycardia on the rhythm strip. Pulseless electrical activity (PEA) and asysto le do not respond to defibril lation. Delay in initiating chest compressions and in administering the first defibri llation shock in the setting of a shockab le rhythm are associated with a decreased likelihood of achieving return of spontaneous circulation.",
+    "incorrectExplanation": "nd E. Administration of amiodarone (Choice A) and epinephrine (Choice B) are recommended in the ACLS protocol after the initiation of high- - -- -··- - -- -- -- - -- - -- -- . ... -·-·· -- - -····-··",
+    "image": true,
+    "id": "EM-2-48",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 49,
+    "questionStem": "A 61-year-o ld African American man with previous ly stable angina pector is comes to the emergency department because of a 2-day history of worsening chest pain. The pain occurs at rest or with minimal exertion. He rates the pain as an 8 on a 10-point scale. Nitroglycerin has provided only moderate relief. He has not had diaphoresis, nausea, or dyspnea. He has coronary artery disease, type 2 diabetes mellitus, and hypertens ion. He has no history of liver disease or bleeding problems. In addition to nitroglycerin, medications include glyburide, valsartan, and hydroch lorothiazide. He is 178 cm (5 ft 10 in) tall and weighs 85 kg (188 lb); BMI is 27 kg/m2. His temperatu re is 37.3°C (99.1°F), pulse is 87/min, respirations are 18/min, and blood pressure is 130/68 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 93%. Physical examination discloses no abnorma lities. A chest x-ray shows minimal cardiomega ly. An ECG shows T-wave inversions in the anterior leads not seen on previous ECGs. Serum cardiac enzyme concentrations are within the reference ranges. The patient is given 3 L of oxygen via nasal cannula. Morphine (4 mg) is administered, and the patient is pain-free. In addition to admin istration of aspirin, which of the following is the most appropriate next step?",
+    "choices": {
+      "A": "Administration of heparin",
+      "B": "Administration of recombi nant tissue plasminogen activato",
+      "C": "Intra-aortic balloon counterpulsation",
+      "D": "Referral to a cardiac surgeon",
+      "E": "Ventilation-perfusion lung scans"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Administration of heparin is the next most appropriate step. This 61-year-old patient with a history of stable angina but with new onset chest pain at rest and T-wave inversions in the anterior leads most likely has unstable angina. There are three primary categories of acute coronary syndrome (ACS): unstable angina (UA), non-ST-elevation myocardia l infarction (NSTEMI), and ST-elevation myocardia l infarction (STEMI). A STEMI presents with chest pain, ST elevations on ECG, and positive cardiac biomarkers (eg, troponin). Treatment is with thrombolytics or immediate cardiac catheterization. UA and NSTEMI are similar conditions and present with ECG changes such as T-wave inversions or ST segment depressions and chest pain but are differentiated by the presence (NSTEMI) or absence (UA) of increased cardiac biomarkers. Regardless, UA and NSTEMI are treated similarly with dual antiplatelet therapy and full dose anticoagulation. Appropriate anticoagulant choices include either unfractionated heparin or low molecular weight heparin. Patients are then typically risk stratified using various scoring models to determine the urgency of cardiac catheterization, but most will undergo catheterization within 24 hours.",
+    "incorrectExplanation": "nd E. Administration of recombinant tissue plasminogen activator (Choice B) is appropriate for patients with a STEMI who do not have immediate access to a cardiac catheterization suite. Thrombolytics are not given for UA or NSTEMI. - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - .",
+    "image": null,
+    "id": "EM-2-49",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  },
+  {
+    "questionNumber": 50,
+    "questionStem": "A 75-year-old man is brought to the emergency department because of a 3-day history of progressive fatigue and genera lized weakness. He says that this morning, he felt too weak to get out of bed and had shortness of breath at rest. He has type 2 diabetes mellitus and hypertens ion. His medications are glipizide and amlodipine. He has no known allergies . The patient is awake and in mild distress . He is able to follow commands. BMI is 21 kg/m 2. His tempe rature is 37°C (98.6°F), pulse is 156/min and irregular, respirations are 22/min, and blood pressure is 82/48 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 94%. Auscultation of the lungs discloses bilateral basilar crackles. The remainder of the examination shows no abnormalities. An ECG is shown. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Administration of diltiazem",
+      "B": "Administration of 0.9% saline",
+      "C": "Echocardiography",
+      "D": "Electrical cardioversion",
+      "E": "X-ray of the chest"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "The ECG shows an irregular, narrow-complex arrhythmia lacking P-waves consistent with atrial fibrillation. Heart failure and atrial fibrillation share many common risk factors, and each predisposes to development of the other. Atrial fibrillation with rapid ventricular response (pulse >100/min) can result in reduced stroke volume and decreased cardiac output leading to symptomatic heart failure, and potentially hypotension and hemodynamic instability in severe cases. This patient is presenting with hemodynamically unstable atrial fibrillation with hypotension and tachycardia. The most appropriate initial treatment is synchronized cardioversion to quickly correct the arrhythmia and restore adequate cardiac output.",
+    "incorrectExplanation": "nd E. Administration of diltiazem (Choice A) would be appropriate for a hemodynamically stable patient presenting with atrial fibrillation with rapid ventricular response. The presence of hypotension makes electrical cardiove rsion the more appropriate initial therapy for this patient. Administration of 0.9% saline (Choice B) is not appropriate at this time and may worsen the patient's tachyarrhythmia-indu ced heart failure, as he has evidence of pulmonary edema on physical examination with pulmonary crackles. Intravenous fluids may be considered if the patient remains hypotensive after the restoration of normal sinus rhythm. Echocardiography (Choice C) and x-ray of the chest (Choice E) should be included in the eventual diagnostic work-up to investigate the cause of the patient's arrhythmia, but these studies should not delay prompt correction of the arrhythmia with synchronized cardioversion in this hemodynamica lly unstable patient. Educational Objective: Hemodynamically unstable atrial fibrillation with rapid ventricular response requires immediate treatment with synchronized cardioversion to restore normal sinus rhythm and adequate cardiac output.",
+    "image": true,
+    "id": "EM-2-50",
+    "section": "EM",
+    "subsection": "CMS-2",
+    "system": null
+  }
+]

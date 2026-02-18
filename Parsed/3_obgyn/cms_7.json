@@ -1,0 +1,748 @@
+[
+  {
+    "questionNumber": 1,
+    "questionStem": "42-year-old woman, gravida 2, pafal2) comes to'the physician requesting contraceptive advice! She is not married, but she!has been with the same partner for 8 years, and she has decided that her family is complete. She has smoked one pack of cigarettes daily for 20 years. She is 165 cm (5 ft 5 in) tall and weighs 59 kg (130 Ib); BMI is 22 kg/m2. Her blood pressure is 130/80 mm Hg. Examination shows no abnormalities. Which of the following contraceptive methods is contraindicated for this couple?",
+    "choices": {
+      "A": "Diaphragm",
+      "B": "1UD",
+      "D": "Spermicidal foam",
+      "E": "Tubal ligation",
+      "F": "Vasectomy"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Many methods of contraception exist, including temporary and permanent options, hormonal and nonhormonal devices, oral medications, injections, implants, and ovulation tracking. The most appropriate contraceptive method is dependent on the patient and her goals of care. Oral contraceptives (OCPs) are a temporary form of birth control that must be taken every day. They commonly include combinations of ethinyl estradiol and progestin, although progestin-only options are available. OCPs work to prevent pregnancy by thickening the cervical mucus, thinning the endometrial lining, and decreasing ovulation. While effective in preventing pregnancy when taken as instructed, there are important contraindications to prevent cardiovascular morbidity and venous thromboembolism. Pertinent to this patient, OCPs are contraindicated in women who are age 35 years or older and smoke at least 15 cigarettes daily. They are also contraindicated in patients with increased risk for cardiovascular events (eg, severe hypertension, ischemic heart disease, valvular disease, diabetes mellitus with end-organ damage), history of stroke or other thromboembolism, cirrhosis, migraine with aura, and breast malignancy with estrogen or progesterone receptor positivity. @ G E https://me/U SM LENBM E2CK Score Report Lab Values Calculator",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "OB-7-1",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 2,
+    "questionStem": "A38-year-old woman, gravida 2, para 1, at 26 weeks’ gestation comes to the physician for a routine prenatal visit. At 11 weeks’ gestation, she underwent chorionic villus sampling, which showed a 46,XX karyotype. Her first child has Down syndrome. The patient's immunizations are up-to-date. Her only medication is a prenatal vitamin. Her pregnancy has been complicated by asymptomatic bacteriuria with Streptococcus agalactiae (group B), which was treated at 12 weeks’ gestation with ampicillin. Examination shows a uterus consistent in size with a 26-week gestation. The maternal blood group is B, Rh-negative. Serum rubella antibody titer is nonimmune. Repeat urine culture is negative. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Administration of measles-mumps-rubella vaccine at this visit",
+      "B": "at 36 weeks’ gestation",
+      "C": "Anovaginal culture for Streptococcus agalactiae (group",
+      "D": "Fluorescent treponemal antibody assay at 28 weeks’ gestation",
+      "E": "Repeat urine culture now and during the third trimester"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Rh(D)-negative mothers are at a high risk for developing anti-Rh(D) antibodies if exposed to blood from a Rh(D)-positive fetus, which most commonly occurs during delivery, although it can occur during prepartum bleeding or invasive procedures, such as amniocentesis or chorionic villus sampling. If Rh(D) antigens from the fetal circulation enter the maternal circulation, it is possible that the mother’s immune system will form antibodies against the Rh(D) antigen. While this carries no significant complication with the initial exposure, a subsequent pregnancy with an Rh(D)-positive fetus can result in severe hemolytic anemia of the newborn (erythroblastosis fetalis) as maternal antibodies cause hemolysis of fetal erythrocytes when they cross the placenta. Rho(D) immune globulin (RhoGAM) acts by binding to Rh(D)-positive cells that enter the maternal circulation, preventing the immune system from developing antibodies to the Rh(D) antigen. Administration of Rho(D) immune globulin is typically performed for Rh(D)-negative mothers at 28 weeks of gestation, along with following the delivery of an Rh(D)-positive newborn, any invasive procedure (eg, amniocentesis or chorionic villus sampling), and any episodes of fetomaternal bleeding. Rho(D) immune globulin is ineffective in a patient who has already developed Rh(D) antibodies. Thus, if this patient's antibody screening is negative, she should receive Rho(D) immune globulin at her 28 weeks’ gestation visit. 4 > lA a tl i> ff https://me/U SM LENBM E2CK Previous Next Score Report Lab Values Calculator Help Pause",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "OB-7-2",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 3,
+    "questionStem": "An 82-year-old woman comes to the physician because of a 3-month history of urinary urgency; during this period, she has noticed that the toilet paper is blood-tinged after urinating. At times she loses small amounts of urine unrelated to any precipitating events. She has a strong urge to urinate almost all the time. She voids small amounts every 30 minutes during the day and awakens approximately two times nightly to urinate. A photograph of the genitalia is shown. The remainder of the examination shows no abnormalities. Urinalysis shows no RBCs, WBCs, bacteria, or protein. A Gram stain of urine shows no bacteria. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Urethral carcinoma",
+      "B": "Urethral diverticulum",
+      "C": "Urethritis secondary to estrogen deficiency",
+      "D": "Urethrocele",
+      "E": "Urethrovaginal fistula"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "This patient with symptoms of overflow urinary incontinence (unprecipitated urine leakage, inability to empty the bladder) secondary to obstruction from a large, friable mass near the urethral opening most likely has urethral carcinoma. Overall, this is a rare cancer that is more common in men than in women. In women, it most commonly presents with lower urinary tract symptoms, such as dysuria or dyspareunia. Evaluation should include a full physical examination, including a bimanual examination, laboratory studies to rule out a urinary tract infection, and further imaging, such as CT scan/MRI or cystourethroscopy. The most common type of urethral carcinoma in women is squamous cell carcinoma, and treatment includes resection, as well as chemotherapy or radiation therapy depending on the extent of disease. Risk factors for its development include age, the presence of chronic inflammation or a urethral diverticulum, and human papillomavirus infection.",
+    "incorrectExplanation": "nd E. q € ¢ https: //.me/U SM LENBM E2CK € € Previous",
+    "image": true,
+    "id": "OB-7-3",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 4,
+    "questionStem": "Two days after undergoing cesarean delivery because of failure to progress, a 27-year-old woman, gravida 1, para 1, has mild chest pain and dyspnea after walking to the nursery to see her newborn. Her pregnancy had been uncomplicated. She has i eee eee takes no medications. Her temperate se is 110/min, respirations are 28/min, and blood pressure is 140/80 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 90%. Physical examination shows a clean, dry incision. Cardiopulmonary exam ifSiSTie ROMS RESON TEIGERIOREEED en is moderately tender. Pelvic examination shows moderate lochia. Which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "Abdominal ultrasonography",
+      "B": "Doppler ultrasonography of the lower extremities",
+      "C": "Echocardiography",
+      "E": "MRI of the abdomen"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "This patient's acute-onset dyspnea and chest pain, tachycardia, tachypnea, and hypoxia are highly suggestive of a pulmonary embolus (PE). A minority of patients with PE present with a mild fever, which can create diagnostic confusion. ECG commonly discloses sinus tachycardia without ST segment depression or elevation. Pregnancy represents a hypercoagulable state, during which coagulation factors |, Il, VII, VIII, IX, and X are overexpressed, while the anticoagulant protein S is underexpressed. Similarly, hormonal changes and compression by the gravid uterus lead to venous stasis and pooling of blood in the lower extremities and pelvis, common sites of venous thrombosis. Gravid patients are therefore at increased risk for deep venous thrombosis (DVT) and subsequent PE throughout pregnancy and in the postpartum period. Further evaluation should be performed to confirm the diagnosis, preferably with spiral CT angiography of the chest. For gravid patients, nuclear medicine ventilation- perfusion scans of the lung are preferred because of the lower amount of fetal radiation exposure.",
+    "incorrectExplanation": "nd E. Abdominal iltrasannaranhy (Choice A) is tisefiil in the diananasis of aciite ahdaminal nain in nreanant and nastnartiim natiants Canditinns that can he diannnsced with this € ¢ https: //.me/U SM LENBM E2CK € € Previous",
+    "image": null,
+    "id": "OB-7-4",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 5,
+    "questionStem": "A 27-year-old woman, gravida 2, para 1, at 16 weeks' gestation comes to the physician because of moderate pain with urination during the past 2 days. She has no history of serious illness, and pregnancy had been uncomplicated. Examination shows a uterus consistent in size with a 16-week gestation. Urine culture grows greater than 100,000 colonies/mL of group B streptococcus, sensitive to penicillin. In addition to antibiotic therapy now, which of the following is the most appropriate management?",
+    "choices": {
+      "A": "Screening for group B streptococcal infection at 35 weeks' gestation",
+      "B": "Screening for group B streptococcal infection at the onset of labor",
+      "C": "Maternal antibiotic therapy at 35 weeks' gestation",
+      "D": "Maternal antibiotic therapy during labor",
+      "E": "Elective cesarean delivery at 38 weeks' gestation"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Aurinary tract infection often presents with dysuria, frequency, urgency, and suprapubic discomfort, most commonly because of ascending migration of enteric bacteria through the urethra (eg, Escherichia coli). When untreated, this can ascend farther and cause pyelonephritis, or bacterial infection of the kidneys. This is characterized by fever, leukocytosis, nausea, vomiting, and costovertebral angle tenderness. While group B streptococcus (GBS) frequently colonizes the urethra, vagina, and rectum, it rarely causes infection in immunocompetent adults. In pregnancy, however, infection with GBS is not uncommon. Pregnant patients can develop asymptomatic bacteriuria, cystitis, pyelonephritis, chorioamnionitis, and endometritis linked to GBS. Maternal colonization and infection increase the risk for neonatal transmission. Therefore, pregnant patients are screened with a urine culture early in pregnancy and an anovaginal swab at 36 to 38 weeks’ gestation. If either of these are positive or the patient develops a GBS infection during pregnancy, they should be treated with intrapartum antibiotic therapy during labor to prevent neonatal transmission. This is important as GBS is a leading cause of neonatal sepsis, which is associated with significant morbidity and mortality.",
+    "incorrectExplanation": "nd E. Sereenina for aroun B strentococcal infection at 35 weeks’ aestation (Choice A) or screenina for aroun RB strentococcal infection at the onset of labor (Choice R) is not 4 € ¢ https: //.me/U SM LENBM E2CK € € Previous",
+    "image": null,
+    "id": "OB-7-5",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 6,
+    "questionStem": "A 33-year-old nulligravid woman comes to the physician for a premarital examination. She has had increase’ Menses occur at regular intervals with occasional spotting 3 days before onset. She has had occasional dyspareunia over the past 8 months. Pelvic examination shows normal externa’ sized. The ovar' 1-cm tender nodules are palpated on the right uterosacral ligament. This woman is at increased risk for which of the following conditions?",
+    "choices": {
+      "A": "Endometrial cancer",
+      "B": "Endometritis",
+      "D": "Leiomyosarcoma",
+      "E": "Recurrent abortion"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Infertility is the most common complication of endometriosis, or the presence of ectopic endometrial tissue outside the uterus. This ectopic tissue may occur close to the uterus, such as on the cervix, within a fallopian tube, on the broad ligament, or on an ovary. It may also be distant, such as on the visceral peritoneal surface of the intestines or rectum, within the peritoneal cavity, or within the thorax. Endometrial tissue remains hormonally sensitive, and symptoms often fluctuate on a cyclic, monthly basis as the tissue progresses through the histologic phases of proliferative and secretory endometrium, then sloughs during menses. Symptoms include chronic dysmenorrhea, dyspareunia, and dyschezia. Pelvic examination will often show tenderness of the uterine wall and surrounding structures with possible uterine immobility secondary to pelvic adhesions. Endometrial implants on the cervix or vaginal wall may also be seen. Infertility may occur as a result of tubal obstruction or architectural changes from chronic inflammation and scarring. The diagnosis of endometriosis is definitively made through laparoscopy to visualize and sample endometriotic implants.",
+    "incorrectExplanation": "nd E. Endometrial cancer (Choice A) typically presents with postmenopausal uterine bleeding, although it can also present with abnormal uterine bleeding in a premenopausal natient Risk factors include nroalonaed unonnosed exnosure to estrogen such as early menarche late menonause nolvevstic ovarv svndrome exonenois estroden 4",
+    "image": null,
+    "id": "OB-7-6",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 7,
+    "questionStem": "A 52-year-old woman comes to the physician because of a 3-month history of severe left groin pain. Initially, the pain occurred only with activity, but it is now constant and awakens her at night. She does not have pain in any other location. During the past 6 weeks, she has had a decreased appetite resulting in a 4.5-kg (10-lb) weight loss. She has no history of injury to the groin area. Her only medication is ibuprofen. Range of motion of the left hip elicits pain. Sensation and motor function are intact. Distal pulses are 1+. X-rays of the pelvis and left hip show a poorly defined, mixed, lytic and blastic lesion in the femoral neck and intertrochanteric region. A whole-body bone scan shows areas of uptake in the ribs, spine, and left proximal femur. Which of the following is the most likely site of origin of this lesion?",
+    "choices": {
+      "A": "Breast",
+      "B": "Colon",
+      "C": "Endometrium",
+      "D": "Ovary",
+      "E": "Stomach"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Breast cancer is the most common nondermatologic malignancy in women, and commonly presents with a breast mass, skin or nipple retraction, or axillary lymphadenopathy. However, it may be asymptomatic and diagnosed on screening mammography. More rarely, it may be found because of symptoms of metastasis, as in this patient. The most common sites of metastasis are bone, liver, lungs, and brain. When breast cancer metastasizes to bone, it causes mixed lytic and blastic lesions that can lead to bone pain and pathologic fractures. Red flag symptoms for metastatic bone disease include rest pain or pain that awakens the patient at night, in addition to unintentional weight loss. Risk factors for breast cancer development include exogenous estrogen administration, a family history of premenopausal breast cancer, genetic mutations (eg, BRCA1 and BRCA2), early menarche, late menopause, nulliparity, obesity, and African American ethnicity. A family history of multiple first-degree relatives, particularly when the relatives are premenopausal at diagnosis, greatly increases the risk. In patients with early-stage breast cancer, treatment consists of surgical removal of the tumor and axillary lymph nodes along with adjuvant systemic hormonal therapy, biologic therapy, or chemotherapy, which depends on the estrogen, progesterone, and HER2 receptor positivity of the cancer. Patients with advanced breast cancer are typically treated with life-prolonging, palliative systemic therapy only. ¢ https://me/U SM LENBME2CK € (i Previous Next Score Report Lab Values Calculator",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "OB-7-7",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 8,
+    "questionStem": "A 27-year-old woman comes to the office because of a 1-week history of malodorous vaginal discharge. She has not had abdominal pain, pain with urination, or fever. Her last menstrual period was 1 week ago. Menses occur at regular 28-day intervals and last 3 days; flow is normal. Three months ago, she had vulvovaginal candidiasis that resolved after treatment with clotrimazole. Her only current medication is a combination oral contraceptive. She is sexually active with two male partners; they use condoms inconsistently. Her temperature is 37°C (98.6°F), pulse is 72/min, and blood pressure is 120/82 mm Hg. Abdominal examination shows no abnormalities. Pelvic examination shows a moderate amount of homogeneous, gray-white discharge in the vagina; the vagina otherwise appears normal. The cervix appears normal. There is no cervical motion, uterine, or adnexal tenderness. The adnexa are not enlarged. Wet mount preparation of the vaginal discharge is performed. Addition of KOH produces a fishy odor. Microscopic examination shows clue cells; no other abnormalities are noted. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Diluted vinegar douche",
+      "B": "Intramuscular ceftriaxone and oral doxycycline for the patient and oral doxycycline for her sexual partners",
+      "C": "Oral fluconazole for the patient only",
+      "D": "Oral metronidazole for the patient and her sexual partners",
+      "E": "Intravaginal metronidazole for the patient"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Bacterial vaginosis is a common gynecologic condition characterized by a shift of vaginal flora and overgrowth of bacterial species, commonly Gardnerella vaginalis. G. vaginalis is a gram-variable, facultative anaerobe. Bacterial vaginosis presents with gray, thin, malodorous vaginal discharge. Vaginal pH is increased greater than 4.5, and a fishy odor is detected on KOH testing. The identification of clue cells on wet mount preparation is the most appropriate confirmatory test. Metronidazole is the first-line therapy and may be delivered orally or intravaginally. Bacterial vaginosis is not considered a sexually transmitted infection, and treatment of asymptomatic sexual partners is not recommended. € ¢ https: //.me/U SM LENBM E2CK € € Previous Next Score Report Lab Values Calculator",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "OB-7-8",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 9,
+    "questionStem": "A32-year-old woman, gravida 5, para 4, at 33 weeks’ gestation is admitted to the hospital because of a 2-hour history of vaginal bleeding. She has not had pain, fever, or contractions. She had sexual intercourse 2 days ago. She has received no prenatal care. Her first pregnancy ended in an uncomplicated spontaneous vaginal delivery at term. Her other pregnancies ended in elective repeat cesarean deliveries. She takes no medications. A Pap smear 2 years ago was reported as atypical squamous cells of undetermined significance. Human papillomavirus testing at that time was negative for high-risk types. She uses cocaine socially. She does not appear to be in distress. Her temperature is 37.3°C (99.1°F), pulse is 80/min, and blood pressure is 140/95 mm Hg. The abdomen is soft and nontender. Fundal height is 34 cm. The fetal heart rate is reassuring. No contractions are detected on tocometry. There is a small amount of dark red vaginal bleeding. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Abruptio placentae",
+      "B": "Cervical cancer",
+      "C": "Placenta previa",
+      "D": "Premature contractions",
+      "E": "Vaginal laceration"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Placenta previa refers to the abnormal positioning of placental tissue such that the placenta partially or completely overlies the internal cervical os. It most commonly presents with painless third trimester vaginal bleeding. Frequently, it is detected on prenatal ultrasonography, but it may not always be evident. Thus, patients who present with vaginal bleeding after 20 weeks’ gestation should not undergo a digital cervical examination until ultrasonography has been performed to determine the exact positioning of the placenta, because severe hemorrhage can occur if a placenta previa is present. Risk factors for placenta previa include causes of uterine scarring, such as multiparity, previous cesarean delivery, and prior dilatation and curettage. While it may self-resolve as pregnancy progresses, its presence in the late third trimester requires careful management. Treatment of an initial bleed without significant hemodynamic instability necessitates intravenous administration of fluids and observation. Patients who are able to be stabilized may be expectantly managed with a plan for a cesarean delivery around 37 weeks’ gestation, to allow time for sufficient fetal development. A cesarean delivery is indicated to prevent significant hemorrhage, maternal/fetal complications, and potential fetal demise. Immediate cesarean delivery is aaa al £, +i +. hn +5 Ink +h ith hamad i i iFi + AL ai q ¢ ttps://t.me/U SM LENBME2 & € Previous Next Score Report Lab Values Calculator",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "OB-7-9",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 10,
+    "questionStem": "3°C (101°F) for 5 days and an intermittent watery vaginal discharge for 2 days. The he day and when standing. She ir and hysterectomy 2 weeks ago. She has no loss of urine with coughing or sneezing. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Cystitis",
+      "B": "Cystocele",
+      "C": "Rectovaginal fistula",
+      "D": "Urethral prolapse",
+      "E": "Urethritis",
+      "G": "Vaginal vault prolapse"
+    },
+    "correctAnswer": "H",
+    "correctExplanation": "A vesicovaginal fistula can be a consequence of gynecologic surgery, pelvic pathology, or radiation therapy. It occurs when a tract opens between the bladder and the vaginal canal and results in painless, usually asymptomatic urinary leakage from the vagina that is often worse with standing. Less commonly, symptoms may include fever if the fistula develops as a result of infection or inflammation or if an infection is a result of the fistula. Genitourinary examination will show a pool of urine in the vaginal canal, but the fistula site may be too small or difficult to visualize. Confirmatory testing entails infusing dyed sterile fluid into the bladder, then evaluating the vagina for the presence of transmitted dye. Complications include an increased risk for cystitis and ascending urinary tract infection caused by the transmission of vaginal flora. Treatment of a vesicovaginal fistula involves surgical repair and antibiotics to prevent or treat infection. 4 € ¢ https: //.me/U SM LENBM E2CK € e Previous Next Score Report Lab Values Calculator Exam Section : Item 10 of National Board of Medical Examiners® Obstetrics and Gynecology Self-Assessment of a vesicovaginal fistula involves surgical repair and antibiotics to prevent or treat infection.",
+    "incorrectExplanation": "nd G. Cystitis (Choice A), or inflammation of the bladder, is commonly caused by an ascending infection from the urethra. Symptoms include dysuria, urinary urgency, urinary frequency, and suprapubic discomfort. While this patient is at increased risk for developing cystitis, she has no symptoms to suggest its presence currently. Cystocele (Choice B) is common in multiparous patients due to weakness of the pelvic floor, which causes the bladder to prolapse into the anterior vaginal wall. It is associated with stress urinary incontinence, or loss of urine with an increase in abdominal pressure (eg, coughing or sneezing), which this patient does not have. Rectovaginal fistula (Choice C) refers to a fistula formed between the rectum and vagina. It presents with foul-smelling vaginal discharge, passage of gas from the vagina, and vaginal irritation. It may predispose the patient to urinary tract infections. This patient has watery discharge, rather than the loss of gas or foul-smelling discharge, which makes a vesicovaginal fistula more likely. Urethral prolapse (Choice D) and urethrocele (Choice F) occur when the urethra prolapses through the external urethral opening itself or into the anterior vaginal wall, respectively, due to the loss of proximal support, most commonly in a multiparous patient. They present with stress incontinence, and the urethra will be visible at the external urethral opening or palpable on the vaginal wall on physical examination. Neither would cause watery vaginal discharge. Urethritis (Choice E) presents with similar symptoms to cystitis, such as dysuria, urinary frequency, and urinary urgency. It is commonly caused by enteric bacteria. This patient has no symptoms of urethritis. Vaginal vault prolapse (Choice G) occurs secondary to pelvic floor dysfunction and weakness, most commonly in multiparous patients. This weakness causes herniation of the vaginal vault through the vagina and vaginal opening and presents with a heavy sensation in the pelvic area, urinary incontinence, and constipation or difficulty initiating a bowel movement. It would not present with painless, clear vaginal discharge. Educational Objective: Vesicovaginal fistulas can be a consequence of gynecologic surgery, pelvic pathology, or radiation therapy. They typically present with painless urinary leakage from the bladder into the vagina. Treatment includes surgical repair. ¢",
+    "image": null,
+    "id": "OB-7-10",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 12,
+    "questionStem": "esarean delivery for arrest of dilation, a 32-year-old woman, gravida 1, para 1, has a temperature of 38.1°C (100.6°F) and mild shortness of brea’ it delivery. Her pulse is 110/min, respirations are 14/min, and blood pressure is 110/72 mm Hg. Breath so rackles are heard. Examination of the breasts shows no engorgement or tenderness. Abdominal examination shows a moderately tender fundus; the surgical incision is clean and dry. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "B": "Bacterial pneumonia",
+      "C": "Endomyometritis",
+      "D": "Pelvic abscess",
+      "E": "Septic pelvic thrombophlebitis"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Atelectasis is a common cause of mild fever in the first 2 days after delivery or surgery. The term refers to the partial or complete collapse or incomplete expansion of pulmonary parenchyma. There are multiple types of atelectasis, including obstructive, passive, compressive, cicatricial, and adhesive. It is most common in patients who are pregnant, immobile, or in the postsurgical state, who are unable to produce adequate tidal volume to expand the lungs. In pregnant patients or patients who have just undergone vaginal delivery, increased intra-abdominal pressure caused by the gravid uterus pushes on the diaphragm and intrathoracic cavity, decreasing the ability for the lungs to expand normally. Physical examination will show diminished respiratory effort, often with decreased breath sounds and dullness to percussion at the lung bases corresponding to the regions of nonaerated, collapsed lung and inadequate diaphragmatic excursion. Mild hypoxia may be present. Pain control, incentive spirometry, and respiratory therapy with lung expansion maneuvers are key initial steps in management.",
+    "incorrectExplanation": "nd E. € ¢ https: //.me/U SM LENBM E2CK € € Previous",
+    "image": null,
+    "id": "OB-7-12",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 13,
+    "questionStem": "A32-year-old woman comes to the office because she has not had a menstrual period for 8 months; she has had hot flashes and vaginal discomfort with coitus during this time. Her last child was born 4 years ago. Menarche occurred at the age of 12 years, and menses occurred at regular monthly intervals until the age of 25 years. From the age of 25 years until she stopped menstruating, her periods became progressively less frequent. Two years ago, oral progesterone caused her to have a menstrual period, but an identical dose failed to cause a menstrual period 3 months ago. Which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "Abnormal intrauterine pregnancy",
+      "B": "Ectopic pregnancy",
+      "C": "Hydatidiform mole",
+      "D": "Ovarian germ cell tumor",
+      "E": "Measurement of serum thyroid-stimulating hormone concentration"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Pregnancy is suspected when there is a missed or delayed menstrual period. Light vaginal bleeding can occur early in pregnancy, often caused by implantation of the embryo, which can occasionally be mistaken for menses. Other symptoms of early pregnancy include nausea, breast tenderness, and fatigue. Physical examination may show an enlarged, globular uterus, but formal diagnosis is made with urine or serum B-hCG. B-hCG is produced by the placenta, is undetectable in nonpregnant patients, and doubles approximately every 48 hours during an early normal pregnancy. In a normal pregnancy, an intrauterine gestational sac should be visible by 5 weeks gestational age. Additionally, transvaginal ultrasonography provides sufficient sensitivity to detect an intrauterine pregnancy once the B-hCG concentration exceeds 1000 to 2000 miU/mL, as in this patient. Given this patient's positive urine B-hCG testing, increased quantitative serum B-hCG concentration, and gestational sac on ultrasonography, the most likely diagnosis is a normal early intrauterine pregnancy.",
+    "incorrectExplanation": "nd D. € ¢ https: //.me/U SM LENBM E2CK € € Previous",
+    "image": null,
+    "id": "OB-7-13",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 16,
+    "questionStem": "Ahealthy 32-year-old woman, gravida 3, para 2, at 24 weeks’ gestation comes to the physician in September requesting an influenza virus immunization. She does not smoke. She is a nursing assistant at a residential facility for disabled adults. Pregnancy has been Lin cormpica teeSieeSeS EST ith a 24-week gestation. The fetal heart rate is 120/min. Which of the following is the most appropriate recommendation for this patient?",
+    "choices": {
+      "A": "Antiviral prophylaxis only when cases of influenza occur in the residential facility",
+      "B": "Influenza virus immunization after delivery",
+      "C": "Influenza virus immunization after the influenza season begins",
+      "D": "Influenza virus immunization only when cases of influenza occur in the residential facility"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Influenza vaccines are redesigned each year to protect against a variety of different influenza strains. Thus, yearly influenza immunization is recommended for all patients and should be given ideally prior to the influenza season (generally October to April in the northern hemisphere), or as soon as possible if the season is already underway. The only contraindication to receiving the influenza vaccine is a prior severe allergic reaction to the vaccine or its components. Additionally, children younger than 6 months old should not receive the vaccine. Pregnancy commonly causes mild immunosuppression, increasing the risk for severe disease, hospitalization, and influenza-associated morbidity and mortality. Thus, prompt vaccination against influenza is especially important in pregnant patients. The influenza vaccine comes in two forms: an intramuscular inactivated virus vaccine and an intranasal live-attenuated virus vaccine. Pregnant patients should receive the inactivated version as the live-attenuated version carries the theoretical risk for transplacental viral transmission.",
+    "incorrectExplanation": "nd D. Antiviral prophviaxis only when cases of influenza occur in the residential facility (Choice A) is inappropriate, as immunization is more efficacious in the prevention of 4 € ¢ https: //.me/U SM LENBM E2CK € € Previous",
+    "image": null,
+    "id": "OB-7-16",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 17,
+    "questionStem": "A 24-year-old nulligravid woman comes to the physician because she has been unable to conceive for 2 years. Menses occur at regular 28-day intervals, and she has mild pain with menstrual periods. She has not had pain during sexual intercourse or discharge from her breasts. At the age of 18 years, she was hospitalized for management of pelvic inflammatory disease with intravenous antibiotic therapy. At that time, nucleic acid amplification testing of the cervix for Chlamydia trachomatis was positive, and testing for Neisseria gonorrhoeae was negative. Her husband has a 2-year-old child from a previous relationship. Physical examination of the patient, including pelvic examination, shows no abnormalities. Hysterosalpingography shows bilateral hydrosalpinx and distal tubal occlusion. Which of the following is the most likely cause of the imaging findings?",
+    "choices": {
+      "A": "Congenital defect",
+      "B": "Ectopic endometrial tissue",
+      "C": "Immune response",
+      "D": "Ovarian cancer",
+      "E": "Tubal spasm"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Pelvic inflammatory disease (PID) is characterized by inflammation of the upper genital tract and pelvis from ascending migration of a bacterial infection of the lower genital tract. Its clinical manifestations include fever, abdominopelvic pain, and mucopurulent vaginal discharge, as well as cervical motion and uterine tenderness on examination. Risk factors for its development include multiple sexual partners, failure to use a barrier method of contraception, and young age. Chlamydia trachomatis is a common cause of PID and can be treated with antibiotic therapy. Complications of PID include Fitz-Hugh—Curtis syndrome (or perihepatitis), tubo-ovarian abscess, and chronic issues with infertility caused by tubal occlusion. Tubal occlusion describes a lack of patent fallopian tubes, which is caused by an immune response to the infection and consequent scar formation, despite antibiotic treatment. The fallopian tubes can fill with fluid to form the bilateral hydrosalpinx seen in this patient. This occlusion prevents the passage of ova and sperm, resulting in infertility.",
+    "incorrectExplanation": "nd E. € ¢ https: //.me/U SM LENBM E2CK € € Previous",
+    "image": null,
+    "id": "OB-7-17",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 18,
+    "questionStem": "A32-year-old primigravid woman at 7 weeks' gestation is admitted to the hospital because of a 2-day history of nausea, vomiting, and dehydration. She has had a 4-week history of generalized weakness. She has been admitted twice during the past 2 weeks for similar symptoms. She has no history of gastrointestinal illness. Her only medication is a prenatal vitamin. The patient is in mild distress. Her temperature is 37°C (98.6°F), pulse is 125/min, and blood pressure is 120/80 mm Hg. Ophthalmologic examination shows mild exophthalmos bilaterally. There is a resting tremor of the hands. Measurement of which of the following serum concentrations is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "Free thyroxine",
+      "B": "Free triiodothyronine",
+      "C": "Thyroxine-binding globulin",
+      "D": "Total thyroxine",
+      "E": "Total triiodothyronine"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "The presentation of thyrotoxicosis includes diaphoresis, weight loss, anxiety, palpitations, tremor, and tachycardia. Hyperthyroidism in pregnancy may occur as a result of Graves disease (likely in this patient given her exophthalmos) or can be mediated by human chorionic gonadotropin (hCG), as the beta subunit of hCG has significant homology with TSH. Other causes of hyperthyroidism, such as toxic multinodular goiter, toxic thyroid adenoma, and thyroiditis, are less common in pregnancy. In nongravid patients, a decreased or undetectable TSH concentration is the most sensitive indicator of hyperthyroidism. However, TSH can be decreased in normal pregnancy due to an increase in serum thyroxine-binding globulin and stimulation of the TSH receptor by hCG. Evaluation of hyperthyroidism in pregnancy should therefore initially focus on measuring concentrations of free thyroxine (T4), which will be increased. Free triiodothyronine (T3) concentrations will be increased as well, but because Ty is the precursor to T3, measurement of T, is preferred as its concentrations will be affected earlier in the disease course. Once the diagnosis is established, measurement of the thyroid receptor antibody is helpful in differentiating between Graves and hCG-mediated causes, as it is positive in most patients with Graves disease. Radioiodine uptake scans are contraindicated in pregnancy. Patients with symptomatic, moderate to severe hyperthyroidism benefit from treatment with oral beta-blockers such as metoprolol or propranolol, which should be weaned as soon as thyroid hormone synthesis is controlled with propylthiouracil (first trimester) or methimazole (second and third trimester). € ¢ https: //.me/U SM LENBM E2CK € € Previous Next Score Report Lab Values Calculator Exam Section : Item 18 of National Board of Medical Examiners® Obstetrics and Gynecology Self-Assessment an increase in serum thyroxine-binding globulin and stimulation of the TSH receptor by hCG. Evaluation of hyperthyroidism in pregnancy should therefore initially focus on measuring concentrations of free thyroxine (T4), which will be increased. Free triiodothyronine (T3) concentrations will be increased as well, but because Ty is the precursor to T3, measurement of Ty is preferred as its concentrations will be affected earlier in the disease course. Once the diagnosis is established, measurement of the thyroid receptor antibody is helpful in differentiating between Graves and hCG-mediated causes, as it is positive in most patients with Graves disease. Radioiodine uptake scans are contraindicated in pregnancy. Patients with symptomatic, moderate to severe hyperthyroidism benefit from treatment with oral beta-blockers such as metoprolol or propranolol, which should be weaned as soon as thyroid hormone synthesis is controlled with propylthiouracil (first trimester) or methimazole (second and third trimester).",
+    "incorrectExplanation": "nd E. Free triiodothyronine (Choice B), or free T3, is the more active form of thyroid hormone. Its concentrations will also be increased in thyrotoxicosis. However, because Ty is the precursor to T3, its concentrations will be affected earlier in the disease course, and measurement of free T, is therefore preferred. Thyroxine-binding globulin (Choice C) concentrations are increased in normal pregnancy due to increased estrogen concentrations. Evaluation of thyroxine-binding globulin is not useful in the investigation of thyrotoxicosis. Total thyroxine (Choice D), or total T4, measures T, bound to thyroxine-binding globulin in addition to free T4. Total T4 concentrations are increased in normal pregnancy due to increased concentrations of thyroxine-binding globulin, but free T4 concentrations should not be affected in euthyroid patients. Measurement of free Ty is therefore a more appropriate test to investigate thyrotoxicosis. Total triiodothyronine (Choice E), or total T3, measures T3 bound to thyroxine-binding globulin in addition to free T3. Total T3 concentrations are increased in normal pregnancy due to increased concentrations of thyroxine-binding globulin, but free T3 concentrations should not be affected in euthyroid patients. Educational Objective: Hyperthyroidism in pregnancy is most often caused by Graves disease or by stimulation of the TSH receptor by human chorionic gonadotropin (hCG). Presentation includes diaphoresis, weight loss, anxiety, palpitations, tremor, and tachycardia, in addition to exophthalmos in Graves disease. In normal pregnancy, increased thyroxine-binding globulin and circulating hCG can cause decreased TSH and increased total T3 and total T4. Laboratory workup should therefore begin with measurement of free Ty, which is increased in hyperthyroidism. ¢",
+    "image": null,
+    "id": "OB-7-18",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 22,
+    "questionStem": "A32-year-old woman with hirsutism and oligomenorrhea comes to the physician for a follow-up examination 6 months after beginning prednisolone therapy. Six months ago, her serum 17a-hydroxyprogesterone concentration was 850 ng/dL (N=20-300). Within 2 months, menses began occurring at regular 28-day intervals. Examination today shows a decrease in hirsutism. A second measurement of serum 17a-hydroxyprogesterone concentration is 195 ng/dL. Which of the following is the most likely explanation for improvement in this patient's symptoms?",
+    "choices": {
+      "A": "Increased aromatase activity",
+      "B": "Increased hepatic synthesis of sex hormone-binding globulin",
+      "C": "Increased renal clearance of androgens",
+      "D": "Ovarian androgen synthesis",
+      "E": "Suppressed adrenal androgen synthesis"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Congenital adrenal hyperplasia (CAH) is a defect in adrenal steroid biosynthesis, particularly of cortisol, with variable effects on mineralocorticoids and androgens. Due to decreased production of hormones, the adrenal gland is stimulated by the pituitary gland to increase hormone production, leading to adrenal hyperplasia, the namesake of this condition. The most common form of CAH is 21-hydroxylase deficiency, which has various presentations, and is associated with an increased level of 17a- hydroxyprogesterone, androstenedione, and testosterone. Classical CAH is caused by complete absence of the hormone and presents with salt wasting in a newborn or precocious puberty in a child, as well as virilization of infants with an XX karyotype (eg, clitoral hypertrophy, labial fusion) due to the increased levels of androgens. Other symptoms of classical CAH include hypotension, hyperkalemia, hypoglycemia, and diffuse skin hyperpigmentation. Nonclassical CAH is caused by a decreased hormone level and is typically asymptomatic in childhood. Rather, it presents in later childhood or early adulthood with signs of androgen excess, such as hirsutism, and oligomenorrhea, both of which are seen in this patient. Oral contraceptives and glucocorticoids can be used to manage the symptoms of CAH in adult patients. Glucocorticoids, such as the prednisolone therapy used in this patient, work by inhibiting adrenocorticotropic hormone release from the pituitary gland and consequently sunnressina adrenal androgen svnthesis ¢ https://me/U SM LENBME2CK € (i Previous Next Score Report Lab Values Calculator",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "OB-7-22",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 22,
+    "questionStem": "A27-year-old woman comes to the physician because of a 2-day history of pain in her right knee and left wrist and spots on her extremities. Three nights ago, she ate pizza at a local restaurant with some friends, but they did not get sick. Her last menstrual period began 3 days ago, and she is currently using tampons. She has had unprotected sexual intercourse with two asymptomatic partners over the past month and uses an oral contraceptive. She visited Cape Cod 4 months ago but does not recall any illness or symptoms at that time. Her temperature is 39°C (102.2°F). Examination shows scattered pustular lesions on the extremities including one on the left palm and one on the right great toe. The left wrist is slightly red, and the redness extends along the extensor tendons. Which of the following is most likely to confirm the diagnosis?",
+    "choices": {
+      "A": "Antistreptolysin O titer",
+      "B": "Serologic testing for syphilis",
+      "C": "Testing for Borrelia burgdorferi",
+      "E": "Testing for Staphylococcus aureus"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Neisseria gonorrhoeae is a gram-negative diplococcus that can present with a variety of clinical syndromes, such as urethritis, vaginitis, cervicitis, pelvic inflammatory disease, Fitz-Hugh—Curtis syndrome, disseminated gonorrhea, or septic arthritis. When causing vaginitis, the most common presentation, N. gonorrhoeae typically presents with mucopurulent discharge and pruritus, although patients may be asymptomatic. The infection can cause concomitant urethritis with dysuria or ascend to cause cervicitis or pelvic inflammatory disease. When the infection spreads to the bloodstream, it can cause disseminated gonorrhea, which classically presents with fever, migratory polyarthralgia, tenosynovitis, and pustular lesions over the distal extremities. Often, urogenital symptoms are not evident at the time of disseminated gonorrhea diagnosis. Evaluation should include obtaining blood cultures, nucleic acid amplification testing of a urogenital specimen, and Gram stain and culture of synovial fluid. Treatment includes antibiotic therapy with ceftriaxone.",
+    "incorrectExplanation": "nd E. € ¢ https: //.me/U SM LENBM E2CK € € Previous",
+    "image": null,
+    "id": "OB-7-22",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 23,
+    "questionStem": "A31-year-old primigravid woman at 23 weeks’ gestation is brought to the emergency department because of a 1-day history of moderate lower abdominal pain, decreased appetite, and nausea. She has no history of serious illness. Her only medication is a prenatal vitamin. Her temperature is 38°C (100.4°F), pulse is 70/min, and blood pressure is 100/90 mm Hg. Examination shows moderate tenderness to palpation of the right mid abdomen. The uterus is consistent in size with a 23-week gestation. There is no bleeding or fluid discharge. Her leukocyte count is 15,000/mm2, serum AST activity is 45 U/L, and serum ALT activity is 48 U/L. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Abruptio placentae",
+      "C": "Braxton Hicks contractions",
+      "D": "Hepatitis",
+      "E": "Preterm labor"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Appendicitis typically presents with right lower quadrant abdominal pain that is often periumbilical at onset, with associated nausea, anorexia, fever, leukocytosis, and tenderness to palpation in the right lower quadrant on examination. In pregnancy, due to the location of the enlarging uterus, the appendix may be displaced superiorly as compared with that of a nongravid patient. This displacement limits the classic history and physical examination, which rely on a right lower quadrant position of the appendix. For example, initial periumbilical pain is attributed to vague, visceral innervation of the appendix being referred to the midline; once inflammation affects the parietal peritoneum, the pain becomes well-localized to the right lower quadrant, hence, the migratory character. McBurney point, a sensitive location for tenderness on palpation, is located at one-third the distance between the inguinal ligament and the umbilicus because this is the common position of the appendix. When displaced cephalad, the parietal peritoneal inflammation may no longer occur at the McBurney point, even migrating as cephalad as the right upper quadrant, mimicking diagnoses such as cholecystitis. Diagnosis is facilitated by CT scan (though less ideal in pregnancy because of the risk for teratogenicity to the fetus), MRI, or ultrasonography, which may show appendiceal enlargement, the presence of an appendicolith, appendiceal wall thickening, or periappendiceal fluid. Fluid in the paracolic gutter is suggestive of appendiceal rupture or perforation and is typically accompanied by rising fever and leukocytosis. Immediate surgical exploration and appendectomy is indicated to prevent sianificant maternal and fetal eamnlicatinns inclidina neritanitis sansis and death https://t.me/USMLENBME2CK @ (i Lab Values Calculator Waiting for www.starttest.com... Exam Section : Item 24 of National Board of Medical Examiners“ Obstetrics and Gynecology Self-Assessment appendix. For example, initial periumbilical pain is attributed to vague, visceral innervation of the appendix being referred to the midline; once inflammation affects the parietal peritoneum, the pain becomes well-localized to the right lower quadrant, hence, the migratory character. McBurney point, a sensitive location for tenderness on palpation, is located at one-third the distance between the inguinal ligament and the umbilicus because this is the common position of the appendix. When displaced cephalad, the parietal peritoneal inflammation may no longer occur at the McBurney point, even migrating as cephalad as the right upper quadrant, mimicking diagnoses such as cholecystitis. Diagnosis is facilitated by CT scan (though less ideal in pregnancy because of the risk for teratogenicity to the fetus), MRI, or ultrasonography, which may show appendiceal enlargement, the presence of an appendicolith, appendiceal wall thickening, or periappendiceal fluid. Fluid in the paracolic gutter is suggestive of appendiceal rupture or perforation and is typically accompanied by rising fever and leukocytosis. Immediate surgical exploration and appendectomy is indicated to prevent significant maternal and fetal complications including peritonitis, sepsis, and death.",
+    "incorrectExplanation": "nd E. Abruptio placentae (Choice A), the premature separation of the placenta from the uterus, presents with vaginal bleeding, severe uterine pain, and tetanic contractions, typically in the third trimester. It commonly results from lower abdominal trauma, smoking, or cocaine use. Due to the compromised fetal blood supply, it is an obstetric emergency. Braxton Hicks contractions (Choice C) are sporadic, irregular, and usually mild contractions that develop during the second or third trimester, without cervical changes. These contractions do not signify the onset of labor. This patient's constant, focal abdominal pain, along with fever, nausea, and vomiting, are more concerning for an intra- abdominal pathology. Hepatitis (Choice D) presents with nausea, vomiting, jaundice, and right upper quadrant pain. Causes include viral infections, autoimmune diseases, medications, and alcohol. Laboratory features of acute hepatitis include increased transaminases, which are not seen in this case. Preterm labor (Choice E) occurs between 20 and 37 weeks of gestation with regular uterine contractions and accompanied cervical change. As preterm delivery is associated with a high degree of fetal morbidity and mortality, it is usually treated with tocolytic therapy, hydration, and bed rest, as well as corticosteroids to promote fetal lung maturation if gestational age is less than 34 weeks. Educational Objective: Acute appendicitis may occur in pregnant patients and presents with variably located right-sided pain based on the location of the appendix or periumbilical abdominal pain, along with nausea, anorexia, fever, leukocytosis, and tenderness to palpation. Fluid in the paracolic gutter on ultrasonography is suggestive of appendiceal rupture, which is managed with emergent surgical exploration. ¢",
+    "image": null,
+    "id": "OB-7-23",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 25,
+    "questionStem": "A 17-year-old girl is brought to the physician by her mother because of a 5-month history of painful menstruation that causes her to occasionally miss school. Her last menstrual period was 3 weeks ago, and her menses occur at regular 28-day intervals. During questioning with her mother present, the patient says that she has never been sexually active. However, after the mother leaves the room, the patient indicates that she is sexually chills! -Sie aia eireette ae COnaGITS ical and pelvic examinations show no abnormalities. Which of the following is the most appropriate screening test to obtain at this visit?",
+    "choices": {
+      "A": "Complete blood count",
+      "B": "Determination of rubella status",
+      "C": "Pregnancy test",
+      "E": "Urinalysis"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Testing for Chlamydia trachomatis and Neisseria gonorrhoeae is recommended by the United States Preventive Services Task Force for all sexually active patients under age 25 years. C. trachomatis is a sexually transmitted infection that classically presents with urethritis, dysuria, dyspareunia, and urethral or vaginal discharge. N. gonorrhoeae is a sexually transmitted infection that presents most commonly with mucopurulent discharge and pruritus. However, both infections can also be asymptomatic, thus the recommendation for screening. Complications include cervicitis, pelvic inflammatory disease, tubo-ovarian abscess, and long-term issues with fertility. Diagnosis is made with a nucleic acid amplification test. Treatment consists of either azithromycin or doxycycline for chlamydia and ceftriaxone for gonorrhea.",
+    "incorrectExplanation": "nd E. Complete blood count (Choice A) is not necessary in this patient. A complete blood count is useful in the evaluation of infection, which may present with leukocytosis, and in anemia. This patient has no signs of infection, with her painful menstruation more likely secondary to primary dysmenorrhea. She also has no history of menorrhagia or other health issues that would predispose her to anemia. 4 € ¢ https: //.me/U SM LENBM E2CK € € Previous",
+    "image": null,
+    "id": "OB-7-25",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 25,
+    "questionStem": "A 25-year-old primigravid woman comes to the physician for her first prenatal visit after a home pregnancy test was positive. Her last menstrual period was 8 weeks ago. She reports that her blood group is A, Rh-negative. She has no history of chickenpox or other serious illness and takes no medications. Physical examination shows an enlarged nontender uterus consistent in size with an 8-week gestation. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "B": "Measurement of fasting serum glucose concentration",
+      "C": "Administration of Rh.(D) immune globulin",
+      "D": "Administration of rubella vaccine",
+      "E": "Administration of varicella vaccine"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Prenatal visits allow a healthcare provider to optimize a patient's chances to have a successful pregnancy and healthy child. The purpose of the initial prenatal visits should be to identify risks to the patient or fetus and to intervene where possible to decrease these risks. Typical assessments during these visits include evaluating medical conditions (eg, obesity, diabetes, hypertension), social behaviors (eg, substance use), exposure to teratogens (eg, medications), genetic conditions or family history, and vaccination records. Laboratory evaluation commonly includes pregnancy confirmation, ABO and Rh(D) type and antibody screen, rubella and varicella serology to ensure immunity, sexually transmitted infection screening, and urine culture. Finally, interventions include folic acid supplementation, abstinence from substance use, medication changes as needed, optimization of medical issues, treatment of infections and asymptomatic bacteriuria, and early recognition of an increased risk of fetal or maternal morbidity and mortality. Most commonly, for uncomplicated pregnancies, prenatal visits are recommended every 4 weeks until 28 weeks’ gestation, every 2 weeks from 28 to 36 weeks’ gestation, and then every week until delivery. During these later visits, screenings for fetal anomalies, gestational diabetes, and group B Streptococcus colonization, as well as the administration of Rho(D) immune globulin may occur. This patient has a healthy, early pregnancy and should return for another prenatal visit in 4 weeks. Incorrect Answers’: R C 2D and F https://t.me/USMLENBME2CK @ (i Waiting for www.starttest.com... Lab Values Calculator",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "OB-7-25",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 27,
+    "questionStem": "A28-year-old woman, gravida 2, para 1, at 38 weeks' gestation is brought to the office because of fluid leaking from her vagina. She has no history of serious illness. Pregnancy had otherwise been uncomplicated. At her last prenatal visit, culture for Streptococcus agalactiae (group B) grew no organisms. Her only medication is a prenatal vitamin. She has no known drug allerg /min, respirations are 16/min, and blood pressure is 106/70 mm ai Examination shows a uterus consistent in size wi | distress. There are no con ilated cervix. Microscopic examination of the fluid shows ferning. Which of the following is the most appropriate next step in management? (@)",
+    "choices": {
+      "B": "Admission to the hospital for intravenous ampicillin therapy",
+      "C": "Admission to the hospital for intravenous clindamycin therapy",
+      "D": "Admission to the hospital for observation only",
+      "E": "Follow-up office examination in 1 day"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Prelabor rupture of membranes (PROM) is the rupture of the amniotic sac before the onset of labor, defined as regular contractions with concomitant cervical change. Most commonly, patients report a gush of fluid or steady leakage of fluid from the vagina. Physical examination will typically show a closed cervix with pooling of fluid in the fornix; testing of the fluid will show that it is nitrazine positive and shows ferning on microscopic examination. Further assessment should include ultrasonography to evaluate for oligohydramnios and to determine fetal position, fetal heart rate monitoring, tocometry, and laboratory studies to rule out concomitant infection. Complications associated with PROM include intrauterine or fetal infection, such as chorioamnionitis, fetal malpresentation, and placental abruption. The risk for intrauterine infection is directly correlated to the length of time between membrane rupture and delivery. For this reason, most patients who present with PROM at term are admitted to the hospital for the induction of labor.",
+    "incorrectExplanation": "nd E. € ¢ https: //.me/U SM LENBM E2CK € € Previous",
+    "image": null,
+    "id": "OB-7-27",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 28,
+    "questionStem": "A 42-year-old nulligravid woman comes to the emergency department because of a 3-week history of heavy vaginal bleeding. Menarche was at the age of 12 years. Menses have occurred twice yearly during the past 10 years. Menses previously occurred at regular 28-day intervals. She has chronic hypertension treated with a calcium-channel blocking agent. She has smoked one-half pack of cigarettes daily for 15 years. She is 173 cm (5 ft 8 in) tall and weighs 72 kg (158 Ib); BMI is 24 kg/m2. Her blood pressure is 130/80 mm Hg. Pelvic examination shows no abnormalities. Pelvic ultrasonography shows a thickened endometrial stripe and a 2 x 2-cm, simple left adnexal cyst. Results of an endometrial biopsy show well-differentiated endometrial adenocarcinoma. Which of the following is the strongest predisposing risk factor for this patient's condition?",
+    "choices": {
+      "A": "Age",
+      "B": "BMI",
+      "C": "Cigarette smoking",
+      "D": "Hypertension",
+      "E": "Menstrual history"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Endometrial cancer most commonly presents with postmenopausal vaginal bleeding, although it can also present with abnormal uterine bleeding in premenopausal women. Abnormal uterine bleeding should be suspected when bleeding is irregular, unpredictable, or not associated with usual premenstrual signs and symptoms (eg, bloating, breast fullness, uterine cramps). Risk factors include prolonged, unopposed exposure to estrogen, such as early menarche, late menopause, chronic anovulatory cycles (eg, polycystic ovary syndrome), exogenous estrogen therapy, nulliparity, and obesity. The next most appropriate step in evaluation of patients with these presenting symptoms is an endometrial biopsy to evaluate for the presence of endometrial cancer. If a patient cannot tolerate the procedure or if the procedure sampling is nondiagnostic, a dilatation and curettage or a hysteroscopy can be performed. A hysteroscopy with sampling allows for a more complete evaluation of the endometrium and any focal lesions. This patient had early menarche and has had approximately 10 years of likely anovulatory cycles (ie, only menstruates twice yearly), which puts her at risk for prolonged, unopposed estrogen exposure. This estrogen exposure leads to endometrial growth, hyperplasia, and carcinoma. Inearract Anoweare:- A RC and tn 4 € ¢ https: //.me/U SM LENBM E2CK € € Previous Next Score Report Lab Values Calculator Exam Section : Item 28 of National Board of Medical Examiners® Obstetrics and Gynecology Self-Assessment Correct Answer: E. Endometrial cancer most commonly presents with postmenopausal vaginal bleeding, although it can also present with abnormal uterine bleeding in premenopausal women. Abnormal uterine bleeding should be suspected when bleeding is irregular, unpredictable, or not associated with usual premenstrual signs and symptoms (eg, bloating, breast fullness, uterine cramps). Risk factors include prolonged, unopposed exposure to estrogen, such as early menarche, late menopause, chronic anovulatory cycles (eg, polycystic ovary syndrome), exogenous estrogen therapy, nulliparity, and obesity. The next most appropriate step in evaluation of patients with these presenting symptoms is an endometrial biopsy to evaluate for the presence of endometrial cancer. If a patient cannot tolerate the procedure or if the procedure sampling is nondiagnostic, a dilatation and curettage or a hysteroscopy can be performed. A hysteroscopy with sampling allows for a more complete evaluation of the endometrium and any focal lesions. This patient had early menarche and has had approximately 10 years of likely anovulatory cycles (ie, only menstruates twice yearly), which puts her at risk for prolonged, unopposed estrogen exposure. This estrogen exposure leads to endometrial growth, hyperplasia, and carcinoma.",
+    "incorrectExplanation": "nd D. Age (Choice A) is not a risk factor for endometrial cancer in this patient. Endometrial cancer primarily occurs in postmenopausal women, especially those over age 55 years. It peaks in patients who are age 60 to 70 years. BMI (Choice B) is a risk factor for the development of endometrial cancer, as androgens are converted to estrogens in adipose tissue. This increases the amount of unopposed estrogen to which these patients are exposed. However, this patient's BMI is within normal limits. Cigarette smoking (Choice C) has been associated with decreased risk for the development of endometrial cancer. By contrast, it is associated with an increased risk for developing cervical cancer and many other malignancies. Hypertension (Choice D) has not been shown to be directly associated with the development of endometrial cancer. Educational Objective: Endometrial cancer can present with postmenopausal vaginal bleeding or abnormal uterine bleeding in premenopausal women. Risk factors for its development include prolonged, unopposed exposure to estrogen, such as early menarche, late menopause, chronic anovulatory cycles, exogenous estrogen therapy, nulliparity, and obesity. Diagnosis is made with endometrial biopsy, hysteroscopy, or dilatation and curettage. ¢",
+    "image": null,
+    "id": "OB-7-28",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 28,
+    "questionStem": "A27-year-old woman, gravida 1, para 1, comes to the physician 2 weeks after noticing a mass in her right breast. Her child was born 1 year ago following an uncomplicated pregnancy and delivery; she discontinued breast-feeding 4 weeks ago. She has no history of serious illness and has had no operative procedures. Vital signs are within normal limits. Examination of the right breast shows a 3-cm, slightly tender, nonerythematous, mobile, fluctuant mass. The remainder of the physical examination shows no abnormalities. Fine-needle aspiration of the mass yields 5 mL of clear fluid, and the mass completely resolves. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Breast abscess",
+      "B": "Fibroadenoma",
+      "C": "Galactocele",
+      "D": "Inflammatory carcinoma",
+      "E": "Mastitis"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "A galactocele is a benign retention cyst of the mammary glands, caused by an obstruction to lactiferous duct outflow. Although the fluid in this case is described as clear, typically a galactocele is filled with milky fluid. They occur in lactating patients (or patients who recently discontinued lactating) and present with a firm, fluctuant mass that is painless or mildly tender and most commonly present in the subareolar area. Vital signs will be within normal limits. Diagnosis is typically clinical, but mammography or ultrasonography can be performed, which would show a cystic mass. Galactoceles generally resolve on their own, and treatment is primarily supportive with massage and application of heat. Patients with persistent, symptomatic galactoceles may benefit from aspiration or excision. Complications are uncommon but include superimposed infection and abscess formation, as well as rupture and subsequent inflammation.",
+    "incorrectExplanation": "nd E. Breast abscesses (Choice A) are infections of the breast tissue that occur primarily in breast-feeding women but also occur in nonlactating women. They present as nalnahle tender fliuctiant earithamatoiis masses ceammonlyv associated with faver and niuritlant ninnle discharae Thev can develan fram aalactncelas if hacteria are SMLENBME2CK @ (i Waiting for www.starttest.com... Lab Values Calculator",
+    "image": null,
+    "id": "OB-7-28",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 30,
+    "questionStem": "A37-year-old woman at 36 weeks' gestation is brought to the emergency department 30 minutes after the sudden onset of abdominal cramping and vaginal bleeding. Two hours later, she becomes obtunded. Her temperature is 36.7°C (98.1°F), pulse is 120/min, respirations are 16/min and shallow, and blood pressure is 110/60 mm Hg. Examination shows a diffuse petechial rash. There is bleeding from the venipuncture and intravenous catheter sites. Laboratory studies show: Hemoglobin 10 g/dL Leukocyte count 11,000/mm3 Platelet count 80,000/mm:? Prothrombin time 18 sec (INR=1.5) Partial thromboplastin time 40 sec Plasma fibrinogen 50 mg/dL (N=200-—400) Fibrin degradation products 40 pg/mL (N<10) Which of the following should be administered prior to delivery?",
+    "choices": {
+      "B": "Heparin",
+      "C": "Oxytocin",
+      "D": "Packed red blood cells",
+      "E": "Platelets"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Disseminated intravascular coagulation (DIC) is a systemic disorder characterized by the widespread activation of the clotting cascade resulting in microthrombi formation, microangiopathic hemolytic anemia, thrombocytopenia, and bleeding complications (caused by consumption of platelets and clotting factors). Causes of DIC in pregnancy 4 € ¢ https: //.me/U SM LENBM E2CK € eC a Previous Next Score Report Lab Values Calculator Help Pause Exam Section : Item 30 of National Board of Medical Examiners“ Obstetrics and Gynecology Self-Assessment laboratory abnormalities reflecting disseminated activation of the clotting cascade (increased aPTT, PT, and INR) and consumption of platelets (thrombocytopenia). Additional laboratory abnormalities include increased D-dimer (and fibrin degradation products) and low fibrinogen concentrations, along with increased markers of hemolysis (detectable free hemoglobin, low haptoglobin, increased lactate dehydrogenase). Treatment includes correcting the underlying cause, and correction of resulting hematologic derangements such as coagulopathy, thrombocytopenia (if platelets are less than 50,000/mm’), and acute anemia. Coagulopathy can be treated with fresh frozen plasma (FFP) (which includes clotting factors, fibrinogen, antithrombin III, and plasma proteins), cryoprecipitate (concentrated fibrinogen), or prothrombin complex concentrates.",
+    "incorrectExplanation": "nd E. Heparin (Choice B) results in immediate anticoagulation through binding and potentiating the action of antithrombin III, causing the inhibition of thrombin and factor Xa. It is commonly used for anticoagulation in the setting of deep venous thrombosis, pulmonary embolism, and acute coronary syndrome. Administration of heparin to this patient would worsen her coagulopathy. Oxytocin (Choice C) is used to induce uterine contraction in the setting of uterine atony and postpartum hemorrhage. While hemorrhage is a possible cause of DIC, the cause of this patient's DIC is not yet clear. Moreover, oxytocin can induce labor, which can lead to catastrophic hemorrhage in a coagulopathic patient. Correction of her coagulopathy with FFP should be prioritized in order to decrease further bleeding. Packed red blood cells (Choice D) are used to correct anemia caused by extensive blood loss. The typical transfusion threshold is a hemoglobin concentration of 7 mg/dL or lower, though a higher threshold can be used for patients who show signs of end-organ perfusion deficits (tachycardia, oliguria, increased creatinine, hypoxemia). While hemorrhage is a possible cause of this patient's DIC, her coagulopathy must first be corrected with FFP before the root cause can be further investigated and treated. Platelet (Choice E) transfusion is indicated when a patient’s platelet concentration is less than 10,000/mm? without evidence of bleeding or 50,000/mm? when the patient is actively bleeding or requires a surgical procedure. This patient does not require a platelet transfusion at this time. Educational Objective: Disseminated intravascular coagulation can be provoked by numerous causes in pregnancy, including placental abruption, postpartum hemorrhage, preeclampsia/eclampsia, HELLP syndrome, acute fatty liver of pregnancy, amniotic fluid embolism, and trauma. It is characterized by depletion of coagulation factors, microangiopathic hemolytic anemia, thrombocytopenia, and bleeding. Treatment involves correcting coagulopathy, correcting thrombocytopenia if platelets are less than 50,000/mm?3, and identifying and correcting the underlying cause. € ¢ https: //.me/U SM LENBM E2CK € € Previous",
+    "image": null,
+    "id": "OB-7-30",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 31,
+    "questionStem": "A 16-year-old girl comes to the physician because of a 2-year history of cramps, nausea, vomiting, and diarrhea for the first 2 days of menses. Menarche occurred at the age of 12 years. Menses occur at regular 28- to 30-day intervals. She is sexually active with one partner. She and her partner usually use condoms for contraception. Pelvic examination shows no abnormalities. Which of the following is the most likely explanation for these findings?",
+    "choices": {
+      "A": "Adenomyosis of the uterus",
+      "B": "Chronic pelvic inflammatory disease",
+      "C": "Endometriosis of the pelvic peritoneum",
+      "E": "Submucous leiomyomata uteri"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Primary dysmenorrhea is defined as pain that accompanies each menstrual cycle but is not associated with any underlying pathology. In order to diagnose primary dysmenorrhea, causes of secondary dysmenorrhea must be ruled out. These may include endometriosis, leiomyomata uteri (uterine fibroids), adhesions, pelvic inflammatory disease, or adenomyosis. Many of these can be reasonably assessed on pelvic examination, which in this case did not show any abnormalities. Primary dysmenorrhea typically presents with pain in the lower abdomen and pelvis that may radiate to the lower back or thighs. It is often accompanied by nausea, diarrhea, headaches, and flushing. It can be attributed to uterine vasoconstriction in response to increased prostaglandin production by the endometrium. Thus, treatment targets this pathway with medications including nonsteroidal anti-inflammatory drugs and topical heat therapy. Oral contraceptives or a progestin IUD may also be used to regulate these symptoms if persistent.",
+    "incorrectExplanation": "nd E. Adenomyosis of the uterus (Choice A) is the presence of glandular endometrial tissue in the myometrium, and it generally presents with abnormal uterine bleeding and pelvic pain. It commonly occurs in a multigravid patient, often in the fourth or fifth decade of life. On examination, a large, globular uterus may be palpated. It would be unlikely in this vouna patient. € ¢ https: //.me/U SM LENBM E2CK € € Previous",
+    "image": null,
+    "id": "OB-7-31",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 33,
+    "questionStem": "Eight days after spontaneous vaginal delivery, a 32-year-old woman, gravida 1, para 1, comes to the physician because of a 5-day history of temperatures to 38°C (100.4°F) and perineal pain. The pain has increased despite treatment with narcotic analgesics and sitz baths. During delivery, she had an uncomplicated midline episiotomy repair that was closed in layers with absorbable sutures. Several bleeding veins were separately ligated using chromic sutures to control the bleeding. Her temperature today is 38.4°C (101.1°F). Examination shows tenderness and erythema over the midline adjacent to the perineal incision. The sutures are still in place. The perineum is warm. There are several large, soft hemorrhoids. Digital rectal examination produces severe discomfort; no fluctuation is palpated anteriorly or posteriorly. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Infected episiotomy",
+      "B": "Intersphincteric anal abscess",
+      "C": "Ischiorectal fossa abscess",
+      "D": "Perirectal abscess",
+      "E": "Rectovaginal fistula"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "An episiotomy is a now rarely used incision performed by an obstetrician during delivery that is used to aid in fetal delivery. It may be midline, extending from the posterior introitus toward the anus, or mediolateral, extending from the posterior introitus to the ischial tuberosities. More recently, it has been reserved for the expedited delivery of newborns with a concerning fetal heart rate tracing or to facilitate operative vaginal delivery with forceps or vacuum. Complications of episiotomy include infection, seen in this patient, as well as bleeding, extension of the incision, a narrowed introitus after repair with consequent dyspareunia, and severe tears with subsequent pregnancies. Episiotomy infections present similarly to other wound infections with pain, induration, and erythema. Fever and purulent drainage from the site may also be present. Treatment includes broad-spectrum antibiotic therapy, as well as possible incision and drainage of the wound.",
+    "incorrectExplanation": "nd E. Intarenhinetaric anal ahenrace (Chaica BV iechinractal frcoa aherace (Chaica C\\ and nariractal aherace (Chaica N\\ ara all cimilar nrqnraceac that tunicalh: ariainata fram € ¢ https: //.me/U SM LENBM E2CK € € Previous",
+    "image": null,
+    "id": "OB-7-33",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 35,
+    "questionStem": "A 22-year-old woman, gravida 3, para 2, at 34 weeks' gestation comes to the physician for a routine prenatal visit. She immigrated to the United Sta Zimbabwe 6 months ago Pregnancy hasbeen uncomplicated with no ows a fundal height of 30 cm. Ultrasonography shows microcephaly. Which of the following is most likely to have prevented these findings?",
+    "choices": {
+      "A": "Administration of antibiotics during pregnancy",
+      "B": "Folic acid supplementation during pregnancy",
+      "C": "Iron supplementation during pregnancy",
+      "E": "Progesterone supplementation prior to conception"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Rubella infection is spread by respiratory droplets and can be asymptomatic or present with an erythematous rash, arthralgias, postauricular lymphadenopathy, and fever. In otherwise healthy patients, the infection is usually self-limited with no long-term sequelae. In pregnant patients, however, especially when the infection occurs in the first trimester, it can cause an infection of the fetus that manifests with cataracts, sensorineural deafness, and congenital cardiac defects (eg, patent ductus arteriosus), as well as microcephaly, neurodevelopmental delay, and extramedullary hematopoiesis, which manifests as a blue-purple maculopapular rash. Infection with the virus is prevented by administration of the measles-mumps-rubella (MMR) vaccination prior to conception, as the vaccination is a live-attenuated vaccine, making it contraindicated during pregnancy. Ideally, confirmation of rubella immunity with measurement of serum titers should be achieved prior to pregnancy for patients of reproductive age.",
+    "incorrectExplanation": "nd E. Administration of antibiotics during pregnancy (Choice A) would not have been likely to prevent this finding; most infectious causes of microcephaly are viral (eg, rubella, cytomegalovirus, Zika, herpes simplex, and HIV) or parasitic (eg, toxoplasmosis) and thus would not respond to antibiotics. Pregnant patients who do present with symptoms concerning for any of the above infections should be evaluated and promptly treated. Prepregnancy vaccination is the most effective method of prevention of rubella infection. 4 € ¢ https: //.me/U SM LENBM E2CK € € Previous",
+    "image": null,
+    "id": "OB-7-35",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 37,
+    "questionStem": "A21-year-old primigravid woman at 34 weeks’ gestation comes to the physician for a routine prenatal visit. She has hyperthyroidism treated with propylthiouracil and tachycardia controlled with labetalol. Her pulse is 90/min, and blood pressure is 120/70 mm Hg. The fetal heart rate is 140/min. Examination shows no abnormalities. Ultrasonography shows a fetus consistent in size with gestational age and a mass in the fetal neck. The estimated fetal weight is at the 15th percentile. The amniotic fluid index is 27 cm (N=10—20). Which of the following is the most likely cause of these fetal findings?",
+    "choices": {
+      "A": "Cystic hygroma",
+      "B": "Fetal goiter",
+      "C": "Fetal growth restriction",
+      "D": "Gestational diabetes",
+      "E": "Tracheoesophageal fistula"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "A mass in the fetal neck in the setting of maternal thyroid pathology is most likely a fetal goiter. Fetal goiters can be caused by inborn errors of thyroid hormone metabolism, developmental abnormalities of the thyroid (eg, large thyroglossal duct cysts), iodine excess or deficiency, transplacental passage of maternal thyroid-stimulating antibodies (eg, maternal Graves disease), or transplacental passage of antithyroid drugs such as propylthiouracil (PTU). Ultrasonography of this patient also shows polyhydramnios, an excess amount of amniotic fluid, defined as an amniotic fluid index greater than or equal to 24 cm. Polyhydramnios can be caused by fetal developmental defects that impair swallowing of amniotic fluid such as esophageal atresia, duodenal atresia, anencephaly, or, as in this patient, external compression of the esophagus (eg, by the goiter). Transplacental passage of antibodies can cause transient hyperthyroidism at birth until the antibodies are cleared; this can occur even in patients who are well controlled with antithyroid medication or thyroid ablation, as this does not affect levels of circulating antibodies. However, prenatal exposure to PTU can cause transient hypothyroidism at birth until the drug is cleared. Thus, it is difficult to predict whether this patient will be born hyperthyroid, hypothyroid, or euthyroid. Regardless, this hormonal derangement is usually self-limited and resolves without treatment. Severe disease can be managed with methimazole or levothyroxine, respectively. Given the size of the neck mass and its compressive force on neck structures, the infant may need supportive care to protect their airway and assist with feeding until the goiter has decreased in size. ¢ https://me/U SM LENBME2CK € (i Previous Next Score Report Lab Values Calculator Exam Section : Item 37 of National Board of Medical Examiners“ ‘s and Gynecology Self-Assessment developmental abnormalities of the thyroid (eg, large thyroglossal duct cysts), iodine excess or deficiency, transplacental passage of maternal thyroid-stimulating antibodies » (eg, maternal Graves disease), or transplacental passage of antithyroid drugs such as propylthiouracil (PTU). Ultrasonography of this patient also shows polyhydramnios, an excess amount of amniotic fluid, defined as an amniotic fluid index greater than or equal to 24 cm. Polyhydramnios can be caused by fetal developmental defects that impair swallowing of amniotic fluid such as esophageal atresia, duodenal atresia, anencephaly, or, as in this patient, external compression of the esophagus (eg, by the goiter). Transplacental passage of antibodies can cause transient hyperthyroidism at birth until the antibodies are cleared; this can occur even in patients who are well controlled with antithyroid medication or thyroid ablation, as this does not affect levels of circulating antibodies. However, prenatal exposure to PTU can cause transient hypothyroidism at birth until the drug is cleared. Thus, it is difficult to predict whether this patient will be born hyperthyroid, hypothyroid, or euthyroid. Regardless, this hormonal derangement is usually self-limited and resolves without treatment. Severe disease can be managed with methimazole or levothyroxine, respectively. Given the size of the neck mass and its compressive force on neck structures, the infant may need supportive care to protect their airway and assist with feeding until the goiter has decreased in size.",
+    "incorrectExplanation": "nd E. Cystic hygroma (Choice A) is a congenital lymphatic malformation most commonly found in the neck. It may be isolated or associated with chromosomal abnormalities such as Turner syndrome, Down syndrome, and Noonan syndrome. Polyhydramnios may occur if the mass grows large enough to obstruct the fetal esophagus; however, in this case with maternal thyroid pathology and use of antithyroid medications, fetal goiter is more likely. Fetal growth restriction (Choice C) is defined as fetal weight less than the 10th percentile for gestational age. Fetal growth restriction can be caused by conditions that lead to neck masses and polyhydramnios, but it does not cause these conditions. Moreover, this patient does not meet criteria for fetal growth restriction. Gestational diabetes (Choice D) can cause polyhydramnios, along with macrosomia and hyaline membrane disease as a result of increased fetal exposure to insulin. However, it is not associated with fetal neck masses, and a goiter is more likely in the setting of maternal thyroid pathology. Tracheoesophageal fistula (Choice E) often occurs concomitantly with esophageal atresia and is thus associated with polyhydramnios, as the esophageal atresia impairs the fetus’ ability to swallow amniotic fluid. Tracheoesophageal fistulas are usually not visible on prenatal ultrasonography and do not present as visible neck masses. Educational Objective: Fetal goiters can be caused by inborn errors of thyroid hormone metabolism, developmental abnormalities of the thyroid, iodine excess or deficiency, transplacental passage of maternal thyroid-stimulating antibodies, or transplacental passage of antithyroid drugs such as propylthiouracil. Large goiters can compress the esophagus, leading to polyhydramnios, or the airway, leading to respiratory distress at birth. € ¢ https: //.me/U SM LENBM E2CK € € Previous",
+    "image": null,
+    "id": "OB-7-37",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 38,
+    "questionStem": "A 27-year-old primigravid woman at 31 weeks’ gestation is admitted to the hospital 60 minutes after awakening with painless bright red vaginal bleeding. Pregnancy had been uncomplicated. Her temperature is 37°C (98.6°F), pulse is 96/min, respirations are 22/min, and blood pressure is 118/84 mm Hg. The uterus is soft and nontender. The fundal height is 34 cm. The fetus is in an oblique lie with the head in the left lower quadrant. External fetal monitoring shows no contractions. The fetal heart rate is 156/min with no decelerations and normal variability. There is minimal flow of bright red blood at the introitus. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Induction of labor with oxytocin",
+      "B": "Intravenous administration of fluids and observation",
+      "C": "Intravenous administration of magnesium sulfate",
+      "D": "Amnioinfusion",
+      "E": "Immediate cesarean delivery"
+    },
+    "correctAnswer": "B",
+    "correctExplanation": "Placenta previa refers to the abnormal positioning of placental tissue such that the placenta partially or completely overlies the internal cervical os. It most commonly presents with painless third trimester vaginal bleeding. Frequently, it is detected on prenatal ultrasonography, but it may not always be evident. Thus, patients who present with vaginal bleeding after 20 weeks’ gestation should not undergo a digital cervical examination until ultrasonography has been performed to determine the exact positioning of the placenta because severe hemorrhage can occur if a placenta previa is present. Risk factors for placenta previa include causes of uterine scarring, such as multiparity, previous cesarean delivery, and prior dilatation and curettage. While it may self-resolve as pregnancy progresses, its presence in the late third trimester requires careful management. Treatment of an initial bleed without significant hemodynamic instability, such as in this patient, necessitates intravenous administration of fluids and observation. Patients who are able to be stabilized may be expectantly managed with a plan for a cesarean delivery around 37 weeks’ gestation, to allow time for sufficient fetal development. A cesarean delivery is indicated to prevent significant hemorrhage, maternal/fetal complications, and potential fetal demise. Immediate cesarean delivery is advised for patients who present in labor or those with hemodynamically significant bleeding. Incorrect Ancwere- A @™ 2 and F € https://me/U SM LENBME2CK € (i Next Score Report Lab Values Calculator",
+    "incorrectExplanation": "",
+    "image": null,
+    "id": "OB-7-38",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 39,
+    "questionStem": "An otherwise asymptomatic 37-year-old woman, gravida 3, para 3, comes to the physician because of irregular vaginal bleeding since she underwent tubal ligation 2 years ago. Prior to tubal ligation, she used an oral contraceptive for 10 years. Since tubal ligation, menses have been occurring at 21- to 56-day intervals and lasting 5 to 13 days. All three of her deliveries we 168 cm (5 ft 6 in) tall and weighs 90 kg (198 Ib); BMI is 32 kg/m2. Physical examin ion shows no abnormalities. An abnormality of which of the following serum concentrations is most consistent with the suspected diagnosis?",
+    "choices": {
+      "A": "Estradiol",
+      "B": "Follicle-stimulating hormone",
+      "C": "Prolactin",
+      "E": "Thyroid-stimulating hormone"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Polycystic ovary syndrome (PCOS) presents with irregular menses, infertility, and hirsutism, often in patients with an increased body weight. It requires two of the following for diagnosis: oligo/anovulation, polycystic ovaries on ultrasonography, and clinical or biochemical signs of hyperandrogenism. It is associated with signs of insulin resistance, such as acanthosis nigricans and increased blood glucose concentrations. PCOS is associated with an abnormal hypothalamic hormonal feedback response, which leads to increased luteinizing hormone (LH) in comparison to follicle-stimulating hormone (FSH), as well as markedly increased androgen production from the theca lutein cells. This results in an increased serum concentration of testosterone. Treatment includes weight loss, oral contraceptives for menstrual regulation, and spironolactone or ketoconazole for hirsutism. Clomiphene stimulates ovulation and can also be used for patients desiring pregnancy. If the patient is diagnosed with diabetes mellitus, oral medications (eg, metformin) or insulin may also be necessary. A potential complication of long-standing PCOS is endometrial cancer due to the chronic anovulation resulting in prolonged exposure of the endometrium to unopposed estrogen.",
+    "incorrectExplanation": "nd E. 4 € ¢ https: //.me/U SM LENBM E2CK € € Previous",
+    "image": null,
+    "id": "OB-7-39",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 40,
+    "questionStem": "Apreviously healthy 32-year-old primigravid woman at 8 weeks' gestation comes to the emergency department 1 hour after awakening with vaginal bleeding and abdominal cramping. She has not had her first prenatal visit. Her pulse is 84/min, and blood pressure is 127/72 mm Hg. Pelvic examination shows mild bleeding from a closed cervical os. The uterus is consistent in size with an 8-week gestation. Endovaginal ultrasonography shows a gestational sac with an 8-week fetal pole and visible fetal cardiac activity. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Determination of blood type and Rh factor",
+      "B": "Measurement of serum B-hCG concentration",
+      "C": "Intramuscular medroxyprogesterone therapy",
+      "D": "Oral progesterone therapy",
+      "E": "Dilatation and curettage"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Rh(D)-negative mothers are at a high risk for developing anti-D antibodies if exposed to blood from an Rh(D)-positive fetus, which most commonly occurs during delivery. However, it can also occur during episodes of fetomaternal bleeding during pregnancy, such as that seen in this patient, likely secondary to a threatened abortion (eg, vaginal bleeding with a closed os prior to 20 weeks’ gestation). If Rnh(D) antigens from the fetal circulation enter the maternal circulation, it is possible that the mother’s immune system will form antibodies against the Rh(D) antigen. This can result in severe hemolytic anemia of the newborn (eg, erythroblastosis fetalis) if the fetus is Rh(D)- positive, as maternal antibodies cause hemolysis of fetal erythrocytes when they cross the placenta. Rh,(D) immune globulin acts by binding to Rh(D)-positive cells that enter the maternal circulation, preventing the immune system from developing antibodies to the Rh(D) antigen. Administration of Rh,(D) immune globulin is typically performed for Rh(D)-negative mothers at 28 weeks’ gestation, along with following the delivery of an Rh(D)-positive newborn, any invasive procedure (eg, amniocentesis), and any episodes of fetomaternal bleeding. Therefore, the most appropriate next step in management is to determine this patient's blood type and Rh factor, so she may be given Rh,(D) immune globulin if necessary.",
+    "incorrectExplanation": "C, D. and E. €",
+    "image": null,
+    "id": "OB-7-40",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 41,
+    "questionStem": "Apreviously healthy 27-year-old woman comes to the physician because of irregular menstrual periods during the past year. Menses now occur at 2- to 14-week intervals and last 5 to 12 days; her last menstrual period was 2 weeks ago and lasted 12 days. Menses previously occurred at regular 30-day intervals and lasted 5 days. She is currently Sexually active with two partners and uses condoms consistently. She is 157 om (6 ft2 in) tll and weighs 104 kg (230 Ib). BMI is 42 kg/m2. Pelvic examination shows no abnormalities. This patient is at greatest risk for which of the following types of cancer?",
+    "choices": {
+      "A": "Breast",
+      "B": "Colon",
+      "D": "Ovarian",
+      "E": "Pancreatic"
+    },
+    "correctAnswer": "C",
+    "correctExplanation": "Anovulation presents frequently with a missed menstrual period, followed by breakthrough bleeding at an irregular time in the cycle that is often heavy and prolonged. Anovulation can be caused by pregnancy, polycystic ovary syndrome, abnormalities or immaturity of the hypothalamic-pituitary-ovarian axis, menopause or premature ovarian failure, inadequate nutrition, chromosomal abnormalities, and thyroid disorders. As ovulation does not occur, the endometrium remains in the follicular phase with high concentrations of estradiol. This chronic, unopposed exposure to estrogen increases the risk for endometrial hyperplasia and carcinoma. This patient's morbid obesity increases her risk further, as androgens are converted to estrogens in the peripheral adipose tissue. Endometrial cancer commonly presents with vaginal bleeding in a postmenopausal patient. Risk factors in addition to those seen in this patient include early menarche, late menopause, and exogenous estrogen therapy. Diagnosis is made with endometrial biopsy, and treatment consists of hysterectomy plus chemotherapy or radiation depending on the stage.",
+    "incorrectExplanation": "nd E. Breast (Choice A) cancer has similar risk factors as those of endometrial cancer. Both endogenous and exogenous sources of prolonged estrogen exposure, such as early menarche late menonause obesitv and nullinaritv increase the risk for breast cancer However chronic anovulation has a stronaer association with endometrial cancer",
+    "image": null,
+    "id": "OB-7-41",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 43,
+    "questionStem": "A 29-year-old primigravid woman at 39 weeks’ gestation is admitted to the hospital in labor 2 hours after the onset of contractions and spontaneous rupture of membranes. Contractions occur every 2 minutes and last 45 seconds. Her pregnancy has been uncomplicated. She has no history of serious illness, and her only medication is a prenatal vitamin. Her pulse is 110/min, respirations are 20/min, and blood pressure is 120/80 mm Hg. The cervix is 5 cm dilated and 100% effaced; the vertex is at —2 station. A fetal heart tracing is shown. Labor progresses during the next 3 hours. At delivery, the newborn is limp and pale. Apgar scores are 3 and 5 at 1 and 5 minutes, respectively. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Fetal metabolic acidosis",
+      "B": "Fetal respiratory acidosis",
+      "C": "Fetal respiratory alkalosis",
+      "D": "Maternal lactic acidosis",
+      "E": "Maternal respiratory alkalosis"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "A healthy fetal heart rate is between 110 and 160 beats per minute (bpm) with 6 to 25 bpm of variability and spontaneous accelerations. Intermittent early and variable decelerations can also occur during the normal process of labor as a result of head compression and umbilical cord compression, respectively. In comparison, uteroplacental insufficiency and fetal hypoxemia can present with late decelerations on the fetal heart rate tracing, which are defined as gradual decreases in the fetal heart rate that begin after the peak of uterine contraction and nadir more than 30 seconds after the initiation of heart rate decline. Risk factors for the development of uteroplacental insufficiency are hypertension, diabetes, anemia, cocaine or tobacco use, coagulopathies, late-term pregnancy, and uterine infection. Fetal hypoxemia can also be caused by severe uterine contractions and maternal hypotension or hypoxia. Treatment consists of supplemental oxygenation, movement of the patient onto her left side or onto all fours, and intravenous fluids. If late decelerations persist on fetal heart rate tracings, then an urgent cesarean delivery is indicated, as continued uteroplacental insufficiency and fetal hypoxemia will result in deleterious effects on the fetus. This patient progressed through labor having consistent late decelerations, indicating that the fetus was probably experiencing recurrent fetal hypoxemia and consequent fetal metabolic acidemia, which are likely responsible for this newborn’s presentation on delivery.",
+    "incorrectExplanation": "nd E. q € https: //.me/U SM LENBM E2CK € € Previous",
+    "image": true,
+    "id": "OB-7-43",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 44,
+    "questionStem": "A32-year-old nulligravid woman comes to the physician for counseling prior to conception. She and her husband would like to conceive within the next year. Menses occur at regular 28-day intervals and last 5 days. The patient and her husband are both healthy, take no medications, and are in a stable marital relationship. Neither has used tobacco, alcohol, or illicit drugs. She has a strong family history of alcohol use disorder, and her father had Guillain-Barré syndrome. She is 170 cm (5 ft 7 in) tall and weighs 80 kg (176 Ib); BMI is 28 kg/m2. Her blood pressure is 122/84 mm Hg. A grade 1/6, systolic flow murmur is heard. Examination shows multiple diffuse nodularity of the breasts with no discrete masses. Pelvic examination shows no abnormalities. There is a large verruca plantaris on the left foot. Which of the following is the most appropriate advice for this patient before conception?",
+    "choices": {
+      "A": "Genetic counseling",
+      "B": "Weight loss",
+      "C": "Chemical dependency evaluation",
+      "D": "Mammography",
+      "E": "Folic acid supplementation"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Prepregnancy visits allow a healthcare provider to optimize a patient's chances to have a successful pregnancy and healthy child. The purposes of these visits should be to identify risks to the mother or fetus and to intervene where possible to decrease these risks. Typical assessments include evaluating medical conditions (eg, obesity, diabetes mellitus, hypertension), social behaviors (eg, substance use), exposure to teratogens (eg, medications), genetic conditions or family history, and vaccination records. Laboratory evaluation commonly includes rubella and varicella serology to ensure immunity, as well as sexually transmitted infection screening in patients at high risk (eg, multiple sexual partners, no barrier protection). Finally, interventions include folic acid supplementation, abstinence from substance use, medication changes as needed, optimization of medical conditions, and required vaccinations. Folic acid supplementation in pregnancy is critical, as a deficiency can cause neural tube defects such as spina bifida; it is recommended for all patients planning on becoming pregnant or capable of becoming pregnant, as neural tube formation occurs early in pregnancy, often before patients realize they are pregnant. The recommended dose for previously unaffected patients is 0.4 mq daily, starting at least 1 month prior to € ¢ https: //.me/U SM LENBM E2CK € € Previous Next Score Report Lab Values Calculator Exam Section : Item 44 of National Board of Medical Examiners® Obstetrics and Gynecology Self-Assessment records. Laboratory evaluation commonly includes rubella and varicella serology to ensure immunity, as well as sexually transmitted infection screening in patients at high risk (eg, multiple sexual partners, no barrier protection). Finally, interventions include folic acid supplementation, abstinence from substance use, medication changes as needed, optimization of medical conditions, and required vaccinations. Folic acid supplementation in pregnancy is critical, as a deficiency can cause neural tube defects such as spina bifida; it is recommended for all patients planning on becoming pregnant or capable of becoming pregnant, as neural tube formation occurs early in pregnancy, often before patients realize they are pregnant. The recommended dose for previously unaffected patients is 0.4 mg daily, starting at least 1 month prior to pregnancy. Patients who have had a previous child with a neural tube defect or have a family history of neural tube defects should take 1 to 4 mg of folic acid daily starting 1 to 3 months prior to conception.",
+    "incorrectExplanation": "nd F. Genetic counseling (Choice A) may be useful during prepregnancy visits if the patient or their coparent has a personal or family history of inherited diseases, such as cystic fibrosis or sickle cell anemia. This patient and her partner are otherwise healthy, and while she has a strong family history of alcohol use disorder, this is not an inherited illness. Additionally, Guillain-Barré syndrome is acquired, rather than inherited. Weight loss (Choice B) is not necessary for this patient. While she is slightly overweight, she has no consequent health issues or obvious issues with ovulation. Once she becomes pregnant, she should be counseled that her expected appropriate weight gain would be less than a patient with a lower BMI. Chemical dependency evaluation (Choice C) is not recommended at this time. While this patient has a strong family history of alcohol use disorder, she has no personal history of substance use. Mammography (Choice D) is not warranted in this patient. Mammography is typically recommended in the setting of a palpable breast mass, which this patient does not have, or as a screening modality after 40 years of age. Removal of the verruca plantaris (Choice F) is not necessary prior to conception. While it may be offered, it will not affect this patient’s ability to become pregnant nor her pregnancy itself. Educational Objective: Prepregnancy visits allow a patient to optimize their chances of having a successful pregnancy with a healthy child. Important aspects of these visits include ascertaining immunity to varicella and rubella, encouraging abstinence from substance use, changing teratogenic medications, and prescribing folic acid supplementation to prevent neural tube defects. Folic acid supplementation should begin 1 to 3 months prior to conception. ¢",
+    "image": null,
+    "id": "OB-7-44",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 45,
+    "questionStem": "Apreviously healthy 72-year-old woman comes to the physician because of a 3-week history of vulvar itching and discomfort despite treatment with over-the- counter antifungal creams. She is sexually active with one male partner. Physical examination shows several 1-cm, small, firm left inguinal lymph nodes. Pelvic examination shows mild edema and excoriations over the labia majora and minora. There is a 1-cm, tender, raised lesion with an ulcerated center and erythematous edges at the base of the left labium majus. The cervix, vaginal mucosa, uterus, and adnexa are normal. There is a white discharge with no odor in the vaginal canal. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Condylomata acuminata",
+      "B": "Herpes simplex",
+      "C": "Primary syphilis",
+      "D": "Vulvar carcinoma",
+      "E": "Vulvar dystrophy",
+      "F": "Vulvar vestibulitis"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Vulvar carcinoma most commonly presents in older patients with a lesion on the labia majora that is often asymptomatic. The lesion may be a nodule, papule, or plaque, with varying degrees of ulceration. When present, other symptoms include pruritus or bleeding from the lesion. In addition to the lesion, physical examination may show inguinal lymphadenopathy, as seen in this patient, if the vulvar cancer has metastasized. The most frequent underlying histopathology is squamous cell carcinoma, and incidence is greatest in patients between the age 55 and 85 years. Risk factors include infection with human papillomavirus (HPV), cigarette smoking, immunosuppression, chronic inflammation (eg, lichen sclerosus), and a history of cervical cancer. Diagnosis is made with a biopsy of the lesion. Further evaluation should include cervical cancer screening, as concurrent cervical carcinoma is common, and abdominopelvic imaging to determine extent of disease. Treatment includes surgical excision and chemoradiation.",
+    "incorrectExplanation": "nd F. €",
+    "image": null,
+    "id": "OB-7-45",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 46,
+    "questionStem": "An 11-year-old girl is brought to the physician because her mother is concerned that her daughter is maturing too early. She reports that her daughter has had aaa ane a ea a a ea TGR PRESIDER BS also had the onset of her first menstrual period 2 weeks ago. The mother adds that none of her daughter's friends have begun their menses. The patient is at the 75th percentile for height and 50th percentile for weight and BMI. Breast and pubic hair development is sexual maturity rating stage 4. Physical examination shows no abnormalities. Which of the following is the most likely diagnosis?",
+    "choices": {
+      "A": "Precocious puberty",
+      "B": "Premature adrenarche",
+      "C": "Premature menarche",
+      "D": "Premature thelarche"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Puberty in girls follows a predictable course of thelarche (breast development), followed by pubarche (pubic hair growth) and a growth spurt, and finally by menarche (the start of menstruation). Puberty is considered delayed in girls if breast development does not occur by age 12 to 13 years. This patient is 11 years old and has had a normal sequence of pubertal development with thelarche, pubarche, a growth spurt based on her being in the 75th percentile for height, and menarche. The most likely diagnosis is thus normal development.",
+    "incorrectExplanation": "nd D. Precocious puberty (Choice A) is the onset of pubertal development and secondary sexual characteristics before the age of 8 years in girls. It can be central or peripheral. Central precocious puberty is caused by activation of the hypothalamic-pituitary-gonadal axis with increased follicle-stimulating hormone (FSH) and luteinizing hormone (1H) concentrations This early activation can he idionathic or caused bv central nervous svstem abnormalities such as a brain tumor Perinheral nrecocious oubertv is € https: //.me/U SM LENBM E2CK € Previous",
+    "image": null,
+    "id": "OB-7-46",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 47,
+    "questionStem": "A27-year-old primigravid woman at 10 weeks' gestation comes to the physician for her first prenatal visit. She feels well, and her pregnancy has been areataalieaied, Examination shows a uterus COT SSSR DENERICRESIAHEN. A Pap smear shows a high-grade squamous intraepithelial lesion. Which of the following is the most appropriate next step in management?",
+    "choices": {
+      "A": "Repeat Pap smear in 3 months",
+      "B": "Repeat Pap smear 6 weeks post partum",
+      "C": "Administer human papillomavirus vaccine",
+      "E": "Perform cryotherapy"
+    },
+    "correctAnswer": "D",
+    "correctExplanation": "Carcinoma of the cervix is classically associated with infection from human papillomavirus (HPV) high-risk strains 16, 18, 31, and 33. Risk factors include multiple sexual partners, smoking, and immunosuppression. Cervical cancer screening with Pap smear is recommended every 3 years for women age 21 to 29 years and every 5 years in conjunction with HPV cotesting (every 3 years if cotesting is not performed) for women age 30 to 65 years. The results of these screening tests then determine the need for further evaluation and diagnosis. The cervical cytology results may be normal, indeterminate, or show signs of atypical cells (atypical squamous cells of undetermined significance) or precancerous lesions (low- or high-grade intraepithelial lesions). High-grade squamous intraepithelial lesion, as seen in this patient, has an increased risk for progression to cervical cancer. Abnormal Pap smear results are evaluated by colposcopy, which allows for visual assessment and biopsy of abnormal lesions and is the most appropriate next step in management of this case. High-grade lesions on cervical cytology may be treated with excision via loop electrosurgical excision procedure or a cone biopsy of the cervix, but this is not recommended for a pregnant patient as it may lead to pregnancy complications such as cervical insufficiency and preterm labor.",
+    "incorrectExplanation": "nd E. Repeat Pap smear in 3 months (Choice A) is inappropriate. This patient has a high-grade lesion that is associated with current or future development of carcinoma in situ. She should underao colposcopy and biopsy if warranted to avoid a delaved diagnosis of cervical carcinoma. 4 € ¢ https: //.me/U SM LENBM E2CK € Previous",
+    "image": null,
+    "id": "OB-7-47",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 48,
+    "questionStem": "A1900-g (4-Ib 4-0z) newborn has generalized lymphadenopathy on examination. She was delivered at term to a 25-year-old primigravid woman. Pregnancy and delivery were uncomplicated. The head circumference is below the 5th percentile for gestational age. Her temperature is 37°C (98.6°F), pulse is 150/min, and respirations are 40/min. Funduscopic examination shows chorioretinitis. The liver edge is palpated 4 cm below the right costal margin, and the spleen tip is palpated 2 cm below the left costal margin. Serum studies show AST activity of 247 U/L and ALT activity of 196 U/L. ACT scan of the head shows scattered intracerebral calcifications. Which of the following intrauterine organisms is the most likely cause of these findings?",
+    "choices": {
+      "A": "Cytomegalovirus",
+      "B": "Hepatitis B virus",
+      "C": "Parvovirus B19",
+      "D": "Rubella virus",
+      "E": "Treponema pallidum"
+    },
+    "correctAnswer": "A",
+    "correctExplanation": "Congenital cytomegalovirus (CMV) infection is asymptomatic at birth in approximately 90% of newborns. When symptomatic in utero, ultrasonography may show hepatosplenomegaly, intrauterine growth restriction, microcephaly, or intracerebral (most often periventricular) calcifications. Fetal hydrops is a potential complication. Clinical features in symptomatic newborns include the above as well as transaminitis, jaundice, thrombocytopenia, petechiae, chorioretinitis, small size for gestational age, seizures, and sensorineural hearing loss. Long-term sequela in symptomatic infants, such as sensorineural hearing loss and neurodevelopmental abnormalities, are common. The risk for symptomatic neonatal infection is higher with a primary maternal infection than with recurrent infection. In adults, CMV is often asymptomatic or can cause a short, febrile, flu-like illness. Congenital CMV is the most common cause of nonhereditary sensorineural hearing loss and can present later in childhood in up to 10% of children who were asymptomatic at birth. Diagnosis of neonatal CMV can be confirmed with polymerase chain reaction testing or culture of urine or saliva. Treatment involves 6 months of oral valganciclovir and close, interdisciplinary follow-up.",
+    "incorrectExplanation": "nd E. 4 € ¢ https: //.me/U SM LENBM E2CK € € Previous",
+    "image": null,
+    "id": "OB-7-48",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 49,
+    "questionStem": "A52-year-old woman comes for a routine health maintenance examination. She has had occasional vaginal spotting over the past 2 months. She has also had hot flushes and vaginal dryness that has been relieved by black cohosh, a natural food supplement. She also takes ginseng root tea daily. Her last menstrual period was 2 years ago. Examination shows no abnormalities. In addition to a Pap smear and mammography, which of the following is the most appropriate next step in diagnosis?",
+    "choices": {
+      "A": "Measurement of serum estradiol concentration",
+      "B": "Measurement of serum follicle-stimulating hormone concentration",
+      "C": "Toxicology screening",
+      "D": "Progesterone challenge test",
+      "E": "Endometrial biopsy"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "Abnormal uterine bleeding should be suspected when bleeding is irregular, unpredictable, or not associated with usual premenstrual signs and symptoms (eg, bloating, breast fullness, uterine cramps). It may be caused by malignancy, structural abnormalities, such as cervical or endometrial polyps, adenomyosis, endometrial hyperplasia, inflammation or infection of the genital tract, coagulopathy, ovulatory dysfunction, endocrine dysfunction (eg, thyroid disorders, prolactin, androgens), and may be iatrogenic or idiopathic. In patients over age 45 years, who are perimenopausal or postmenopausal, there is a higher risk for endometrial hyperplasia and malignancy. Endometrial cancer commonly presents with postmenopausal vaginal bleeding, as seen in this patient. Risk factors include prolonged, unopposed exposure to estrogen, such as early menarche, late menopause, chronic anovulatory cycles (eg, polycystic ovary syndrome), exogenous estrogen therapy, nulliparity, and obesity. The most appropriate next step in evaluation of these patients is an endometrial biopsy to evaluate for the presence of endometrial cancer. If a patient cannot tolerate the procedure or if the procedure sampling is nondiagnostic, a dilatation and curettage or a hysteroscopy can be performed. Incorrect Answers'A R C andnN € https://me/U SM LENBME2CK € (i Previous Next Score Report Lab Values Calculator Exam Section : Item 49 of National Board of Medical Examiners“ Obstetrics and Gynecology Self-Assessment or idiopathic. In patients over age 45 years, who are perimenopausal or postmenopausal, there is a higher risk for endometrial hyperplasia and malignancy. Endometrial cancer commonly presents with postmenopausal vaginal bleeding, as seen in this patient. Risk factors include prolonged, unopposed exposure to estrogen, such as early menarche, late menopause, chronic anovulatory cycles (eg, polycystic ovary syndrome), exogenous estrogen therapy, nulliparity, and obesity. The most appropriate next step in evaluation of these patients is an endometrial biopsy to evaluate for the presence of endometrial cancer. If a patient cannot tolerate the procedure or if the procedure sampling is nondiagnostic, a dilatation and curettage or a hysteroscopy can be performed.",
+    "incorrectExplanation": "nd D. Measurement of serum estradiol concentration (Choice A) is not necessary in the evaluation of this patient's vaginal bleeding. Decreased concentrations of estrogen are associated with menopause and its classical vasomotor symptoms, vaginal atrophy, decreased bone density, and infertility. While both exogenous and endogenous sources of unopposed estrogen can lead to endometrial hyperplasia and carcinoma, a measurement of estradiol concentration would neither confirm nor refute the diagnosis of endometrial carcinoma in this patient. Measurement of serum follicle-stimulating hormone (FSH) concentration (Choice B) would likely be increased in this patient, as she is postmenopausal. FSH is responsible for ovarian stimulation early in the follicular phase. As ovarian estrogen production decreases in menopause as a result of ovarian follicle depletion, the negative feedback on FSH decreases, and its concentration increases. However, this measurement would not elucidate the reason for this patient's postmenopausal vaginal bleeding. Toxicology screening (Choice C) is not necessary in the diagnosis of postmenopausal bleeding. While cocaine or amphetamine use may be associated with vaginal bleeding during pregnancy secondary to placental abruption, these substances and other toxins do not routinely cause vaginal spotting in a postmenopausal patient. Progesterone challenge test (Choice D) is used in the evaluation of amenorrhea. A short course of progesterone is prescribed, and the patient is observed for uterine bleeding after its withdrawal. If bleeding occurs, the patient has adequate concentrations of estrogen to create an endometrial lining. If it does not, then the patient likely has hypoestrogenism or a structural defect of the uterus. This patient has postmenopausal vaginal bleeding rather than amenorrhea. Educational Objective: Endometrial cancer can present with postmenopausal vaginal bleeding or abnormal uterine bleeding in premenopausal women. Risk factors for its development include prolonged, unopposed exposure to estrogen, such as early menarche, late menopause, chronic anovulatory cycles, exogenous estrogen therapy, and nulliparity. Diagnosis is made with endometrial biopsy, hysteroscopy, or dilatation and curettage. ¢",
+    "image": null,
+    "id": "OB-7-49",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  },
+  {
+    "questionNumber": 50,
+    "questionStem": "A 16-year-old patient, gravida 1, para 1, has increasingly severe pelvic pain and feels cold 1 day after emergent cesarean delivery at term for nonreassuring fetal testing. She had spontaneous rupture of membranes at 3 Am. Prophylactic antibiotics were administered prior to the incisi ture is 38.9°C (102°F), pulse is 129/min, respirations are 16/min, and blood pressure is 11 site is clean and dry, and there is no erythema. Which of the following is the strongest predisposing factor for this patient's condition?",
+    "choices": {
+      "A": "Age of the patient",
+      "B": "Duration of cesarean delivery",
+      "C": "Genetic predisposition",
+      "D": "Exposure to general anesthesia",
+      "F": "Use of antibiotic prophylaxis"
+    },
+    "correctAnswer": "E",
+    "correctExplanation": "A recent postpartum patient with fever and uterine tenderness raises suspicion for endometritis, especially in the setting of prolonged rupture of membranes (time from rupture of membranes to delivery). Postpartum endometritis is an acute, typically polymicrobial infection of the uterine endometrium involving a mixture of aerobes and anaerobes from the genital tract. During labor and delivery, microbes from the genital tract can enter the uterine cavity and result in postpartum infection. Patients typically present with fever, tenderness of the uterine fundus, and mucopurulent vaginal discharge. Risk factors for endometritis include premature or prolonged rupture of membranes, prolonged labor, cesarean delivery, bacterial vaginosis, group B Streptococcus colonization, and manual removal of the placenta. Treatment requires broad- spectrum antibiotics such as clindamycin and gentamicin for appropriate antimicrobial coverage.",
+    "incorrectExplanation": "nd F. € ¢ https: //.me/U SM LENBM E2CK € € Previous",
+    "image": null,
+    "id": "OB-7-50",
+    "section": "OB",
+    "subsection": "CMS-7",
+    "system": "Unknown"
+  }
+]
