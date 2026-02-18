@@ -614,12 +614,17 @@
     "questionNumber": 38,
     "questionStem": "A 72-yea r-old man with a history of atrial fibr illation comes to the emerge ncy departme nt 2 hours after the sudden onset of visual problems. He states that he was fine until this after noon whe n he started walking into objects that were located on his right side. While driving himself to the hospital, he sidesw iped a parked car. His only medica tion is daily asp irin. On arrival, his pulse is 68/min and irregular, and blood pressure is 140/70 mm Hg. Neurolog ic exam ination shows a right homonymous hem ianopia. Pupils are equa l and reactive, and fundusco pic exam ination shows no abnorma lities. Muscle strength and sensatio n are normal. Mental status exam ination shows no abnormal ities. Which of the following arteries is most likely to be occluded?",
     "choices": {
-      "A": "Basilar G) Right anterior cereb ral",
-      "B": "Left anterior cereb ral H) Right internal carotid",
-      "C": "Left internal carotid I) Right middle cerebral",
-      "D": "Left middle cerebral J) Right ophthalmic",
-      "E": "Left ophthalmic K) Right posterior cereb ral",
-      "F": "Left posterior cerebra l"
+      "A": "Basilar",
+      "B": "Left anterior cereb ral",
+      "C": "Left internal carotid",
+      "D": "Left middle cerebral",
+      "E": "Left ophthalmic",
+      "F": "Left posterior cerebra l",
+      "G": "Right anterior cereb ral",
+      "H": "Right internal carotid",
+      "I": "Right middle cerebral",
+      "J": "Right ophthalmic",
+      "K": "Right posterior cereb ral"
     },
     "correctAnswer": "F",
     "correctExplanation": "Cerebral infarctions, or strokes, occur as a resu lt of ischemic or hemorrhagic loss of blood supply to the brain. Approximately 80% to 85% of strokes are ischemic, common ly arising from thromboembo lic disease, whereas 15% to 20% of strokes are hemorrhagic because of blood vesse l rupture. Risk factors for stroke include smoking, hypertension, diabetes, carotid or intracranial atherosclerotic disease, history of hypercoagulability, atria l fibri llation, and advanced age. Classically, strokes manifest as a neuro logic deficit related to the affected part of the brain. Occlusion of the left posterior cerebra l artery (PCA) explains this patient's deficits. The PCA supplies much of the occipita l lobes as wel l as the inferomedia l temporal lobe, posteromedia l parietal lobe, thalamus, and parts of the brainstem. Occlusion of the left PCA typica lly leads to right homonymous hemianopia with macular sparing (as a result of damage of the left primary visual cortex). Right homonymous hemianopia likely explains this patient's car accident. Occlusion of the left PCA may also result in right hemisensory deficit (caused by thalamus damage) and right hemiparesis (caused by damage to the cerebral peduncles in the midbrain). As well, damage to the left parieta l cortex may occur and lead to agraphia, acalculia, finger agnosia, and left-right disorientation (Gerstmann syndrome).",

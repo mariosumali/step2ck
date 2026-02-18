@@ -6,7 +6,8 @@
       "A": "Oral 81-mg aspirin",
       "B": "Intravenous alteplase",
       "C": "Intravenous dexamethasone",
-      "D": "Intravenous heparin"
+      "D": "Intravenous heparin",
+      "E": "Intravenous nitroglycerin"
     },
     "correctAnswer": "E",
     "correctExplanation": "Hypertensive encephalopathy results from acute and/or severe increases in blood pressure. It potentially manifests with headache, vomiting, agitation, altered mental status, and seizure, and may progress to obtundation and coma. Visual symptoms may result from cortical dysfunction or from hypertensive retinopathy, including retinal hemorrhages and exudates. Treatment includes carefully lowering the blood pressure while avoiding excessively rapid drops in blood pressure, which can cause end-organ ischemia. In general, a decrease in the mean arterial pressure of 25% within the first hour is appropriate, with gradual correction over the next day or more following. Intravenous agents such as labetalol, esmolol, nicardipine, and nitroprusside are preferred for initial management.",
@@ -141,7 +142,8 @@
       "A": "Extrinsic compression of the spinal cord",
       "B": "Increased production of ACTH",
       "D": "Production of parathyroid-like hormone",
-      "E": "Right internal jugular vein thrombosis"
+      "E": "Right internal jugular vein thrombosis",
+      "C": "Infiltration of the brachial plexus by a Pancoast tumor"
     },
     "correctAnswer": "C",
     "correctExplanation": "Bronchogenic carcinoma commonly presents with cough, weight loss, hemoptysis, and potential signs of bronchial obstruction such as wheezing or prolonged expiratory phase. If the carcinoma is located within the lung apex, referred to as a Pancoast tumor, it can infiltrate multiple adjacent structures such as the superior vena cava, subclavian vessels, sympathetic chain, recurrent laryngeal nerve, or brachial plexus. This can result in presenting features of Horner syndrome (unilateral ptosis, miosis, and anhidrosis of the face), ipsilateral shoulder and upper extremity pain, and hoarseness. If the Pancoast tumor involves the right lung apex, superior vena cava syndrome may occur, which manifests with bilateral upper extremity and facial swelling, erythema, and vascular congestion caused by insufficient venous drainage from mass effect or vessel invasion. A Pancoast tumor typically presents as a consolidative, rounded mass in the lung apex on chest x-rays and CT scans.",
@@ -159,7 +161,8 @@
       "A": "Cerebrospinal fluid leukocyte count",
       "B": "Cerebrospinal fluid pressure",
       "C": "Cortical sulci",
-      "D": "Striatal dopamine"
+      "D": "Striatal dopamine",
+      "E": "Ventricular size on brain imaging"
     },
     "correctAnswer": "E",
     "correctExplanation": "This patient presents with findings suggesting normal-pressure hydrocephalus (NPH), with the characteristic combination of dementia, gait instability, and urinary incontinence. NPH refers to a type of communicating (nonobstructive) hydrocephalus in which the ventricles are enlarged, leading to damage of the white matter tracts connecting the frontal lobes and basal ganglia. Patients commonly present with frontal cognitive deficits (eg, frontal release signs such as the reemergence of the grasp reflex) and subcortical cognitive deficits (eg, psychomotor slowing, inattention, executive dysfunction). Signs of increased intracranial pressure (eg, papilledema, postural headaches) are typically absent. Many cases of NPH are idiopathic though some are secondary to a defect in cerebrospinal fluid drainage from the ventricles due to scarring or obstruction of the ventricular lining from prior hemorrhage or meningitis. The diagnosis is primarily clinical, although ventriculomegaly on brain imaging is suggestive. The most appropriate next step in management is a lumbar puncture to assess the opening pressure and clinical response to removing cerebrospinal fluid. Placement of a ventricular shunt may be needed for long-term management.",
@@ -195,7 +198,8 @@
       "B": "Graves ophthalmopathy",
       "C": "Herpes encephalitis",
       "D": "Macular degeneration",
-      "G": "Temporal arteritis"
+      "G": "Temporal arteritis",
+      "E": "Optic neuritis"
     },
     "correctAnswer": "E",
     "correctExplanation": "Optic neuritis results from autoimmune demyelinating inflammation of the optic nerve and presents in young, often female patients with unilateral vision loss and pain that is exacerbated with extraocular movements. Ocular examination discloses decreased visual acuity and color vision, a relative afferent pupillary defect, and possible optic disc edema. Diagnosis is confirmed with fluid-attenuated inversion recovery (FLAIR) MRI sequences showing hyperintensity of the optic nerve. Patients with optic neuritis are at increased risk for multiple sclerosis (MS), and optic neuritis is a common initial finding in patients with MS. Recently, autoantibodies against myelin oligodendrocyte glycoprotein (MOG) and aquaporin-4 (AQP4) have been identified as causative of some cases of optic neuritis. Patients who develop optic neuritis due to antibodies against MOG and AQP4 often have severe presentations but also have decreased risk for subsequent MS compared with patients with optic neuritis who lack these autoantibodies. The Optic Neuritis Treatment Trial demonstrated that a short course of treatment with high-dose intravenous methylprednisolone speeds up the rate of visual recovery and delays the onset of MS, although it does not impact final visual acuity. It also demonstrated that the presence and quantity of periventricular white matter lesions on MRI is the most important prognostic risk factor for the subsequent development of MS.",
@@ -212,7 +216,8 @@
     "choices": {
       "A": "Branched-chain amino acid supplementation",
       "C": "Mannitol",
-      "E": "Sodium polystyrene sulfonate"
+      "E": "Sodium polystyrene sulfonate",
+      "D": "Lactulose"
     },
     "correctAnswer": "D",
     "correctExplanation": "Hepatic encephalopathy is commonly associated with decompensated liver cirrhosis. Signs of hepatic encephalopathy include confusion, stupor, asterixis, tremor, and myoclonus on physical examination. Hepatic encephalopathy results from accumulation of ammonia produced by colonic bacteria. Serum ammonia concentrations in patients with hepatic encephalopathy may be increased, though this is not necessary for the diagnosis. Treatments for hepatic encephalopathy include rifaximin and lactulose. Rifaximin is a gut-selective, nonabsorbable antibiotic with activity against gram-positive and gram-negative bacteria. It acts on the beta subunit of DNA-dependent RNA polymerase to inhibit bacterial synthesis and is bactericidal. Lactulose is degraded by colonic bacteria to create an acidic environment, thereby converting ammonia to ammonium, which cannot be readily absorbed across the gut wall. It is then excreted with feces, lowering total body levels.",
@@ -230,7 +235,8 @@
       "B": "Gag",
       "C": "Palmomental",
       "D": "Pupillary light",
-      "E": "Visual threat"
+      "E": "Visual threat",
+      "A": "Trigeminal"
     },
     "correctAnswer": "A",
     "correctExplanation": "Trigeminal neuralgia is a neuropathic pain disorder that presents with severe shooting or burning pain within the innervated regions of the sensory branches of the trigeminal nerve. The trigeminal nerve divides into three sensory branches, V1 to V3, which innervate the forehead (V1) and the skin overlying the zygomatic and maxillary bone (V2) and the mandible (V3). The pathophysiology of the pain is believed to be related to compression of the trigeminal nerve by adjacent blood vessels or bone as it exits the skull base. Symptoms may be triggered by light touch, shaving, or swallowing, or may occur without any precipitant. The pain is generally described as severe. The trigeminal nerve also mediates the corneal reflex, which involves blinking of the eyelids caused by stimulation of the cornea. Trigeminal neuralgia is associated with loss of the corneal reflex. Treatment includes carbamazepine or surgical decompression.",
@@ -248,7 +254,8 @@
       "A": "Conversion disorder",
       "B": "Crohn disease",
       "C": "Endometriosis",
-      "D": "Illness anxiety disorder"
+      "D": "Illness anxiety disorder",
+      "E": "Somatic symptom disorder"
     },
     "correctAnswer": "E",
     "correctExplanation": "This patient with numerous non-specific symptoms with no medical explanation after extensive workup has a presentation concerning for somatization disorder. In somatization disorder, or somatic symptom disorder, the patient is excessively preoccupied with one or more somatic symptoms such that these symptoms disrupt the patient's daily life. These symptoms may or may not originate from an underlying disease, though they are typically unconsciously produced or exacerbated by psychological factors such as stress. Patients persistently devote excessive time and energy to these symptoms or related health concerns (eg, repeatedly going to the doctor). Patients often undergo extensive diagnostic testing that is unrevealing. Management of somatic symptom disorder centers around regular primary care follow-up that targets coping skills, provides reassurance, and avoids unnecessary tests.",
@@ -266,7 +273,8 @@
       "A": "Brain stem tegmentum",
       "C": "Cochlea",
       "D": "Mastoid bone",
-      "E": "Temporal lobe"
+      "E": "Temporal lobe",
+      "B": "Cerebellopontine angle"
     },
     "correctAnswer": "B",
     "correctExplanation": "Acoustic neuromas are tumors derived from Schwann cells involving the vestibulocochlear nerve. The vestibulocochlear nerve originates between the pons and medulla oblongata and exits the brainstem near the cerebellopontine angle. Symptoms associated with the development of an acoustic neuroma include hearing loss and tinnitus associated with the cochlear nerve as well as gait instability and vertigo associated with the vestibular nerve. As tumors enlarge there may be involvement of the trigeminal nerve or facial nerve. Patients with neurofibromatosis 2 may present with bilateral acoustic neuromas. Imaging studies, including CT scan or MRI, can be used to make the diagnosis. Treatment options include surgical resection or radiation therapy.",
@@ -284,7 +292,8 @@
       "A": "Cerebellar degeneration",
       "B": "Multiple lacunar infarctions",
       "C": "Parkinson disease",
-      "D": "Peripheral neuropathy"
+      "D": "Peripheral neuropathy",
+      "E": "Normal aging process"
     },
     "correctAnswer": "E",
     "correctExplanation": "This patient with brief episodic memory loss, arcus senilis, decreased Achilles reflexes, and flexed posture is showing signs of psychomotor slowing consistent with normal aging. Normal aging includes a slow decline of executive functioning, attention span, and problem-solving after age 70 years. Other findings consistent with aging include decreased or absent Achilles reflex, arcus senilis (grey or white arch visible around the outer edge of the cornea), decreased vision and hearing, decreased immune response, and increased suicide rate. Despite these common changes, an individual experiencing normal aging should still be able to function in society.",
@@ -302,7 +311,8 @@
       "A": "Compression of the cervical spinal cord",
       "C": "Multiple sclerosis",
       "D": "Myasthenia gravis",
-      "E": "Syringomyelia"
+      "E": "Syringomyelia",
+      "B": "Guillain-Barré syndrome"
     },
     "correctAnswer": "B",
     "correctExplanation": "This patient most likely has Guillain-Barré syndrome (GBS) leading to an ascending polyneuropathy. In GBS, a preceding infection (eg, Campylobacter jejuni, influenza-like illnesses) leads to autoimmune cross-reactivity with the myelin of the nerve roots exiting the spinal cord. The ventral nerve roots, containing motor and sympathetic efferents, are most commonly involved, though the dorsal nerve roots (controlling sensation) may also be affected. As such, patients typically present with acute symmetric muscle weakness with depressed or absent deep tendon reflexes (reflecting a lower motor neuron pattern of dysfunction) that begins in the lower extremities and may rapidly ascend to involve the upper extremities, bulbar muscles, and/or respiratory muscles. Autonomic dysfunction (eg, blood pressure fluctuations, cardiac irregularities) is common. Sensory deficits and pain can also occur, though these symptoms are typically mild compared with motor dysfunction. The diagnosis is confirmed by increased cerebrospinal fluid protein with normal cell counts on lumbar puncture, termed albuminocytologic dissociation, thought to reflect generalized inflammation. Management includes respiratory support and, for severe cases, plasma exchange or intravenous immunoglobulin therapy. Intravenous immunoglobulin therapy may work by neutralizing the cross-reactive antibodies that cause GBS.",
@@ -320,7 +330,8 @@
       "A": "Ice water caloric testing",
       "B": "EEG",
       "D": "MRI of the spine",
-      "E": "Lumbar puncture"
+      "E": "Lumbar puncture",
+      "C": "CT scan of the head"
     },
     "correctAnswer": "C",
     "correctExplanation": "This patient with uncontrolled hypertension, left eye deviation, right-sided weakness, and depressed mental status has a presentation concerning for intracerebral hemorrhage (ICH). ICH can occur in patients with chronic hypertension, typically due to hemorrhage from small penetrating arteries in the pons, midbrain, thalamus, putamen, caudate, or cerebellum. Risk factors for hypertensive ICH include uncontrolled hypertension and antiplatelet or anticoagulant therapy, such as with aspirin or warfarin. Patients can present with headache, vomiting, confusion, altered mental status, stupor, or coma. Focal neurologic deficits depend on the site of the ICH and can include hemiparesis, hemisensory symptoms, gaze palsy, dysarthria, aphasia, or if in the cerebellum, ataxia, vomiting, and disequilibrium. Patients may manifest upper motor neuron examination findings such as spasticity, hyperreflexia, and extensor plantar reflex (Babinski sign). Diagnosis is made with noncontrast CT scan of the head, which will show hyperdense intraparenchymal acute blood products.",
@@ -376,7 +387,8 @@
       "B": "Complex regional pain syndrome",
       "C": "Deep venous thrombosis",
       "D": "Ruptured posterior tibial artery",
-      "E": "Transection of the tibial nerve"
+      "E": "Transection of the tibial nerve",
+      "A": "Compartment syndrome"
     },
     "correctAnswer": "A",
     "correctExplanation": "Compartment syndrome occurs when there is increased pressure in the intramuscular compartment that compromises circulation and neuromuscular and neurologic function. Compartment syndrome commonly occurs in the setting of trauma, including long bone fractures, and symptoms include pain out of proportion to the injury, paresthesia, and pain with passive stretching of the muscles. Late findings are pallor, pulselessness, and paralysis. Diagnosis is confirmed after clinical suspicion by measuring compartment pressures. Increased compartment pressure or minimal difference between compartment pressure and perfusing blood pressures confirm the diagnosis. Patients with compartment syndrome are treated with emergency fasciotomy to decompress involved compartments; delays may lead to poor outcomes.",
@@ -394,7 +406,8 @@
       "A": "Fragile X syndrome",
       "B": "Hepatolenticular degeneration (Wilson disease)",
       "D": "Parkinson disease",
-      "E": "Porphyria"
+      "E": "Porphyria",
+      "C": "Huntington disease"
     },
     "correctAnswer": "C",
     "correctExplanation": "Based on the reported maternal history of psychiatric and movement symptoms, this patient should be offered testing for Huntington disease (HD). HD is a hereditary, progressive neurodegenerative disorder typically arising in the 3rd to 6th decades of life associated with atrophy of the caudate nuclei in the basal ganglia, which can be seen on MRI of the brain. The disease usually presents with an insidious onset of psychiatric (irritability, depression, psychosis) and cognitive symptoms. Motor symptoms (chorea, hypotonia, dystonia, loss of voluntary control of movements) typically appear later in the disease course. Patients with HD typically die 10 to 40 years after disease onset. Chorea, a key HD symptom, can be initially experienced as restlessness. Treatment is symptomatic and can include tetrabenazine or deutetrabenazine, which target chorea by depleting dopamine stores. HD is caused by expansion of a trinucleotide repeat (CAG) on chromosome four, which occurs when a series of three nucleotides in repetition are replicated incorrectly and too many repeats are included in the replicated product. It is inherited in an autosomal dominant pattern and also demonstrates anticipation, a genetic inheritance phenomenon in which future generations are affected at a younger age or with more severe symptoms.",
@@ -429,7 +442,8 @@
       "B": "Consider stem cell therapy for treatment of ALS",
       "C": "Continue supportive care, administer antibiotic therapy, and attempt to wean the patient from the ventilator",
       "D": "Discontinue the ventilator today",
-      "E": "Request a consultation with the hospital ethics committee"
+      "E": "Request a consultation with the hospital ethics committee",
+      "A": "Assess the patient's advance directives and discuss goals of care with the family"
     },
     "correctAnswer": "A",
     "correctExplanation": "This patient has expressed a preference regarding end-of-life care prior to his current illness but is currently incapacitated and unable to express a preference regarding his care. Options for directing care in a state of incapacity include durable powers of attorney or advance directives, which enable patients to dictate their preferences for end-of-life care ahead of time or delegate these responsibilities to a designated person. A power of attorney grants a particular person authority to act on the patient’s behalf should the patient become incapacitated. This patient is currently incapacitated, and therefore legal authority for this patient's healthcare decision-making is held by the power of attorney. Given this patient’s previously stated wishes and poor prognosis for recovery, it is reasonable to consider discontinuing care. This decision must ultimately be made by the patient's designated power of attorney in this case.",
@@ -464,7 +478,8 @@
       "B": "Craniopharyngioma",
       "C": "Great vein of Galen aneurysm",
       "D": "Meningitis",
-      "E": "Tumor of the vestibulocochlear cranial nerve"
+      "E": "Tumor of the vestibulocochlear cranial nerve",
+      "A": "Brain stem glioma"
     },
     "correctAnswer": "A",
     "correctExplanation": "This patient with headache, ataxia, dysmetria, and nystagmus has a presentation concerning for a brain stem glioma. Gliomas are the most common pediatric brain tumor and are typically low-grade pilocytic astrocytomas. Pediatric gliomas commonly grow in the cerebellum but can occur in the brain stem. Patients typically present with focal neurologic deficits caused by mass effect that may progress over the course of months as a result of the tumor growing larger and affecting additional brain regions. Treatment centers around radiation and chemotherapy for brain stem gliomas.",
@@ -484,7 +499,8 @@
       "C": "Dopamine transporter (DAT) scan",
       "D": "Duloxetine therapy",
       "E": "Polymerase chain reaction testing for Rickettsia rickettsii",
-      "G": "Transthoracic echocardiography"
+      "G": "Transthoracic echocardiography",
+      "F": "Measurement of erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP)"
     },
     "correctAnswer": "F",
     "correctExplanation": "Polymyalgia rheumatica (PMR) is an inflammatory condition characterized by proximal muscle and joint (eg, shoulder and hip girdle) pain, stiffness, and increased inflammatory markers, including erythrocyte sedimentation rate and C-reactive protein. If untreated, muscle weakness may occur from disuse atrophy. Systemic symptoms such as fatigue are commonly noted. It is most common in patients over age 60 years, and some patients have associated temporal arteritis. Signs of temporal arteritis such as throbbing temporal headache, vision changes, or jaw claudication should prompt temporal artery biopsy. The diagnosis of PMR is based on clinical features, and treatment is with prednisone for up to 1 year. It is common for patients to respond to prednisone almost immediately; thus, the absence of response should prompt consideration of a different diagnosis.",
@@ -521,7 +537,8 @@
       "A": "Radial artery",
       "B": "Ulnar artery",
       "D": "Radial nerve",
-      "E": "Ulnar nerve"
+      "E": "Ulnar nerve",
+      "C": "Median nerve"
     },
     "correctAnswer": "C",
     "correctExplanation": "Carpal tunnel syndrome (CTS) results from compression of the median nerve within the carpal tunnel and presents with signs and symptoms including pain, weakness, and paresthesia of the first three digits and the lateral half of the fourth digit, along with positive provocative test maneuvers such as the Tinel or Phalen tests. The carpal tunnel is located anterior to the carpal bones and is bound by the flexor retinaculum. The flexor tendons of the fingers course through the tunnel, along with the median nerve. The space is rigid and does not generally permit compression; thus, any inflammatory, traumatic, or space-filling lesion may result in CTS. Patients generally present with pain and paresthesia in the median nerve distribution, along with weakness involving the muscles of the thenar eminence that eventually may atrophy. Symptoms are generally worse at night and relieved with shaking of the hands. CTS is frequently associated with pregnancy, hypothyroidism, rheumatoid arthritis, acromegaly, amyloidosis, ganglion cysts, obesity, and acute trauma to the wrist with impingement, or chronic remodeling and scar formation following a wrist injury. Patients with mild symptoms can be treated conservatively with wrist splinting. Wrist splints are typically worn at night but may also be used during the day. Splinting reduces the range of motion of the wrist and limits activities that increase pressure within the carpal tunnel. Patients who have persistent or severe symptoms or muscular weakness may require surgical decompression.",
@@ -539,7 +556,8 @@
       "B": "Long-term EEG monitoring",
       "C": "Measurement of serum prolactin concentration",
       "D": "MRI of the brain",
-      "E": "Oxcarbazepine therapy"
+      "E": "Oxcarbazepine therapy",
+      "A": "Video EEG monitoring to assess for psychogenic nonepileptic seizures"
     },
     "correctAnswer": "A",
     "correctExplanation": "Conversion disorder, also Known as functional neurologic symptom disorder, involves neurologic symptoms such as sensory or motor dysfunction that are not fully explained by objective findings on physical examination or imaging. This patient is presenting with episodes of generalized shaking and jerking during which she is able to respond to commands, and a negative EEG likely indicates psychogenic nonepileptic seizures, a form of conversion disorder. Functional neurologic symptom disorder is postulated to represent the subconscious conversion of intolerable emotional distress into physical symptoms. Psychiatric comorbidities such as depression are common but not present in all patients. Physicians should conduct a thorough history and physical examination and obtain laboratory and imaging studies to evaluate for medical or neurologic disease that may explain or partially explain the symptoms. Treatment of functional neurologic symptom disorder involves education about the diagnosis, physical therapy, and cognitive behavioral therapy.",
@@ -574,7 +592,8 @@
       "A": "Carotid artery dissection with embolization",
       "B": "Hypertensive intracranial hemorrhage",
       "C": "Meningoencephalitis",
-      "E": "Vertebrobasilar migraine"
+      "E": "Vertebrobasilar migraine",
+      "D": "intracranial pressure, suggesting a possible subarachnoid hemorrhage due to a ruptured aneurysm."
     },
     "correctAnswer": "D",
     "correctExplanation": "A ruptured intracerebral aneurysm is the most common cause of nontraumatic subarachnoid hemorrhage (SAH). Saccular intracerebral aneurysms typically occur at bifurcations in the circle of Willis, most commonly at the site of the anterior communicating artery. Aneurysms can also be associated with hereditary diseases such as Ehlers-Danlos syndrome and autosomal dominant polycystic kidney disease. This patient presents in a nontraumatic, altered mental state with findings concerning for increased intracranial pressure with herniation. This patient's focal neurologic findings and asymmetric pupils are concerning for possible transtentorial herniation. SAH results from bleeding into the subarachnoid space. Patients may present with an acute, severe headache, stupor, or coma in severe cases. Blood in the subarachnoid space irritates the meninges, leading to nuchal rigidity. CT scan of the head shows hyperdense blood products in the cerebral sulci and basal cisterns. As the blood products circulate within the subarachnoid space, complications include the development of communicating hydrocephalus in the acute stage, along with rebleeding and vasospasm in the week following the initial bleed.",
@@ -592,7 +611,8 @@
       "A": "Arsenic",
       "B": "Cadmium",
       "D": "Mercury",
-      "E": "Thallium"
+      "E": "Thallium",
+      "C": "Lead"
     },
     "correctAnswer": "C",
     "correctExplanation": "Symptoms of acute lead poisoning occur within days or weeks of exposure and include abdominal pain, constipation, arthralgia, myalgias, muscle weakness, excessive fatigue, headache, and difficulty concentrating. With prolonged exposure, chronic neurologic symptoms such as decline in cognition, depression, distal motor neuropathy, decreased hearing, tremor, and decreased brain volume on imaging may be present. The distal motor neuropathy causes lower motor neuron signs such as atrophy of muscles and hyporeflexia, as found in this patient. Microcytic anemia is also common, since lead inhibits the enzymes ferrochelatase and 5-aminolevulinic acid (6-ALA) dehydratase, resulting in decreased heme synthesis. In adults, exposure to lead primarily comes through occupation and/or hobbies. Individuals working with batteries, mining, construction, or ammunition are at higher risk. Diagnosis is suspected based on exposure and symptoms and is confirmed with increased serum lead concentration. Management of lead poisoning depends on the blood lead concentration and presence of symptoms, and includes chelation with dimercaprol, ethylene diamine tetraacetate, or succimer. Sources of lead should be investigated and eliminated.",
@@ -610,7 +630,8 @@
       "A": "Cerebral infarction",
       "C": "Encephalitis",
       "D": "Intracranial hemorrhage",
-      "E": "Spread of leukemia to the central nervous system"
+      "E": "Spread of leukemia to the central nervous system",
+      "B": "Acute cerebellar syndrome due to cytarabine toxicity"
     },
     "correctAnswer": "B",
     "correctExplanation": "Acute-onset neurologic findings in the setting of recent chemotherapy are concerning for drug toxicity. Specifically, nystagmus, ataxia, impaired coordination, postural instability, and dysarthria or other speech abnormalities, in the setting of intact strength and higher cognitive functions are indicative of cerebellar dysfunction. Cytarabine, a pyrimidine analog, can cause loss of Purkinje cells in the cerebellum, leading to acute cerebellar syndrome. Risk factors include underlying neurologic dysfunction and impaired hepatic or renal function. Patients who present with acute cerebellar syndrome should discontinue cytarabine immediately. Some may experience permanent deficits, while others may experience spontaneous resolution.",
@@ -629,7 +650,8 @@
       "B": "Carotid endarterectomy",
       "C": "Cervical laminectomy",
       "D": "Lumbar laminectomy",
-      "G": "Ventriculoperitoneal shunting"
+      "G": "Ventriculoperitoneal shunting",
+      "E": "Deep brain stimulation"
     },
     "correctAnswer": "E",
     "correctExplanation": "Parkinson disease is a progressive neurodegenerative disorder caused by degradation of dopaminergic neurons in the substantia nigra. Symptoms are associated with an imbalance of dopamine and acetylcholine, resulting in the characteristic findings of bradykinesia, resting tremor, muscle rigidity, and postural instability. Psychiatric disturbances, sleep disorders, and dementia are common complications in addition to prominent motor symptoms. Initial pharmacologic management of Parkinson disease consists of carbidopa-levodopa and/or other dopamine agonists such as pramipexole and ropinirole. Patients who develop severe, disabling motor symptoms refractory to medications and physical therapy may be considered for device-assisted therapies or invasive lesioning procedures. Device-assisted therapies include deep brain stimulation. Invasive lesioning procedures are more common for patients who do not have access to device-assisted therapies or cannot afford them. Unilateral pallidotomy, which targets the internal globus pallidus to reduce inhibitory signaling, is an effective treatment for improving refractory tremor, bradykinesia, dyskinesia, chorea, and gait/balance instability. The thalamus and subthalamic nucleus are alternative targets for lesioning procedures.",
@@ -688,7 +710,8 @@
       "A": "Acute temporal lobe hemorrhage",
       "B": "Enhancing meninges",
       "C": "Infarct in the right medulla",
-      "D": "Orbital tumor"
+      "D": "Orbital tumor",
+      "E": "Microvascular ischemia due to diabetes mellitus"
     },
     "correctAnswer": "E",
     "correctExplanation": "The abducens nerve exits the brainstem ventrally at the pontomedullary junction and innervates the lateral rectus muscle of the eye. The most common causes of acute abducens nerve palsy in adults include microvascular ischemia (secondary to diabetes mellitus, hypertension, and atherosclerotic cardiovascular disease), idiopathic causes, and trauma. The abducens nerve is fragile and vulnerable to injury as it crosses the clivus by any mechanism causing downward traction. Abducens nerve palsy presents with binocular horizontal diplopia and ipsilateral abduction deficits of the affected eye. Diagnosis is made on clinical examination, and often there is no definitive finding on MRI. Treatment includes systemic workup for vasculopathic risk factors and patching to reduce diplopia. Abducens nerve palsy secondary to microvascular disease may resolve spontaneously over several months.",
@@ -706,7 +729,8 @@
       "A": "Alcoholic hallucinosis",
       "C": "Idiosyncratic alcohol intoxication",
       "D": "Schizophrenia",
-      "E": "Wernicke-Korsakoff syndrome"
+      "E": "Wernicke-Korsakoff syndrome",
+      "B": "Alcohol withdrawal delirium"
     },
     "correctAnswer": "B",
     "correctExplanation": "Alcohol increases the central nervous system activity of y-aminobutyric acid, the main inhibitory neurotransmitter. Abrupt discontinuation of alcohol therefore leads to sympathetic (excitatory) excess. Uncomplicated alcohol withdrawal typically presents with tremors, anxiety, restlessness, headache, nausea, and diaphoresis, which can occur hours after the cessation of alcohol use. If left untreated, alcohol withdrawal can be complicated by seizures and alcoholic hallucinosis (auditory or visual hallucinations). Delirium tremens, the most concerning and life-threatening complication of alcohol withdrawal, typically begins between 48 hours and 1 week after the patient's last drink. Presentation of delirium tremens includes severe confusion and disorientation, fluctuations in consciousness, agitation, visual or auditory hallucinations, and autonomic instability. Alcohol withdrawal is managed supportively with benzodiazepines (eg, lorazepam) to address agitation and prevent or treat the symptoms of withdrawal, along with fluids, nutritional supplementation, and frequent assessment including vital sign monitoring.",
@@ -724,7 +748,8 @@
       "A": "Charcot-Marie-Tooth disease",
       "C": "Inclusion body myositis",
       "D": "Myasthenia gravis",
-      "E": "Polymyositis"
+      "E": "Polymyositis",
+      "B": "Dermatomyositis"
     },
     "correctAnswer": "B",
     "correctExplanation": "Dermatomyositis is an inflammatory condition that affects both skin and musculoskeletal systems. Cutaneous findings of dermatomyositis include a heliotrope rash involving the periocular area, Gottron papules overlying the joints of the dorsal hands, and a poikilodermatous rash distributed over the shoulders and chest/upper torso. Musculoskeletal symptoms include proximal muscle weakness, especially involving the deltoids, biceps, hip flexors, and quadriceps muscles, and patients may report difficulty rising to stand or lifting their arms over the shoulders. Diagnosis is made based on clinical findings and serologic testing, including antinuclear, anti-Jo-1, anti-SRP, and anti-Mi-2 antibodies along with serum creatine kinase assay. Patients diagnosed with dermatomyositis should undergo further workup including age-appropriate cancer screening to rule out an underlying occult malignancy, although malignancy is less common in younger patients.",
@@ -742,7 +767,8 @@
       "B": "Corneal reflex",
       "C": "Light reflex",
       "D": "Motor response",
-      "E": "Respiratory effort"
+      "E": "Respiratory effort",
+      "A": "Pupillary light reflex"
     },
     "correctAnswer": "A",
     "correctExplanation": "The diagnosis of brain death is determined by the presence of three factors: absence of brainstem reflexes, persistent coma, and lack of spontaneous respirations. Commonly tested brainstem reflexes include the pupillary light response (which tests the optic and oculomotor cranial nerves), the corneal reflex (which tests the trigeminal and facial cranial nerves by lightly touching the cornea with a strand of cotton while observing for blinking or tearing), the pharyngeal and tracheal reflexes (which test the glossopharyngeal and vagus cranial nerves by observing gagging or coughing during endotracheal suctioning), the oculocephalic reflex (which tests the oculomotor, abducens, and vestibulocochlear cranial nerves by assessing for ocular movements during a head turn. Anormal response is eye movement away from the direction of the head turn, whereas an abnormal response is characterized by eye movement with the direction of the head turn, or fixed at midline), and the vestibuloocular reflex. Caloric stimulation, which tests the vestibuloocular reflex, tests the oculomotor, abducens, and vestibulocochlear cranial nerves by assessing for an oculomotor response to irrigation of cold water into one of the ear canals. Cold water irrigation decreases the rate of vestibular afferent signaling within the affected vestibular apparatus, simulating a head turn to the contralateral side. A normal response to cold water irrigation involves tonic deviation toward the ipsilateral ear and horizontal fast nystagmus toward the opposite ear. The fast phase of nystagmus receives input from the dorsal stream of occipitomotor cortex. Absence of fast phase nystagmus suggests an absence of cortical functioning, whereas absence of slow tonic deviation indicates absence of brainstem functioning. Absence of both components of the caloric test is required for the diagnosis of brain death. This patient's caloric testing, which demonstrates slow tonic deviation toward the side of cold water irrigation, may prevent a diagnosis of brain death.",
@@ -797,7 +823,8 @@
       "A": "Gonococcal arthritis",
       "B": "Gouty arthritis",
       "D": "Osteoarthritis",
-      "E": "Rheumatoid arthritis"
+      "E": "Rheumatoid arthritis",
+      "C": "Lyme arthritis"
     },
     "correctAnswer": "C",
     "correctExplanation": "Lyme arthritis, one of several complications of Lyme disease, is caused by disseminated Borrelia burgdorferi infection. B. burgdorferi are transmitted following tick bites, most commonly from Ixodes ticks. Initial manifestations of Lyme disease include the erythema chronicum migrans rash, which is an expanding rash with a central ring-like clearing and targetoid appearance. It generally appears within 1 to 2 weeks of the tick bite. Left untreated, a subset of patients will develop disseminated disease that may result in Bell palsy, meningitis, myopericarditis, or arthritis. Patients may be diagnosed clinically when the characteristic erythema migrans rash is observed in the setting of known or probable recent exposure to a tick in an endemic area. Serologic testing is controversial as it may show false positives or negatives; however, it may be used to support the diagnosis in later stage disease. Patients with Lyme disease are treated with doxycycline or amoxicillin. Most patients with Lyme arthritis will demonstrate response to therapy.",
@@ -815,7 +842,8 @@
       "A": "Diazepam",
       "C": "Labetalol",
       "D": "Midazolam",
-      "E": "Vitamin B, (thiamine)"
+      "E": "Vitamin B, (thiamine)",
+      "B": "Haloperidol"
     },
     "correctAnswer": "B",
     "correctExplanation": "Delirium is defined by an acute-onset alteration of consciousness and cognition, with symptoms that wax and wane throughout the day. In elderly patients, especially those with underlying dementia, systemic infection can rapidly lead to the development of delirium. Other common causes of delirium include intoxication and adverse effects from medications such as anticholinergics, benzodiazepines, or opiates. All patients with delirium should be evaluated for evidence of systemic infection with urinalysis and culture, chest x-ray, and occasionally with blood cultures, if indicated. Treatment of delirium should focus on treatment of the underlying infection if one is detected, frequent reorientation, maintenance of normal sleep-wake cycles, and placement of the patient in a calm and soothing environment. For patients with refractory symptoms, antipsychotic therapy may be used, including haloperidol therapy.",
@@ -833,7 +861,8 @@
       "A": "Cryptococcus neoformans infection",
       "B": "Cytomegalovirus infection",
       "C": "Lymphoma",
-      "E": "Tuberculosis"
+      "E": "Tuberculosis",
+      "D": "Toxoplasmosis"
     },
     "correctAnswer": "D",
     "correctExplanation": "This patient has a history of AIDS with low CD4+ count and CT scan showing ring-enhancing lesions, which is suggestive of cerebral toxoplasmosis. Cerebral toxoplasmosis is an AIDS- defining disease caused by Toxoplasma gondii and is the most common cause of multiple ring-enhancing lesions on CT scan of the head in a patient with AIDS. Transmission can occur through the ingestion of oocysts from soil contaminated with cat feces or infected meat, direct transmission between a mother and fetus, or from organ transplantation, which leads to invasion followed by dissemination of the parasite where it typically lies dormant. It is a ubiquitous organism, and nearly 10% of individuals will be seropositive for T. gondii, but the parasite does not usually cause severe disease in immunocompetent individuals. In patients with HIV infection and CD4+ counts less than 100 cells/mm?, however, reactivation can occur with several distinct clinical syndromes of which cerebral toxoplasmosis results in the most morbidity. Cerebral toxoplasmosis typically presents with multiple ring-enhancing lesions scattered throughout the brain. Seizures, focal neurologic deficits, and systemic symptoms are common, as are signs of increased intracranial pressure. Patients with HIV and positive Toxoplasma |gG antibodies are typically treated empirically with a sulfonamide and pyrimethamine if cerebral toxoplasmosis is suspected, but confirmatory diagnosis occurs through a brain biopsy, which will show a dense infiltrate of lymphocytes, macrophages, and plasma cells, along with the presence of the 7. gondii organism.",
@@ -851,7 +880,8 @@
       "A": "Bed rest for 1 week",
       "B": "X-rays of the lumbosacral spine",
       "C": "MRI of the lumbosacral spine",
-      "E": "Nerve conduction studies of the lower extremities"
+      "E": "Nerve conduction studies of the lower extremities",
+      "D": "Referral to physical therapy for conservative management"
     },
     "correctAnswer": "D",
     "correctExplanation": "This patient's presentation is suggestive of acute onset of low back pain, which lasts up to 4 weeks and may be attributed to musculoskeletal injury from exertion, overuse, or trauma. Symptoms include pain with movement and paraspinal tenderness in the absence of neurologic symptoms or bony tenderness. Most cases resolve with conservative management, which includes activity modification, stretching and physical therapy, over-the-counter analgesics such as nonsteroidal anti-inflammatory drugs, massage, and heat therapy. Certain red flag signs and symptoms should prompt more urgent evaluation for an alternate cause, especially if there is concern for infection, malignancy, spinal cord compromise, or vertebral fracture. These include but are not limited to new fevers, intravenous drug use, focal neurologic deficits (eg, urinary retention, saddle anesthesia, bowel incontinence which may suggest cauda equina syndrome), progressive lower extremity neurologic symptoms, current or recent cancer history, advanced age, systemic corticosteroid use, and a significant traumatic mechanism. In this young, otherwise healthy patient with a mild inciting event, the most appropriate initial step in management is ibuprofen therapy.",

@@ -859,14 +859,18 @@
     "questionNumber": 49,
     "questionStem": "A 57-year-o ld woman comes to the phys ician because of persistent numbness of the back of her right hand for 2 weeks. Her symptoms began after operative treatment of a distal radial fracture. Sensation to pinprick is decreased over the dorsa l first web, thumb, and index finger. There is no motor deficit. Which of the following is the most likely site of nerve injury?",
     "choices": {
-      "A": "Axillary nerve I) Radial nerve above the elbow",
-      "B": "Long thoracic nerve J) Radial nerve at the elbow",
-      "C": "Median nerve above the elbow K) Radial nerve at the distal forearm",
-      "D": "Median nerve at the elbow L) Suprascapu lar nerve",
+      "A": "Axillary nerve",
+      "B": "Long thoracic nerve",
+      "C": "Median nerve above the elbow",
+      "D": "Median nerve at the elbow",
       "E": "Median nerve at the wrist M) Thoracodorsa l nerve",
       "F": "Musculocutaneous nerve above the elbow N) Ulnar nerve above the elbow",
       "G": "Musculocutaneous nerve at the elbow 0) Ulnar nerve at the elbow",
-      "H": "Musculocutaneous nerve at the wrist P) Ulnar nerve at the wrist"
+      "H": "Musculocutaneous nerve at the wrist P) Ulnar nerve at the wrist",
+      "I": "Radial nerve above the elbow",
+      "J": "Radial nerve at the elbow",
+      "K": "Radial nerve at the distal forearm",
+      "L": "Suprascapu lar nerve"
     },
     "correctAnswer": "K",
     "correctExplanation": "Distal radius fractures are a common orthopedic injury, often caused by a fall onto an outstretched hand. Treatment of a dista l radius fracture can be nonoperative with a splint or cast immobi lization or can involve an operation with percutaneous pinning or fixation with plating. Distal radius fractures may be complicated by median nerve injury (eg, acute carpa l tunne l syndrome), while operative management can be comp licated by injury to the superficial radial nerve in the wrist. The median nerve supp lies sensation to the volar and dorsal distal aspects of the latera l three and a half fingers and lateral palm of the hand (thenar eminence), whereas the radial nerve supp lies sensation to the dorsal bases of the lateral three and a half fingers and the lateral dorsum of the hand. This patient has impaired sensation along the dorsum of the hand, consistent with a radia l nerve injury at the wrist or distal forearm.",

@@ -7,7 +7,8 @@
       "C": "Measles-mumps-rubella virus",
       "D": "Meningococcal",
       "E": "Rabies",
-      "F": "No vaccines are indicated at this time"
+      "F": "No vaccines are indicated at this time",
+      "B": "Influenza"
     },
     "correctAnswer": "B",
     "correctExplanation": "Influenza is a respiratory viral illness that can be complicated by lower respiratory tract infections and/or bacterial superinfections, especially in elderly or immunocompromised patients. Symptoms include fever, chills, cough, myalgias, malaise, headaches, nausea, and vomiting. The Centers for Disease Control recommends annual influenza virus vaccination for all patients greater than 6 months of age. The influenza vaccine is available as a trivalent or quadrivalent intramuscular injection of inactivated virus or as a nasal spray of live attenuated virus. Inactivated influenza virus vaccine can be safely administered via intramuscular injection to patients with HIV, who may be at a higher risk for severe illness and influenza-related complications. Influenza is a seasonal illness, typically affecting patients from the late fall to early spring months. This patient is travelling during the autumn months and should receive the vaccination for influenza virus.",
@@ -29,7 +30,8 @@
       "E": "Diastolic cardiac dysfunction",
       "F": "Impaired cardiac response to exercise",
       "G": "Impaired T-lymphocyte function",
-      "J": "Renal salt wasting"
+      "J": "Renal salt wasting",
+      "H": "Impaired thermoregulation"
     },
     "correctAnswer": "H",
     "correctExplanation": "Heat stroke is characterized by an increased body temperature that occurs when the body is exposed to high environmental temperatures and high humidity. Excessive heat exposure and increased core body temperature lead to cardiovascular and neurologic dysfunction with secondary tachycardia, tachypnea, and hypotension. Vasodilation of superficial blood vessels may lead to multi-organ system failure, including hepatic and renal ischemia, rhabdomyolysis, and disseminated intravascular coagulation. Treatment includes cooling of the patient with fans or ice water, continuous core temperature monitoring, and support of airways, breathing, and circulation. Heat stroke generally requires neurologic symptoms to be diagnosed, whereas heat exhaustion presents similarly but with normal neurologic examination. Heat stroke commonly occurs in young athletes or in elderly patients with impaired thermoregulatory capacity, as evidenced by impaired thirst, blood vessel dilation, and reduced ability to sweat, all reducing the ability to dissipate heat.",
@@ -47,7 +49,8 @@
       "A": "Common variable immunodeficiency",
       "C": "Impaired cell-mediated immunity",
       "D": "Leukocyte adhesion deficiency",
-      "E": "Phagocytic cell oxidative metabolism deficiency"
+      "E": "Phagocytic cell oxidative metabolism deficiency",
+      "B": "Deficiency of terminal complement components"
     },
     "correctAnswer": "B",
     "correctExplanation": "Deficiency of terminal components of complement is the most likely cause of this patient's recent and recurrent infection with Neisseria meningitidis. The presence of fever, nuchal rigidity, and cerebrospinal fluid analysis demonstrating gram-negative diplococci is diagnostic for bacterial meningitis. Deficiency of terminal complement factors (eg, C5—C9) impairs the formation of the membrane attack complex (MAC) and predisposes patients to infection with Neisseria species, although infections tend to occur with uncommon serotypes. While the complement cascade can be activated via the classical, lectin, or alternative pathways, each pathway converges on the same point whereby C3 is cleaved to release C3a and C3b. The C3 convertase complex subsequently leads to activation of C5, with formation of C5a and C5b, the latter of which complexes with C6, C7, C8, and C9 to form the MAC. The MAC creates a transmembrane pore that interferes with the integrity of the cellular membrane, leading to cell lysis. Screening for terminal complement deficiency usually starts with determination of the CH50, a diagnostic test that measures the ability of the patient's serum to lyse sheep erythrocytes coated with antibodies directed against erythrocyte membrane proteins. Because this test measures the activity of factors C1—C9, a deficiency at any point will lead to an abnormal result, although in patients with terminal complement deficiency, the CH50 concentration will be very decreased or even zero. In addition to treating infections, further treatment should include vaccination against N. meningitidis, H. influenzae, and S. pneumoniae.",
@@ -65,7 +68,8 @@
       "B": "Serology for herpes simplex virus",
       "C": "Throat swab culture for influenza",
       "D": "Acyclovir therapy",
-      "E": "Azithromycin therapy"
+      "E": "Azithromycin therapy",
+      "A": "Measurement of plasma HIV viral load"
     },
     "correctAnswer": "A",
     "correctExplanation": "Measurement of plasma HIV viral load is the most appropriate next step in management of this patient with high-risk sexual behavior and with signs and symptoms of acute retroviral syndrome. The presentation of primary HIV infection can vary significantly between patients; some may experience only a mild febrile illness while others experience a severe, mononucleosis-like syndrome. The time between infection and onset of symptoms is variable, with incubation time lasting several weeks or more. During acute infection, there is a high degree of viral replication followed by widespread infection of CD4+ T-lymphocytes. While the T-lymphocyte count may drop transiently, it is often normal in early HIV unless patients present with signs of opportunistic infection. Initial laboratory evaluation includes the use of a fourth-generation HIV test, which tests for HIV p24 antigen and antibodies, combined with direct measurement of the HIV viral load using reverse transcription polymerase chain reaction. It is common in early infection for patients to have a negative fourth-generation test but a high viral load; this is known as the window period. Once the diagnosis is made, labs should be sent for mutational analysis and genotyping, but this should not delay the immediate institution of treatment with antiretroviral therapy. Therapy typically includes a combination of at least three different drugs from at least two different antiretroviral classes.",
@@ -83,7 +87,8 @@
       "A": "Chronic lymphocytic leukemia",
       "C": "Chronic myelomonocytic leukemia",
       "D": "Plasma cell myeloma",
-      "E": "Reactive leukocytosis"
+      "E": "Reactive leukocytosis",
+      "B": "Chronic myelogenous leukemia"
     },
     "correctAnswer": "B",
     "correctExplanation": "Chronic myelogenous leukemia (CML) is the most likely diagnosis in this asymptomatic male with splenomegaly, thrombocytosis, and leukocytosis with a white blood cell (WBC) differential demonstrating cells of different lineages. CML is diagnosed by the presence of the Philadelphia chromosome, a translocation between chromosomes 9 and 22, which causes constitutive activation of the ABL kinase protein. Activation of ABL kinase leads to subsequent activation of the JAK/STAT and Ras/MAPK/ERK pathways, leading to increased hematopoietic proliferation, inhibition of normal checkpoint inhibition, and resistance to apoptosis. Typical laboratory findings in CML include leukocytosis with an increase in nearly all cell lines. Basophilia and eosinophilia are particularly characteristic. Splenomegaly, which at times can be massive, is common. Leukostasis, a condition in which leukocytosis leads to end organ damage from occlusion of capillaries by malignant cells, is uncommon in CML. This contrasts with conditions such as acute leukemias in which C ¢ G E 6 ri Score Report Lab Values Calculator Help Pause ie) fa) starttest.com",
@@ -102,7 +107,8 @@
       "B": "Subcutaneous erythropoietin therapy",
       "C": "Transfusion of packed red blood cells",
       "D": "Colonoscopy",
-      "E": "Bone marrow biopsy"
+      "E": "Bone marrow biopsy",
+      "F": "Observation and reassurance, as the anemia is likely due to chronic disease rather than iron deficiency."
     },
     "correctAnswer": "F",
     "correctExplanation": "No further evaluation or treatment is indicated at this time for this patient with rheumatoid arthritis, microcytic anemia, and iron studies disclosing increased ferritin concentration. Patients with microcytic anemia should be evaluated for iron deficiency through measurement of the total serum iron concentration, ferritin, and the total iron-binding capacity (TIBC). Iron deficiency anemia (IDA) manifests as decreased serum iron concentration, increased TIBC, and decreased ferritin. Calculation of the transferrin saturation is also useful. This is calculated by dividing the serum iron concentration by the total iron-binding capacity, then multiplying by 100. Numbers less than 20% indicate iron deficiency while numbers between 20% and 50% are considered normal. This patient has an increased ferritin concentration and a transferrin saturation of 20%, both of which are more consistent with anemia of chronic disease (ACD). ACD is common in patients with autoimmune or inflammatory, infectious, or malignant conditions. The pathophysiology may relate to tnreailated hencidin resulting in rediiced intestinal ahsarntinn of iran and rediiced release of iran fram macranhanes: While natients mav not he iran deficient their iran stores are @ G @ f Lab Values Calculator Help Pause Score Report 08 starttest.com",
@@ -121,7 +127,8 @@
       "B": "= increased indirect",
       "C": "= normal",
       "D": "+ increased direct",
-      "F": "Normal normal"
+      "F": "Normal normal",
+      "E": "+ increased indirect"
     },
     "correctAnswer": "E",
     "correctExplanation": "Laboratory studies are most likely to disclose a positive direct antiglobulin (Coombs) test and an increased serum concentration of indirect (unconjugated) bilirubin, which is consistent with a hemolytic transfusion reaction. This patient's presentation 10 days following blood transfusion, and not immediately during transfusion, suggests a delayed hemolytic transfusion reaction (DHTR). In contrast to acute hemolytic transfusion reactions, which arise because of ABO incompatibility and can be life-threatening, DHTRs usually result from the presence of autoantibodies against minor erythrocyte antigens (eg, Rh antigens). In all cases, DHTR requires prior exposure to the antigen for the patient to produce antibodies, but in some instances, the antibodies may not be found in titers during routine blood bank screening to be appropriately recognized. The Coombs test involves incubating the patient's erythrocytes with anti-IgG and anti-complement antibody known as Coombs reagent. If an autoantibody or complement is bound to the surface of the erythrocytes, the Coombs reagent will bind to it and cause agglutination resulting in a positive test. The fixation of complement results in intravascular hemolysis and an increased indirect bilirubin while binding of antibodies to the surface of erythrocytes may mark them for removal in the reticuloendothelial system. In either case, patients present with anemia and evidence of hemolysis. Treatment is supportive.",
@@ -139,7 +146,8 @@
       "A": "Congestive heart failure",
       "B": "Hypercholesterolemia",
       "D": "Renal insufficiency",
-      "E": "Type 2 diabetes mellitus"
+      "E": "Type 2 diabetes mellitus",
+      "C": "Atrial fibrillation"
     },
     "correctAnswer": "C",
     "correctExplanation": "This patient's presenting symptoms of transient weakness and dysarthria or aphasia are consistent with transient ischemic attack (TIA), defined as a transient episode of neurologic dysfunction caused by focal brain, spinal cord, or retinal ischemia without evidence of infarction. Additionally, this patient presents with signs of congestive heart failure (CHF), peripheral vascular disease, and chronic kidney disease (CKD), including an enlarged point of maximal impulse, an S4 gallop, a femoral bruit, and an increased creatinine, respectively. This patient has multiple risk factors for a TIA and ischemic stroke including hypertension, diabetes mellitus, dyslipidemia, and atherosclerotic disease. Hypertension is the single most important modifiable risk factor for TIAs and ischemic strokes and is an important contributor to the development of CHF, CKD, and peripheral vascular disease.",
@@ -157,7 +165,8 @@
       "B": "Education level",
       "C": "Family history",
       "D": "Gender",
-      "E": "History of head trauma"
+      "E": "History of head trauma",
+      "A": "Age"
     },
     "correctAnswer": "A",
     "correctExplanation": "Alzheimer disease (AD) is the most common type of dementia. It typically presents with progressive cognitive deterioration that begins with short-term memory impairment and a decline in visuospatial abilities, which progresses to apraxia, language abnormalities, and dysexecutive syndrome. The disease culminates in behavioral and personality changes that prevent the patient from performing basic activities of daily living, such as bathing. Age is the strongest risk factor for AD. The incidence of AD approximately doubles every 5 years after age 65. Less significant risk factors include hypertension, hyperlipidemia, diabetes mellitus, and a sedentary lifestyle. AD may be treated with drugs that both directly and indirectly increase acetylcholine in synaptic clefts. These include donepezil and cholinesterase inhibitors, which non-competitively and reversibly inhibit acetylcholinesterase, thereby increasing the amount of synaptic acetylcholine available for neurotransmission. Though these drugs may slow the rate of cognitive decline and modestly improve functionality, they are not curative for AD.",
@@ -176,7 +185,8 @@
       "C": "Migraine",
       "D": "Subdural hematoma",
       "E": "Temporal lobe glioma",
-      "F": "Tension-type headache"
+      "F": "Tension-type headache",
+      "A": "Cluster headache"
     },
     "correctAnswer": "A",
     "correctExplanation": "Cluster headaches are primary headaches that typically present with brief (<120 minutes), unilateral, severe pain in the orbital, supraorbital, or temporal region of the head and are accompanied by ipsilateral autonomic symptoms. The pathogenesis is incompletely understood but likely involves activation of sensory fibers of the trigeminal nerve and parasympathetic nerves. Autonomic symptoms commonly include ptosis, miosis, lacrimation, conjunctival injection, rhinorrhea, and/or nasal congestion. Patients typically present between the ages of 20 and 50 years and are often male. Cigarette and alcohol use may be triggers for patients with a history of cluster headaches. The headaches often recur over a series of weeks to months, sometimes at the same time each year. Oxygen therapy with 100% oxygen is the most effective first-line abortive treatment, and verapamil is the first-line prophylactic treatment. The clinician should always distinguish primary headache types (eg, tension, cluster, migraine) from secondary headache types (eg, intracranial bleeding, tumors, glaucoma) because the treatment and prognosis differ greatly.",
@@ -194,7 +204,8 @@
       "B": "Gender",
       "C": "Medical history",
       "D": "Medication history",
-      "E": "Occupation"
+      "E": "Occupation",
+      "A": "Skin examination"
     },
     "correctAnswer": "A",
     "correctExplanation": "Seborrheic keratosis is a benign proliferation of the epidermis. It is characterized histologically by a benign, acanthotic proliferation of keratinocytes with absence of cellular atypia. The lesions are typically round, raised, brown or tan in color, and sharply demarcated with an adherent or stuck-on appearance. Seborrheic keratosis is common in middle-aged and older adults and is most associated with increasing age. While seborrheic keratosis is benign, the sudden appearance of numerous seborrheic keratosis lesions on the back and trunk, known as the Leser-Trélat sign, can be a paraneoplastic manifestation of gastrointestinal malignancy. No treatment is necessary for seborrheic keratosis, although lesions that are cosmetically bothersome may be removed with cryotherapy or simple excision.",
@@ -212,7 +223,8 @@
       "A": "Observation only",
       "C": "Punch biopsy",
       "D": "Radiation therapy",
-      "E": "Systemic chemotherapy followed by surgical excision"
+      "E": "Systemic chemotherapy followed by surgical excision",
+      "B": "C) Punch biopsy"
     },
     "correctAnswer": "B",
     "correctExplanation": "Actinic keratosis is a premalignant lesion that may progress to squamous cell carcinoma (SCC). Clinically, lesions typically appear as light pink, ill-defined macules with a gritty texture in areas of prolonged sun exposure, such as the face, ears, and dorsal hands. Actinic keratosis may be treated with topical medications, such as 5-fluorouracil or imiquimod, excision, cryotherapy, or dermabrasion. Ablative therapies are best used when the diagnosis is relatively certain, and a histopathologic specimen is not required. Lack of response to topical therapy should raise suspicion for possible SCC and should prompt an excisional biopsy. A low threshold of suspicion for SCC should be maintained particularly in patients with a history of immunocompromise or solid organ transplantation. Excisional biopsy is preferable because of its ability to assess for invasive disease and curative potential if the entire lesion is removed.",
@@ -230,7 +242,8 @@
       "A": "Neisseria gonorrhoeae",
       "B": "Pseudomonas aeruginosa",
       "D": "Streptococcus agalactiae (group B)",
-      "E": "Yersinia enterocolitica"
+      "E": "Yersinia enterocolitica",
+      "C": "Staphylococcus aureus"
     },
     "correctAnswer": "C",
     "correctExplanation": "Septic arthritis is most commonly caused by Staphylococcus aureus and presents with pain, inability to bear weight, reduced range of motion, fever, chills, nausea, myalgias, arthralgias, and fatigue. Vital signs may show fever, tachycardia, or hypotension in cases of septic shock. Physical examination typically discloses tenderness to palpation of the affected joint, a limited range of motion, pain with range of motion, joint effusion, and overlying cutaneous erythema. Potential routes of infection include direct inoculation, spread from an adjacent infection such as osteomyelitis, or hematogenous seeding. A structurally compromised joint, such as a prosthetic joint or a joint affected by years of inflammatory arthropathy may be more susceptible to infection, especially if the patient is also systemically immunocompromised. Diagnosis is through clinical examination plus arthrocentesis, which classically discloses a neutrophilic-predominant exudate with a white blood cell count of greater than 50,000/mm2. Organisms are often seen on gram stain and are detected by culture. Treatment includes intravenous antibiotics plus emergent operative debridement to prevent complications such as articular erosion, fibrous ankylosis, loss of the ability to ambulate, and the potential for sepsis and death, if severe.",
@@ -248,7 +261,8 @@
       "A": "Oral amoxicillin 1 hour before the dental procedure",
       "B": "Oral amoxicillin 24 hours before the procedure",
       "C": "Intravenous vancomycin 1 hour before the dental procedure",
-      "D": "Intravenous vancomycin 24 hours before the dental procedure"
+      "D": "Intravenous vancomycin 24 hours before the dental procedure",
+      "E": "No antibiotic prophylaxis is needed prior to the dental procedure."
     },
     "correctAnswer": "E",
     "correctExplanation": "No prophylaxis is indicated prior to a dental procedure in the case of a no-longer-apparent childhood murmur. Guidelines exist for the prevention of bacterial endocarditis related to dental procedures. Manipulation of oral mucosa can result in hematogenous spread of oral flora, which, in the setting of a structurally compromised heart, may promote infection and colonization of abnormal or dysfunctional endocardium. Qualifying dental procedures for which prophylaxis is recommended include any procedures in which the manipulation of gingival tissue or periapical teeth occurs, or in any case of perforation of the oral mucosa. Guidelines from the American Heart Association recommend antibiotic prophylaxis in the setting of prosthetic cardiac valves, prosthetic implanted material such as annuloplasty rings or cords, previous infective endocarditis, unrepaired cyanotic congenital heart defects, repaired congenital heart defects with residual shunts or regurgitation adjacent to the site of a patch or prosthetic device, and in transplanted hearts with structurally abnormal valves. Noncyanotic congenital heart defects such as ventricular septal defects, especially if resolved, do not require antibiotic prophylaxis unless another indication is present. When indicated, antibiotics that cover oral flora should be administered 30 to 60 minutes before the time of the procedure as a single dose.",
@@ -266,7 +280,8 @@
       "A": "Aortic aneurysm",
       "B": "Aortic dissection",
       "D": "Coarctation of the aorta",
-      "E": "Thromboangiitis obliterans (Buerger disease)"
+      "E": "Thromboangiitis obliterans (Buerger disease)",
+      "C": "Aortoiliac occlusive disease"
     },
     "correctAnswer": "C",
     "correctExplanation": "Aortic atherosclerosis commonly occurs at the aortic arch, where it serves as a major risk factor for cerebral embolism, and in the abdominal aorta distal to the renal arteries. Aortic atherosclerosis may lead to ischemia of the lower extremities, presenting with claudication of the buttocks and legs, lower extremity pain, paresthesia, paraplegia, shiny, hairless skin, and erectile dysfunction. A careful examination with attention to lower extremity pulses is crucial to distinguish an acute or chronic ischemic cause from potential neurologic causes. The diagnosis of aortic atherosclerosis is supported by CT or MR angiography along with assessment of ankle brachial blood pressure indices. Prompt reperfusion is essential to prevent further loss of function caused by hypoperfusion and can be accomplished with balloon or stent angioplasty, aortic endarterectomy, vascular bypass surgery (eg, aortofemoral bypass grafting), or thrombolysis or thrombectomy in cases of acute plaque rupture or embolic occlusion. Modifiable risk factors for aortic atherosclerotic disease include smoking, hypertension, hyperlipidemia, diabetes mellitus, and cocaine use.",
@@ -285,7 +300,8 @@
       "B": "Endocardium",
       "C": "Myocardium",
       "E": "Pulmonary artery",
-      "F": "Pulmonary veins"
+      "F": "Pulmonary veins",
+      "D": "Pericardium"
     },
     "correctAnswer": "D",
     "correctExplanation": "Fluid that accumulates within the pericardial space in a rapid-onset or large-volume fashion can result in pericardial tamponade. Compression of the cardiac chambers, especially the right ventricle, impairs cardiac filling with resultant decreased cardiac output caused by low stroke volume. Severe cases result in obstructive shock, manifest by tachycardia and hvnontensinn Phvsical examination findinnas inclide Reck triad (hvnotensinn distended itiaiular veins and distant heart sands) FCG mav disclose low valtane and/or electrical C ¢ G E 6 ri Score Report Lab Values Calculator Help Pause ie) fa) starttest.com",
@@ -304,7 +320,8 @@
       "B": "Endocardium",
       "C": "Myocardium",
       "E": "Pulmonary artery",
-      "F": "Pulmonary veins"
+      "F": "Pulmonary veins",
+      "D": "Pericardium"
     },
     "correctAnswer": "D",
     "correctExplanation": "Fluid that accumulates within the pericardial space in a rapid-onset or large-volume fashion can result in pericardial tamponade. Compression of the cardiac chambers, especially the right ventricle, impairs cardiac filling with resultant decreased cardiac output caused by low stroke volume. Severe cases result in obstructive shock, manifest by tachycardia and hypotension. Physical examination findings include Beck triad (hypotension, distended jugular veins, and distant heart sounds). ECG may disclose low voltage and/or electrical alternans, and there may be pulsus paradoxus on evaluation of blood pressure. Treatment requires emergent pericardiocentesis to restore diastolic filling and cardiac output. Predisposing conditions include but are not limited to malignancy, infectious or inflammatory states such as tuberculosis, viral pericarditis, and systemic lupus erythematosus, traumatic injury, and aortic dissection.",
@@ -322,7 +339,8 @@
       "A": "Anterior myocardial infarct",
       "B": "Cor pulmonale",
       "D": "Pulmonary emboli",
-      "E": "Right ventricular myocardial infarct"
+      "E": "Right ventricular myocardial infarct",
+      "C": "Pericardial effusion"
     },
     "correctAnswer": "C",
     "correctExplanation": "The presentation of pericardial effusion may range from asymptomatic to severe, symptomatic cardiac tamponade in large-volume or rapidly accumulating cases. Compression of the cardiac chambers, especially the right ventricle, impairs cardiac filling and decreases cardiac output (low stroke volume). Presenting features include but are not limited to a history of chest discomfort, shortness of breath, decreased exercise tolerance, fluid retention, and lightheadedness, along with any historical feature that may explain the cause of effusion (eg, weight loss or history of malignancy in cases of malignant effusion). Vital signs may be normal in cases of small effusions or may include tachycardia and hypotension in cases of tamponade. Physical examination findings include Beck triad (hypotension, distended jugular veins, and distant heart sounds) in the case of tamponade. These findings occur because of the presence of fluid in the pericardial space muffling heart sounds and increasing collapsing pressure on the right ventricle, which is transmitted to the vena cavae and their tributaries. In such a manner, increased right heart pressure is reflected as increased jugular venous distention (JVD). ECG may disclose low voltage and/or electrical alternans. There may be pulsus paradoxus on evaluation of blood pressure. Confirmatory diagnosis requires visualization of the effusion, often on echocardiogram. Mild or asymptomatic cases may be managed conservatively with watchful waiting and treatment of any predisposing conditions, whereas moderate, symptomatic, or severe cases, especially if accompanied by hemodynamic instability require treatment with pericardiocentesis or a pericardial window to restore diastolic filling and cardiac output. Predisposing conditions include but are not limited to malignancy, infectious or inflammatory states such as tuberculosis, pericarditis, or systemic lupus erythematosus, traumatic injury, and aortic dissection. a C 7 G E Previous Next Score Report Lab Values Calculator",
@@ -340,7 +358,8 @@
       "A": "lliac occlusive disease (Leriche syndrome)",
       "B": "Renal artery embolus",
       "C": "Ruptured abdominal aortic aneurysm",
-      "D": "Ruptured thoracic aneurysm"
+      "D": "Ruptured thoracic aneurysm",
+      "E": "Aortic dissection"
     },
     "correctAnswer": "E",
     "correctExplanation": "Aortic dissection classically presents with severe, acute, tearing chest or abdominal pain radiating to the back and differential blood pressures between extremities with asymmetric pulses. Dissection begins with a disruption of the tunica intima of the vessel, which permits blood to dissect the layers of the vessel wall with each heartbeat. A dissection flap may advance in any direction within the vessel, occluding or involving branch ostia. If vessel takeoffs supplying the limbs are affected, pulse deficits or differential blood pressures may arise. If splanchnic vessels are involved, end-organ dysfunction such as mesenteric ischemia or acute kidney injury may be seen. Management may be medical or surgical and depends on the location of the dissection within the vessel (eg, Type A vs Type B). Regardless of the need for surgery, all patients with dissection should receive immediate medical management to prevent further progression of the flap. Controlling the patient's heart rate and blood pressure is the priority in preventing progression. Intravenous B-adrenergic blocking medications should be used with a goal of lowering the heart rate to approximately 60 beats per minute and the blood pressure to less than 100 to 120 mm Hg systolic and 60 to 80 mm Hg diastolic. Lowering the heart rate helps prevent the advancement of the dissection flap and resultant occlusion of branch vessels by limiting the pulse pressure differential. Complications such as stroke, acute coronary syndrome, and cardiac tamponade may be immediately life-threatening. ¢ G € 6 t Score Report Lab Values Calculator Help Pause",
@@ -358,7 +377,8 @@
       "A": "Aspirin therapy",
       "B": "Digoxin therapy",
       "C": "Verapamil therapy",
-      "E": "Mitral valve replacement"
+      "E": "Mitral valve replacement",
+      "D": "Anticoagulation therapy"
     },
     "correctAnswer": "D",
     "correctExplanation": "Atrial fibrillation describes the uncoordinated contraction of the cardiac atria and is often the result of chronic left atrial enlargement caused by mitral regurgitation or increased left sided pressures (eg, in left ventricular hypertrophy with diastolic dysfunction). When the atria do not uniformly fill and contract, blood can become stagnant in areas of the atria, especially in the left atrial appendage. Blood in stasis is prone to coagulate, which results in the formation of a thrombus within the cardiac chambers. If a portion of such a thrombus embolizes, many clinical syndromes can result. For example, strokes occur when a thromboembolism occludes cerebral circulation, mesenteric ischemia occurs when the mesenteric arteries are occluded, and acute limb ischemia occurs when an artery supplying an extremity becomes occluded. Management of atrial fibrillation includes anticoagulation with warfarin or a direct oral anticoagulant (eg, apixaban) to prevent the formation of atrial thrombus, which reduces the risk for thromboembolic complications.",
@@ -377,7 +397,8 @@
       "C": "Pleural inflammation with fluid formation",
       "D": "Proximal airway inflammation",
       "E": "Pulmonary parenchymal necrosis",
-      "F": "Pulmonary vascular obstruction"
+      "F": "Pulmonary vascular obstruction",
+      "A": "Obstruction of a bronchus by a lung tumor"
     },
     "correctAnswer": "A",
     "correctExplanation": "Lung cancer often remains asymptomatic until advanced stage, at which time the tumor has locally invaded or metastasized, leading to the development of symptoms. The initial presentation is often nonspecific, including weight loss and fatigue. Once the tumor has invaded or involved neurosensory and vascular structures, patients may begin to experience coughing and hemoptysis. If the lesion is large enough to invade or obstruct a bronchus, patients may also experience post-obstructive or recurrent pneumonia in parenchyma distal to the lesion, caused by atelectasis and impaired endobronchial clearance of mucus, secretions, and inhaled pathogens. In this patient, the decreased breath sounds over the right posterior hemithorax suggest the presence of an endobronchial obstruction to airflow; this is further supported by atelectasis on x-ray in the corresponding area. Squamous cell carcinoma and small cell carcinoma of the lung tend to be centrally occurring lesions, often seen in smokers. Non-small cell carcinoma and other subtypes are more often peripherally occurring and may be more common in nonsmokers. Because of the significant morbidity and mortality with late diagnosis, screening low-dose chest CT is recommended by the U.S. Preventive Services Task Force in patients aged 50 to 80 years with a 20 pack-year smoking history and who currently smoke or have quit within the past 15 years.",
@@ -416,7 +437,8 @@
       "B": "Aspergillosis",
       "C": "Asthma",
       "D": "Bronchiectasis",
-      "E": "Chronic bronchitis"
+      "E": "Chronic bronchitis",
+      "F": "Idiopathic pulmonary fibrosis"
     },
     "correctAnswer": "F",
     "correctExplanation": "Pneumoconiosis describes interstitial lung disease arising because of inhalation of small solid particulate matter such as dust or powder (eg, talc, silica, beryllium, and ores) that leads to the development of fibrosis with resultant restrictive lung disease. It is often seen in patients with chronic exposures, such as foundry workers, miners, shipyard workers, cotton workers, farmers, stone drillers, and sandblasters. The disease's progress is often worsened by smoking. It generally presents with chronic symptoms of cough and shortness of breath on exertion; when severe or advanced, it can be associated with the need for supplemental oxygen and symptoms of heart failure (eg, cor pulmonale). Diagnosis is based on clinical history, symptoms, examination, exposure history, characteristic imaging tests that show fibrosis (x-ray may show honeycombing and fibrosis, especially in the apices), and pulmonary function tests that disclose a restrictive pattern of lung disease marked by decreased overall volumes and capacities but a preserved or increased ratio of FEV ,:FVC. This ratio is a key distinguishing feature from obstructive lung disease, which generally presents with a decrease in the ratio.",
@@ -434,7 +456,8 @@
       "B": "Malignancy",
       "C": "Rheumatoid arthritis",
       "D": "Tuberculosis",
-      "E": "Viral infection"
+      "E": "Viral infection",
+      "A": "Pneumonia"
     },
     "correctAnswer": "A",
     "correctExplanation": "Pleural effusions occur because of multiple underlying conditions including infection such as empyema, pneumonia, malignancy such as lung cancer or mesothelioma, and increased hydrostatic pressure such as left-sided heart failure. They are clinically suspected when examination discloses dullness to percussion and diminished breath sounds, and they can be visualized on imaging including chest x-ray, computerized tomography, or ultrasonography. Clinical features such as immunocompromise, history of malignancy, or infectious symptoms or signs of sepsis such as fever, tachycardia, tachypnea, and lethargy can suggest the cause. Analyzing the pleural fluid can further inform the diagnosis. Pleural fluid is analyzed for cell count, organisms, pH, glucose, total protein, and enzyme concentrations. Decreased pH and decreased glucose concentration are indicative of increased cellular metabolism in the fluid and may indicate underlying malignancy and/or infection. Fluid can be further categorized as transudate (serous fluid resulting from imbalanced hydrostatic or oncotic pressure) or exudate (complex fluid resulting from pneumonia, empyema, malignancy, or inflammatory disease) using Light's criteria, which compares the pleural fluid protein and lactate dehydrogenase concentrations to those found in serum. Empyema is characterized by an exudative effusion with increased pleural e ¢ @ € 6 t Score Report Lab Values Calculator Help Pause ie) fa) starttest.com",
@@ -452,7 +475,8 @@
       "A": "Bacterial overgrowth",
       "B": "Coexisting pancreatic exocrine dysfunction",
       "C": "Defective release of secretin",
-      "E": "Poor mixing of bile salts with dietary lipids"
+      "E": "Poor mixing of bile salts with dietary lipids",
+      "D": "Malabsorption due to intestinal inflammation"
     },
     "correctAnswer": "D",
     "correctExplanation": "Crohn disease is characterized by transmural inflammation of the gastrointestinal tract, most frequently involving the terminal ileum. It can arise anywhere in the gastrointestinal tract and is a subclass of inflammatory bowel disease. Most patients experience chronic abdominal cramping, bloody diarrhea, and weight loss. Examination often shows generalized abdominal tenderness, sometimes worse in the right lower quadrant, and extraintestinal manifestations such as uveitis. Severe Crohn disease can result in intestinal obstruction from stricture or inflammation, bowel perforation, intraabdominal abscess, and the formation of fistulas. Crohn disease may manifest with steatorrhea caused by the impairment of bile salt resorption secondary to inflammation of the terminal ileum. Bile salts play a crucial role in the solubilization of fats in the enteric lumen, and are recycled through the enterohepatic circulation, which is dependent on the resorption of bile salts through an intact ileal mucosa. Impairment of bile salt resorption because of ileal inflammation can overwhelm the ability of the liver to synthesize de novo bile acids, resulting in a deficiency in fat-soluble vitamin absorption. Patients with Crohn disease should undergo frequent evaluation for deficiency of fat-soluble vitamins.",
@@ -470,7 +494,8 @@
       "A": "Mumps",
       "B": "Sarcoidosis",
       "D": "Sjégren syndrome",
-      "E": "Temporomandibular joint dysfunction"
+      "E": "Temporomandibular joint dysfunction",
+      "C": "Bacterial sialadenitis"
     },
     "correctAnswer": "C",
     "correctExplanation": "Sialadenitis refers to inflammation of the salivary gland and typically presents with acute onset of pain and swelling over the affected gland. Acute sialadenitis often persists for several weeks and most commonly occurs because of obstruction of the gland caused by sialolithiasis but may also occur secondary to viral infection (eg, mumps or Epstein-Barr virus), bacterial infection (most commonly with S. aureus), or strictures following radiotherapy. The presence of constitutional symptoms may be indicative of a viral cause, while the expression of purulent discharge from the glandular orifice may indicate a bacterial infection. This patient's history of pain initially precipitated by meals is most suggestive of the presence of a salivary gland stone causing intermittent obstruction. Further evaluation with ultrasonography or CT may help establish the diagnosis. Treatment is primarily conservative with analgesics, application of heat and massage, and hydration. Patients that fail to improve with conservative management sometimes require removal of a sialolith, if present, usually by sialoendoscopy.",
@@ -488,7 +513,8 @@
       "A": "Bacterial growth in bile within the common hepatic duct",
       "B": "Bacterial invasion of the gallbladder wall",
       "C": "Transitory chemical irritation of the gallbladder wall",
-      "D": "Transitory obstruction of the common hepatic duct by gallstones"
+      "D": "Transitory obstruction of the common hepatic duct by gallstones",
+      "E": "Transitory obstruction of the cystic duct by gallstones"
     },
     "correctAnswer": "E",
     "correctExplanation": "This patient's presenting symptom of colicky pain in the right upper quadrant is consistent with biliary colic secondary to transitory obstruction of the cystic duct by gallstones. The pain is typically dull, severe, triggered by meals, and may radiate to the right shoulder. If the gallstone is passed into the common bile duct, biliary obstruction may ensue and lead to jaundice, hepatic injury, and/or acute cholangitis. Most episodes of biliary colic last for several hours before subsiding spontaneously. Biliary colic can be distinguished from cholecystitis by a lack of fever, a normal abdominal examination, and a lack of leukocytosis. Abdominal ultrasonography can aid the diagnosis by identifying the presence of gallstones. Provided that the clinical picture and examination are improving, the acute management of biliary colic is generally conservative with oral analgesics. Elective cholecystectomy is recommended to prevent future complications from the gallstones. If symptoms of biliary colic progress to show features of jaundice, hepatic injury, cholecystitis, pancreatitis, choledocholithiasis, or cholangitis, operative (cholecystectomy) or interventional (eg, endoscopic retrograde cholangiopancreatography) management should take place.",
@@ -525,7 +551,8 @@
       "B": "Hypovolemia",
       "C": "Interstitial nephritis",
       "D": "Transfusion reaction",
-      "E": "Urinary tract obstruction"
+      "E": "Urinary tract obstruction",
+      "A": "Acute tubular necrosis"
     },
     "correctAnswer": "A",
     "correctExplanation": "Acute tubular necrosis is a cause of intrinsic acute renal failure that is most commonly the result of either ischemic or nephrotoxic insults to the kidneys. This patient presents after traumatic hemorrhagic shock with hemodynamic instability and signs of hypovolemia. This increases the risk for ischemic injury to the kidneys secondary to decreased renal blood flow, which can lead to tubular epithelial cell death and sloughing into the lumen of the tubules. This typically results in an initial oliguric phase where the patient is at increased risk for uremia, hyperkalemia, and metabolic acidosis. Following this initial phase, the patient will then enter a polyuric, recovery phase characterized by excessive urine production with associated falls in creatinine and risk for electrolyte abnormalities, especially hypokalemia. Urinalysis typically discloses granular, muddy brown casts. Though not seen in this case, C ¢ G E 6 ri Score Report Lab Values Calculator Help Pause ie} fa) starttest.com",
@@ -543,7 +570,8 @@
       "A": "Continue ibuprofen at the current dose and repeat the laboratory studies in 2 weeks",
       "B": "Continue ibuprofen at the current dose and begin oral hydrocortisone",
       "C": "Decrease the dose of ibuprofen and begin oral prednisone",
-      "E": "Switch from ibuprofen to oral celecoxib"
+      "E": "Switch from ibuprofen to oral celecoxib",
+      "D": "Switch from ibuprofen to topical diclofenac for pain management."
     },
     "correctAnswer": "D",
     "correctExplanation": "Acute kidney injury, a rapid decrease in renal function, may be caused by prerenal, intrinsic, or postrenal causes. Nonsteroidal anti-inflammatory medications (NSAIDs) such as ibuprofen are inhibitors of cyclooxygenase (COX) enzymes, which have a primary role in the synthesis of prostaglandins and prostacyclins. These molecules play key roles in the modulation of pain sensation and thermoregulation, the maintenance of the gastric mucosal barrier, and the regulation of renal blood flow (RBF). If NSAID use occurs at higher doses, with more potent agents or over a prolonged time, acute kidney injury (AKI) can occur because of deficiency in prostaglandins, which would otherwise promote renal afferent C ¢ G E 6 ri Score Report Lab Values Calculator Help Pause 08 starttest.com",
@@ -561,7 +589,8 @@
       "B": "Detrusor hyperactivity",
       "C": "Neurogenic bladder",
       "D": "Prostatic infection",
-      "E": "Urethral hypermobility"
+      "E": "Urethral hypermobility",
+      "A": "Benign prostatic hyperplasia (BPH)"
     },
     "correctAnswer": "A",
     "correctExplanation": "Urinary retention, nighttime overflow incontinence, an enlarged prostate, and a weak urinary stream are characteristic of benign prostatic hyperplasia (BPH) in older men, which can lead to bladder outlet (neck) obstruction. The best next step to relieve a bladder outlet obstruction involves catheterization to decompress the urinary bladder and prevent acute complications of prolonged bladder outlet obstruction such as bladder rupture, urothelial cell atrophy or necrosis, hydroureter, hydronephrosis, post-renal azotemia, and/or renal failure. A post-void residual volume of urine should generally be less than 50-100 mL, and significant urinary retention beyond 200-250 mL (though clinical guidelines vary) is generally an indication for placement of a urinary catheter to relieve obstruction.",
@@ -579,7 +608,8 @@
       "A": "Azithromycin",
       "C": "Nafcillin",
       "D": "Penicillin",
-      "E": "Vancomycin"
+      "E": "Vancomycin",
+      "B": "Ceftriaxone"
     },
     "correctAnswer": "B",
     "correctExplanation": "Neisseria gonorrhoeae can cause vaginitis, cervicitis, and pelvic inflammatory disease (PID) in women. It can also cause a multifocal dermatitis that typically presents with tender macular and/or pustular lesions along with disseminated and migratory polyarthritis. Risk factors for PID and other sexually transmitted infections include adolescence, multiple sexual partners, and not using barrier contraception such as condoms. Vaginitis typically presents with mucopurulent discharge and pruritus. Cervicitis presents with similar discharge but also with an erythematous, friable cervix and cervical motion tenderness on examination. When infection spreads to the fallopian tubes and ovaries, PID with purulent cervical discharge, uterine and adnexal tenderness, and systemic symptoms such as fever can result. If left untreated, PID can be complicated by tubo-ovarian or intraabdominal abscess, presenting with focal tenderness and a fluctuant mass. The antibiotic treatment of Neisseria gonorrhoeae infection involves the use of third generation cephalosporins such as ceftriaxone, as well as concurrent treatment of Chlamydia trachomatis with doxycycline.",
@@ -617,7 +647,8 @@
       "B": "Autonomous secretion of parathyroid hormone",
       "D": "Deficiency of vitamin B 2 (cobalamin)",
       "E": "Excess secretion of 25-hydroxyvitamin D",
-      "F": "Excess secretion of magnesium"
+      "F": "Excess secretion of magnesium",
+      "C": "Deficiency of parathyroid hormone"
     },
     "correctAnswer": "C",
     "correctExplanation": "Deficiency of parathyroid hormone (PTH), also known as hypoparathyroidism, likely explains this patient's symptomatic hypocalcemia. PTH is a peptide hormone that increases osteoclast activity and bone resorption to maintain calcium homeostasis. It is produced by the four parathyroid glands, which are located on the posterior aspect of the thyroid gland. Primary hypoparathyroidism can occur following the unintentional resection of the parathyroid glands during thyroidectomy or may be caused by autoimmune destruction of the parathyroid glands. Primary hypoparathyroidism results in decreased concentrations of PTH, which leads to hypocalcemia secondary to inadequate bone resorption, hyperphosphatemia, and decreased concentrations of 1,25-dihydroxyvitamin D (calcitriol) because PTH stimulates renal conversion of 25-hydroxyvitamin D to its active form. Decreased concentrations of calcitrinl siuihstantially worsen hvnacaleemia as calcitriol directly stimulates intestinal calciiim ahsarntinn Sians and svmntams of severe hvnacaleamia C ¢ G E 6 ri Score Report Lab Values Calculator Help Pause ie) fa) starttest.com",
@@ -635,7 +666,8 @@
       "A": "Cytologic examination of breast secretions",
       "B": "Measurement of serum estradiol concentration",
       "C": "Measurement of serum follicle-stimulating and luteinizing hormone concentrations",
-      "D": "Mammography"
+      "D": "Mammography",
+      "E": "MRI of the pituitary gland"
     },
     "correctAnswer": "E",
     "correctExplanation": "MRI of the pituitary gland is the most appropriate next step in evaluation of this young woman with amenorrhea, galactorrhea, and an increased serum concentration of prolactin. Prolactin is a hormone that is produced and secreted by the anterior pituitary gland. Normal increases in serum prolactin occur during pregnancy and immediately following delivery when infants begin to breast feed, but concentrations return to normal several weeks after delivery even as lactation continues. Pathologic increases in prolactin concentration are commonly the result of pituitary adenomas resulting in hypersecretion of prolactin from lactotroph cells. While dopamine antagonists such as antipsychotic medications or selective serotonin reuptake inhibitors may lead to mild increases of prolactin concentration, they do not approach the concentrations seen in pituitary adenomas. Prolactin inhibits the release of gonadotropin-releasing hormone (GnRH) and thereby reduces the concentrations of follicle-stimulating hormone and luteinizing hormone, which leads to amenorrhea and infertility. Prolactin also acts directly on mammary glands in the breast and induces lactation, although galactorrhea is less common in premenopausal women. After medications are excluded as the potential cause, patients should undergo MRI of the pituitary gland to assess for the presence of a mass. In most cases, the first-line treatment is with cabergoline, a dopamine agonist, which decreases secretion of prolactin. This medication is routinely used for women who desire pregnancy, as in this case, although bromocriptine is a reasonable alternative. In rare circumstances, transsphenoidal resection may be required.",
@@ -653,7 +685,8 @@
       "A": "Oral prednisone",
       "B": "Intravenous dopamine",
       "D": "Intravenous metronidazole",
-      "E": "Intravenous penicillin"
+      "E": "Intravenous penicillin",
+      "C": "Intravenous fluids and supportive care"
     },
     "correctAnswer": "C",
     "correctExplanation": "This patient presents with signs and symptoms of toxic shock syndrome. Toxic shock syndrome toxin (TSST-1), produced by Staphylococcus aureus, causes a cytokine storm, which causes dysfunction of multiple organs and can lead to distributive shock and death. Patients typically present with fever, hypotension, diffuse erythematous rash, desquamation, and clinical and laboratory evidence of end organ dysfunction such as altered mental status, myalgia, thrombocytopenia, azotemia, and transaminitis. Toxic shock may be rapidly fatal, even with appropriate treatment. Treatment includes the administration of appropriate antibiotics, aggressive hemodynamic support with intravenous fluids, and support of end organ failure. Source control, such as a pelvic examination to remove a retained tampon, is important to limit further release of toxin.",
@@ -671,7 +704,8 @@
       "A": "Dendritic corneal ulceration",
       "B": "Hyperviscosity of the retinal veins",
       "D": "Scleromalacia perforans",
-      "E": "Uveitis"
+      "E": "Uveitis",
+      "C": "Ischemic optic neuropathy"
     },
     "correctAnswer": "C",
     "correctExplanation": "Granulomatous arteritis in cervical or temporal arteries, also referred to as temporal or giant cell arteritis is a vasculitis that affects the large vessels such as the aorta, aortic arch vessels, the temporal branch of the external carotid, and vertebral arteries, among others. It is characterized by headache, temporal tenderness, jaw claudication, and fever. A potential complication includes monocular blindness from ischemic optic neuropathy. This occurs secondary to inflammation and resultant thrombosis of the central retinal artery and/or posterior ciliary arteries. Because of this potential acute complication, this condition requires the urgent administration of glucocorticoids, ophthalmologic evaluation, and temporal artery biopsy for diagnosis. Administration of steroids does not generally affect biopsy results if biopsy occurs within 1 to 2 weeks.",
@@ -689,7 +723,8 @@
       "B": "Doxazosin therapy",
       "C": "Prednisone therapy",
       "D": "Propranolol therapy",
-      "E": "Sympathectomy"
+      "E": "Sympathectomy",
+      "A": "Calcium channel blocker therapy"
     },
     "correctAnswer": "A",
     "correctExplanation": "Vasospasm causes the intermittent loss of blood flow to the distal extremities in Raynaud phenomenon, resulting in sequential white, blue, and red discoloration of the affected areas of skin. The vasospasm associated with Raynaud phenomenon can be triggered and exacerbated by cold temperature, stress, or emotional upset. Activities such as cigarette smoking, injury, trauma, or chemical exposure can put patients at a higher risk for Raynaud phenomenon. Raynaud phenomenon may be idiopathic or associated with mixed connected tissue disease, systemic lupus erythematosus, or CREST syndrome. When severe or prolonged, ischemic injury can result in digital ulcerations. Dressing warmly in cold weather can help prevent Raynaud phenomenon by decreasing cold exposure.",
@@ -707,7 +742,8 @@
       "B": "Malignant hyperthermia",
       "C": "Myocardial ischemia",
       "D": "Neuroleptic malignant syndrome",
-      "E": "Thyroid storm"
+      "E": "Thyroid storm",
+      "A": "Heat stroke"
     },
     "correctAnswer": "A",
     "correctExplanation": "Heat stroke is characterized by an increased body temperature that occurs when the body is exposed to high environmental temperatures and high humidity. It commonly happens in young athletes or in elderly patients with impaired thermoregulatory capacity. Excessive heat exposure and increased core body temperature lead to cardiovascular and neurologic dysfunction with secondary tachycardia, tachypnea, and hypotension. Vasodilation of superficial blood vessels may lead to shunting of blood with resultant multi-organ system dysfunction, including neurologic impairment, hepatic and renal ischemia, rhabdomyolysis, and disseminated intravascular coagulation. Treatment includes cooling of the patient with fans or ice water, continuous core temperature monitoring, and support of the patient's airway, breathing, and circulation. A patient must demonstrate neurologic symptoms to diagnose heat stroke, whereas heat exhaustion presents similarly but with an intact neurologic examination. In this example, the patient is a young manual laborer who works outside in the sun; his use of an antihistamine (especially if it also has anticholinergic action) may also impair his ability to thermoregulate through sweat and cutaneous vasodilation.",
@@ -728,7 +764,8 @@
       "D": "Measurement of plasma histamine concentration",
       "E": "Toxicology screening",
       "F": "Administration of corticosteroids",
-      "G": "Administration of diphenhydramine"
+      "G": "Administration of diphenhydramine",
+      "H": "Administration of epinephrine"
     },
     "correctAnswer": "H",
     "correctExplanation": "Administration of epinephrine is the most appropriate immediate step in management for this patient with presumed anaphylaxis. Anaphylaxis should be suspected given tachycardia, hypotension, hypoxia, and wheezing, which is most likely indicative of bronchospasm. Anaphylaxis is a Type 1 hypersensitivity reaction that develops following exposure to an allergen. It is caused by widespread IgE-mediated mast cell degranulation and is characterized by histaminergic responses within multiple organ systems leading to flushing, angioedema, bronchospasm, nausea, vomiting, abdominal discomfort, and vasodilation, which can lead to airway obstruction and circulatory collapse. If not managed promptly, death can occur from hypoxia and/or distributive shock. The diagnosis is made clinically, and the first treatment that should be given is intramuscular epinephrine. Adjunctive management may include inhaled B-adrenergic agonists, glucocorticoids, histamine blockers, fluid resuscitation, and potentially invasive airway or vasopressor support. Patients who present with signs and symptoms of anaphylaxis while working outdoors may have experienced bee envenomation. Regardless of the cause, treatment is the same. At the time of discharge, all patients should be provided with an epinephrine autoinjector and training on how to use it.",
@@ -746,7 +783,8 @@
       "A": "Hypoxemia with normal pH",
       "C": "Metabolic alkalosis",
       "D": "Respiratory acidosis",
-      "E": "Respiratory alkalosis"
+      "E": "Respiratory alkalosis",
+      "B": "Metabolic acidosis with an elevated anion gap"
     },
     "correctAnswer": "B",
     "correctExplanation": "Following a myocardial infarction, hypotension, altered mental status, and hypoperfused (cool, clammy) skin is most likely caused by cardiogenic shock. Cardiogenic shock is caused by a decrease in cardiac output, often caused by infarcted or infected cardiac muscle. This leads to vasoconstriction of peripheral vessels to maintain blood pressure and inadequate perfusion of end organs. As organs begin to receive an insufficient supply of oxygen, they transition from aerobic metabolism to anaerobic metabolism, which leads to the production of lactic acid. This lactic acid decreases the pH of the blood, leading to a metabolic acidosis. This is often worsened in cardiogenic shock because the liver is unable to adequately metabolize lactate in the setting of decreased perfusion. Therefore, this patient likely has a metabolic acidosis caused by the production of lactic acid.",
@@ -764,7 +802,8 @@
       "A": "Candida albicans",
       "B": "Clostridium perfringens",
       "C": "Escherichia coli",
-      "D": "Pseudomonas aeruginosa"
+      "D": "Pseudomonas aeruginosa",
+      "E": "Staphylococcus aureus"
     },
     "correctAnswer": "E",
     "correctExplanation": "Bacteremia commonly presents with fevers, tachycardia, tachypnea, hypotension, and leukocytosis, and can also be associated with altered mental status and end organ damage if it proceeds to cause septic shock. While it can be caused by a variety of infections, such as pneumonia or pyelonephritis, it is most likely caused by this patient's central line given its erythematous and tender insertion site. Central line catheters are most often placed for the administration of vasopressors in critically ill patients, as an alternative for venous access in patients with difficult to obtain peripheral access, and for the long-term administration of medications, such as antibiotics or chemotherapy. Unfortunately, central line- associated bloodstream infections are a relatively common complication. Bacteria, most often skin flora such as staphylococcal species, can be introduced into the bloodstream and lead to bacteremia, especially in patients who are immunocompromised, such as this patient undergoing chemotherapy. Therefore, the most likely causal organism in this patient is Staphylococcus epidermidis, a common cutaneous organism that can translocate and seed discontinuities in skin such as line sites. Treatment includes intravenous antibiotics and removal of the line.",
@@ -781,7 +820,8 @@
     "choices": {
       "A": "95% 35%",
       "B": "99% 90%",
-      "C": "99% 95%"
+      "C": "99% 95%",
+      "D": "99% 99%"
     },
     "correctAnswer": "D",
     "correctExplanation": "Sensitivity and specificity are important concepts when determining which diagnostic tests to utilize and how to interpret them. Sensitivity refers to the ability of a test to correctly identify those with the disease, whereas specificity refers to the ability of a test to correctly identify those without the disease. In a patient population with low prevalence of a disease, a negative result on a highly sensitive test can effectively rule out the disease because there is a low rate of false negative tests. However, a positive result on a sensitive test must be verified by a highly specific test, which would have a decreased risk for false positive results. Therefore, sensitive tests are often used for screening, as in this patient, but must be verified by a more specific test. Therefore, a test with 99% specificity would be most likely to confirm or refute this patient's diagnosis. Specificity is calculated as true negatives divided by the sum of true negatives and false positives. Therefore, a test with a 99% specificity would have only one false positive out of 100 administered tests. Positive tests would therefore be more likely to be true positives.",
@@ -798,7 +838,8 @@
     "choices": {
       "A": "Confounding by age",
       "B": "Inappropriate case group",
-      "D": "Lack of incidence rates for alcohol users and nonusers"
+      "D": "Lack of incidence rates for alcohol users and nonusers",
+      "C": "Selection bias due to control group choice"
     },
     "correctAnswer": "C",
     "correctExplanation": "A variety of methodological flaws or study weaknesses can limit the application of study results to a general population. These flaws include confounding variables, inappropriate selection of case or control groups, inappropriate analysis of data, and biases, such as sampling bias and observation bias. In designing a case control study to determine relationships between exposures and outcomes, it is important to choose a case group and a control group that are matched to eliminate or avoid confounding to strengthen conclusions that differences observed are caused by the variables being studied. For example, in this scenario, choosing a control population that consists of patients admitted to the hospital with acute injuries likely interferes with the interpreted results of the studies that the regular use of alcohol reduced the risk for colon cancer. This is because regular alcohol use can lead to acute injuries during intoxication, and thus the control group may have a higher baseline use of alcohol compared to the case group. This has likely led to the possible inappropriate conclusion in this study that regular use of alcohol reduced the risk for colon cancer. Therefore, the most important reason to be concerned about the authors' conclusion of this study is the inappropriate control group.",
@@ -816,7 +857,8 @@
       "B": "Spiritual counseling",
       "C": "Psychiatric assessment",
       "D": "Admission to the hospital",
-      "E": "Echocardiography and feeding tube placement"
+      "E": "Echocardiography and feeding tube placement",
+      "A": "Reassessment of goals of care and symptom management"
     },
     "correctAnswer": "A",
     "correctExplanation": "Hospice care is a form of health care that aims to provide comfort and palliation to terminally ill patients in their last stages of life. As a terminally ill patient approaches the end of life, they may decide to focus on the quality of remaining life rather than on increasing the quantity of time remaining. Hospice is a multidisciplinary healthcare model that includes physicians, nurses, social workers, and chaplains and aids to eliminate suffering and provide spiritual and emotional support to patients and their family. Goals often include treating symptoms, such as pain and anxiety, and providing a patient as much time at home as possible by avoiding further hospital admissions. This patient has terminal heart failure associated with arrhythmias, as well as hemiparesis, and has opted to enroll in hospice care. Therefore, care should be taken to eliminate the symptoms related to this patient's chronic illnesses by discussing the patient's pain control with the hospice staff, rather than admitting him to the hospital again.",
@@ -834,7 +876,8 @@
       "A": "Active failure",
       "B": "Adverse event",
       "C": "Latent condition",
-      "E": "Sentinel event"
+      "E": "Sentinel event",
+      "D": "Medical error"
     },
     "correctAnswer": "D",
     "correctExplanation": "Medical errors are common in healthcare and are often the result of an interplay of individual and systemic factors. They range from medication administration errors to failures of equipment, among a variety of others. These errors or mistakes may or may not reach the patient. Adverse events occur from medical errors that reach the patient and cause unintended harm, whereas sentinel events are an extreme form of these events that lead to permanent disability or death. However, many safeguards are put into place to prevent errors from reaching patients. For example, as in this case, the medication ordered by the physician is checked by the pharmacist prior to being dispensed, and then it would be further checked by the bedside nurse before it is delivered to the patient. These medical errors that do not reach the patient are referred to as near miss events.",

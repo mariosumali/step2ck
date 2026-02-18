@@ -44,7 +44,8 @@
       "B": "Falcine meningioma",
       "C": "Oligodendroglioma",
       "D": "Optic chiasm glioma",
-      "E": "Pituitary adenoma"
+      "E": "Pituitary adenoma",
+      "A": "Craniopharyngioma"
     },
     "correctAnswer": "A",
     "correctExplanation": "Craniopharyngiomas are solid, slow-growing benign tumors that arise from the Rathke pouch during embryologic development. These tumors may be intrasellar or suprasellar, though they are often suprasellar. Approximately half are diagnosed by age 20 years. Symptoms caused by mass effect include abnormal vision (eg, bitemporal hemianopsia), decreased growth (eg, signs of hypopituitarism), and diabetes insipidus. These tumors may show calcification on imaging, unlike a pituitary adenoma. Patients with a craniopharyngioma and associated symptoms should be evaluated for possible surgical resection.",
@@ -82,7 +83,8 @@
       "C": "Lymphoma",
       "D": "Multiple myeloma",
       "E": "Osteoblastoma of the thoracic spine",
-      "G": "Tuberculous abscess of the spine"
+      "G": "Tuberculous abscess of the spine",
+      "A": "Spinal epidural abscess"
     },
     "correctAnswer": "A",
     "correctExplanation": "This patient presents with fever, back pain, and point tenderness over T10 on examination, which is suggestive of a spinal epidural abscess. An epidural abscess is a localized collection of pus in the epidural space between the dura mater and periosteum. It most commonly occurs in the spine but may occur in the brain. Most patients are elderly, have a history of concomitant infection, and often have a history of immunocompromise (eg, diabetes mellitus, HIV infection, alcohol use disorder). Epidural abscess is more common in patients with a history of intravenous drug use. Infectious organisms usually spread to the epidural space hematogenously, from spinal surgery, or from adjacent osteomyelitis. Staphylococcus aureus is a frequently causative organism, but fungal infections may also occur. Patients present with signs and symptoms of fever, altered mental status, meningismus, localized back pain and tenderness to palpation, along with weakness, numbness, and paralysis below the affected spinal level. Treatment is with broad-spectrum antibiotics and surgical drainage of the abscess.",
@@ -100,7 +102,8 @@
       "A": "Fasting serum triglyceride concentration",
       "B": "Fine-needle aspiration of the mass",
       "C": "Serum rheumatoid factor assay",
-      "D": "Serum uric acid concentration"
+      "D": "Serum uric acid concentration",
+      "E": "Observation and reassurance"
     },
     "correctAnswer": "E",
     "correctExplanation": "Ganglion cysts are fluid-filled swellings overlying a joint or a tendon sheath. They are the most common soft tissue growths of the hand. On examination they are smooth, may be tender to palpation, and transilluminate unlike solid tumors. Ganglion cysts are most often diagnosed based on physical examination findings, although ultrasonography may be used in cases of uncertainty. Patients can be managed with reassurance, although patients with refractory symptoms may have the cyst excised.",
@@ -118,7 +121,8 @@
       "B": "Brain stem",
       "C": "Muscle",
       "D": "Myoneural junction",
-      "E": "Spinal cord"
+      "E": "Spinal cord",
+      "A": "Anterior horn of the spinal cord"
     },
     "correctAnswer": "A",
     "correctExplanation": "Spinal muscular atrophy is a group of autosomal recessive disorders that lead to the degeneration of motor neurons and result in progressive hypotonia and areflexia. Werdnig-Hoffmann spinal muscular atrophy is the most common subtype and considered the most severe form, with infants experiencing the onset of symptoms within the first 6 months of life. It is characterized by hypotonia, diffuse weakness, and delays or absence of motor development. Notably, higher central nervous system and cerebral function remains intact. Spinal muscular atrophy in general is a type of lower motor neuron disease that affects the anterior horn cells of the spinal cord. Degeneration of these cells results in loss of innervation to muscle. In infants, parents may observe difficulties with feeding, swallowing, and respiratory function. Deep tendon reflexes are absent, and tongue fasciculations are a common finding. Infants often fail to develop head control, an ability to sit up, crawl, or stand. Hypotonia and areflexia may be present at birth or develop shortly after with regression in previous muscle strength and tone. Treatment is supportive. The prognosis is poor, with few patients surviving past 2 years of life.",
@@ -136,7 +140,8 @@
       "A": "Complex partial seizure",
       "C": "Generalized tonic-clonic seizure",
       "D": "Illness anxiety disorder",
-      "E": "Somatization disorder"
+      "E": "Somatization disorder",
+      "B": "Psychogenic nonepileptic seizure"
     },
     "correctAnswer": "B",
     "correctExplanation": "Conversion disorder, also known as functional neurologic symptom disorder, involves neurologic symptoms such as sensory or motor dysfunction that are not fully explained by objective findings on physical examination or imaging. This patient presents with an episode of generalized shaking with lack of incontinence, and a negative EEG likely indicates psychogenic nonepileptic seizures, a form of conversion disorder. Functional neurologic symptom disorder is postulated to represent the subconscious conversion of intolerable emotional distress into physical symptoms. Psychiatric comorbidities such as depression are common but not present in all patients. Physicians should conduct a thorough history and physical examination and obtain laboratory and imaging studies to evaluate for medical or neurologic disease that may explain or partially explain the symptoms. Treatment of functional neurologic symptom disorder involves education about the diagnosis, physical therapy, and cognitive behavioral therapy.",
@@ -154,7 +159,8 @@
       "A": "Canalith repositioning",
       "B": "Diazepam therapy",
       "C": "Diphenhydramine therapy",
-      "E": "Scopolamine therapy"
+      "E": "Scopolamine therapy",
+      "D": "Hydrochlorothiazide therapy"
     },
     "correctAnswer": "D",
     "correctExplanation": "Hydrochlorothiazide therapy is used in the treatment of Meniere disease. Meniere disease is a condition of vestibular dysfunction and sensorineural hearing loss that results from pressure accumulation in the endolymph of the inner ear including the otolithic organs, semicircular canals, and cochlea. The classic triad of symptoms includes episodic vertigo, hearing loss, and tinnitus. The diagnosis is based on clinical symptoms and audiometric evidence of sensorineural hearing loss. The diagnosis may be supported by results of the Weber and Rinne tests, in which bone conduction assesses for sensorineural hearing and air conduction assesses for conductive hearing. Vestibular testing may be normal or show unilateral peripheral vestibular dysfunction as the disease progresses. Management includes lifestyle modification (eg, avoidance of salt, nicotine, alcohol, and/or stress) and medications for episodic vertigo as well as diuretic medications, including hydrochlorothiazide.",
@@ -172,7 +178,8 @@
       "A": "Conus medullaris syndrome",
       "B": "Lumbar radiculopathy",
       "D": "Musculoskeletal low back pain",
-      "E": "Peripheral neuropathy"
+      "E": "Peripheral neuropathy",
+      "C": "Lumbar spinal stenosis"
     },
     "correctAnswer": "C",
     "correctExplanation": "Lumbar spinal stenosis refers to the narrowing of the lumbar spinal canal, which results in compression of the lumbar nerve roots and/or spinal cord. Patients may present with symptoms of radiculopathy, including back pain that radiates to the buttocks and legs, leg numbness, paresthesia, and/or weakness. Hip extension increases pressure on the nerve roots, while flexion of the hips relieves pressure. Consequently, patients may demonstrate neurogenic claudication, in which extension of the hips (eg, standing or walking) leads to symptoms. The most common cause of lumbar spinal stenosis is degenerative disc disease, which often occurs with age. The diagnosis is confirmed by MRI. Treatment involves nonsteroidal anti-inflammatory drugs, physical therapy, and surgery.",
@@ -268,7 +275,8 @@
       "D": "Polymerase chain reaction testing for Rickettsia rickettsii",
       "E": "Serum angiotensin converting enzyme activity",
       "G": "Transthoracic echocardiography",
-      "H": "VDRL test for syphilis"
+      "H": "VDRL test for syphilis",
+      "F": "Serologic testing for Borrelia burgdorferi antibodies"
     },
     "correctAnswer": "F",
     "correctExplanation": "Lyme meningitis and Bell palsy are known neurologic complications of Lyme disease, caused by disseminated Borrelia burgdorferi infection. B. burgdorferi are transmitted following tick bites, most commonly from Ixodes ticks. Initial manifestations of Lyme disease include the erythema chronicum migrans rash, which is an expanding rash with a central ring-like clearing and targetoid appearance. It generally appears within 1 to 2 weeks of the tick bite. Left untreated, a subset of patients will develop disseminated disease that may result in Bell palsy, meningitis, myopericarditis, or arthritis. Patients may be diagnosed clinically when the characteristic erythema chronicum migrans rash is observed in the setting of known or probable recent exposure to a tick in an endemic area. Serologic testing is controversial; \\Alhn an BARA A hn based atentamesiningn CLIOCA and Wlaataen Diat anenhinin taatinag linn antibadian miaws han cinnad ta a r @ a) = beaten ses han nnd ta nimnanet tha dinanania in latae atann dinanananan dAianananan san Previous nts Score Report Lab Values Calculator",
@@ -286,7 +294,8 @@
       "A": "Atenolol therapy",
       "B": "Clopidogrel therapy",
       "C": "Hydrochlorothiazide therapy",
-      "E": "Carotid endarterectomy"
+      "E": "Carotid endarterectomy",
+      "D": "Warfarin therapy"
     },
     "correctAnswer": "D",
     "correctExplanation": "An embolic ischemic stroke involves an event in which a clot breaks off and travels to the brain, occluding blood flow at a cerebral artery. Emboli can come from proximal vessels, such as the internal carotid artery, or from an atrial thrombus. This patient has atrial fibrillation, which can predispose to an atrial thrombus that can embolize and cause an ischemic stroke. For this patient with atrial fibrillation, an anticoagulant would be the most appropriate pharmacotherapy to help prevent ischemic stroke. Warfarin is an anticoagulant that interferes with the carboxylation of coagulation factors. This occurs through the inhibition of vitamin K epoxide reductase, which is necessary for recycling vitamin K, an essential cofactor in the synthesis of coagulation factors in the liver.",
@@ -323,7 +332,8 @@
       "B": "Recommending a later bedtime",
       "C": "Multiple sleep latency test",
       "D": "Psychiatric assessment",
-      "E": "Diphenhydramine therapy"
+      "E": "Diphenhydramine therapy",
+      "A": "Reassurance and education for the parents"
     },
     "correctAnswer": "A",
     "correctExplanation": "This patient demonstrates sleepwalking, a common parasomnia of childhood. Sleepwalking behaviors can range from intermittent quiet walking to frequently running around the house or behaving dangerously (eg, walking outside during a winter night). Polysomnography is indicated for dangerous sleepwalking or features suggestive of other comorbidities (eg, snoring suggestive of obstructive sleep apnea as a trigger for sleepwalking). However, for patients with infrequent and non-dangerous episodes, reassurance is indicated. For patients who leave their bed, environmental safety measures should be taken (eg, clearing obstructions from bedroom floor, securing windows, placing the patient's mattress on the floor). The patient should not be restrained, as this may exacerbate sleep disturbance.",
@@ -341,7 +351,8 @@
       "A": "Decreased postsynaptic acetylcholine receptors",
       "C": "Focal degeneration of peripheral sensory neurons",
       "D": "Inflammation of cerebral arterioles",
-      "E": "Meningeal inflammation"
+      "E": "Meningeal inflammation",
+      "B": "Demyelination of central nervous system axons"
     },
     "correctAnswer": "B",
     "correctExplanation": "This patient has a prior history of self-resolving numbness and presents with new hand numbness and a positive Lhermitte sign (electric shock-like sensation down the spine that occurs with neck flexion), which is consistent with multiple sclerosis (MS). MS, the most prevalent immune-mediated demyelinating disease, may present with episodic or progressive focal neurologic dysfunction, including sensory loss, optic neuritis, weakness, bladder or bowel dysfunction, and/or cognitive impairment. Risk factors include female sex, white race, age between 20 to 40 years, residence in temperate climates, and ancestry (HLA-DR2 haplotype). According to the McDonald criteria for MS diagnosis, patients must have evidence of demyelinating lesions that are separated in time and location. Fluid-attenuated inversion recovery (FLAIR) MRI sequences typically show white matter hyperintensities in the periventricular or subcortical white matter, cerebellum, or spine. Oligoclonal bands of immunoglobulins, indicating immune overactivation, can be found in the cerebrospinal fluid but are not necessary for diagnosis. Treatment includes corticosteroids for symptomatic management of acute flares and long-term disease-modifying treatments such as interferon or monoclonal antibodies. Cooling techniques (eg, cold drinks, lightweight clothing, air conditioning, ice packs, cooling suits) may improve heat-related exacerbations. Lifestyle modifications that apply to all patients, such as maintaining a balanced diet, regular exercise, and avoiding excessive alcohol use, are also recommended for MS patients to decrease neuroinflammation.",
@@ -359,7 +370,8 @@
       "A": "Lumbar puncture for cerebrospinal fluid analysis",
       "B": "MRI of the entire spine",
       "C": "Oxycodone therapy",
-      "E": "X-ray of the lumbar spine"
+      "E": "X-ray of the lumbar spine",
+      "D": "CT scan of the abdomen and pelvis to evaluate for possible malignancy"
     },
     "correctAnswer": "D",
     "correctExplanation": "Acute low back pain lasts up to 4 weeks and may be associated with overuse or exertion. Clinically, patients may experience pain with movement and paraspinal tenderness in the absence of neurologic symptoms. Most cases will resolve with conservative management, which includes physical therapy, over-the-counter analgesics such as nonsteroidal anti-inflammatory drugs, massage, and heat therapy. Certain red flag signs and symptoms should trigger further evaluation, especially if there is concern for infection, malignancy, spinal cord compromise, or vertebral fracture. These include but are not limited to new fevers, intravenous drug use, focal neurologic deficits (eg, urinary retention, saddle anesthesia, bowel incontinence which may suggest myelopathy), progressive lower extremity neurologic symptoms, current or recent cancer history, advanced age, systemic corticosteroid use, and significant trauma. For this patient, the most appropriate next step in management includes physical therapy.",
@@ -379,7 +391,8 @@
       "D": "Left temporal cortex",
       "E": "Right frontal cortex",
       "G": "Right retina",
-      "H": "Right temporal cortex"
+      "H": "Right temporal cortex",
+      "B": "Right occipital cortex"
     },
     "correctAnswer": "B",
     "correctExplanation": "After decussating at the optic chiasm, retinal ganglion cell axons carrying information from the right visual field traverse the optic radiations and synapse at the lateral geniculate nucleus. Neurons from the lateral geniculate nucleus travel to the primary visual cortex via the optic radiations. Lesions rostral to the optic chiasm lead to ipsilateral deficits of one eye, whereas lesions caudal to the optic chiasm cause a contralateral visual field defect involving both eyes as in this patient. Thus, this patient's right visual field deficit is attributable to a left-sided area of dysfunction caudal to the optic chiasm. Migraine is a common condition that typically presents with recurrent primary headaches. Some patients experience an aura before or during the headache, which may present with a visual field defect followed by the perception of scintillating shapes or lines and/or paresthesia. For some patients, migraine auras occur in the absence of a headache. The pathophysiology of migraine aura involves the spread of cortical depolarization, the sequential depolarization of neurons, which typically originates in the occipital cortex. This depolarization produces visual field deficits.",
@@ -436,7 +449,8 @@
       "B": "Aphasia, expressive",
       "C": "Aphasia, receptive",
       "D": "Dissociative fugue",
-      "G": "Wernicke encephalopathy"
+      "G": "Wernicke encephalopathy",
+      "E": "Hepatic encephalopathy"
     },
     "correctAnswer": "E",
     "correctExplanation": "Hepatic encephalopathy is commonly associated with decompensated liver cirrhosis. Signs of hepatic encephalopathy include confusion, stupor, asterixis, tremor, and myoclonus on physical examination. Hepatic encephalopathy results from accumulation of ammonia produced by colonic bacteria. Serum ammonia concentrations in patients with hepatic encephalopathy may be increased, though this is not necessary for the diagnosis. Treatments for hepatic encephalopathy include rifaximin and lactulose. Rifaximin is a gut-selective, nonabsorbable antibiotic with activity against gram-positive and gram-negativ bacteria. It acts on the beta subunit of DNA-dependent RNA polymerase to inhibit bacterial synthesis and is bactericidal. Lactulose is degraded by colonic bacteria to create an acidic environment, thereby converting ammonia to ammonium, which cannot be readily absorbed across the gut wall. It is then excreted with feces, lowering total body levels.",
@@ -454,7 +468,8 @@
       "A": "Measure serum glucose and insulin concentrations",
       "B": "Discontinue losartan",
       "C": "Discontinue simvastatin",
-      "D": "Add carbidopa-levodopa to the medication regimen"
+      "D": "Add carbidopa-levodopa to the medication regimen",
+      "E": "Initiate propranolol therapy for symptom management"
     },
     "correctAnswer": "E",
     "correctExplanation": "Essential tremor is a common adult action tremor that most commonly presents as a bilateral tremor of the upper extremities. In general, action tremors are exacerbated by activity and sustained antigravity postures and improved by rest. Essential tremors specifically are exacerbated by stress and improved by small quantities of alcohol. The tremors may progressively involve more body regions over time, including the extremities, head, and voice. The pathogenesis of essential tremor is unknown, though it is commonly heritable. Propranolol and primidone are both effective first-line agents. Propranolol has fewer known drug-drug interactions and a better tolerated adverse effect profile. However, primidone, which is metabolized to phenobarbital and phenylethylmalonamide, is equally effective. Patients may respond to one drug and not the other.",
@@ -471,7 +486,8 @@
     "choices": {
       "A": "Hematoma in the dorsal interosseous muscles",
       "D": "Stretch injury of the lateral plantar nerve",
-      "E": "Tendon injury of the flexor hallucis brevis muscle"
+      "E": "Tendon injury of the flexor hallucis brevis muscle",
+      "B": "Injury to the medial plantar nerve"
     },
     "correctAnswer": "B",
     "correctExplanation": "A plantar fibroma is a benign growth of the underlying plantar fascia that may cause pain with ambulation and can be treated with surgical removal. The medial plantar nerve arises from the tibial nerve and, in association with the medial plantar artery, supplies the distal foot. Cutaneous branches of this nerve travel along and through the plantar aponeurosis supplying the medial plantar foot. Muscular branches supply the abductor hallucis, flexor digitorum brevis, and lumbricals. Injury or laceration of this nerve, such as during removal of a plantar fibroma, will prevent flexion of the medial digits, as described in this case.",
@@ -528,7 +544,8 @@
       "A": "Consult with the hospital ethics committee",
       "B": "Place the tube and begin enteral nutrition",
       "C": "Refuse to have the tube placed because of the surgical risk involved",
-      "D": "Request written documentation of the daughter's power of attorney"
+      "D": "Request written documentation of the daughter's power of attorney",
+      "E": "Discuss the goals of care and consider palliative options"
     },
     "correctAnswer": "E",
     "correctExplanation": "Surrogate decision-makers (eg, legal guardian, durable power of attorney, or legal next of kin) are responsible for medical decision-making for patients who lack capacity, as in this case. The use of enteral tube feeding in patients with advanced dementia has been found consistently not to result in prolongation of life or increased quality of life and may result in harmful complication related to aspiration pneumonia, tube clogging or dislodgement, infection, and skin ulceration. Despite this evidence, enteral tube feeding is still often offered to patients with advanced dementia, particularly when a particular patient's surrogate decision-maker or family members favor aggressive intervention. Family members who request invasive interventions during end-of-life care often may not understand the invasive nature and potential complications of the requested intervention. When family members request an intervention that is not beneficial and may be harmful, a thoughtful and empathetic discussion of the risks and lack of benefits is most appropriate.",
@@ -546,7 +563,8 @@
       "A": "Measurement of serum fluoxetine concentration",
       "B": "Measurement of serum sodium concentration",
       "D": "EEG",
-      "E": "MRI of the brain"
+      "E": "MRI of the brain",
+      "C": "Measurement of serum phenytoin concentration"
     },
     "correctAnswer": "C",
     "correctExplanation": "Phenytoin is an anticonvulsant medication with many cytochrome P450 (CYP) system interactions and adverse effects. These adverse effects may occur at therapeutic serum concentrations but are commonly dose-dependent and mediated by toxic serum concentrations secondary to a narrow therapeutic window. This patient's phenytoin concentration likely increased due to the inhibition of CYP-2C19 by fluoxetine (in the setting of substance use leading to irregular fluoxetine administration patterns). Common adverse effects include neurotoxicity (eg, nystagmus, diplopia, ataxia secondary to cerebellar atrophy, lethargy) and fibroblast stimulation leading to gingival hyperplasia, coarse facies, and hirsutism. Less commonly, phenytoin can cause cardiac arrhythmias, megaloblastic anemia, and Stevens- Johnson syndrome. This patient's serum phenytoin concentration should be measured. If increased, phenytoin should be discontinued and, if severely increased, hemodialysis should be considered.",
@@ -564,7 +582,8 @@
       "A": "Left acoustic nerve",
       "B": "Left cerebellum",
       "C": "Left medulla oblongata",
-      "E": "Right cerebellum"
+      "E": "Right cerebellum",
+      "D": "Right acoustic nerve"
     },
     "correctAnswer": "D",
     "correctExplanation": "Dizziness and gait instability carries a broad differential diagnosis, and is often divided into central, peripheral, and secondary causes of symptoms to determine a likely diagnosis. Central causes include cerebrovascular accidents such as ischemic and hemorrhagic strokes, tumors of the brainstem and cerebellum, infarction involving the vestibulocochlear nerve, and multiple sclerosis or similar demyelinating disorders. Peripheral causes include benign paroxysmal positional vertigo, labyrinthitis, Meniere disease, endolymphatic fistula, or temporal bone fractures, tumors, or lesions. Secondary or systemic causes can include electrolyte imbalances, hypovolemia, cardiac arrhythmia, infections, and vitamin deficiencies, among other causes. This patient likely has labyrinthitis, an inflammation of the inner ear, often involving the vestibulocochlear nerve and often preceded by an upper respiratory or ear infection. Classic symptoms include vertigo, ataxia, nausea, vomiting, and hearing loss. Treatment is supportive, along with the exclusion of emergent causes of vertigo and ataxia, as the condition is typically self-limited.",
@@ -579,7 +598,8 @@
     "questionNumber": 44,
     "questionStem": "A90-year-old man comes to the office with his wife because of a 4-week history of mild neck pain. He has not had mities. He h kes no medications. The patient's wife says that he awakens nightly to use the bathroom. He drinks two glasses of wine with dinner dai Deep tendon reflexes are 1+ in the upper and lower extremities bilaterally. Sensation to vibration is decreased over ities. He is unable to tandem walk. Which of the following is the most likely explanation for this patient's physical examination findings?",
     "choices": {
-      "D": "Peripheral neuropathy"
+      "D": "Peripheral neuropathy",
+      "E": "Normal aging changes"
     },
     "correctAnswer": "E",
     "correctExplanation": "This patient has physical examination findings consistent with normal aging. Normal aging includes a slow decline of executive functioning, attention span, and problem-solving after age 70 years. The central nervous system is affected greatly by the aging process, and there are characteristic findings consistent with normal aging that every physician should be familiar with. One of the most common neurologic changes to occur is the loss of vibratory sensation, primarily in the distal extremities, as seen in this patient. Other findings include decreased to absent deep tendon reflexes (DTRs) (especially in the ankle), decreased pupillary response to light, presbyopia, and decreased hearing. As a patient ages, their gait often becomes broad-based and their stride shortens. Changes associated with sleep include a decrease in REM sleep and sleep onset latency, and an increase in nighttime awakenings. It is crucial for physicians to be familiar with these changes and be able to distinguish them from pathologic findings.",

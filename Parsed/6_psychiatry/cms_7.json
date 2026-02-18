@@ -26,7 +26,8 @@
       "A": "Buspirone",
       "B": "Cyproheptadine",
       "C": "Lorazepam",
-      "E": "Risperidone"
+      "E": "Risperidone",
+      "D": "Selective serotonin reuptake inhibitors (SSRIs)"
     },
     "correctAnswer": "D",
     "correctExplanation": "Obsessive-compulsive disorder (OCD) manifests as recurrent, intrusive, anxiety-inducing urges or thoughts (obsessions) that the patient typically tries to relieve or neutralize by repetitive rituals (compulsions). These symptoms cause significant distress and/or daily dysfunction. Common obsessions are related to cleanliness, symmetry, harm to self or others (as in this patient), and taboo thoughts or ideas. Compulsions are rigidly applied repetitive behaviors (eg, checking, washing) or mental activities (eg, counting, repeating words) that relieve anxiety related to obsessions. Some patients demonstrate both obsessions and compulsions, though other patients experience either obsessions or compulsions only. OCD typically presents relatively early in life. It is commonly treated with cognitive behavioral therapy and selective serotonin reuptake inhibitors such as paroxetine. Clomipramine and venlafaxine are second-line medication options. - i> fr https://.me/U SM LENBM E2CK Previous Next Score Report Lab Values Calculator Help Pause",
@@ -44,7 +45,8 @@
       "A": "Acute stress disorder",
       "C": "Bereavement",
       "D": "Conversion disorder",
-      "E": "Major depressive disorder"
+      "E": "Major depressive disorder",
+      "B": "Adjustment disorder with depressed mood"
     },
     "correctAnswer": "B",
     "correctExplanation": "Adjustment disorder refers to the onset of an emotional disturbance within 3 months of an identifiable stressor. The emotional disturbance manifests as marked distress out of proportion to the stressor and a significant impairment in daily school, work, or social functioning. Adjustment disorders are typically associated with anxiety, depression, or behavioral symptoms without meeting the criteria of anxiety or depressive disorders. For example, this patient demonstrates a sad mood and insomnia but no anhedonia or changes in energy or appetite. As adjustment disorder is typically self-limited, the treatment of adjustment disorder commonly includes brief supportive psychotherapy but may also include symptomatic treatment of anxiety or depressive symptoms (eg, sleep medication).",
@@ -81,7 +83,8 @@
       "A": "Folic acid",
       "B": "Niacin",
       "D": "Vitamin Be",
-      "E": "Vitamin B42 (cobalamin)"
+      "E": "Vitamin B42 (cobalamin)",
+      "C": "Thiamine"
     },
     "correctAnswer": "C",
     "correctExplanation": "Patients with alcohol use disorder typically have a significant vitamin B , (thiamine) deficiency due to poor nutritional intake, thiamine malabsorption, and impaired cellular utilization of thiamine. Over time, thiamine deficiency can result in damage and atrophy of the mammillary bodies, visible on MRI of the brain, which manifests as Wernicke encephalopathy. The typical clinical presentation of Wernicke encephalopathy is a triad of acutely altered mental status, ophthalmoplegia/nystagmus, and ataxia. Patients may present with physical examination findings and laboratory studies consistent with liver cirrhosis, such as gynecomastia and palmar erythema. The symptoms of Wernicke encephalopathy are reversible but increase the risk for developing Wernicke-Korsakoff syndrome (also known as Korsakoff psychosis) in patients with alcohol use disorder if not immediately treated with intravenous thiamine. Wernicke-Korsakoff syndrome is an irreversible condition that features anterograde and retrograde amnesia along with the consequent tendency to confabulate, or verbalize false stories or memories, to compensate for the inability to remember.",
@@ -137,7 +140,8 @@
       "A": "Abstract thinking",
       "B": "Concrete thinking",
       "G": "Betusic",
-      "D": "Mature sexuality"
+      "D": "Mature sexuality",
+      "E": "C) Adolescent egocentrism"
     },
     "correctAnswer": "E",
     "correctExplanation": "This patient demonstrates a sense of invulnerability, consistent with the principle of adolescent egocentrism. According to Jean Piaget's stages of cognitive development, adolescents enter the formal operational stage and begin thinking abstractly (eg, using logic rather than relying on direct observation). When they enter this stage, they experience their thoughts as powerful and begin to direct their thoughts inward toward themselves (egocentrism). Since adolescents still have difficulty differentiating their own thoughts from others’ thoughts, they presume that others are focused on them as well, causing them to believe their experiences are unique and special. This sense of uniqueness is hypothesized to contribute to a sense of invulnerability to risks such as consequences of unprotected sex or death. Research studies on the validity of this theory of adolescent invulnerability have been mixed. Piaget's stages of cognitive development describe the ability of children to use thinking and learning to navigate the world. The stages progress over time across the sensorimotor, preoperational, concrete operational, and formal operational stages. Incorrect Ancwere: A R GC and nD 4 ry @ https://me/USM LENBME2CK a € ec e Previous Next Score Report Lab Values Calculator Help Pause",
@@ -156,7 +160,8 @@
       "B": "Clonazepam",
       "C": "Cocaine",
       "E": "LSD",
-      "F": "PCP"
+      "F": "PCP",
+      "D": "Heroin"
     },
     "correctAnswer": "D",
     "correctExplanation": "This patient is likely intoxicated with heroin, an opioid drug. Opioids, which are central nervous system (CNS) depressants used as analgesics and recreational drugs, act throughout the CNS and peripheral nervous system and interact with several neurotransmitter systems, leading to diverse effects. Opioid intoxication causes euphoria due to interaction with dopamine, altered mental status, sedation, bradycardia and hypotension, depressed respiratory drive, and constricted pupils. Miosis is a distinctive finding that is less common in intoxication with other CNS depressants and is caused by direct opioid receptor activity in brain areas responsible for pupillary control. Opioids also act on receptors within the enteric nervous system, decreasing gut motility and thus causing constipation.",
@@ -174,7 +179,8 @@
       "A": "Chloroquine",
       "B": "Hydrochlorothiazide",
       "D": "Propranolol",
-      "E": "Thyroxine"
+      "E": "Thyroxine",
+      "C": "Meperidine"
     },
     "correctAnswer": "C",
     "correctExplanation": "Delirium is an acute confusional state typically resulting from acute medical illness, sleep disturbances, substance use, and/or medications. Common medications associated with delirium include anticholinergics, opioids, and benzodiazepines. Of opioid medications, meperidine and tramadol have been found to be highly deliriogenic. Delirium presents with acute disturbances in awareness, attention, and baseline cognition that fluctuate in severity during the course of the day. Patients may present with perceptual disturbances (eg, delusions as in this patient, hallucinations). Management of medication-induced delirium should involve discontinuing the offending medication, optimizing exacerbating medical conditions, frequent reorientation, maintenance of normal sleep-wake cycles, and placement of the patient in a calm and soothing environment.",
@@ -211,7 +217,8 @@
     "choices": {
       "C": "Recommend warm milk before bedtime",
       "D": "Recommend an over-the-counter drug containing diphenhydramine at bedtime",
-      "E": "Prescribe temazepam at bedtime, as needed"
+      "E": "Prescribe temazepam at bedtime, as needed",
+      "A": "Recommend good sleep hygiene practices, such as maintaining a consistent sleep schedule and creating a comfortable sleep environment."
     },
     "correctAnswer": "A",
     "correctExplanation": "Older adults typically experience several sleep-related changes as they age. A slightly decreased total sleep duration (eg, 6.5 to 7 hours), slightly increased sleep latency, increased nighttime awakenings (three per night is normal), and a decreased proportion of time spent in the deep sleep and REM sleep stages are typical. The increase in nighttime awakenings can be attributed to less time spent in deep sleep and nocturia (a result of age-related changes in the urinary system). Management should include reassurance, and counseling on sleep hygiene can help patients optimize their sleep patterns.",
@@ -344,7 +351,8 @@
       "A": "Congenital rubella",
       "C": "MECP2 gene mutation",
       "D": "Microdeletion on chromosome 7",
-      "E": "Prenatal alcohol exposure"
+      "E": "Prenatal alcohol exposure",
+      "B": "Fragile X syndrome"
     },
     "correctAnswer": "B",
     "correctExplanation": "This patient's constellation of findings, including intellectual disability, an elongated face, large ears, and macroorchidism, is suggestive of fragile X syndrome. Patients may also present with hyperextensible joints and a high-arched palate. Fragile X syndrome is the second most common cause of inherited intellectual disability after Down syndrome and is inherited in an X-linked dominant pattern. It is caused by a CGG trinucleotide repeat expansion within the FMR1 gene on the X chromosome. On karyotype, the end of the X chromosome appears truncated, leading to the name fragile X syndrome. Patients with fragile X syndrome are at increased risk for mitral valve prolapse and educational difficulties. They are often diagnosed with autism. As with all trinucleotide repeat expansions, genetic anticipation is seen, wherein future generations have increased severity and/or earlier onset of disease.",
@@ -477,7 +485,8 @@
       "A": "Acute lithium toxicity",
       "C": "Lithium-induced hypothyroidism",
       "D": "Routine side effects due to lithium treatment",
-      "E": "Type 2 diabetes mellitus"
+      "E": "Type 2 diabetes mellitus",
+      "B": "Chronic lithium toxicity"
     },
     "correctAnswer": "B",
     "correctExplanation": "4 ne @ https://t.me/U SM LENBME2CK € E Previous Next Score Report Lab Values Calculator",
@@ -571,7 +580,8 @@
       "A": "Generalized anxiety disorder",
       "B": "Somatic symptom disorder",
       "C": "Vaginal candidiasis",
-      "E": "Vulvodynia"
+      "E": "Vulvodynia",
+      "D": "Vaginismus"
     },
     "correctAnswer": "D",
     "correctExplanation": "This patient likely has vaginismus, involuntary muscle spasm during vaginal penetration. Patients are defined in the DSM-5 as having difficulty with vaginal intercourse, genito-pelvic pain, fear of vaginal penetration or pain, and increased pelvic floor muscle tension during attempted penetration. Risk factors include a history of abuse, anxiety disorders, relationship conflicts, and cultural taboos (though not all patients have these risk factors). Vaginismus can also happen secondary to vulval infections (eg, candidiasis), gynecological problems (eg, endometriosis), or pregnancy. Physical examination is typically normal other than pelvic floor muscle tightness. Treatment is multimodal and commonly involves pelvic floor physical therapy, psychotherapy (eg, cognitive behavioral therapy), psychoeducation, and/or topical pain medication.",
@@ -722,7 +732,8 @@
       "A": "Antisocial personality disorder",
       "B": "Complex partial seizures",
       "C": "Nightmare disorder",
-      "D": "Nocturnal panic attacks"
+      "D": "Nocturnal panic attacks",
+      "E": "REM sleep behavior disorder"
     },
     "correctAnswer": "E",
     "correctExplanation": "In typical REM sleep, several neural circuits terminate on spinal cord motor neurons to cause sleep atonia. This muscle atonia is lost in REM sleep behavior disorder, in which patients typically violently act out their dreams. They typically, but not always, remember the dreams. REM sleep behavior disorder most commonly occurs in adult males and can be idiopathic or related to underlying a-synuclein deposition (eg, Parkinson disease, multiple system atrophy, or Lewy body dementia). Polysomnography showing absent atonia during REM sleep confirms the diagnosis. Treatment includes creating a safe sleep environment and, if the behavior is severe, initiating melatonin or clonazepam. Patients with idiopathic REM sleep behavior disorder should be closely monitored due to the high rate of developing a neurodegenerative disease.",
@@ -759,7 +770,8 @@
       "A": "Bupropion",
       "B": "Buspirone",
       "C": "Lorazepam",
-      "D": "Mirtazapine"
+      "D": "Mirtazapine",
+      "E": "Sertraline"
     },
     "correctAnswer": "E",
     "correctExplanation": "This patient demonstrates premature ejaculation, a type of sexual dysfunction. Psychological factors such as performance anxiety, marital conflict, or post-traumatic stress disorder (PTSD, as in this patient) can exert a strong influence on sexual function. In males, anxiety can lead to decreased libido, decreased ability to obtain or maintain an erection, premature ejaculation, or decreased ability to ejaculate. Treatment strategies for sexual dysfunction include cognitive behavioral therapy, mindfulness meditation training, or pharmacotherapy. First-line pharmacotherapy for premature ejaculation is selective serotonin reuptake inhibitor (SSRI) therapy, particularly paroxetine. SSRIs have an unclear mechanism for delaying ejaculation that likely involves descending serotonin pathways. Patients with PTSD experience intrusive thoughts/memories (eg, nightmares, flashbacks), dysregulation of arousal (eg, irritability, angry outbursts, restlessness, easy startle), avoidance _ G € Pa © 4 > ¢€ https://t.me/USM LENBME2CK Previous Next Score Report Lab Values Calculator Help Pause",
@@ -778,7 +790,8 @@
       "C": "Delirium, alcohol withdrawal",
       "D": "Delusional disorder",
       "E": "Malingering",
-      "G": "Schizophrenia"
+      "G": "Schizophrenia",
+      "A": "Bipolar disorder, manic episode"
     },
     "correctAnswer": "A",
     "correctExplanation": "This patient is experiencing an episode of acute mania and can therefore be diagnosed with bipolar disorder. Bipolar disorder is a mood disorder that features acute episodes of mania and may include episodes of depression. Acute mania typically manifests with an irritable or euphoric mood, increased energy, decreased need for sleep, increased goal-directed activity, rapid speech and thinking, irresponsibility, and grandiose thinking. Some patients demonstrate associated psychotic symptoms (eg, grandiose delusions as in this patient, hallucinations). Acute mania can severely disrupt patients’ daily function and endanger their safety, as in this patient. Management of acute mania typically requires mood stabilizing therapy (eg, mood stabilizers or mood stabilizing atypical antipsychotics). 4 ne eC > fr https://.me/U SM LENBM E2CK Previous Next Score Report Lab Values Calculator Help Pause",
@@ -796,7 +809,8 @@
       "B": "Adjustment disorder with mixed anxiety and depressed mood",
       "C": "Brief psychotic disorder",
       "D": "Depersonalization disorder",
-      "E": "Post-traumatic stress disorder"
+      "E": "Post-traumatic stress disorder",
+      "A": "Acute stress disorder"
     },
     "correctAnswer": "A",
     "correctExplanation": "Acute stress disorder (ASD) presents similarly to post-traumatic stress disorder (PTSD) with intrusive thoughts/memories (eg, nightmares, flashbacks), dysregulation of arousal (eg, nervousness, insomnia, easy startle, decreased concentration), avoidance of reminders, and negative mood/thoughts (eg, psychomotor retardation, feelings of detachment) in response to violence or threatened violence. Like in PTSD, patients can also experience dissociation, the mind’s attempt to decrease conscious awareness of painful affects by decreasing its awareness of reality (as in this patient's depersonalization and derealization). However, ASD presents within 1 month of a traumatic event, whereas PTSD lasts more than 1 month beyond the event. ASD typically lasts between 3 days to 1 month. Pharmacotherapy is typically not indicated, but trauma-focused cognitive behavioral therapy may be helpful. In this case, providing normalization about the range of reactions to trauma and education about when to seek psychiatric help will be most helpful.",

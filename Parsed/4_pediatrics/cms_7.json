@@ -44,7 +44,8 @@
       "A": "Bacterial pneumonia",
       "B": "Congenital emphysema",
       "E": "Meconium aspiration",
-      "F": "Transient tachypnea of the newborn"
+      "F": "Transient tachypnea of the newborn",
+      "D": "Respiratory distress syndrome of the newborn"
     },
     "correctAnswer": "D",
     "correctExplanation": "Respiratory distress syndrome of the newborn, also called hyaline membrane disease and neonatal respiratory distress syndrome (NRDS), commonly occurs in premature infants, and is caused by an inadequate production of pulmonary surfactant. Surfactant produced by type II pneumocytes functions to decrease surface tension of the alveolar membrane. Without enough surfactant, high surface tension leads to alveolar collapse. NRDS presents with tachypnea, hypoxia, accessory muscle use, and cyanosis, and may lead to death. Chest x-ray commonly shows diffuse, bilateral airspace and interstitial opacities. Biopsy is not required for diagnosis, but if performed at autopsy, it will show atelectasis with deposition of proteinaceous alveolar debris and hyaline material. A fetus’ risk for NRDS may be estimated bv amniocentesis and calculation of the ratio of lecithin to sohinaomvelin in the amniotic fluid. Surfactant is rich in bhospholipids. such as lecithin and C Cc ¢ https://.me/U SM LENBME2CK @ = € c Previous Next Score Report Lab Values Calculator Help Pause",
@@ -83,7 +84,8 @@
       "B": "Down syndrome",
       "D": "Fragile X syndrome",
       "E": "Seminiferous tubule dysgenesis (Klinefelter syndrome)",
-      "F": "Trisomy 13 syndrome"
+      "F": "Trisomy 13 syndrome",
+      "C": "Fetal alcohol syndrome"
     },
     "correctAnswer": "C",
     "correctExplanation": "Alcohol is a proven teratogen, as alcohol use during pregnancy leads to irreversible fetal neurological effects and physical malformations in a cluster of symptoms called fetal alcohol syndrome. Due to the disruption of cell migration during development, fetal alcohol syndrome presents with physical abnormalities, such as microcephaly, facial abnormalities (eg, small palpebral fissures, maxillary hypoplasia, thin vermilion border, cleft lip/palate, smooth philtrum), limb deformities, and congenital heart disease. Fetal alcohol syndrome is the leading cause of intellectual disability in the United States. Muscular abnormalities (eg, gross motor delays, hypotonia, tremulousness) are also common. Patients with fetal alcohol syndrome may demonstrate abnormal bone development (eg, cervical spine fusion) and delayed bone growth.",
@@ -120,7 +122,8 @@
       "A": "Adjustment disorder",
       "B": "Detrusor muscle overactivity",
       "D": "Primary sleep disorder",
-      "E": "Urinary tract infection"
+      "E": "Urinary tract infection",
+      "C": "Primary nocturnal enuresis"
     },
     "correctAnswer": "C",
     "correctExplanation": "q > ¢ https://.me/U SM LENBM E2CK S} € (2 ¢ Previous Next Score Report Lab Values Calculator Help Pause",
@@ -138,7 +141,8 @@
       "B": "Measurement of serum progesterone concentration",
       "C": "Vaginal cytology",
       "D": "Hysterosalpingography",
-      "E": "CT scan of the head"
+      "E": "CT scan of the head",
+      "A": "Karyotyping to assess for Turner syndrome (45,X)"
     },
     "correctAnswer": "A",
     "correctExplanation": "Gonadal dysgenesis 45,X (Turner syndrome) is a cause of primary amenorrhea, which is secondary to ovarian dysgenesis in the setting of a 45,XO genotype. Other signs of gonadal dysgenesis 45,X include a short stature, cystic hygroma or webbed neck, swelling in the hands/feet, coarctation of the aorta, bicuspid aortic valve, horseshoe kidney, and infertility. Additionally, because of decreased estrogen concentrations, patients fail to develop secondary sexual characteristics, such as breasts, and demonstrate an underdeveloped uterus. Vital signs will be normal, and diagnosis is made through a karyotype analysis. Other laboratory studies that may aid in diagnosis are increased concentrations of luteinizing hormone (LH) and follicle-stimulating hormone (FSH) caused by the lack of negative feedback from estrogen. Gonadal dysgenesis 45,X management in adolescents commonly involves monitoring for cardiac complications, growth hormone replacement, and estrogen replacement to promote increased stature and development of secondary sexual characteristics.",
@@ -159,7 +163,8 @@
       "D": "Listeria monocytogenes",
       "E": "Mycoplasma pneumoniae",
       "G": "Staphylococcus aureus",
-      "H": "Streptococcus pneumoniae"
+      "H": "Streptococcus pneumoniae",
+      "F": "Respiratory syncytial virus"
     },
     "correctAnswer": "F",
     "correctExplanation": "Bronchiolitis is a common cause of lower respiratory tract infection in children under age 2 years. It is typically caused by a viral infection, most commonly from respiratory syncytial virus. It presents with a viral prodrome of fever, nasal congestion, and rhinorrhea followed by cough, dyspnea, and lethargy as inflammation progresses to the lower airway. Auscultation may disclose wheezes and crackles. Severe disease is marked by the presence of increased respiratory effort (tachypnea, accessory muscle use, intercostal retractions, nasal flaring, grunting), hypoxemia, and apnea. Patients presenting with severe disease should be : q > ¢ https://.me/U SM LENBM E2CK S} € (2 ¢ Previous Next Score Report Lab Values Calculator Help Pause",
@@ -177,7 +182,8 @@
       "B": "Androgen insensitivity syndrome",
       "C": "Ovarian adenoma",
       "D": "Pituitary adenoma",
-      "E": "Polycystic ovarian syndrome"
+      "E": "Polycystic ovarian syndrome",
+      "A": "Congenital adrenal hyperplasia"
     },
     "correctAnswer": "A",
     "correctExplanation": "The adrenal cortex is composed of three zones including the zona glomerulosa producing aldosterone, zona fasciculata producing cortisol, and zona reticularis producing dehydroepiandrosterone sulfate. In the zona reticularis, 17-hydroxypregnenolone is converted to dehydroepiandrosterone sulfate by 17a-hydroxylase. Patients who present with virilization of the female genitalia, hirsutism, and elevation of dehydroepiandrosterone sulfate and 17-ketosteroid excretion should be evaluated for the development of an adrenal adenoma. These patients will have normal testosterone concentrations as well as normal pelvic ultrasound.",
@@ -195,7 +201,8 @@
       "A": "Duplicated renal collecting system",
       "B": "Neurogenic bladder",
       "D": "Ureteropelvic junction obstruction",
-      "E": "Vesicoureteral reflux"
+      "E": "Vesicoureteral reflux",
+      "C": "Posterior urethral valves"
     },
     "correctAnswer": "C",
     "correctExplanation": "Congenital urinary tract abnormalities include but are not limited to unilateral renal agenesis, fused kidneys, ureteral stricture and stenosis, duplex collecting system, posterior urethral valves, bladder agenesis, bladder exstrophy, hypo- or epispadias, and urethral strictures. Posterior urethral valves are formed from an abnormal remnant of the mesonephric (wolffian) duct and can result in urinary tract obstruction. This is often diagnosed on prenatal ultrasonography showing bladder distention, hydronephrosis, oligohydramnios, and a fetus that is small for gestational age. Some of these features were notable in this patient's case. In this patient, an abnormal voiding pattern plus postnatal ultrasonography suggest posterior urethral valves as a cause of urinary obstruction. Complications include rupture of a calyx around the kidney, bladder rupture, and kidney failure. Definitive diagnosis of posterior urethral valves is made with voiding cystourethrogram showing dilation, elongation, and tapering of the urethra. Treatment is with endoscopic valve ablation.",
@@ -232,7 +239,8 @@
       "A": "Chickenpox",
       "B": "Influenza",
       "C": "Measles-mumps-rubella",
-      "E": "Shingles"
+      "E": "Shingles",
+      "D": "Rotavirus"
     },
     "correctAnswer": "D",
     "correctExplanation": "Rotavirus is a double-stranded RNA virus that causes infectious diarrhea in children. Rotavirus infection is the most common cause of diarrheal illness in children in the world and is commonly acquired during the first several years of life. The virus is transmitted fecal-orally and is highly contagious. Viral shedding in the stool can occur prior to the development of symptoms and potentially allow asymptomatic patients to become vectors for disease. The diarrhea caused by rotavirus is watery, profuse, and often foul-smelling, and is typically not bloody. While most cases are self-resolving, severe infections may produce dehydration, which may be life- threatening, particularly in low-resource settings and developing countries. Rotavirus vaccine is available in a variety of live-attenuated formulations and is recommended for all children. The vaccine is given in a two or three dose series between age 2 and 6 months.",
@@ -250,7 +258,8 @@
       "A": "Aortic stenosis",
       "B": "Atrial septal defect",
       "C": "Patent ductus arteriosus",
-      "E": "Ventricular septal defect"
+      "E": "Ventricular septal defect",
+      "D": "Pulmonary stenosis"
     },
     "correctAnswer": "D",
     "correctExplanation": "The most likely diagnosis is pulmonary stenosis. It is often diagnosed early in life and in female patients more than male. Pulmonary stenosis is typically congenital and benign, or it may be associated with other congenital cardiac syndromes. The blockage may occur at the level of the pulmonic valve as a result of fusion of the commissures or other defects of the leaflets, subvalvular caused by narrowing of the right ventricular outflow tract, or supravalvular (also called peripheral pulmonic stenosis) caused by narrowing or impingement of the pulmonary artery. Physical examination findings depend on the severity of stenosis. Most patients will have a systolic ejection murmur with radiation to the back. Some may have an associated ejection click, split So, or left parasternal heave. Most patients are asymptomatic, though complications can occur if the condition persists into adulthood. Surgical revision and balloon valvotomy have excellent prognosis.",
@@ -305,7 +314,8 @@
     "choices": {
       "D": "Delayed normal normal normal",
       "G": "Normal normal normal delayed",
-      "H": "Normal normal normal normal"
+      "H": "Normal normal normal normal",
+      "E": "Normal normal delayed normal"
     },
     "correctAnswer": "E",
     "correctExplanation": "Developmental milestones refer to the actions that most infants or children can perform at a given age. By age of 9 months, infants are typically able to initiate and maintain a sitting position without support. The patient in this example is unable to sit without support, indicating that his gross motor development is delayed. In the fine motor category, infants are expected to be able to rake food toward themselves and move objects between hands. In the language category, most children. q > ¢ https://.me/U SM LENBM E2CK S} € (2 ¢ Previous Next Score Report Lab Values Calculator Help Pause",
@@ -323,7 +333,8 @@
       "A": "Reassurance",
       "B": "Psychiatric assessment",
       "C": "Narcotic analgesic therapy",
-      "E": "Laparoscopy"
+      "E": "Laparoscopy",
+      "D": "Trial of hormonal contraceptives"
     },
     "correctAnswer": "D",
     "correctExplanation": "Primary dysmenorrhea is defined as menstrual pain that accompanies each menstrual cycle but is not associated with any underlying pathology. To diagnose primary dysmenorrhea, causes of secondary dysmenorrhea must be ruled out. These may include endometriosis, leiomyomata uteri (fibroids), adhesions, pelvic inflammatory disease, or adenomyosis. Many of these can be reasonably assessed on pelvic examination, which in this case did not show any abnormalities. Primary dysmenorrhea typically presents with pain in the lower abdomen and pelvis, which may radiate to the lower back or thighs. It is often accompanied by nausea, diarrhea, headaches, and flushing. Symptoms typically begin in adolescence. It can be attributed to uterine vasoconstriction in response to an excess of prostaglandin. Thus, treatment targets this pathway with medications including nonsteroid anti-inflammatory drugs and topical heat therapy. Combined oral contraceptives or a progestin intrauterine device may also be utilized to regulate these symptoms if persistent.",
@@ -341,7 +352,8 @@
       "A": "Pneumonia due to respiratory syncytial virus",
       "B": "Pneumonia due to Streptococcus pneumoniae",
       "D": "Congestive heart failure",
-      "E": "Tuberculosis"
+      "E": "Tuberculosis",
+      "C": "Pneumonia due to Mycoplasma pneumoniae"
     },
     "correctAnswer": "C",
     "correctExplanation": "The diagnosis is most likely pneumonia due to Mycoplasma pneumoniae. Mycoplasma pneumoniae is a pleomorphic organism lacking a cell wall that is typically associated with causing atypical pneumonia in young patients. It is transmitted by respiratory droplets. The most common symptoms include mild fever, headache, and non-productive cough. Physical examination findings may include bilateral crackles and/or wheezing and a vesicular rash. The chest x-ray characteristically has an appearance that is more severe than the patient's clinical presentation, with patchy or diffuse bilateral interstitial infiltrates. Mycoplasma is a fastidious organism and can be grown on Eaton agar, though this can take weeks. It also may not appear on Gram stain because it lacks a cell wall. The diagnosis is usually based on clinical presentation. Laboratory studies that support the diagnosis include a high titer of serum cold agglutinins (IgM antibodies). Treatment is with macrolide antibiotics, doxycycline, or fluoroquinolones. Other causes of atypical pneumonia that may present similarly include respiratory viruses, Chlamydophila pneumoniae, and Legionella infections.",
@@ -359,7 +371,8 @@
       "A": "Nephroblastoma (Wilms tumor)",
       "B": "Neuroblastoma",
       "D": "Renal cell carcinoma",
-      "E": "Renal vein thrombosis"
+      "E": "Renal vein thrombosis",
+      "C": "Multicystic dysplastic kidney"
     },
     "correctAnswer": "C",
     "correctExplanation": "Daluavetin Lidnaw diennen can ha nithar autacamal rannccivin ar daminant nalinuetic Vidnayw diennen Asitancamal ranneeivin nahinvuetic Lidnau dieanen (ADDUDY eneilte https://.me/U SM LENBM E2CK € 4 & @ Previous Next Score Report Lab Values Calculator",
@@ -377,7 +390,8 @@
       "A": "Nasolacrimal massage",
       "B": "Oral amoxicillin",
       "C": "Topical prednisolone",
-      "D": "Topical tetrahydrozoline"
+      "D": "Topical tetrahydrozoline",
+      "E": "Warm compresses and eyelid hygiene"
     },
     "correctAnswer": "E",
     "correctExplanation": "Ahordeolum, or stye, is a common, acute infection of the oil glands of the eyelid. Patients present with a focal, well-defined subcutaneous nodule at the eyelid margin with associated skin erythema. A blocked glandular orifice may be visible as a focal white point at the eyelid margin with associated discharge, which may cause ocular surface irritation and conjunctival injection and chemosis. A hordeolum may progress to preseptal cellulitis, which is characterized by diffuse erythema, warmth, and edema of the preseptal soft tissues. The underlying cause is obstruction of the oil gland orifice, with subsequent accumulation of sebaceous material and overgrowth of skin flora, most commonly with Staphylococcal species. The meibomian glands or the glands of Zeiss and Moll may be affected. Initial treatment is with warm compresses and gentle massage of the lesion, which help to dissolve inspissated glandular material and promote drainage of the gland. Topical antibiotic ointment is helpful, although systemic antibiotics are not usually necessary. Incision and drainage may be considered for hordeola that do not improve within several weeks. A hordeolum should be distinguished from a chalazion, which is a sterile, noninfectious, chronic, granulomatous inflammation of obstructed meibomian gland material on the eyelid margin.",
@@ -414,7 +428,8 @@
       "A": "Abnormal leukocyte adhesion",
       "B": "Abnormal leukocyte degranulation",
       "C": "Bone marrow infiltration",
-      "D": "Impaired leukocyte chemotaxis"
+      "D": "Impaired leukocyte chemotaxis",
+      "E": "Defective phagocyte oxidative burst"
     },
     "correctAnswer": "E",
     "correctExplanation": "Chronic granulomatous disease (CGD) is a rare primary immunodeficiency syndrome caused by mutations in the gene coding for NADPH oxidase. It is inherited in an X-linked, recessive pattern and results in defective intracellular killing of catalase-positive pathogens because NADPH oxidase is a necessary enzyme in producing the respiratory/oxidative burst. The impaired leukocyte microbicidal activity makes patients susceptible to recurrent pyogenic bacterial and fungal infections with organisms such as Staphylococcus aureus, Staphylococcus epidermidis, Serratia marcescens, Aspergillus species, and Candida species. Symptoms often appear within the first few years of life with recurrent pneumonia, lung abscesses, aspergillosis infection, skin abscesses, osteomyelitis, and chronic diarrhea. Physical examination may show hepatosplenomegaly and lymphadenopathy. Diagnosis is made by an abnormal dihydrorhodamine test or a nitroblue tetrazolium reduction test. In the latter test, normal phagocytes use the action of NADPH to reduce nitroblue, which leads to a color change from yellow to blue. Patients with CGD will not demonstrate a color change. q > ¢ https://.me/U SM LENBM E2CK S} € (2 ¢ Previous Next Score Report Lab Values Calculator Help Pause",
@@ -450,7 +465,8 @@
     "choices": {
       "A": "She will likely have lifelong lactose intolerance",
       "B": "She will likely have lifelong milk protein intolerance",
-      "C": "She will likely outgrow her lactose intolerance"
+      "C": "She will likely outgrow her lactose intolerance",
+      "D": "She may tolerate cow's milk in the future as her gut matures."
     },
     "correctAnswer": "D",
     "correctExplanation": "This patient's initial presentation is consistent with cow's milk protein intolerance (CMPI). The underlying cause is a hypersensitivity reaction to unknown non-native antigens in cow's milk and is mediated by both IgE-dependent and non—lgE-dependent mechanisms. CMPI presents in infants with colic, regurgitation, diarrhea, hematochezia, urticarial rash, atopic dermatitis, and iron deficiency anemia. Severe cases may rarely present with failure to thrive, wheezing, or anaphylaxis. The diagnosis is clinical and confirmed with improvement in symptoms following elimination of cow's milk from the diet. In breastfed infants, elimination of cow's milk from the mother’s diet is also necessary. In contrast to lactose intolerance, CMPI resolves in half of children by 1 year of age and in nearly all children by 5 years of age.",
@@ -468,7 +484,8 @@
       "B": "Urine culture",
       "C": "Clotrimazole therapy",
       "D": "Intravenous pyelography",
-      "E": "Cystoscopy"
+      "E": "Cystoscopy",
+      "A": "sexual abuse."
     },
     "correctAnswer": "A",
     "correctExplanation": "Trichomoniasis is a sexually transmitted infection by Trichomonas vaginalis that causes vaginitis and cervicitis in women and urethritis in men. Trichomonas commonly presents with vaginal pruritus, dyspareunia, cervical erythema, and abnormal discharge that is green, frothy, and malodorous. Trichomoniasis can lead to overactive bladder (frequency, urgency, urge incontinence). As T. vaginalis is transmitted through sexual contact, a young child with trichomoniasis should be promptly evaluated for sexual abuse.",
@@ -502,7 +519,8 @@
       "A": "Aerobic gram-positive cocci",
       "B": "Anaerobic gram-positive cocci",
       "C": "Gram-negative bacilli",
-      "D": "Gram-positive bacilli"
+      "D": "Gram-positive bacilli",
+      "E": "Mixed flora including aerobic and anaerobic bacteria"
     },
     "correctAnswer": "E",
     "correctExplanation": "Human bites are associated with mixed oral flora and skin flora including Staphylococcus aureus, Streptococcus pyogenes, Eikenella corrodens, and various anaerobes. Human bites may be accidental, intentional, or the result of a clenched-fist injury. When the skin barrier is interrupted, these injuries are at a high risk for infection, often with multiple organisms. Signs of superficial skin infection include tenderness at the effected site, erythema, swelling, purulent drainage, and potentially fever. Affected patients should be evaluated for the development of infection at the site of injury. In general, these wounds should be irrigated and left open due to the high risk for infection. The first-line antibiotic of choice for infected human bites is amoxicillin-clavulanate acid.",
@@ -520,7 +538,8 @@
       "B": "Measurement of serum calcium concentration",
       "C": "Complete blood count",
       "D": "Bone scan of the right femur",
-      "E": "CT scan of the hip"
+      "E": "CT scan of the hip",
+      "A": "X-ray of the right femur to assess for fractures"
     },
     "correctAnswer": "A",
     "correctExplanation": "This infant with a spiral femur fracture after slipping on a wet floor has a presentation concerning for child abuse. There are several “red flags” that should alert medical providers to potential child abuse, including a history inconsistent with the type of injury present, mechanism of injury inconsistent with child's physical ability (eg, 3-week-old infant rolled off the bed), and delay in presentation. Certain physical examination findings, such as retinal hemorrhages, bruises on the ears, trunk neck, and certain burn patterns (eg, circumferential hand or foot distribution, cigarette burns) should also alert the provider to potential abuse. Fractures of posterior ribs, metaphyseal corner fractures, and subdural hematomas in an infant are all suspicious imaging findings. Spiral fractures typically occur when a rotational force is applied, such as twisting of a limb. This infant has an injury that is inconsistent with the history that is given, and child protective services (CPS) should be notified immediately.",
@@ -538,7 +557,8 @@
       "B": "Ceftriaxone",
       "C": "Cilastatin-imipenem",
       "D": "Erythromycin",
-      "E": "Penicillin G and tobramycin"
+      "E": "Penicillin G and tobramycin",
+      "A": "Ampicillin and gentamicin"
     },
     "correctAnswer": "A",
     "correctExplanation": "This preterm newborn presents with hypothermia and hypoglycemia, indicating neonatal sepsis. Neonatal sepsis is most commonly caused by a bacterial infection and presents with fever or hypothermia, hypoglycemia, lethargy, irritability, and poor feeding. Evaluation should include a complete blood count, blood culture, urine culture, as well as testing and culture of the cerebrospinal fluid. Common microbiological causes of neonatal sepsis include Escherichia coli, Streptococcus agalactiae (group B), and Listeria monocytogenes. Risk factors for the development of neonatal sepsis include preterm birth, low birth weight, premature rupture of membranes, and maternal infection. The most common pathogen associated with early-onset neonatal sepsis is considered to be Streptococcus (group B), but the frequency of sepsis from this has decreased through the routine use of intrapartum antibiotic therapy for mothers that test positive for it in the antepartum period. Neonatal sepsis is treated with ampicillin and gentamicin for appropriate broad-spectrum coverage.",
@@ -593,7 +613,8 @@
     "choices": {
       "A": "Decreased growth hormone production",
       "D": "Increased epinephrine production",
-      "E": "Insulin resistance"
+      "E": "Insulin resistance",
+      "B": "Impaired glucagon response"
     },
     "correctAnswer": "B",
     "correctExplanation": "; qd > ¢ https://.me/U SM LENBM E2CK S} € Previous Next Score Report Lab Values Calculator",
@@ -630,7 +651,8 @@
       "A": "Administration of sodium bicarbonate solution",
       "B": "Barium swallow",
       "C": "CT scan of the chest",
-      "E": "Placement of a nasogastric tube"
+      "E": "Placement of a nasogastric tube",
+      "D": "Endoscopy to assess the extent of esophageal injury"
     },
     "correctAnswer": "D",
     "correctExplanation": "Ingestion of caustic substances may occur accidentally, as is often the case in young children, or intentionally, and can cause significant damage to the esophagus and stomach. Ingestion of strong alkali contained in common household cleaning products and drain cleaner is most common, and results in liquefactive necrosis. Acid ingestion is less common and leads to coagulative necrosis. Clinical presentation varies and depends on the amount and type of substance ingested. Patients may present with oropharyngeal or epigastric pain, dysphagia, odynophagia, and drooling. If the upper respiratory tract is involved, the patient may present with stridor, hoarseness, and difficulty breathing. Early complications include esophageal or gastric perforation, and later complications may include bleeding and formation of fistulae and strictures. Initial management in the emergency department includes respiratory support, fluid resuscitation, and pain control. If there is concern for perforation, chest and abdominal CT scan should be performed immediately, in conjunction with surgical consultation. All patients should have esophagoscopy or upper endoscopy performed 12 to 48 hours after initial ingestion to assess the extent of damage and guide further management.",
@@ -685,7 +707,8 @@
       "B": "Cephalhematoma",
       "C": "Epidural hematoma",
       "D": "Intracerebral hematoma",
-      "E": "Subdural hematoma"
+      "E": "Subdural hematoma",
+      "A": "Caput succedaneum"
     },
     "correctAnswer": "A",
     "correctExplanation": "Caput succedaneum is a benign condition that is caused by peripartum trauma to the infant's scalp. It is characterized by the development of edema and/or a hematoma in the subcutaneous tissues of the scalp above the galea. Because it is above the periosteum, it will cross suture lines. Presentation is typically during delivery or shortly thereafter. Physical exam will demonstrate a boggy or fluctuant area of soft tissue swelling that crosses sutures lines and can cross the midline. Caput succedaneum is usually self-limited and often resolves within 48 hours.",
@@ -703,7 +726,8 @@
       "A": "Cartilage oligometric matrix protein",
       "C": "Sulfate transport protein",
       "D": "Type 1 collagen",
-      "E": "Type 2 collagen"
+      "E": "Type 2 collagen",
+      "B": "Fibroblast growth factor receptor 3"
     },
     "correctAnswer": "B",
     "correctExplanation": "Achondroplasia is most commonly associated with mutation in the fibroblast growth factor (FGF) 3 gene. This mutation in the FGF3 gene causes constitutive activation and downstream effects including inhibition of endochondral ossification required for the development of long bones. Patients with achondroplasia present with macrocephaly with frontal bossing and a depressed nasal bridge, short stature secondary to decreased length of the upper and lower limbs, varus deformity, and hypotonia in infancy. Diagnosis is made based on clinical and radiologic findings. Most gene mutations are spontaneous in origin, although patients pass down the mutation in an autosomal dominant pattern.",
@@ -721,7 +745,8 @@
       "A": "Karyotype analysis",
       "B": "Urine culture",
       "C": "Intravenous pyelography",
-      "E": "Laparoscopy"
+      "E": "Laparoscopy",
+      "D": "Pelvic ultrasound"
     },
     "correctAnswer": "D",
     "correctExplanation": "A transverse vaginal septum may occur when there is failure of canalization of the vaginal canal, preventing the excretion of menstrual blood. A transverse vaginal septum presents with primary amenorrhea, cyclic pelvic pain, and a bulging pelvic mass in an adolescent with otherwise normal sexual development. Significant accumulation of menstrual blood products may give the bulging septum a blue appearance that is present on physical examination, a condition known as hematocolpos. Diagnosis is made by pelvic ultrasonography. A transverse vaginal septum is treated with transvaginal incision and drainage with resection of the septum and evacuation of the accumulated blood.",
@@ -739,7 +764,8 @@
       "A": "Appendicitis",
       "B": "Dysentery",
       "D": "Viral gastroenteritis",
-      "E": "Volvulus"
+      "E": "Volvulus",
+      "C": "Intussusception"
     },
     "correctAnswer": "C",
     "correctExplanation": "Intussusception occurs when a segment of bowel telescopes into an adjacent segment, resulting in colicky abdominal pain, nausea, vomiting, and potentially bloody, mucoid stools. Classically, it presents in an infant or young child with recurrent episodes of severe abdominal pain often punctuated by asymptomatic periods. Intussusception typically occurs because of the presence of a pathologic lead point, often lymphoid hyperplasia, lymphadenopathy, Meckel diverticulum, stricture, or malignancy, which acts to draw one segment of bowel into an adjacent segment during peristalsis. If the intussusception self-resolves, there may be no symptoms. If it does not resolve, traction on mesenteric vessels can result in hypoperfusion of the segment with resultant inflammation, hemorrhage, obstruction, and pain. It may be detected on physical examination as an elongated mass, often in the right upper quadrant. Diagnosis consists of clinical history and physical examination and is supported by imaging. Ultrasound evaluation is preferred in young children and will show telescoping interposed bowel segments in longitudinal orientation, or a targetoid appearance in transverse orientation. A contrast enema can also show intussusception with appearance of a mass prolapsing into the lumen and an inability of the contrast to reach the proximal bowel. Treatment of an ileocolic intussusception requires the administration of a contrast enema, which reduces the intussusception. Contrast enema is both diagnostic and therapeutic in this setting. Surgery may be required in cases where there is repetitive failure of the enema to reduce the intussusception or if the patient has symptoms concerning for bowel necrosis or perforation. q > ¢ https://.me/U SM LENBM E2CK S} € (2 ¢ Previous Next Score Report Lab Values Calculator Help Pause",

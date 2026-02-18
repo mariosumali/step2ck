@@ -86,11 +86,16 @@
     "questionNumber": 6,
     "questionStem": "A 3-week-old boy is brought to the physician 4 hours after the onset of vomiting watery, green material. His mother says that he has been drawing up his legs as if in pain while vomiting . He appears uncomfortable . He is afebrile . The abdomen is tender but not distended. An abdominal x-ray shows dilated loops of small bowel and air-fluid levels . Which of the following is the most likely diagnosis?",
     "choices": {
-      "A": "Appendicitis F) Hepatitis",
-      "B": "Congenital megacolon (Hirschsprung disease) G) lntussusception",
-      "C": "Duodenal atresia H) Pancreatitis",
-      "D": "Foreign body ingestion I) Pyloric stenosis",
-      "E": "Gastroesophageal reflux disease J) Volvulus"
+      "A": "Appendicitis",
+      "B": "Congenital megacolon (Hirschsprung disease)",
+      "C": "Duodenal atresia",
+      "D": "Foreign body ingestion",
+      "E": "Gastroesophageal reflux disease",
+      "F": "Hepatitis",
+      "G": "lntussusception",
+      "H": "Pancreatitis",
+      "I": "Pyloric stenosis",
+      "J": "Volvulus"
     },
     "correctAnswer": "J",
     "correctExplanation": "Volvulus occurs when a portion of the gastrointestinal tract twists, leading to bowel obstruction. Midgut volvulus usually occurs in children who have intestinal malrotation, a congenital anomaly in which the midgut incompletely rotates during development, and typically presents within the first year of life. The most common initial symptom in infants is vomiting, which becomes bilious as a result of the blockage of the small bowel and the retrograde flow of bile. In older children, abdominal pain is the most common presenting symptom. The diagnosis can be confirmed with imaging. Plain x-rays are acquired first to screen for perforation. Once perforation has been excluded, an upper gastrointestinal contrast series is obtained. Imaging studies may show evidence of malrotation with a small bowel obstruction including air-fluid levels and dilated loops of bowel. If not recognized quickly, volvulus can lead to vascular compromise with subsequent intestinal necrosis, perforation, and peritonitis.",

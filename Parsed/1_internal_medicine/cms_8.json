@@ -6,7 +6,8 @@
       "B": "Measles-mumps-rubella",
       "C": "Meningococcal",
       "D": "Pneumococcal",
-      "E": "Varicella"
+      "E": "Varicella",
+      "A": "Influenza"
     },
     "correctAnswer": "A",
     "correctExplanation": "Influenza is a respiratory viral illness that can be complicated by lower respiratory tract infection (pneumonia) and bacterial superinfection, especially in elderly or immunocompromised patients. Symptoms include fever, chills, myalgias, malaise, headaches, cough, nausea, and vomiting. The Centers for Disease Control (CDC) recommends annual influenza virus vaccination beginning at age greater than 6 months. The influenza vaccine is available as a trivalent or quadrivalent intramuscular injection of inactivated virus or as a nasal spray of live attenuated virus. Inactivated influenza vaccine can be safely administered via intramuscular injection to patients who are immunocompromised, who may be at higher risk for severe illness and influenza-related complications if they forego vaccination and are infected with influenza. Influenza is a seasonal illness, affecting patients in winter and early spring. This patient who is immunocompromised should receive annual vaccination for influenza virus.",
@@ -24,7 +25,8 @@
       "B": "Fungal culture",
       "C": "Herpes culture",
       "D": "Human papillomavirus culture",
-      "E": "Colposcopy"
+      "E": "Colposcopy",
+      "A": "HIV testing"
     },
     "correctAnswer": "A",
     "correctExplanation": "HIV testing is the most appropriate next step in diagnosis for this patient with high-risk sexual behavior and recurrent episodes of vaginal candidiasis and genital herpes. Routine, one-time screening is recommended for most sexually active individuals over the age of 13 years, but more frequent screening is indicated for those with a higher risk for contracting HIV. These populations include those with numerous sexual partners, especially if barrier protection is infrequently used, patients who exchange sex for money, injection drug users, those who have HIV-positive partners, and men who have sex with men, among others. This patient's high-risk sexual behavior and history of recurrent genital herpes and vaginal candidiasis strongly suggests the presence of underlying immunodeficiency as might occur with advanced HIV infection. As such, testing for HIV is prudent. Testing typically involves the use of a fourth-generation combined HIV 1/2 antigen and antibody test. If the test is positive, then further antibody testing to differentiate between infection with HIV-1 or HIV-2 is indicated. If the fourth-generation test is positive but the results of further antibody testing are negative or indeterminate, then the HIV viral load should be measured. While genotyping is usually recommended to determine resistance patterns for antiretroviral drugs, a positive HIV test should prompt immediate initiation of highly active antiretroviral therapy (HAART).",
@@ -41,7 +43,8 @@
     "choices": {
       "B": "Loratadine",
       "C": "Prednisone",
-      "D": "Stanozolol"
+      "D": "Stanozolol",
+      "A": "Epinephrine"
     },
     "correctAnswer": "A",
     "correctExplanation": "Administration of epinephrine is the most appropriate immediate step in management for this patient with clinical features of anaphylaxis. Anaphylaxis is a type 1 hypersensitivity reaction that develops following exposure to an allergen; in this case, the presumed allergen is dicloxacillin. It is caused by widespread IgE-mediated mast cell degranulation and is characterized by histaminergic responses within multiple organ systems leading to flushing, angioedema, bronchospasm, nausea, vomiting, abdominal discomfort, and vasodilation, which can lead to airway obstruction and circulatory collapse. If not managed promptly, death can occur from hypoxia and/or distributive shock. The diagnosis is made clinically, and the first treatment that should be given is intramuscular epinephrine. Adjunctive medications may include inhaled B-adrenergic agonists, glucocorticoids, histamine blockers, fluid resuscitation, and potentially invasive airway or vasopressor support. When medications are suspected as the cause of anaphylaxis an allergy warning should be placed in the patient's chart. At the time of discharge, all patients should be provided with an epinephrine autoinjector with instructions on how to use it. They should also be educated on the nature of their allergy and advised to avoid antibiotics within the same class in the future. In some instances, referral to an allergist may be appropriate.",
@@ -59,7 +62,8 @@
       "B": "BRCAT7 oncogene",
       "C": "P-glycoprotein",
       "D": "p53 Suppressor gene",
-      "E": "t (8,16) Translocation"
+      "E": "t (8,16) Translocation",
+      "A": "BCR/ABL fusion protein"
     },
     "correctAnswer": "A",
     "correctExplanation": "The presence of the BCR/ABL fusion protein, the product of an abnormal chromosome known as the Philadelphia (Ph) chromosome, will likely confirm the diagnosis of chronic myelogenous leukemia (CML). CML is diagnosed by the presence of the Ph chromosome, a translocation between chromosomes 9 and 22, which causes constitutive activation of the ABL kinase protein. Activation of ABL kinase leads to subsequent activation of the JAK/STAT and Ras/MAPK/ERK pathways, leading to increased hematopoietic proliferation, inhibition of normal checkpoint inhibition, and resistance to apoptosis. While the Ph chromosome is required for the diagnosis of CML, it can also be found in acute lymphoblastic leukemia (ALL) and acute myeloid leukemia (AML). Typical laboratory findings in CML include leukocytosis with an increase in nearly all cell lines. Basophilia and eosinophilia are characteristic. Leukostasis, a condition in which leukocytosis leads to end organ damage from occlusion of capillaries by malignant cells, is uncommon in CML. This contrasts with conditions such as acute leukemias in which circulating blasts, which are large and not particularly pliable, easily lodge in capillaries causing pulmonary and neurologic complications. Treatment of CML is primarily with tyrosine kinase inhibitors such as imatinib or dasatinib. Such medications are effective and often result in complete molecular response (remission) within several months of initiation.",
@@ -77,7 +81,8 @@
       "B": "Folic acid deficiency",
       "C": "Glucose 6-phosphate dehydrogenase deficiency",
       "D": "Iron deficiency",
-      "E": "Myelodysplasia"
+      "E": "Myelodysplasia",
+      "A": "Anemia of chronic disease"
     },
     "correctAnswer": "A",
     "correctExplanation": "Cytokine-induced erythropoietin deficiency is the most likely cause of this patient's normocytic anemia, which is commonly referred to as anemia of chronic disease (ACD). ACD is common in patients with rheumatologic disorders, renal disease, malignancies, and chronic infections, as in this case. Chronic inflammation with release of inflammatory substances such as interleukin-1 and tumor necrosis factor-a lead to an increase in hepcidin production, a decreased responsiveness of the bone marrow to erythropoietin, and retention of iron within the reticuloendothelial system (RES). This confluence of factors leads to impaired iron absorption and recycling, with a consequent state of functional iron deficiency despite adequate iron stores. Iron that is retained within the RES cannot effectively be accessed and used for erythropoiesis, so patients present with either normocytic or microcytic anemia and reduced numbers of reticulocytes indicating inadequate bone marrow response to anemia. Other laboratory findings include a normal to slightly increased ferritin concentration, which is the storage form of iron, with decreased serum iron concentration and a decreased total iron-binding capacity (TIBC). Treatment must focus on treating the underlying disease to decrease inflammation.",
@@ -95,7 +100,8 @@
       "A": "Celiac disease",
       "B": "Myelodysplastic syndrome",
       "C": "Occult gastrointestinal bleeding",
-      "D": "Pure red blood cell aplasia"
+      "D": "Pure red blood cell aplasia",
+      "E": "Thalassemia"
     },
     "correctAnswer": "E",
     "correctExplanation": "Thalassemia is the most likely diagnosis in this African American patient with mild microcytic anemia with a normal red cell distribution width (RDW) and normal iron studies that 4. > @ (a tc > am Previous Next Score Report Lab Values Calculator Help Pause ie) fa) starttest.com",
@@ -113,7 +119,8 @@
       "A": "Oral celecoxib",
       "B": "Oral oxycodone",
       "C": "Intramuscular ketorolac",
-      "D": "Intravenous meperidine"
+      "D": "Intravenous meperidine",
+      "E": "Intravenous morphine"
     },
     "correctAnswer": "E",
     "correctExplanation": "Intravenous morphine is the most appropriate medication to administer to this patient who is experiencing an acute painful episode. Vaso-occlusive phenomena are common in patients with sickle cell disease, and acute painful episodes, sometimes referred to as pain crises, are one manifestation of vasoocclusive phenomenon. In children, pain is often concentrated in the hands or the feet, but pain can also develop in the abdomen, back, chest, and long bones among other locations. Rapid assessment of the patient is critical to determine if there are other concomitant disorders that accompany the acute painful episode, including acute chest syndrome, myocardial infarction, venous thromboembolism, or infection. However, further diagnostics should not delay administration of appropriate analgesia, which should generally be an opiate medication. The rapid administration of analgesia is so important that at many centers, patients with sickle cell disease have an individualized and pre-defined pain pathway that can be given to physicians to aid in rapid and complete treatment of pain. As a result of chronic exposure to opiates, it is common for patients with sickle cell disease to require substantially higher doses of opiate medications than what would be expected for opiate-naive patients. Reversal of inciting features, such as hypoxia, hypovolemia, acid/base disturbances, and infection should be prioritized as well.",
@@ -131,7 +138,8 @@
       "A": "Abnormal serum lipid concentrations",
       "B": "Family history of cerebral infarction",
       "D": "Increase in serum glucose concentration",
-      "E": "Smoking history"
+      "E": "Smoking history",
+      "C": "Poorly controlled hypertension"
     },
     "correctAnswer": "C",
     "correctExplanation": "Hypertension is considered the greatest modifiable risk factor for cerebral infarction and is an important contributor to the development of cardiac and renal failure and atherosclerotic disease. Uncontrolled hypertension is associated with an approximately two-fold increase in the risk for ischemic stroke. Additionally, this risk is incompletely eliminated even when hypertension is well-controlled. In this patient, initiation of antihypertensive therapy is an important component of stroke prevention, as well as lifestyle modification including weight loss, dietary modification, smoking cessation, and regular exercise.",
@@ -150,7 +158,8 @@
       "B": "132 3.2 104 18 7.34",
       "D": "140 5.5 106 20 7.24",
       "E": "154 3.8 118 25 7.42",
-      "F": "154 5.5 110 20 7.24"
+      "F": "154 5.5 110 20 7.24",
+      "C": "128 4.0 100 22 7.30"
     },
     "correctAnswer": "C",
     "correctExplanation": "Aspirin is an antiplatelet agent that irreversibly inactivates cyclooxygenase, which prevents the conversion of arachidonic acid to thromboxane A,. Thromboxane A, is involved in platelet activation and its decreased synthesis reduces platelet activation. Beyond its effect on platelets, salicylate poisoning in large doses results in a respiratory alkalosis from the stimulation of respiratory centers causing hyperventilation. Subsequently, it results in the development of a delayed anion-gap metabolic acidosis secondary to its decoupling effects on the electron transport chain, resulting in increased anaerobic metabolism and the production of lactate and ketoacids beyond the acidic properties of salicylic acid itself. It does not typically affect sodium and potassium serum concentrations in major ways. Patients with acute salicylate toxicity will present with hyperventilation, gastrointestinal upset, hyperthermia, tinnitus, agitation, delirium, and hallucinations. Patients with chronic salicylate ingestion may present with identical symptoms to acute toxicity, or with mild symptoms of tinnitus, nausea, vomiting, or diaphoresis. Mild toxicity may present with an increased anion gap and a compensated metabolic acidosis, as in this case. Management of acute or chronic salicylate toxicity involves systemic alkalinization with a sodium bicarbonate infusion. Patients may need dialysis in the setting of severe altered mental status, renal failure, pulmonary edema, or clinical deterioration.",
@@ -168,7 +177,8 @@
       "A": "Chickenpox",
       "B": "Erythema multiforme",
       "C": "Erythema nodosum",
-      "E": "Herpes zoster"
+      "E": "Herpes zoster",
+      "D": "Herpes simplex virus infection"
     },
     "correctAnswer": "D",
     "correctExplanation": "Herpes simplex (HSV) infection commonly causes oral infections known as herpes labialis that typically begins with the formation of vesicles at the oral-labial margin, which lyse and progress to shallow, painful ulcers with an erythematous border. Many patients experience prodromal symptoms of burning, tingling, itching, or pain for several days prior to the appearance of vesicular lesions. Herpes labialis is most often caused by HSV-1 but can be caused by HSV-2. Co-infection with both strains is possible. Following initial infection, HSV may be latent in the trigeminal ganglion until reactivation, when it causes painful vesicles and punched-out erosions on the lip with associated lymphadenopathy. Reactivation may be triggered by stress, sunlight, or local trauma, such as dental procedures. The diagnosis is confirmed with viral culture or polymerase chain reaction test from the base of the lesion if uncertain. Treatment includes antiviral agents that inhibit viral DNA polymerase, classically by guanosine analogs such as acyclovir, valacyclovir, and famciclovir, chosen based on severity and recurrence or presentation. Such agents may shorten the duration of an outbreak.",
@@ -188,7 +198,8 @@
       "C": "Dysplastic nevi",
       "D": "Lichen simplex chronicus",
       "E": "Pityriasis rosea",
-      "G": "Tinea corporis"
+      "G": "Tinea corporis",
+      "F": "Psoriasis"
     },
     "correctAnswer": "F",
     "correctExplanation": "Psoriasis is a common inflammatory skin condition caused by immune dysregulation leading to keratinocyte proliferation. Psoriasis has a variety of presentations, the most common of which is plaque psoriasis, also known as psoriasis vulgaris. Plaque psoriasis presents with multiple, sharply defined, erythematous, cutaneous plaques with a white scale, commonly appearing on the extensor surfaces, although they may present diffusely over the body. The lesions are commonly pruritic. Removal of the white scale causes pinpoint bleeding, which is also called Auspitz sign. Patients may also present with nail changes, most commonly nail pitting. Other forms of psoriasis include pustular psoriasis, psoriatic arthritis, and guttate psoriasis. Treatment of psoriasis includes topical therapies such as corticosteroids and Vitamin D analogs. If the psoriasis is refractory to topical therapies, then phototherapy, methotrexate, or biologic medications may be considered. a @ € 6 m Previous Next Score Report Lab Values Calculator Help Pause ie} fa) starttest.com",
@@ -206,7 +217,8 @@
       "A": "Accessory nerve palsy",
       "B": "Acromioclavicular separation",
       "C": "Occult fracture of the proximal humerus",
-      "E": "Suprascapular nerve palsy"
+      "E": "Suprascapular nerve palsy",
+      "D": "Rotator cuff tear"
     },
     "correctAnswer": "D",
     "correctExplanation": "The rotator cuff is the group of muscles and tendons that act to seat the humeral head directly into the center of the glenoid during motion of the shoulder. These muscles also act, in concert with other muscles about the shoulder, to internally and externally rotate, abduct, and adduct the shoulder. These muscles include the subscapularis, teres minor, supraspinatus, and infraspinatus. Rotator cuff tendonitis is a common cause of shoulder pain in adults. Pain most commonly occurs with overhead activity that involves raising the affected arm, and commonly occurs at night, especially while lying on the affected side. Athletes that perform overhead motions, such as swimmers or baseball pitchers, may experience pain that limits their ability to participate in their sport. The diagnosis is based on clinical examination with a careful assessment of rotator cuff function. The affected muscle or tendon insertion is often tender to palpation. X-ray is generally unrevealing, although ultrasonography and MRI are sensitive for the detection of tendinopathy. The initial treatment of rotator cuff tendinitis includes rest, ice, nonsteroidal anti-inflammatory drugs, and physical therapy.",
@@ -224,7 +236,8 @@
       "B": "Deposition of monosodium urate crystals",
       "C": "Erosive inflammation associated with the loss of articular cartilage",
       "D": "Infection of the joint space with gram-negative rods",
-      "E": "Infection of the joint space with gram-positive cocci"
+      "E": "Infection of the joint space with gram-positive cocci",
+      "A": "Deposition of calcium pyrophosphate dihydrate crystals"
     },
     "correctAnswer": "A",
     "correctExplanation": "Pseudogout is a type of crystal arthropathy caused by the deposition of calcium pyrophosphate dihydrate (CPPD) crystals into joints and surrounding soft tissue. Crystal deposition provokes an inflammatory response, leading to the classic presentation of joint pain, erythema, effusion, calor, and reduced range of motion. Pseudogout most commonly affects the knee. Acute monoarticular arthritis has a broad differential, including gout, pseudogout, osteoarthritis, ttauma, and septic arthritis. In addition to clinical history and examination, imaging studies and analysis of synovial fluid obtained by arthrocentesis can assist in making the diagnosis. The presence of chondrocalcinosis in this patient, which refers to calcification of articular cartilage visualized by plain film x-ray, is commonly associated with the CPPD crystals of pseudogout. Definitive diagnosis requires identification of CPPD crystals in a synovial fluid sample or biopsied tissue.",
@@ -242,7 +255,8 @@
       "A": "Abscess",
       "B": "Arteriovenous malformation",
       "D": "Lipoma",
-      "E": "Malignant fibrous histiocytoma"
+      "E": "Malignant fibrous histiocytoma",
+      "C": "Biceps tendon rupture"
     },
     "correctAnswer": "C",
     "correctExplanation": "The patient is most likely suffering from a biceps tendon rupture following an acute traumatic injury. The biceps muscle, located in the anterior upper arm, arises from a long and short head originating from the intra-articular supraglenoid tubercle (long head) and coracoid process (short head). The biceps tendon inserts at the radial tuberosity. Injury to the biceps tendon or biceps muscle results in pain and upper extremity functional limitations. The major functions of the biceps are elbow flexion and forearm supination. Tendon rupture most commonly occurs because of rapid forced hyperextension of the forearm with the elbow flexed. Risk factors for acute rupture include a history of rotator cuff tear, recurrent biceps tendonitis, systemic steroid use, tobacco use, and degenerative changes of aging. Tenderness and swelling occur in the area of injury, and an abnormally contracted mass of retracted muscle may be palpated in the anterior compartment of the upper arm. Management typically requires surgical repair.",
@@ -262,7 +276,8 @@
       "C": "Administration of amiodarone",
       "D": "Administration of diltiazem",
       "E": "Administration of esmolol",
-      "G": "Placement of a pacemaker"
+      "G": "Placement of a pacemaker",
+      "F": "Administration of digoxin"
     },
     "correctAnswer": "F",
     "correctExplanation": "This patient is presenting with a hemodynamically unstable tachyarrhythmia and should be managed with immediate electrical cardioversion. Atrial fibrillation is a common acute and chronic condition encountered in the clinic and hospital settings resulting from uncoordinated electrical activity and contraction of the atria. While atrial fibrillation can be asymptomatic, patients may develop rapid ventricular response (RVR) with pulse exceeding 120/min. Symptoms include palpitations, fatigue, shortness of breath, lightheadedness, angina, and presyncope or syncope. Physical examination will show an irregularly irregular pulse and occasionally may disclose signs of heart failure or a heart murmur. ECG with an irregular RR interval and absent P wave confirms the diagnosis. Complications of atrial fibrillation include tachycardia-induced heart failure, hemodynamic instability, and left atrial appendage thrombus formation with subsequent potential embolic strokes. Treatment includes heart rate control with B-adrenergic blockers or nondihydropyridine calcium channel blockers, such as diltiazem, and anticoagulation for patients at an increased risk for stroke, determined by the CHA,DS.-VASc score. Emergent cardioversion is required for patients with hemodynamic instability.",
@@ -280,7 +295,8 @@
       "A": "Biventricular systolic dysfunction",
       "C": "High-output heart failure",
       "D": "Left ventricular systolic dysfunction",
-      "E": "Right ventricular systolic dysfunction"
+      "E": "Right ventricular systolic dysfunction",
+      "B": "Diastolic dysfunction"
     },
     "correctAnswer": "B",
     "correctExplanation": "The patient's symptoms are most likely explained by diastolic dysfunction. She is presenting with evidence of heart failure given her progressive dyspnea and physical examination findings. Left-sided heart failure results in pulmonary vascular congestion, with typical crackles on pulmonary auscultation and a lack of peripheral edema. She has an S, gallop and meets ECG criteria for left ventricular hypertrophy. Her risk factors for left ventricular hypertrophy include poorly controlled hypertension and tobacco use. ECG discloses a normal ejection fraction, which makes systolic dysfunction unlikely. Diastolic dysfunction results from impaired filling of the left ventricle caused by the thickness and stiffness of the hypertrophied wall. The reduced preload can impair cardiac output enough to manifest as heart failure. ¢ G E 6 o Score Report Lab Values Calculator Help Pause ie] fa) starttest.com",
@@ -299,7 +315,8 @@
       "B": "Chest pain pattern",
       "D": "Presence of crackles",
       "E": "Presence of an S, gallop",
-      "F": "T-wave inversion in the anterior and lateral precordial leads on ECG"
+      "F": "T-wave inversion in the anterior and lateral precordial leads on ECG",
+      "C": "Elevated troponin I levels in the serum"
     },
     "correctAnswer": "C",
     "correctExplanation": "The patient is presenting with signs and symptoms of acute coronary syndrome, with characteristic angina (substernal, radiating to the left arm) and nonspecific ECG changes. Measurement of cardiac biomarkers supports the diagnosis of non-ST elevation myocardial infarction (NSTEMI). Ischemic injury leads to leakage of intracellular proteins, and an increased serum troponin | concentration is strong evidence for active myocardial infarction. Of the several known cardiac biomarkers, cardiac-specific troponin | is the preferred diagnostic assay because it is a sensitive and highly specific test for damage to cardiomyocytes. The patient should be treated with dual antiplatelet therapy and therapeutic anticoagulation. Patients should be risk stratified using various scoring models to determine the urgency of cardiac catheterization, but most will undergo catheterization within 24 hours.",
@@ -360,7 +377,8 @@
       "B": "Aspiration from recurrent laryngeal nerve compression",
       "C": "Immunosuppression from chemotherapy",
       "D": "Immunosuppression from radiation therapy",
-      "E": "Impaired mucous clearance"
+      "E": "Impaired mucous clearance",
+      "A": "Airway obstruction due to tumor mass effect"
     },
     "correctAnswer": "A",
     "correctExplanation": "This patient has pneumonia, as supported by his presentation with fever, tachycardia, tachypnea, leukocytosis, and a new pulmonary infiltrate on chest imaging. In a patient with a history of lung cancer, the most likely underlying cause for development of pneumonia is airway obstruction secondary to carcinoma. The presence of a mass results in impaired clearance of mucus, microbes, and foreign debris, which is a risk factor for the development of clinically significant infection of the alveolar space and lung parenchyma. This may be caused by extrinsic compression of the airway or an intrinsic space-occupying lesion in the lumen. The patient should be treated with antibiotics and noninvasive respiratory support and be monitored closely for clinical improvement. Obstructive pneumonia has a high risk for recurrence.",
@@ -400,7 +418,8 @@
       "A": "Inhaled cromolyn",
       "C": "Inhaled salmeterol",
       "D": "Oral cetirizine",
-      "E": "Oral montelukast"
+      "E": "Oral montelukast",
+      "B": "Inhaled budesonide"
     },
     "correctAnswer": "B",
     "correctExplanation": "This patient is transitioning from the acute management of asthma exacerbation to outpatient therapy. Patients should be prescribed an inhaled bronchodilator (typically a short- acting inhaled B-adrenergic agonist [SABA] such as albuterol) as needed for symptom management and a longer-acting controller medication to reduce the frequency and severity of symptoms. Most guidelines recommend use of a stepwise approach for selecting treatment based on asthma severity. The severity of asthma is determined by assessing the current degree of symptom frequency and functional impairment and is typically categorized as intermittent, mild persistent, moderate persistent, or severe persistent. This patient's daily symptoms and night awakenings are considered moderate persistent asthma, and a controller medication is recommended. For moderate persistent asthma, preferred therapy consists of a medium-dose inhaled corticosteroid (ICS) such as fluticasone or a combination ICS and long-acting B-adrenergic agonist (LABA), such as inhaled salmeterol. ICS is the most effective controller medication, so it is included in all regimens for managing persistent asthma. Inhaled fluticasone would be the most appropriate additional pharmacotherapy to add at this point.",
@@ -418,7 +437,8 @@
       "A": "PPD skin test",
       "B": "Serum rheumatoid factor assay",
       "C": "Exercise stress test",
-      "E": "Ventilation-perfusion lung scans"
+      "E": "Ventilation-perfusion lung scans",
+      "D": "High-resolution computed tomography (HRCT) of the chest"
     },
     "correctAnswer": "D",
     "correctExplanation": "Interstitial lung disease (ILD) refers to the heterogeneous group of disorders that result in pulmonary fibrosis and progressively impaired lung function. There are a wide variety of underlying causes, including infections, occupational and environmental exposures, drug-induced pulmonary toxicity, radiation-induced lung injury, connective tissue disorders, hypersensitivity pneumonitis, and idiopathic disease. Patients classically present with progressive dyspnea and chronic nonproductive cough. Inspiratory crackles and hypertrophic osteoarthropathy may be present on physical examination. Definitive diagnosis requires lung biopsy and histologic examination, but this is not always performed as it does not often change management. Typically, the diagnosis is made on the basis of clinical and radiological findings. A high-resolution CT scan of the chest is recommended for all patients to provide diagnostic support. Pulmonary function testing is often used to assess and monitor disease severity. ILD is associated with a restrictive pattern on spirometry and reduced diffusion capacity caused by inflammation and destruction of lung parenchyma and alveoli.",
@@ -436,7 +456,8 @@
       "A": "Chronic obstructive pulmonary disease",
       "B": "Cystitis",
       "C": "Hypothyroidism",
-      "D": "Narcolepsy"
+      "D": "Narcolepsy",
+      "E": "Obesity-hypoventilation syndrome"
     },
     "correctAnswer": "E",
     "correctExplanation": "Obesity-hypoventilation syndrome (OHS) is the most likely cause of this patient's nocturia. OHS is occasionally encountered in patients with a BMI over 30 kg/m2, and it is common in patients with a BMI over 50 kg/m2. Chronic alveolar hypoventilation leads to both hypercapnia and hypoxemia. Hypercapnia results in a compensatory metabolic alkalosis, which manifests as an increased serum bicarbonate concentration, while chronic hypoxemia can lead to pulmonary hypertension and polycythemia. When severe, resting hypoxemia may be apparent. Pulmonary function tests are often done to exclude other causes of hypoventilation and hypercapnia. These studies are frequently normal, although they may disclose varying degrees of restrictive lung disease and reduced diffusing capacity. There is a substantial overlap with obstructive sleep apnea (OSA) as well, but OSA does not cause chronic hypercapnia. Because of substantial clinical overlap, it is common for patients to exhibit symptoms of hypersomnolence, morning headaches, fatigue, snoring, and nocturia. Nocturia is thought to occur because of an increased circulating concentration of atrial natriuretic peptide (ANP), which is either triggered by atrial distention resulting from an increasingly negative intrathoracic pressure that develops when breathing is occluded during sleep, or from hypoxia-induced pulmonary vasoconstriction. In either case, ANP inhibits the release of antidiuretic hormone leading to nocturia through increased excretion of free water. The diagnosis of OHS can be made in a patient with a BMI over 30 kg/m2 with documented alveolar hypoventilation while awake after exclusion of competing diagnoses.",
@@ -454,7 +475,8 @@
       "A": "Bowel rest",
       "B": "Cyclosporine therapy",
       "C": "Infliximab therapy",
-      "E": "Surgical exploration"
+      "E": "Surgical exploration",
+      "D": "Prednisone therapy"
     },
     "correctAnswer": "D",
     "correctExplanation": "Prednisone therapy is the best next step in management of this patient with signs and symptoms of moderate to severe Crohn disease. Clinical severity can be determined based on assessment of symptoms, which in this case include fever and abdominal pain, both of which are consistent with moderate to severe disease. Disease activity is largely based on patient-reported symptoms and is a spectrum from clinical remission to mild, moderate, severe, or fulminant disease. Patients with mild disease may have minimal weight loss but no systemic symptoms, while patients with moderate to severe disease can present with abdominal pain, gastrointestinal bleeding, nausea or vomiting, and fever. Fulminant disease is marked by the presence of severe symptoms despite the use of steroids or biologic agents, and it is often associated with complications including abscess formation, peritonitis, stricture, or bowel obstruction. In addition to clinical severity, patients should be assigned to either low, moderate, or high-risk groups based on their age, extent of disease, level of inflammatory markers, history of bowel resections, and extraintestinal manifestations, among other criteria. This patient with a history of numerous bowel resections and mucosal irregularity on endoscopy should be assigned to the high-risk group. For patients with symptoms requiring immediate treatment, oral steroids using either prednisone or budesonide for a course of 4 to 8 weeks is often utilized, but these medications are typically only used as a bridge prior to initiation of medications with fewer long- term side effects. In this case, treatment with prednisone to induce short-term remission is warranted.",
@@ -472,7 +494,8 @@
       "A": "Bowel lymphoma",
       "C": "Parathyroid adenoma",
       "D": "Pheochromocytoma",
-      "E": "viPoma"
+      "E": "viPoma",
+      "B": "Gastrinoma"
     },
     "correctAnswer": "B",
     "correctExplanation": "This patient with numerous duodenal ulcers most likely has a gastrin-secreting tumor. Gastrin is physiologically produced by G cells in the gastric antrum and functions to stimulate parietal cells within the gastric body to produce hydrochloric acid. Zollinger-Ellison syndrome, the constellation of findings associated with gastrinoma, stems from a gastrin- secreting tumor typically located within the pancreas or duodenum. It results in excessive production of acid by the gastric parietal cells. This can lead to recurrent, chronic duodenal or jejunal ulcers, which can present with abdominal pain, diarrhea secondary to malabsorption, and possible hematemesis, melena, or hematochezia. The initial step in evaluation of a gastrinoma is to measure the serum gastrin concentration. If abnormal, a secretin stimulation test should be performed, which would disclose increased gastrin concentrations after administration of secretin, opposite of the normal, physiologic inhibition. Cross-sectional imaging should then be performed to determine the location of the gastrinoma for planning of surgical resection. In the meantime, treatment with proton pump inhibitors is indicated to reduce gastric acidity.",
@@ -490,7 +513,8 @@
       "A": "Bacteria overgrowth",
       "B": "Endomysial antibody formation",
       "C": "Medication adverse effect",
-      "E": "Stimulant laxative use"
+      "E": "Stimulant laxative use",
+      "D": "Food intolerance or sensitivity"
     },
     "correctAnswer": "D",
     "correctExplanation": "Smooth muscle hypersensitivity is the most likely mechanism responsible for this patient's abdominal pain and diarrhea, which is most consistent with irritable bowel syndrome (IBS). IBS is diagnosed using the Rome-lV criteria, which includes the presence of abdominal pain at least once weekly that is associated with (generally relieved by) defecation, along with a change in stool appearance or stool frequency (at least two of three required). IBS is further subdivided into IBS with constipation (IBS-C), with diarrhea (IBS-D), or mixed (IBS-M). IBS often presents with intermittent abdominal pain that is relieved by bowel movements and associated alterations in bowel habits with intermittent episodes of diarrhea and/or constipation. Features that are suggestive of underlying organic pathology rather than IBS include the presence of occult blood or melena, nocturnal diarrhea, ongoing diarrhea despite fasting, worsening abdominal pain, weight loss, or a family history of inflammatory bowel disease or colon cancer. While no consistent or definitive mechanism has been demonstrated to account for all patients with IBS, it is thought that those with IBS may have an increased sensitivity to regularly secreted cholecystokinin, a highly sensitive gastro-colic reflex, and/or a higher rate of baseline peristalsis. Other theories including the role of food sensitivities and mucosal inflammation are being explored as potential contributing factors. Treatment often requires a multimodal approach with dietary modifications, exercise, treatment of underlying anxiety or depression, and the use of medications such as anti-diarrheal medications or anti-spasmodic agents.",
@@ -507,7 +531,8 @@
     "choices": {
       "A": "Barium enema",
       "B": "Cholecystography",
-      "D": "Esophagogastroduodenoscopy"
+      "D": "Esophagogastroduodenoscopy",
+      "C": "Abdominal ultrasound"
     },
     "correctAnswer": "C",
     "correctExplanation": "Hepatobiliary obstruction often occurs from malignancy, classically presenting with painless jaundice and weight loss. There are many possible types, for example cholangiocarcinoma, pancreatic carcinoma, and hepatocellular carcinoma. Pancreatic adenocarcinoma commonly occurs in the pancreatic head. It is often initially characterized by nonspecific, vague abdominal discomfort or weight loss. As the mass increases in size, it can lead to the obstruction and dilation of both the common bile duct and main pancreatic duct, referred to as a double-duct sign on imaging. Obstruction of these ducts can result in painless jaundice (prevention of excretion of conjugated bilirubin), exocrine pancreatic insufficiency (impaired digestion and weight loss caused by prevention of excretion of pancreatic digestive enzymes), or pancreatitis (autoactivation of pancreatic enzymes). If the pancreatic adenocarcinoma continues to spread and results in infiltration of surrounding abdominal viscera and/or encasement of adjacent neurovascular structures, this can manifest with severe abdominal pain. The nonspecific nature of pancreatic adenocarcinoma's early symptoms creates a diagnostic dilemma because many benign conditions present similarly. It is frequently asymptomatic until it creates an obstruction, gastrointestinal dysfunction, neural or vascular encasement/invasion, or metastatic disease. Initial diagnosis is made with CT scan of the abdomen, which can elucidate the cause of biliary duct obstruction and the extent of cancer or competing diagnosis (eg, hepatobiliary ¢ G € 6 t Score Report Lab Values Calculator Help Pause ie} fa) starttest.com",
@@ -526,7 +551,8 @@
       "C": "HIDA scan",
       "D": "MRI of the abdomen",
       "E": "Endoscopy",
-      "G": "Percutaneous aspiration"
+      "G": "Percutaneous aspiration",
+      "B": "Serum amylase and lipase levels"
     },
     "correctAnswer": "B",
     "correctExplanation": "Acute pancreatitis typically presents with epigastric abdominal pain that radiates to the back along with nausea and emesis, often in a patient with a history of gallstones, alcohol use disorder, trauma, hypertriglyceridemia, or hypercalcemia. Laboratory evaluation often discloses increased amylase and lipase concentrations. Treatment of acute uncomplicated pancreatitis is largely supportive and should include intravenous fluids, either normal saline or lactated ringers, and bowel rest in addition to pain control. The associated pain from acute pancreatitis is typically severe and often requires the use of opioid analgesics. Acute pancreatitis can be complicated by necrosis, hemorrhage, abscess, or the formation of pseudocysts. This patient with severe pain, leukocytosis, and fever may have a pancreatic abscess. CT scan of the abdomen is the gold standard for diagnosis of pancreatitis-related complications such as abscess or hemorrhage. Treatment of such conditions may require surgical intervention. Abscess should be treated with antibiotics and source control.",
@@ -544,7 +570,8 @@
       "A": "Amoxicillin therapy",
       "B": "Follow-up examination if he becomes symptomatic",
       "D": "Urethral swab",
-      "E": "Urinalysis"
+      "E": "Urinalysis",
+      "C": "Metronidazole therapy"
     },
     "correctAnswer": "C",
     "correctExplanation": "Trichomonas vaginalis is an anaerobic, flagellated protozoan that causes vaginal trichomoniasis. Trichomoniasis is a sexually transmitted infection that presents with pruritus, dysuria, dyspareunia, cervical erythema, and abnormal discharge that is described as green, frothy, and malodorous. Trichomoniasis can also lead to overactive bladder (frequency, urgency, urge incontinence). Vaginal pH is often above 4.5, and motile trichomonads can be visualized on wet mount preparation. Men affected by trichomoniasis are often asymptomatic but may transmit the disease while asymptomatic. Therefore, treatment of patients and their sexual partners is necessary for trichomoniasis. Metronidazole is the treatment of choice. As with other sexually transmitted infections, patients should be broadly tested for HIV, syphilis, hepatitis, gonorrhea, and chlamydia because such conditions are often jointly transmitted and may be asymptomatic.",
@@ -562,7 +589,8 @@
       "A": "Bladder outlet obstruction",
       "B": "Congestive heart failure",
       "C": "Interstitial nephritis",
-      "E": "Renovascular disease"
+      "E": "Renovascular disease",
+      "D": "Acute kidney injury due to myeloma cast nephropathy"
     },
     "correctAnswer": "D",
     "correctExplanation": "Multiple myeloma is a malignancy caused by the neoplastic proliferation of plasma cells. Neoplastic plasma cells overproduce monoclonal immunoglobulin and light or heavy chains, which may result in acute renal failure caused by protein deposition and damage to the renal tubules. Multiple myeloma results in amyloidosis caused by overproduction and deposition of immunoglobulin chains in the kidneys, heart, brain, and other organs. Renal amyloid deposition on biopsy discloses deposits in the mesangium. Multiple myeloma causes an intrinsic kidney injury, resulting in increased creatinine and proteinuria caused by Bence Jones protein (immunoglobulin light chains) in the urine. Prerenal and intrinsic kidney injury can be distinguished by the fractional excretion of sodium, which is <1% in prerenal and >1% in intrinsic kidney injury. Intrinsic parenchymal kidney disease is characterized by an increased fractional excretion of sodium caused by the inability of the proximal tubules to reabsorb sodium. Laboratory evaluation will also disclose a BUN-to- C ¢ G E 6 ri Score Report Lab Values Calculator Help Pause ie} fa) starttest.com",
@@ -580,7 +608,8 @@
       "A": "Cholesterol",
       "B": "Cryoglobulin",
       "C": "Diabetes mellitus",
-      "E": "HIV infection"
+      "E": "HIV infection",
+      "D": "Focal segmental glomerulosclerosis"
     },
     "correctAnswer": "D",
     "correctExplanation": "Heroin-induced nephropathy can have a variety of disease characteristics and clinical presentations. Heroin-induced nephropathy is often characterized by focal segmental 4, eC @ G (a > o Previous Next Score Report Lab Values Calculator Help Pause ie] fa) starttest.com",
@@ -635,7 +664,8 @@
       "B": "Crescent formation in the glomeruli",
       "C": "Necrosis of the renal tubules",
       "D": "Protein deposition in the kidneys",
-      "E": "Stenosis of the renal arteries"
+      "E": "Stenosis of the renal arteries",
+      "A": "Hydroureteronephrosis due to bladder outlet obstruction"
     },
     "correctAnswer": "A",
     "correctExplanation": "Benign prostatic hyperplasia is a common finding in older men caused by benign enlargement of the prostate surrounding the urethra, often secondary to androgen stimulation. Risk factors include age, family history, and obesity. Symptoms include difficulty initiating a urine stream with occasional intermittency, terminal dribbling, and nocturia. Failure to empty the bladder can lead to overflow incontinence, as well. Chronic bladder outlet obstruction can lead to hydroureteronephrosis, with the pressure preventing proper creatinine clearance by decreasing renal blood flow and causing glomerular injury. This is the most likely cause of this patient's increased serum creatinine concentration. Medical treatment includes a-adrenergic receptor blockers, such as tamsulosin, and 5a-reductase inhibitors, such as finasteride, whereas surgical options include transurethral resection of the C ¢ G E 6 ri Score Report Lab Values Calculator Help Pause ie) fa) starttest.com",
@@ -653,7 +683,8 @@
       "A": "Decrease in systolic blood pressure to 100 mm Hg",
       "C": "ACE inhibitor therapy",
       "D": "Folic acid supplementation",
-      "E": "Glyburide therapy"
+      "E": "Glyburide therapy",
+      "B": "Initiation of lifestyle modifications, including diet and exercise"
     },
     "correctAnswer": "B",
     "correctExplanation": "Diabetes mellitus is associated with a variety of complications caused by both microvascular and macrovascular disease. These complications include cardiovascular disease, retinopathy, and nephropathy. Goals for the management of diabetes include treatment of hyperglycemia, blood pressure, and cholesterol to prevent these consequent comorbidities. Recommended targets for fasting blood sugar are 80 to 130 mg/dL (corresponding to a hemoglobin A,, concentration of <7%), whereas those for blood pressure are a systolic blood pressure of less than 130 mm Hg. This patient is meeting both goals. However, her LDL-cholesterol is out of the recommended goal of less than 100 mg/dL. She would therefore benefit from reduction of her serum LDL-cholesterol concentration. In fact, statins are frequently recommended in patients over the age of 40 years with a total C ¢ G E 6 ri Score Report Lab Values Calculator Help Pause ie] fa) starttest.com",
@@ -671,7 +702,8 @@
       "A": "Calcitonin",
       "B": "Epinephrine",
       "D": "Prostacyclin",
-      "E": "Type A natriuretic peptide"
+      "E": "Type A natriuretic peptide",
+      "C": "Parathyroid hormone"
     },
     "correctAnswer": "C",
     "correctExplanation": "Parathyroid hormone (PTH) plays several important roles in calcium and phosphate homeostasis. PTH directly stimulates osteoclastic bone reabsorption and distal convoluted tubular calcium reabsorption and phosphate excretion in the kidney. PTH also stimulates 1a-hydroxylase in the kidney, which leads to the conversion of stored 25- hydroxycholecalciferol to active 1,25-dihydroxycholecalciferol. Once produced, 1,25-dihydroxycholecalciferol stimulates the increased absorption of calcium and phosphate from the intestine. In renal failure, however, the kidney cannot respond to PTH, which breaks the feedback relationship and leads to excessive PTH secretion known as secondary hyperparathyroidism. The hypocalcemia and hyperphosphatemia trigger secretion of PTH, which in turn leads to excess bone reabsorption, known as renal osteodystrophy, with resultant bone pain.",
@@ -689,7 +721,8 @@
       "A": "Measurement of fasting serum glucose concentration",
       "B": "Measurement of serum cortisol concentration",
       "D": "Blood cultures",
-      "E": "Intracranial pressure monitoring"
+      "E": "Intracranial pressure monitoring",
+      "C": "Measurement of serum sodium concentration"
     },
     "correctAnswer": "C",
     "correctExplanation": "This patient's altered mental status (lethargy) is likely caused by hyponatremia secondary to the syndrome of inappropriate secretion of antidiuretic hormone (SIADH). While commonly presenting as a paraneoplastic syndrome, SIADH may also frequently present in association with sepsis, pneumonia, or central nervous system trauma, following surgery (as in this patient), or as an adverse effect of medication. SIADH results in increased aquaporin expression on the luminal surface of renal-collecting duct cells, which increases the membrane permeability to water, leading to inappropriate free water reabsorption, hyponatremia, decreased serum osmolality, and inappropriately increased urine concentration. The diagnosis is confirmed by measurement of serum and urine osmolality and sodium concentration, by confirming euvolemia, and by excluding alternate causes of hyponatremia, such as hypothyroidism and adrenal insufficiency. The management of SIADH-associated hyponatremia involves treatment of the underlying disease, restriction of C ¢ G E 6 ri Score Report Lab Values Calculator Help Pause starttest.com",
@@ -707,7 +740,8 @@
       "B": "Measurement of serum vitamin B ;2 (cobalamin) concentration",
       "C": "Monospot test",
       "D": "PPD skin test",
-      "E": "Rapid plasma reagin"
+      "E": "Rapid plasma reagin",
+      "A": "Serologic testing for Lyme disease"
     },
     "correctAnswer": "A",
     "correctExplanation": "Lyme disease is a tick-borne disease caused by Borrelia burgdorferi that is endemic in the Northeastern United States. In its early stages, it causes erythema chronicum migrans, which is an expanding rash with a central ring-like clearing. It can also be associated with a flulike illness and arthralgia. Later stages of Lyme disease are characterized by carditis, atrioventricular heart block, facial nerve palsy (which is often bilateral), mononeuropathy multiplex, motor or sensory radiculoneuropathy, migratory arthralgias, and if left untreated, encephalopathy and chronic arthritis. The diagnosis is confirmed by measurement of serum antibodies to Borrelia burgdorferi. The early stages of Lyme disease can be treated with doxycycline, which acts by preventing the attachment of aminoacyl-tRNA to ribosomes. Side effects of tetracycline antibiotics include gastrointestinal distress, photosensitivity, and in children, discoloration of teeth and inhibition of bone growth, which contraindicates the use of doxycycline in pregnancy. The later stages of Lyme disease that affect the heart or central nervous system are generally treated with parenteral ceftriaxone.",
@@ -728,7 +762,8 @@
       "E": "Nerve degeneration",
       "F": "Nerve demyelination",
       "G": "Nerve infiltration",
-      "H": "Venous embolization"
+      "H": "Venous embolization",
+      "C": "Giant cell arteritis"
     },
     "correctAnswer": "C",
     "correctExplanation": "4 > ef (a le > a Previous Next Score Report Lab Values Calculator Help Pause ie) fa) starttest.com",
@@ -746,7 +781,8 @@
       "A": "Folic acid",
       "C": "Vitamin B42 (cyanocobalamin)",
       "D": "Vitamin C",
-      "E": "Vitamin D"
+      "E": "Vitamin D",
+      "B": "Thiamine (vitamin B1)"
     },
     "correctAnswer": "B",
     "correctExplanation": "Wernicke's encephalopathy is caused by a deficiency of vitamin B, (thiamine), most commonly in patients with alcohol use disorder, anorexia nervosa, malignancy, or hyperemesis of pregnancy, among others. It presents classically with encephalopathy, ataxia, and oculomotor dysfunction (eg, nystagmus). This patient's presentation is most consistent with Wernicke's encephalopathy in the setting of chronic malnutrition as evidenced by her recent weight loss in the setting of systemic malignancy. Prevention of Wernicke's encephalopathy includes thiamine supplementation, whereas treatment consists of intravenous thiamine administration. If untreated, it can lead to coma and death.",
@@ -764,7 +800,8 @@
       "A": "Acute interstitial nephritis",
       "B": "Acute ischemic renal failure",
       "C": "Acute renal vein thrombosis",
-      "E": "Worsening of the nephrotic syndrome"
+      "E": "Worsening of the nephrotic syndrome",
+      "D": "Volume depletion due to diuretic therapy"
     },
     "correctAnswer": "D",
     "correctExplanation": "Orthostatic hypotension is defined as a reduction of 20 mm Hg or more in systolic pressure or a reduction of 10 mm Hg or more in diastolic pressure when moving from a supine to a standing position. Typically, the decreased preload that occurs when a patient moves to a standing position is compensated for by increased sympathetic drive, raising heart rate, and increasing vascular tone, to prevent consequent hypotension from decreased preload and stroke volume. However, this mechanism can fail to provide adequate compensation in the setting of hypovolemia, autonomic dysfunction, and neurodegenerative disorders. Symptoms of orthostatic hypotension include lightheadedness, blurring of the visual fields, and occasionally syncope. This patient has orthostatic hypotension after diuresis, which makes intravascular volume depletion the most likely cause of this patient's oliguria and weakness.",
@@ -782,7 +819,8 @@
       "B": "Anion gap metabolic acidosis and metabolic alkalosis",
       "C": "Anion gap metabolic acidosis and respiratory acidosis",
       "D": "Respiratory acidosis and metabolic alkalosis",
-      "E": "Respiratory alkalosis and metabolic acidosis"
+      "E": "Respiratory alkalosis and metabolic acidosis",
+      "A": "Anion gap metabolic acidosis"
     },
     "correctAnswer": "A",
     "correctExplanation": "This patient's laboratory and arterial blood gas evaluation discloses an anion gap metabolic acidosis, identified by a pH of less than 7.35 (acidemia) with decreased HCO,- concentration and decreased Pco, concentration. Metabolic acidosis describes a derangement involving excess acid and is subdivided into anion gap and non-anion gap categories. Anion gap (Na*-— [Cl - + HCO,;]) calculates unmeasured anions in serum which are contributing to acidity (eg, lactate or ketones), whereas non-anion gap acidosis generally results from excess supply of protons or chloride, retention of protons or chloride by the kidney, or failure to secrete bicarbonate buffers. This patient's anion gap metabolic acidosis is most likely caused by diabetic ketoacidosis given his history of missed dosing of insulin and symptoms of nausea, vomiting, diarrhea, hemoconcentration, and increased blood glucose concentration. Pathophysiology includes a relative absence of insulin, which prevents cells from utilizing glucose, leading to hyperglycemia, polyuria, and polydipsia, in addition to ketone production. Treatment includes intravenous hydration, insulin therapy, and electrolyte correction. Other common causes of anion gap metabolic acidosis include lactic acidosis, uremia, ethylene glycol or methanol ingestion, and salicylate poisoning. Winter's formula (Pco, = 1.5 x serum HCO, + 8 + 2) can be used to determine if there is appropriate compensation, or if a secondary acid-base deficit is also present.",
@@ -800,7 +838,8 @@
       "A": "Acute aortic insufficiency",
       "B": "Acute papillary muscle rupture",
       "C": "Cardiac tamponade",
-      "E": "Hypovolemia"
+      "E": "Hypovolemia",
+      "D": "Myocardial infarction"
     },
     "correctAnswer": "D",
     "correctExplanation": "This patient's presentation is most consistent with cardiogenic shock after a myocardial infarction (MI). Crushing chest pain with radiation to the neck and arms, dyspnea, and risk factors for cardiac disease (eg, hypertension and hyperlipidemia) indicate that this patient is most likely having a MI. During and following an MI, cardiogenic shock may develop depending on the amount of cardiac muscle that is infarcted. If a significant portion of the left ventricle is infarcted, cardiac output will fall secondary to a decrease in ejection fraction and stroke volume. To compensate, heart rate will increase to try to maintain blood pressure. However, the inability of the heart to pump blood forward causes dilation of the left ventricle (with an S, gallop) and pooling of blood with increased pressure in pulmonary veins and capillaries, leading to pulmonary edema with consequent crackles and hypoxemia. Further fluid backup into right-sided circulation leads to peripheral edema and increased jugular venous pressure. Treatment includes the initiation of inotropic agents to augment cardiac output and treatment of the underlying condition, such as the placement of a cardiac stent in this patient. Mechanical support (eg, intraaortic balloon pump, indwelling Impella device) may be required to take over mechanical function if medical therapy and revascularization are unsuccessful.",
@@ -818,7 +857,8 @@
       "B": "Endotoxin antibody",
       "C": "Methylprednisolone",
       "D": "Platelets",
-      "E": "Whole blood"
+      "E": "Whole blood",
+      "A": "Intravenous fluids"
     },
     "correctAnswer": "A",
     "correctExplanation": "Sepsis is a marked inflammatory response to a known or presumed infection. If left untreated, it can progress to septic shock with profound vasodilation and decreased organ perfusion, leading to demand ischemia, lactic acidosis, encephalopathy, acute kidney injury, and transaminitis. Sepsis classically presents with leukocytosis with a neutrophilic predominance, tachycardia, fever, and signs of the underlying infection, whereas septic shock typically presents with these symptoms plus lethargy, hypotension, and an increased lactate. Common causes of septic shock include urinary tract infections, pneumonia, and intra-abdominal abscesses. This patient has a urinary tract infection, as evidenced by gram-negative bacilli on urinalysis and his symptoms of dysuria, which is leading to septic shock. Prompt treatment of sepsis is needed to prevent mortality, with treatment including hemodynamic support with fluid resuscitation and vasopressors to maintain organ perfusion, antibiotic therapy, and source control. It is pertinent that this patient receives intravenous antibiotics as soon as possible to prevent worsening of his septic shock.",
@@ -836,7 +876,8 @@
       "A": "\"If the test results are negative, you do not have cancer. A positive result is inconclusive.\"",
       "B": "\"If the test results are positive, you have cancer. If they are negative, you do not have cancer.\"",
       "C": "\"If the test results are positive, you have cancer. A negative result is inconclusive.\"",
-      "D": "\"The test can tell us if further testing is indicated for ovarian cancer.\""
+      "D": "\"The test can tell us if further testing is indicated for ovarian cancer.\"",
+      "E": "\"The test is not definitive for cancer, and further evaluation may be necessary regardless of the results."
     },
     "correctAnswer": "E",
     "correctExplanation": "A positive likelihood ratio is the likelihood that a patient with the disease will have a positive test result compared to the likelihood that a patient without the disease will have a positive test result. It can be calculated by dividing the sensitivity by (1-specificity). In contrast, the negative likelihood ratio is the likelihood that a patient with the disease will have a negative test result compared to the likelihood that a patient without the disease will have a negative test result. It can be calculated by dividing (1-sensitivity) by specificity. A likelihood ratio greater than one increases the post-test probability, whereas a ratio less than one decreases the post-test probability. In this case, a likelihood ratio of 1.0 indicates that the test would neither increase nor decrease the post-test probability, meaning that it would not be useful in diagnosing ovarian cancer in this patient.",
@@ -854,7 +895,8 @@
       "A": "Consult with the hospital ethics committee",
       "B": "Obtain psychiatric assessment",
       "D": "Intravenous chemotherapy",
-      "E": "Operative cytoreduction"
+      "E": "Operative cytoreduction",
+      "C": "Discuss palliative care options"
     },
     "correctAnswer": "C",
     "correctExplanation": "One of the core tenets of medical care is patient autonomy, or a patient's right to make decisions for themselves. This patient has terminal metastatic cancer and has failed multiple treatment options. At this point, transitioning to a more comfort-focused health care approach would be reasonable and in line with this patient's goals. As a terminally ill patient approaches the end of his or her life, he or she may decide to focus on the quality of his or her remaining life rather than on increasing the quantity of time remaining. This often allows them to avoid further invasive diagnostic and therapeutic interventions and to instead be as comfortable as possible for the remainder of their life when additional therapy would not meaningfully extend the quantity of remaining life. For this patient, the most appropriate next step would be to provide adequate pain control with intravenous morphine therapy so that she can be in as little pain as possible until death. Occasionally, a family's desires are inconsistent with a patient's desires for their care. If the patient has capacity to make medical decisions, his/her wishes should be honored, rather than those of their family. The physician should explore reasons for the discrepancy, especially in cases where values may have recently changed or in cases of impaired capacity, but barring any ethical uncertainty, patient wishes should be honored.",

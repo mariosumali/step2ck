@@ -7,7 +7,8 @@
       "B": "1UD",
       "D": "Spermicidal foam",
       "E": "Tubal ligation",
-      "F": "Vasectomy"
+      "F": "Vasectomy",
+      "C": "Copper intrauterine device (IUD)"
     },
     "correctAnswer": "C",
     "correctExplanation": "Many methods of contraception exist, including temporary and permanent options, hormonal and nonhormonal devices, oral medications, injections, implants, and ovulation tracking. The most appropriate contraceptive method is dependent on the patient and her goals of care. Oral contraceptives (OCPs) are a temporary form of birth control that must be taken every day. They commonly include combinations of ethinyl estradiol and progestin, although progestin-only options are available. OCPs work to prevent pregnancy by thickening the cervical mucus, thinning the endometrial lining, and decreasing ovulation. While effective in preventing pregnancy when taken as instructed, there are important contraindications to prevent cardiovascular morbidity and venous thromboembolism. Pertinent to this patient, OCPs are contraindicated in women who are age 35 years or older and smoke at least 15 cigarettes daily. They are also contraindicated in patients with increased risk for cardiovascular events (eg, severe hypertension, ischemic heart disease, valvular disease, diabetes mellitus with end-organ damage), history of stroke or other thromboembolism, cirrhosis, migraine with aura, and breast malignancy with estrogen or progesterone receptor positivity. @ G E https://me/U SM LENBM E2CK Score Report Lab Values Calculator",
@@ -63,7 +64,8 @@
       "A": "Abdominal ultrasonography",
       "B": "Doppler ultrasonography of the lower extremities",
       "C": "Echocardiography",
-      "E": "MRI of the abdomen"
+      "E": "MRI of the abdomen",
+      "D": "CT pulmonary angiography"
     },
     "correctAnswer": "D",
     "correctExplanation": "This patient's acute-onset dyspnea and chest pain, tachycardia, tachypnea, and hypoxia are highly suggestive of a pulmonary embolus (PE). A minority of patients with PE present with a mild fever, which can create diagnostic confusion. ECG commonly discloses sinus tachycardia without ST segment depression or elevation. Pregnancy represents a hypercoagulable state, during which coagulation factors |, Il, VII, VIII, IX, and X are overexpressed, while the anticoagulant protein S is underexpressed. Similarly, hormonal changes and compression by the gravid uterus lead to venous stasis and pooling of blood in the lower extremities and pelvis, common sites of venous thrombosis. Gravid patients are therefore at increased risk for deep venous thrombosis (DVT) and subsequent PE throughout pregnancy and in the postpartum period. Further evaluation should be performed to confirm the diagnosis, preferably with spiral CT angiography of the chest. For gravid patients, nuclear medicine ventilation- perfusion scans of the lung are preferred because of the lower amount of fetal radiation exposure.",
@@ -100,7 +102,8 @@
       "A": "Endometrial cancer",
       "B": "Endometritis",
       "D": "Leiomyosarcoma",
-      "E": "Recurrent abortion"
+      "E": "Recurrent abortion",
+      "C": "Endometriosis"
     },
     "correctAnswer": "C",
     "correctExplanation": "Infertility is the most common complication of endometriosis, or the presence of ectopic endometrial tissue outside the uterus. This ectopic tissue may occur close to the uterus, such as on the cervix, within a fallopian tube, on the broad ligament, or on an ovary. It may also be distant, such as on the visceral peritoneal surface of the intestines or rectum, within the peritoneal cavity, or within the thorax. Endometrial tissue remains hormonally sensitive, and symptoms often fluctuate on a cyclic, monthly basis as the tissue progresses through the histologic phases of proliferative and secretory endometrium, then sloughs during menses. Symptoms include chronic dysmenorrhea, dyspareunia, and dyschezia. Pelvic examination will often show tenderness of the uterine wall and surrounding structures with possible uterine immobility secondary to pelvic adhesions. Endometrial implants on the cervix or vaginal wall may also be seen. Infertility may occur as a result of tubal obstruction or architectural changes from chronic inflammation and scarring. The diagnosis of endometriosis is definitively made through laparoscopy to visualize and sample endometriotic implants.",
@@ -177,7 +180,8 @@
       "C": "Rectovaginal fistula",
       "D": "Urethral prolapse",
       "E": "Urethritis",
-      "G": "Vaginal vault prolapse"
+      "G": "Vaginal vault prolapse",
+      "H": "F) Vesicovaginal fistula"
     },
     "correctAnswer": "H",
     "correctExplanation": "A vesicovaginal fistula can be a consequence of gynecologic surgery, pelvic pathology, or radiation therapy. It occurs when a tract opens between the bladder and the vaginal canal and results in painless, usually asymptomatic urinary leakage from the vagina that is often worse with standing. Less commonly, symptoms may include fever if the fistula develops as a result of infection or inflammation or if an infection is a result of the fistula. Genitourinary examination will show a pool of urine in the vaginal canal, but the fistula site may be too small or difficult to visualize. Confirmatory testing entails infusing dyed sterile fluid into the bladder, then evaluating the vagina for the presence of transmitted dye. Complications include an increased risk for cystitis and ascending urinary tract infection caused by the transmission of vaginal flora. Treatment of a vesicovaginal fistula involves surgical repair and antibiotics to prevent or treat infection. 4 € ¢ https: //.me/U SM LENBM E2CK € e Previous Next Score Report Lab Values Calculator Exam Section : Item 10 of National Board of Medical Examiners® Obstetrics and Gynecology Self-Assessment of a vesicovaginal fistula involves surgical repair and antibiotics to prevent or treat infection.",
@@ -195,7 +199,8 @@
       "B": "Bacterial pneumonia",
       "C": "Endomyometritis",
       "D": "Pelvic abscess",
-      "E": "Septic pelvic thrombophlebitis"
+      "E": "Septic pelvic thrombophlebitis",
+      "A": "Atelectasis"
     },
     "correctAnswer": "A",
     "correctExplanation": "Atelectasis is a common cause of mild fever in the first 2 days after delivery or surgery. The term refers to the partial or complete collapse or incomplete expansion of pulmonary parenchyma. There are multiple types of atelectasis, including obstructive, passive, compressive, cicatricial, and adhesive. It is most common in patients who are pregnant, immobile, or in the postsurgical state, who are unable to produce adequate tidal volume to expand the lungs. In pregnant patients or patients who have just undergone vaginal delivery, increased intra-abdominal pressure caused by the gravid uterus pushes on the diaphragm and intrathoracic cavity, decreasing the ability for the lungs to expand normally. Physical examination will show diminished respiratory effort, often with decreased breath sounds and dullness to percussion at the lung bases corresponding to the regions of nonaerated, collapsed lung and inadequate diaphragmatic excursion. Mild hypoxia may be present. Pain control, incentive spirometry, and respiratory therapy with lung expansion maneuvers are key initial steps in management.",
@@ -232,7 +237,8 @@
       "A": "Antiviral prophylaxis only when cases of influenza occur in the residential facility",
       "B": "Influenza virus immunization after delivery",
       "C": "Influenza virus immunization after the influenza season begins",
-      "D": "Influenza virus immunization only when cases of influenza occur in the residential facility"
+      "D": "Influenza virus immunization only when cases of influenza occur in the residential facility",
+      "E": "Influenza virus immunization during the current pregnancy, as it is safe and recommended."
     },
     "correctAnswer": "E",
     "correctExplanation": "Influenza vaccines are redesigned each year to protect against a variety of different influenza strains. Thus, yearly influenza immunization is recommended for all patients and should be given ideally prior to the influenza season (generally October to April in the northern hemisphere), or as soon as possible if the season is already underway. The only contraindication to receiving the influenza vaccine is a prior severe allergic reaction to the vaccine or its components. Additionally, children younger than 6 months old should not receive the vaccine. Pregnancy commonly causes mild immunosuppression, increasing the risk for severe disease, hospitalization, and influenza-associated morbidity and mortality. Thus, prompt vaccination against influenza is especially important in pregnant patients. The influenza vaccine comes in two forms: an intramuscular inactivated virus vaccine and an intranasal live-attenuated virus vaccine. Pregnant patients should receive the inactivated version as the live-attenuated version carries the theoretical risk for transplacental viral transmission.",
@@ -307,7 +313,8 @@
       "A": "Antistreptolysin O titer",
       "B": "Serologic testing for syphilis",
       "C": "Testing for Borrelia burgdorferi",
-      "E": "Testing for Staphylococcus aureus"
+      "E": "Testing for Staphylococcus aureus",
+      "D": "Nucleic acid amplification testing for Neisseria gonorrhoeae"
     },
     "correctAnswer": "D",
     "correctExplanation": "Neisseria gonorrhoeae is a gram-negative diplococcus that can present with a variety of clinical syndromes, such as urethritis, vaginitis, cervicitis, pelvic inflammatory disease, Fitz-Hugh—Curtis syndrome, disseminated gonorrhea, or septic arthritis. When causing vaginitis, the most common presentation, N. gonorrhoeae typically presents with mucopurulent discharge and pruritus, although patients may be asymptomatic. The infection can cause concomitant urethritis with dysuria or ascend to cause cervicitis or pelvic inflammatory disease. When the infection spreads to the bloodstream, it can cause disseminated gonorrhea, which classically presents with fever, migratory polyarthralgia, tenosynovitis, and pustular lesions over the distal extremities. Often, urogenital symptoms are not evident at the time of disseminated gonorrhea diagnosis. Evaluation should include obtaining blood cultures, nucleic acid amplification testing of a urogenital specimen, and Gram stain and culture of synovial fluid. Treatment includes antibiotic therapy with ceftriaxone.",
@@ -325,7 +332,8 @@
       "A": "Abruptio placentae",
       "C": "Braxton Hicks contractions",
       "D": "Hepatitis",
-      "E": "Preterm labor"
+      "E": "Preterm labor",
+      "B": "Appendicitis"
     },
     "correctAnswer": "B",
     "correctExplanation": "Appendicitis typically presents with right lower quadrant abdominal pain that is often periumbilical at onset, with associated nausea, anorexia, fever, leukocytosis, and tenderness to palpation in the right lower quadrant on examination. In pregnancy, due to the location of the enlarging uterus, the appendix may be displaced superiorly as compared with that of a nongravid patient. This displacement limits the classic history and physical examination, which rely on a right lower quadrant position of the appendix. For example, initial periumbilical pain is attributed to vague, visceral innervation of the appendix being referred to the midline; once inflammation affects the parietal peritoneum, the pain becomes well-localized to the right lower quadrant, hence, the migratory character. McBurney point, a sensitive location for tenderness on palpation, is located at one-third the distance between the inguinal ligament and the umbilicus because this is the common position of the appendix. When displaced cephalad, the parietal peritoneal inflammation may no longer occur at the McBurney point, even migrating as cephalad as the right upper quadrant, mimicking diagnoses such as cholecystitis. Diagnosis is facilitated by CT scan (though less ideal in pregnancy because of the risk for teratogenicity to the fetus), MRI, or ultrasonography, which may show appendiceal enlargement, the presence of an appendicolith, appendiceal wall thickening, or periappendiceal fluid. Fluid in the paracolic gutter is suggestive of appendiceal rupture or perforation and is typically accompanied by rising fever and leukocytosis. Immediate surgical exploration and appendectomy is indicated to prevent sianificant maternal and fetal eamnlicatinns inclidina neritanitis sansis and death https://t.me/USMLENBME2CK @ (i Lab Values Calculator Waiting for www.starttest.com... Exam Section : Item 24 of National Board of Medical Examiners“ Obstetrics and Gynecology Self-Assessment appendix. For example, initial periumbilical pain is attributed to vague, visceral innervation of the appendix being referred to the midline; once inflammation affects the parietal peritoneum, the pain becomes well-localized to the right lower quadrant, hence, the migratory character. McBurney point, a sensitive location for tenderness on palpation, is located at one-third the distance between the inguinal ligament and the umbilicus because this is the common position of the appendix. When displaced cephalad, the parietal peritoneal inflammation may no longer occur at the McBurney point, even migrating as cephalad as the right upper quadrant, mimicking diagnoses such as cholecystitis. Diagnosis is facilitated by CT scan (though less ideal in pregnancy because of the risk for teratogenicity to the fetus), MRI, or ultrasonography, which may show appendiceal enlargement, the presence of an appendicolith, appendiceal wall thickening, or periappendiceal fluid. Fluid in the paracolic gutter is suggestive of appendiceal rupture or perforation and is typically accompanied by rising fever and leukocytosis. Immediate surgical exploration and appendectomy is indicated to prevent significant maternal and fetal complications including peritonitis, sepsis, and death.",
@@ -343,7 +351,8 @@
       "A": "Complete blood count",
       "B": "Determination of rubella status",
       "C": "Pregnancy test",
-      "E": "Urinalysis"
+      "E": "Urinalysis",
+      "D": "Testing for Chlamydia trachomatis and Neisseria gonorrhoeae"
     },
     "correctAnswer": "D",
     "correctExplanation": "Testing for Chlamydia trachomatis and Neisseria gonorrhoeae is recommended by the United States Preventive Services Task Force for all sexually active patients under age 25 years. C. trachomatis is a sexually transmitted infection that classically presents with urethritis, dysuria, dyspareunia, and urethral or vaginal discharge. N. gonorrhoeae is a sexually transmitted infection that presents most commonly with mucopurulent discharge and pruritus. However, both infections can also be asymptomatic, thus the recommendation for screening. Complications include cervicitis, pelvic inflammatory disease, tubo-ovarian abscess, and long-term issues with fertility. Diagnosis is made with a nucleic acid amplification test. Treatment consists of either azithromycin or doxycycline for chlamydia and ceftriaxone for gonorrhea.",
@@ -361,7 +370,8 @@
       "B": "Measurement of fasting serum glucose concentration",
       "C": "Administration of Rh.(D) immune globulin",
       "D": "Administration of rubella vaccine",
-      "E": "Administration of varicella vaccine"
+      "E": "Administration of varicella vaccine",
+      "A": "Blood type and antibody screen"
     },
     "correctAnswer": "A",
     "correctExplanation": "Prenatal visits allow a healthcare provider to optimize a patient's chances to have a successful pregnancy and healthy child. The purpose of the initial prenatal visits should be to identify risks to the patient or fetus and to intervene where possible to decrease these risks. Typical assessments during these visits include evaluating medical conditions (eg, obesity, diabetes, hypertension), social behaviors (eg, substance use), exposure to teratogens (eg, medications), genetic conditions or family history, and vaccination records. Laboratory evaluation commonly includes pregnancy confirmation, ABO and Rh(D) type and antibody screen, rubella and varicella serology to ensure immunity, sexually transmitted infection screening, and urine culture. Finally, interventions include folic acid supplementation, abstinence from substance use, medication changes as needed, optimization of medical issues, treatment of infections and asymptomatic bacteriuria, and early recognition of an increased risk of fetal or maternal morbidity and mortality. Most commonly, for uncomplicated pregnancies, prenatal visits are recommended every 4 weeks until 28 weeks’ gestation, every 2 weeks from 28 to 36 weeks’ gestation, and then every week until delivery. During these later visits, screenings for fetal anomalies, gestational diabetes, and group B Streptococcus colonization, as well as the administration of Rho(D) immune globulin may occur. This patient has a healthy, early pregnancy and should return for another prenatal visit in 4 weeks. Incorrect Answers’: R C 2D and F https://t.me/USMLENBME2CK @ (i Waiting for www.starttest.com... Lab Values Calculator",
@@ -379,7 +389,8 @@
       "B": "Admission to the hospital for intravenous ampicillin therapy",
       "C": "Admission to the hospital for intravenous clindamycin therapy",
       "D": "Admission to the hospital for observation only",
-      "E": "Follow-up office examination in 1 day"
+      "E": "Follow-up office examination in 1 day",
+      "A": "Admission to the hospital for induction of labor"
     },
     "correctAnswer": "A",
     "correctExplanation": "Prelabor rupture of membranes (PROM) is the rupture of the amniotic sac before the onset of labor, defined as regular contractions with concomitant cervical change. Most commonly, patients report a gush of fluid or steady leakage of fluid from the vagina. Physical examination will typically show a closed cervix with pooling of fluid in the fornix; testing of the fluid will show that it is nitrazine positive and shows ferning on microscopic examination. Further assessment should include ultrasonography to evaluate for oligohydramnios and to determine fetal position, fetal heart rate monitoring, tocometry, and laboratory studies to rule out concomitant infection. Complications associated with PROM include intrauterine or fetal infection, such as chorioamnionitis, fetal malpresentation, and placental abruption. The risk for intrauterine infection is directly correlated to the length of time between membrane rupture and delivery. For this reason, most patients who present with PROM at term are admitted to the hospital for the induction of labor.",
@@ -435,7 +446,8 @@
       "B": "Heparin",
       "C": "Oxytocin",
       "D": "Packed red blood cells",
-      "E": "Platelets"
+      "E": "Platelets",
+      "A": "Fresh frozen plasma"
     },
     "correctAnswer": "A",
     "correctExplanation": "Disseminated intravascular coagulation (DIC) is a systemic disorder characterized by the widespread activation of the clotting cascade resulting in microthrombi formation, microangiopathic hemolytic anemia, thrombocytopenia, and bleeding complications (caused by consumption of platelets and clotting factors). Causes of DIC in pregnancy 4 € ¢ https: //.me/U SM LENBM E2CK € eC a Previous Next Score Report Lab Values Calculator Help Pause Exam Section : Item 30 of National Board of Medical Examiners“ Obstetrics and Gynecology Self-Assessment laboratory abnormalities reflecting disseminated activation of the clotting cascade (increased aPTT, PT, and INR) and consumption of platelets (thrombocytopenia). Additional laboratory abnormalities include increased D-dimer (and fibrin degradation products) and low fibrinogen concentrations, along with increased markers of hemolysis (detectable free hemoglobin, low haptoglobin, increased lactate dehydrogenase). Treatment includes correcting the underlying cause, and correction of resulting hematologic derangements such as coagulopathy, thrombocytopenia (if platelets are less than 50,000/mm’), and acute anemia. Coagulopathy can be treated with fresh frozen plasma (FFP) (which includes clotting factors, fibrinogen, antithrombin III, and plasma proteins), cryoprecipitate (concentrated fibrinogen), or prothrombin complex concentrates.",
@@ -453,7 +465,8 @@
       "A": "Adenomyosis of the uterus",
       "B": "Chronic pelvic inflammatory disease",
       "C": "Endometriosis of the pelvic peritoneum",
-      "E": "Submucous leiomyomata uteri"
+      "E": "Submucous leiomyomata uteri",
+      "D": "Primary dysmenorrhea"
     },
     "correctAnswer": "D",
     "correctExplanation": "Primary dysmenorrhea is defined as pain that accompanies each menstrual cycle but is not associated with any underlying pathology. In order to diagnose primary dysmenorrhea, causes of secondary dysmenorrhea must be ruled out. These may include endometriosis, leiomyomata uteri (uterine fibroids), adhesions, pelvic inflammatory disease, or adenomyosis. Many of these can be reasonably assessed on pelvic examination, which in this case did not show any abnormalities. Primary dysmenorrhea typically presents with pain in the lower abdomen and pelvis that may radiate to the lower back or thighs. It is often accompanied by nausea, diarrhea, headaches, and flushing. It can be attributed to uterine vasoconstriction in response to increased prostaglandin production by the endometrium. Thus, treatment targets this pathway with medications including nonsteroidal anti-inflammatory drugs and topical heat therapy. Oral contraceptives or a progestin IUD may also be used to regulate these symptoms if persistent.",
@@ -490,7 +503,8 @@
       "A": "Administration of antibiotics during pregnancy",
       "B": "Folic acid supplementation during pregnancy",
       "C": "Iron supplementation during pregnancy",
-      "E": "Progesterone supplementation prior to conception"
+      "E": "Progesterone supplementation prior to conception",
+      "D": "Vaccination against rubella prior to conception"
     },
     "correctAnswer": "D",
     "correctExplanation": "Rubella infection is spread by respiratory droplets and can be asymptomatic or present with an erythematous rash, arthralgias, postauricular lymphadenopathy, and fever. In otherwise healthy patients, the infection is usually self-limited with no long-term sequelae. In pregnant patients, however, especially when the infection occurs in the first trimester, it can cause an infection of the fetus that manifests with cataracts, sensorineural deafness, and congenital cardiac defects (eg, patent ductus arteriosus), as well as microcephaly, neurodevelopmental delay, and extramedullary hematopoiesis, which manifests as a blue-purple maculopapular rash. Infection with the virus is prevented by administration of the measles-mumps-rubella (MMR) vaccination prior to conception, as the vaccination is a live-attenuated vaccine, making it contraindicated during pregnancy. Ideally, confirmation of rubella immunity with measurement of serum titers should be achieved prior to pregnancy for patients of reproductive age.",
@@ -546,7 +560,8 @@
       "A": "Estradiol",
       "B": "Follicle-stimulating hormone",
       "C": "Prolactin",
-      "E": "Thyroid-stimulating hormone"
+      "E": "Thyroid-stimulating hormone",
+      "D": "Testosterone"
     },
     "correctAnswer": "D",
     "correctExplanation": "Polycystic ovary syndrome (PCOS) presents with irregular menses, infertility, and hirsutism, often in patients with an increased body weight. It requires two of the following for diagnosis: oligo/anovulation, polycystic ovaries on ultrasonography, and clinical or biochemical signs of hyperandrogenism. It is associated with signs of insulin resistance, such as acanthosis nigricans and increased blood glucose concentrations. PCOS is associated with an abnormal hypothalamic hormonal feedback response, which leads to increased luteinizing hormone (LH) in comparison to follicle-stimulating hormone (FSH), as well as markedly increased androgen production from the theca lutein cells. This results in an increased serum concentration of testosterone. Treatment includes weight loss, oral contraceptives for menstrual regulation, and spironolactone or ketoconazole for hirsutism. Clomiphene stimulates ovulation and can also be used for patients desiring pregnancy. If the patient is diagnosed with diabetes mellitus, oral medications (eg, metformin) or insulin may also be necessary. A potential complication of long-standing PCOS is endometrial cancer due to the chronic anovulation resulting in prolonged exposure of the endometrium to unopposed estrogen.",
@@ -583,7 +598,8 @@
       "A": "Breast",
       "B": "Colon",
       "D": "Ovarian",
-      "E": "Pancreatic"
+      "E": "Pancreatic",
+      "C": "Endometrial"
     },
     "correctAnswer": "C",
     "correctExplanation": "Anovulation presents frequently with a missed menstrual period, followed by breakthrough bleeding at an irregular time in the cycle that is often heavy and prolonged. Anovulation can be caused by pregnancy, polycystic ovary syndrome, abnormalities or immaturity of the hypothalamic-pituitary-ovarian axis, menopause or premature ovarian failure, inadequate nutrition, chromosomal abnormalities, and thyroid disorders. As ovulation does not occur, the endometrium remains in the follicular phase with high concentrations of estradiol. This chronic, unopposed exposure to estrogen increases the risk for endometrial hyperplasia and carcinoma. This patient's morbid obesity increases her risk further, as androgens are converted to estrogens in the peripheral adipose tissue. Endometrial cancer commonly presents with vaginal bleeding in a postmenopausal patient. Risk factors in addition to those seen in this patient include early menarche, late menopause, and exogenous estrogen therapy. Diagnosis is made with endometrial biopsy, and treatment consists of hysterectomy plus chemotherapy or radiation depending on the stage.",
@@ -659,7 +675,8 @@
       "A": "Precocious puberty",
       "B": "Premature adrenarche",
       "C": "Premature menarche",
-      "D": "Premature thelarche"
+      "D": "Premature thelarche",
+      "E": "Normal puberty"
     },
     "correctAnswer": "E",
     "correctExplanation": "Puberty in girls follows a predictable course of thelarche (breast development), followed by pubarche (pubic hair growth) and a growth spurt, and finally by menarche (the start of menstruation). Puberty is considered delayed in girls if breast development does not occur by age 12 to 13 years. This patient is 11 years old and has had a normal sequence of pubertal development with thelarche, pubarche, a growth spurt based on her being in the 75th percentile for height, and menarche. The most likely diagnosis is thus normal development.",
@@ -677,7 +694,8 @@
       "A": "Repeat Pap smear in 3 months",
       "B": "Repeat Pap smear 6 weeks post partum",
       "C": "Administer human papillomavirus vaccine",
-      "E": "Perform cryotherapy"
+      "E": "Perform cryotherapy",
+      "D": "Refer for colposcopy and biopsy"
     },
     "correctAnswer": "D",
     "correctExplanation": "Carcinoma of the cervix is classically associated with infection from human papillomavirus (HPV) high-risk strains 16, 18, 31, and 33. Risk factors include multiple sexual partners, smoking, and immunosuppression. Cervical cancer screening with Pap smear is recommended every 3 years for women age 21 to 29 years and every 5 years in conjunction with HPV cotesting (every 3 years if cotesting is not performed) for women age 30 to 65 years. The results of these screening tests then determine the need for further evaluation and diagnosis. The cervical cytology results may be normal, indeterminate, or show signs of atypical cells (atypical squamous cells of undetermined significance) or precancerous lesions (low- or high-grade intraepithelial lesions). High-grade squamous intraepithelial lesion, as seen in this patient, has an increased risk for progression to cervical cancer. Abnormal Pap smear results are evaluated by colposcopy, which allows for visual assessment and biopsy of abnormal lesions and is the most appropriate next step in management of this case. High-grade lesions on cervical cytology may be treated with excision via loop electrosurgical excision procedure or a cone biopsy of the cervix, but this is not recommended for a pregnant patient as it may lead to pregnancy complications such as cervical insufficiency and preterm labor.",
@@ -734,7 +752,8 @@
       "B": "Duration of cesarean delivery",
       "C": "Genetic predisposition",
       "D": "Exposure to general anesthesia",
-      "F": "Use of antibiotic prophylaxis"
+      "F": "Use of antibiotic prophylaxis",
+      "E": "Duration of rupture of membranes"
     },
     "correctAnswer": "E",
     "correctExplanation": "A recent postpartum patient with fever and uterine tenderness raises suspicion for endometritis, especially in the setting of prolonged rupture of membranes (time from rupture of membranes to delivery). Postpartum endometritis is an acute, typically polymicrobial infection of the uterine endometrium involving a mixture of aerobes and anaerobes from the genital tract. During labor and delivery, microbes from the genital tract can enter the uterine cavity and result in postpartum infection. Patients typically present with fever, tenderness of the uterine fundus, and mucopurulent vaginal discharge. Risk factors for endometritis include premature or prolonged rupture of membranes, prolonged labor, cesarean delivery, bacterial vaginosis, group B Streptococcus colonization, and manual removal of the placenta. Treatment requires broad- spectrum antibiotics such as clindamycin and gentamicin for appropriate antimicrobial coverage.",

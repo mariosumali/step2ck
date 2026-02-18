@@ -543,7 +543,8 @@
       "D": "Prednisone therapy",
       "E": "Switch from hydrochlorothiazide to lisinopril",
       "F": "Bone marrow biopsy",
-      "G": "Lymph node biopsy"
+      "G": "Lymph node biopsy",
+      "L": "H) MRI of the lumbar spine"
     },
     "correctAnswer": "L",
     "correctExplanation": "ower back pain + Unilateral radicular leg pain",

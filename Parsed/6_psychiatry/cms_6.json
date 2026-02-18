@@ -6,7 +6,8 @@
       "A": "Adjustment disorder with anxiety",
       "B": "Anorexia nervosa",
       "C": "Body dysmorphic disorder",
-      "D": "Generalized anxiety disorder"
+      "D": "Generalized anxiety disorder",
+      "E": "Social anxiety disorder"
     },
     "correctAnswer": "E",
     "correctExplanation": "SMLENBME2CK i € ¢ Lab Values Calculator Help Pause Score Report",
@@ -98,7 +99,8 @@
     "choices": {
       "B": "\"May | step out to get my nurse?\"",
       "C": "\"Please don't be upset. Everything will be ok.\"",
-      "E": "\"We need to start discussing treatment options now.\""
+      "E": "\"We need to start discussing treatment options now.\"",
+      "A": "\"I can't believe this is happening to me."
     },
     "correctAnswer": "A",
     "correctExplanation": "Bad news (eg, news of a probable or definite life-threatening or life-limiting illness) should be delivered honestly, directly, and using small pieces of information at a time. It is common for patients to cry or express other strong emotions in response to bad news. The physician should create space to discuss the patient's reactions and validate the patient's emotions by listening receptively, using reflective statements, inferring emotions from the expressed content, and normalizing the patient's experience. To discuss the situation, help the patient process her emotions, and continue delivering education in small pieces, it is appropriate for the physician to schedule a follow-up appointment.",
@@ -135,7 +137,8 @@
       "B": "Polysomnography",
       "C": "Propranolol therapy",
       "D": "Quetiapine therapy",
-      "E": "Recommendation for a 12-step program"
+      "E": "Recommendation for a 12-step program",
+      "A": "Selective serotonin reuptake inhibitor (SSRI) therapy"
     },
     "correctAnswer": "A",
     "correctExplanation": "Generalized anxiety disorder is characterized by excessive worrying about a range of topics that is associated with three additional psychological symptoms (irritability, restlessness, difficulty concentrating, fatigability, sleep disturbance) and/or muscle tension. Common topics of worry include daily life stressors. The anxiety must occur on more days than not and persist for six months. Treatment should include cognitive behavioral therapy (CBT) and/or antidepressant medication, depending on patient preference and treatment availability. CBT assists patients in changing maladaptive thinking patterns and approaching feared situations.",
@@ -152,7 +155,8 @@
     "choices": {
       "A": "Circadian rhythm sleep-wake disorder",
       "B": "Insomnia disorder",
-      "D": "REM sleep behavior disorder"
+      "D": "REM sleep behavior disorder",
+      "C": "Narcolepsy"
     },
     "correctAnswer": "C",
     "correctExplanation": "Narcolepsy is a chronic sleep disorder characterized by daytime sleepiness, cataplexy, hypnagogic hallucinations, and sleep paralysis that responds to modafinil therapy. Narcolepsy arises from deficient production of orexins in the hypothalamus, which may result from genetic or autoimmune causes. Orexins typically induce the secretion of monoamines such as norepinephrine throughout the brain to promote wakefulness. As a result, patients suddenly and inappropriately transition into sleep during the day. Further, REM sleep features (eg, cataplexy, hypnagogic hallucinations, sleep paralysis) occur during wakefulness. The clinical diagnosis should be confirmed by a polysomnogram (to confirm the rapid transition into REM sleep and rule out other causes of daytime sleepiness) and a multiple sleep latency test (to confirm decreased sleep latency). Treatment includes a regular sleep schedule, avoidance of daytime naps, and, in patients with severe daytime sleepiness, modafinil. Modafinil has an unclear mechanism of action that involves increasing orexin and monoamine availability.",
@@ -209,7 +213,8 @@
       "A": "Clozapine",
       "C": "Imipramine",
       "D": "Lithium carbonate",
-      "E": "Valproic acid"
+      "E": "Valproic acid",
+      "B": "Selective serotonin reuptake inhibitors (SSRIs)"
     },
     "correctAnswer": "B",
     "correctExplanation": "Obsessive-compulsive disorder (OCD) manifests as recurrent, intrusive, anxiety-inducing urges or thoughts (obsessions) that the patient typically tries to relieve or neutralize by repetitive rituals (compulsions). Common obsessions are related to cleanliness, symmetry, harm to self or others (as seen in this case), and taboo thoughts or ideas. Compulsions are rigidly applied repetitive behaviors (eg, checking, washing) or mental activities (eg, counting, repeating words) that relieve anxiety related to obsessions. Some patients report both obsessions and compulsions, though other patients experience either obsessions or compulsions only. These symptoms are time-consuming, cause significant anxiety to the patient, and markedly impair functioning. OCD is commonly treated with cognitive behavioral therapy as well as selective serotonin reuptake inhibitors. Clomipramine and venlafaxine are second-line medication options.",
@@ -227,7 +232,8 @@
       "A": "Denial",
       "B": "Hypomania",
       "C": "Projection",
-      "D": "Regression"
+      "D": "Regression",
+      "E": "Sublimation"
     },
     "correctAnswer": "E",
     "correctExplanation": "This patient is likely sublimating her sadness by helping others in distress through her suicide hotline volunteering. Sublimation is a psychological defense mechanism that involves redirecting a difficult feeling into a socially productive activity. It is considered an adaptive defense mechanism. When any person experiences painful thoughts, realities, or feelings such as anxiety or sadness, the mind has several unconscious methods of shielding the person from conscious awareness of the thought, reality, or affect. These methods are called defense mechanisms.",
@@ -244,7 +250,8 @@
     "choices": {
       "B": "Communication of a choice",
       "C": "Reasoning about options",
-      "D": "Understanding the relevant information"
+      "D": "Understanding the relevant information",
+      "A": "Appreciation of the consequences of a choice"
     },
     "correctAnswer": "A",
     "correctExplanation": "Capacity assessments are based on an individualized discussion with the patient and can be conducted by any physician. To meet the criteria for decisional capacity, patients must express an appreciation of the consequences of their choice, communicate a consistent choice, illustrate an ability to reason through the options, and demonstrate an understanding of the relevant information and risks and benefits of the choice. Capacity is not a global assessment but rather pertains to a specific decision, and therefore the assessment should be based on the individual patient, their condition at the time, and the medical decision being made. The assessment must be performed rigorously in settings where the consequences of the decision are particularly serious, as in this case. oe https://t.me/U SM LENBME2CK i € ¢ Previous Score Report Lab Values Calculator Help Pause",
@@ -262,7 +269,8 @@
       "A": "Acetaminophen",
       "B": "Desloratadine",
       "D": "Lovastatin",
-      "E": "Omeprazole"
+      "E": "Omeprazole",
+      "C": "Hydrochlorothiazide"
     },
     "correctAnswer": "C",
     "correctExplanation": "Acute lithium toxicity typically manifests with gastrointestinal (eg, nausea, vomiting, diarrhea), cardiac (eg, QTc prolongation, bradycardia), and neurologic symptoms. Neurologic symptoms typically include somnolence, confusion, ataxia, and nystagmus, along with signs of neuromuscular excitability such as coarse tremors, fasciculations, and myoclonus. Severe toxicity leads to seizures. Lithium, an ion with approximately the same size and charge as sodium, is removed from circulation by the kidney. Thus, conditions that change the excretion or reabsorption of sodium in the kidney can affect lithium concentrations as well. Thiazides decrease sodium reabsorption in the distal convoluted tubule, leading to increased sodium and lithium reabsorption in the proximal convoluted tubule. Hypovolemia (eg, from excessive exercise, heat, vomiting, or excessive diuresis) similarly promotes compensatory renal tubular sodium and lithium reabsorption. Another cause ry @ G eC i > ry https: //.me/U SM LENBME2CK Previous Score Report Lab Values Calculator Help Pause",
@@ -280,7 +288,8 @@
       "A": "Dementia, Alzheimer type",
       "B": "Dissociative amnesia",
       "C": "Illness anxiety disorder",
-      "D": "Pseudodementia"
+      "D": "Pseudodementia",
+      "E": "Normal age-related cognitive decline"
     },
     "correctAnswer": "E",
     "correctExplanation": "Normal aging includes a slow decline of executive functioning, processing speed, attention span, and problem solving, particularly after the age of 70 years. As well, aging people tend to struggle with simple forgetfulness (eg, misplacing the car in the parking lot) and some difficulty with episodic and working memory. A normally aging individual should still be able to function in society (eg, socialize, perform daily routines). Engaging in novel cognitive tasks (eg, learning a new language) may delay or slow these cognitive changes. Many aging patients worry that these findings reflect developing dementia; if there is clinical suspicion, neurocognitive screening should be performed; otherwise, reassurance is appropriate. @ eC > ry https: //.me/U SM LENBME2CK Previous Score Report Lab Values Calculator Help Pause",
@@ -298,7 +307,8 @@
       "A": "Delay treatment until results of toxicology screening are available",
       "B": "Intravenous administration of 50% dextrose in water",
       "C": "Intravenous administration of sodium bicarbonate",
-      "D": "Administration of activated charcoal by nasogastric tube"
+      "D": "Administration of activated charcoal by nasogastric tube",
+      "E": "Endotracheal intubation and mechanical ventilation"
     },
     "correctAnswer": "E",
     "correctExplanation": "This patient demonstrates hypercapnic respiratory failure and severe mixed respiratory and metabolic acidosis in the setting of drug overdose. Patients should be emergently intubated and mechanically ventilated when unable to maintain a patent airway or adequately oxygenate or ventilate as evidenced by clinical and laboratory evaluation. Intubation should be strongly considered with a respiratory rate above 30 breaths per minute, an inability to maintain arterial oxygen saturation ~ e Cc ¢ https://.me/U SM LENBME2CK G - > ra Previous Score Report Lab Values Calculator Help Pause",
@@ -354,7 +364,8 @@
       "A": "Adjustment disorder",
       "B": "Acute stress disorder",
       "C": "Factitious disorder",
-      "E": "Somatic symptom disorder"
+      "E": "Somatic symptom disorder",
+      "D": "Functional neurologic symptom disorder"
     },
     "correctAnswer": "D",
     "correctExplanation": "Functional neurologic symptom disorder involves neurologic symptoms such as sensory or motor dysfunction that are not fully explained by objective findings on physical examination or imaging. In patients with ophthalmologic causes of vision loss, optokinetic stimulation (showing vertical stripes, which simulates motion in the visual fields) does not typically produce nystagmus. This patient's bilateral nystagmus with optokinetic stimulation suggests a top-down, or psychogenic, cause of blindness. Though the symptoms disrupt daily life, patients with functional neurologic symptom disorder may or may not be preoccupied with their symptoms. Functional neurologic symptom disorder is thought to represent the subconscious conversion of intolerable emotional distress (eg, this patient's distress about witnessing a death) into neurologic symptoms. Psychiatric comorbidities such as depression and anxiety are common but not present in all patients. Physicians should conduct a thorough history and physical and obtain laboratory and imaging studies to evaluate for medical or neurologic disease that may explain or partially explain the symptoms when the diagnosis is unclear. Treatment of functional neurologic symptom disorder involves education about the diagnosis, physical therapy, and cognitive behavioral therapy. . 4 @ G eC i > ry https: //.me/U SM LENBME2CK Previous Score Report Lab Values Calculator Help Pause",
@@ -372,7 +383,8 @@
       "A": "Alcohol consumption",
       "B": "Cigarette smoking",
       "C": "Fast food consumption",
-      "D": "Ibuprofen"
+      "D": "Ibuprofen",
+      "E": "Valproic acid use"
     },
     "correctAnswer": "E",
     "correctExplanation": "Acute pancreatitis presents with epigastric abdominal pain, nausea, and emesis. It is diagnosed when patients meet at least two of three criteria: epigastric pain that radiates to the back, lipase concentration at least three times the upper limit of normal, and/or evidence of acute pancreatitis on abdominal imaging. The most common causes of acute pancreatitis are alcohol use and gallstones. Less common causes include trauma, hypertriglyceridemia, hypercalcemia, and adverse medication effects. Valproic acid is an anti-epileptic drug and mood stabilizer that is used to treat patients with schizoaffective or bipolar disorder. Drug-induced acute pancreatitis is a rare adverse effect of valproic acid that is idiosyncratic (not related to drug dosage or duration of treatment). The mechanism of this adverse reaction is unknown but is possibly related to the accumulation over time of reactive oxygen species-induced endothelial damage within the pancreas. In patients in whom d-i d ancreatitis is suspected, other p sible causes of acute pancrea is should be e luded. In most cas the pancreatitis is self-limited and i > a ttps://me/U SM LENBME2CK Previous Score Report Lab Values Calculator Help Pause",
@@ -409,7 +421,8 @@
       "A": "Add buprenorphine for breakthrough pain",
       "C": "Continue to use only long-acting opioid medications for pain",
       "D": "Discontinue fentanyl and initiate buprenorphine",
-      "E": "Discontinue fentanyl, initiate methadone, and avoid short-acting opioids"
+      "E": "Discontinue fentanyl, initiate methadone, and avoid short-acting opioids",
+      "B": "Switch to a long-acting opioid regimen with appropriate breakthrough medication for pain management"
     },
     "correctAnswer": "B",
     "correctExplanation": "This patient has a terminal cancer diagnosis causing pain that is significantly impacting his quality of life. Hospice care is a model of health care that prioritizes quality of life over prolongation of life, emphasizing the palliation of physical, emotional, and spiritual pain. Patients with terminal illnesses and substance use disorders should be offered hospice care according to the ethical principles of beneficence (patients benefit from pain relief), nonmaleficence (psychological and spiritual harms are decreased when pain is managed), and autonomy (pain decreases patients’ ability to exercise their autonomy). The gold standard of pain management involves adding short-acting opioids for breakthrough pain when scheduled opioids do not sufficiently manage pain. Short-acting opioids are thought to be safe if used properly by patients with life-limiting illness.",
@@ -450,7 +463,8 @@
       "D": "Heroin",
       "E": "+£SD",
       "F": "Marijuana",
-      "G": "PCP"
+      "G": "PCP",
+      "C": "Cocaine"
     },
     "correctAnswer": "C",
     "correctExplanation": "Cocaine is an addictive recreational drug that typically causes euphoria, restlessness, and increased sympathetic tone (tachycardia, hypertension, pupillary dilation). Complications of cocaine intoxication can include vasospasm, myocardial infarction, and seizures. Cocaine blocks the presynaptic reuptake of dopamine, serotonin, and norepinephrine, which increases the concentration of these substances in the synaptic cleft. Increased synaptic serotonin leads to euphoria, while increased synaptic dopamine leads to addiction (and in severe cases, hallucinations and paranoia), and increased synaptic norepinephrine can cause tachycardia and hypertension through activation of sympathetic adrenoreceptors leading to increased cardiac chronotropy and peripheral vascular vasoconstriction. Chronic cocaine abuse may lead to otolaryngologic symptoms such as rhinitis, nasal septal perforation, and nosebleeds as well as neuropsychiatric symptoms such as anosmia, cognitive impairment, and psychotic symptoms (delusions, hallucinations). Inanecrant Anneinerns AD OM © OC and oO @ eC > ry SMLENBME2CK Previous Score Report Lab Values Calculator Help Pause",
@@ -468,7 +482,8 @@
       "A": "Bipolar disorder",
       "C": "Generalized anxiety disorder",
       "D": "Major depressive disorder",
-      "E": "Schizophrenia"
+      "E": "Schizophrenia",
+      "B": "Delusional disorder"
     },
     "correctAnswer": "B",
     "correctExplanation": "Delusional disorder is a psychotic disorder that features the presence of one or more delusions for a month or longer without other psychotic symptoms (eg, hallucinations, disorganized thinking, disorganized behaviors other than behaviors related to the delusion), or mood symptoms. Persecutory delusions (as in this patient) and somatic delusions are common types of delusions. Many patients will only present for care at the insistence of other people given their lack of insight into the psychotic nature of their concern. Treatment typically includes antipsychotic medication and psychotherapy with the goal of improving the patient's coping with the delusion and gradually increasing insight into the delusion. The prognosis is guarded. - e ¢ https://.me/U SM LENBME2CK G - i > ra Lab Values Calculator Help Pause Previous Score Report",
@@ -524,7 +539,8 @@
       "A": "Alcohol",
       "B": "Amitriptyline",
       "C": "Butalbital",
-      "D": "Diazepam"
+      "D": "Diazepam",
+      "E": "Hydromorphone"
     },
     "correctAnswer": "E",
     "correctExplanation": "This patient is withdrawing from hydromorphone, an opiate. Opiates are central nervous system (CNS) depressants. Opiate intoxication causes sedation, bradycardia and hypotension, depressed respiratory drive, and constricted pupils. Opiates are commonly used for analgesia and act on receptors within the gastrointestinal tract, reducing gut motility and thus causing constipation. Opiate withdrawal presents with restlessness, tachycardia, hypertension, pupil dilation, tremors, muscle cramping, abdominal cramping, nausea, vomiting, and diarrhea. Lacrimation and rhinorrhea can occur. Opiate withdrawal also features yawning and piloerection, which are not seen in withdrawal from other recreational drugs. Withdrawal from opiates is not fatal though is generally unpleasant for patients. Treatment is supportive and includes benzodiazepines, antiemetics, and clonidine during the acute withdrawal period, ideally with transition to a partial opioid agonist (eg, buprenorphine) or long-acting agonist (eg, methadone) if the patient is at risk for relapse. r 4 a PG) = SMLENBME2CK Previous Score Report Lab Values Calculator",
@@ -562,7 +578,8 @@
       "A": "Bupropion",
       "B": "Lithium carbonate",
       "C": "Lorazepam",
-      "D": "Methylphenidate"
+      "D": "Methylphenidate",
+      "E": "Sertraline"
     },
     "correctAnswer": "E",
     "correctExplanation": "Major depressive disorder (MDD) is the most likely diagnosis. Brain cancer is associated with depression, as frontal tumors may directly damage brain areas involved in regulating mood; brain cancer is a significant stressor, and radiation treatment can lead to depression (possibly via disrupting neurohormone signaling). Symptoms of MDD typically include two or more weeks of depressed mood, anhedonia, guilt or worthlessness, difficulty concentrating, psychomotor slowing, suicidal thoughts, and/or neurovegetative symptoms (decreased energy, sleep disturbance, appetite disturbance). Many depressed patients engage in anxious rumination. _ a eC © Lab Values Calculator Help Pause ¢ https: //.me/U SM LENBME2CK Previous Score Report",
@@ -580,7 +597,8 @@
       "A": "Chemical imbalance",
       "C": "Environmental toxin",
       "D": "Enzyme deficiency",
-      "E": "Intrauterine teratogen"
+      "E": "Intrauterine teratogen",
+      "B": "Genetic mutation"
     },
     "correctAnswer": "B",
     "correctExplanation": "This patient's constellation of findings, including intellectual disability, an elongated face, prominent forehead, large jaw, and large ears, is suggestive of fragile X syndrome. Patients may also present with macroorchidism, hyperextensible joints, and a high-arched palate. Fragile X syndrome is the second most common cause of inherited intellectual disability after Down syndrome and is inherited in an X-linked fashion. It is caused by a CGG-trinucleotide repeat expansion within the FMR1 gene on the X chromosome. On karyotype, the end of the X chromosome appears truncated, leading to the name fragile X syndrome. Patients with fragile X syndrome are at increased risk for mitral valve prolapse and educational difficulties. They are often diagnosed with autism. As with all trinucleotide repeat expansions, genetic anticipation is seen, wherein future generations have increased severity and/or earlier onset of disease.",
@@ -599,7 +617,8 @@
       "B": "Add haloperidol to the medication regimen",
       "C": "Add lorazepam to the medication regimen",
       "D": "Add olanzapine to the medication regimen",
-      "F": "Increase the dose of carbidopa-levodopa"
+      "F": "Increase the dose of carbidopa-levodopa",
+      "E": "Discontinue carbidopa-levodopa therapy"
     },
     "correctAnswer": "E",
     "correctExplanation": "Parkinson disease is a progressive neurodegenerative disorder caused by degradation of dopaminergic neurons in the substantia nigra. Symptoms are associated with an imbalance of dopamine and acetylcholine, resulting in the characteristic findings of bradykinesia, resting tremor, muscle rigidity, and postural instability. Psychiatric disturbances, sleep disorders, and dementia are common complications in addition to prominent motor symptoms. This patient with new-onset psychosis may be experiencing Parkinson disease-related psychosis, a carbidopa-levodopa adverse effect, or both. Carbidopa-levodopa increases dopamine concentrations in several brain areas. In the basal ganglia, an increased dopamine concentration leads to improvement in Parkinson symptoms. In the limbic system, an increased dopamine concentration leads to psychotic symptoms such as paranoid delusions or hallucinations. Distressing psychotic symptoms in the setting of Parkinson disease are typically managed with a decreased dose of carbidopa-levodopa or antipsychotic medication. This patient demonstrates mild Parkinson symptoms currently, so the physician should first attempt decreasing the carbidopa-levodopa dose. If this strategy is ineffective in addressing psychotic symptoms or 4 o eC https: //.me/U SM LENBME2CK Previous Score Report Lab Values Calculator",
@@ -617,7 +636,8 @@
       "A": "Buspirone",
       "C": "Sildenafil",
       "D": "Testosterone",
-      "E": "Trazodone"
+      "E": "Trazodone",
+      "B": "Selective serotonin reuptake inhibitors (SSRIs)"
     },
     "correctAnswer": "B",
     "correctExplanation": "This patient demonstrates premature ejaculation, a type of sexual dysfunction. Psychological factors such as performance anxiety or marital conflict can exert a strong influence on sexual function. In males, anxiety can lead to decreased libido, decreased ability to obtain or maintain an erection, premature ejaculation, or decreased ability to ejaculate. Patients with sexual dysfunction secondary to performance anxiety typically continue to experience nocturnal tumescence and emissions and lack anatomical abnormalities of the genitalia on physical examination. Treatment strategies for sexual dysfunction include cognitive behavioral therapy, mindfulness meditation training, or pharmacotherapy. First-line pharmacotherapy for premature ejaculation is selective serotonin reuptake inhibitor (SSRI) therapy, particularly paroxetine. SSRIs have an unclear mechanism for delaying ejaculation that likely involves descending serotonin pathways. G - i > ra https: //.me/U SM LENBME2CK Previous Score Report Lab Values Calculator Help Pause",
@@ -733,7 +753,8 @@
       "D": "Marijuana",
       "E": "Methamphetamine",
       "F": "Nitrous oxide",
-      "G": "PCP (phencyclidine)"
+      "G": "PCP (phencyclidine)",
+      "H": "Hallucinogens (e.g., LSD, psilocybin)"
     },
     "correctAnswer": "H",
     "correctExplanation": "; em OneDrive x Screenshot saved ~ The screenshot was added to your ¢ SM LENBME2CK (cs) E OneDrive. Inbalant ahiinn lan alien anrawsnanint ahan nalinh talsana niteniuin avidanl in namman in ahildean an A RAnAlARnnants and han AF Previous Score Report Lab Values Calculator",

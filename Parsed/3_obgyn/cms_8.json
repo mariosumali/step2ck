@@ -25,7 +25,8 @@
       "A": "Estradiol",
       "C": "Luteinizing hormone",
       "D": "Prolactin",
-      "E": "Thyroid-stimulating hormone"
+      "E": "Thyroid-stimulating hormone",
+      "B": "Follicle-stimulating hormone"
     },
     "correctAnswer": "B",
     "correctExplanation": "Infertility may be caused by diminished ovarian reserve, anovulation, fallopian tube occlusion, sperm hypomotility or immotility, inability of sperm to penetrate the corona radiata of the ovum, structural abnormalities of the uterus, and thyroid disorders, among other causes. In this patient, given her age, the most likely cause of infertility is diminished ovarian reserve. As a patient ages, there is a depletion or dysfunction of ovarian follicles. In general, the first half of the menstrual cycle is referred to as the follicular phase, during which follicle-stimulating hormone and luteinizing hormone (FSH and LH, respectively) concentrations increase and stimulate the developing follicle. This follicle then produces estrogen, which leads to proliferation of the endometrium in preparation for implantation. An LH surge causes ovulation, after which the luteal phase begins, with the corpus luteum secreting progesterone to maintain the endometrial lining. If no implantation occurs, the corpus luteum degrades, estrogen and progesterone decrease, and menstruation occurs. In patients with diminished ovarian reserve, FSH will be increased early in the follicular phase (typically measured on day 3 of the menstrual cycle), as more hormone is needed to stimulate the remaining follicles, and there is less negative feedback on FSH from the existing follicles. Inqarract Anoware: AC OM and E . \\« Cc € https://.me/U SM LENBM E2CK € € Previous Next Score Report Lab Values Calculator",
@@ -102,7 +103,8 @@
       "A": "Clomiphene therapy",
       "B": "Leuprolide therapy",
       "D": "Dilatation and curettage",
-      "E": "No treatment indicated"
+      "E": "No treatment indicated",
+      "C": "Hormonal therapy with progestins"
     },
     "correctAnswer": "C",
     "correctExplanation": "Anovulation presents with irregular intervals of menstruation, associated with heavy vaginal bleeding when menses occur, as a result of continued endometrial development secondary to unopposed estrogen production. Common causes of anovulation include abnormalities or immaturity of the hypothalamic-pituitary-ovarian axis, pregnancy, polycystic ovary syndrome, menopause or premature ovarian failure, inadequate nutrition, and chromosomal abnormalities. This patient's symptoms are most likely secondary to immaturity of the hypothalamic-pituitary-ovarian axis, given her young age. Normal development of the hypothalamic-pituitary-ovarian axis takes time, with immaturity resulting in irregular and noncyclic gonadotropin-releasing hormone release from the hypothalamus. This causes varying concentrations of follicle- stimulating hormone (FSH) and luteinizing hormone (LH), leading to anovulation and amenorrhea. This also affects the concentrations of estrogen and progesterone in the body, resulting in varying degrees of secondary sexual characteristic progression. Oral contraceptive therapy can be used to normalize the menstrual cycle and decrease the amount of menstrual bleeding by stabilizing the endometrium.",
@@ -120,7 +122,8 @@
       "A": "Cervical dilation",
       "B": "Fetal head compression",
       "C": "Fetal movement",
-      "E": "Uteroplacental insufficiency"
+      "E": "Uteroplacental insufficiency",
+      "D": "Umbilical cord compression"
     },
     "correctAnswer": "D",
     "correctExplanation": "A healthy fetal heart rate is between 110 and 160 beats per minute (bpm) with 6 to 25 bpm of variability and spontaneous accelerations. Variable decelerations, as well as intermittent early decelerations, can also occur during the normal process of labor. Variable decelerations are defined as an abrupt decrease in heart rate of at least 15 bpm that last at least 15 seconds, but less than 2 minutes. They do not show a specific relation to the uterine contraction tracing. They are caused by umbilical cord compression that results in decreased blood flow to the fetus, an increased peripheral systemic vascular resistance, and an autonomic response of fetal bradycardia. These decelerations can cause fetal hypoxemia and acidemia if prolonged, frequent, or paired with other concerning signs of fetal distress, such as late decelerations, absent variabilitv. or minimal accelerations. Treatment can include maternal repositionina and amnioinfusion to alleviate the compression bv repletina the volume of fluid uM https://.me/U SM LENBM E2CK Previous Next Score Report Lab Values Calculator",
@@ -157,7 +160,8 @@
       "A": "Abruptio placentae",
       "B": "Cervical cancer",
       "D": "Cervical stenosis",
-      "E": "Placenta previa"
+      "E": "Placenta previa",
+      "C": "Cervical insufficiency"
     },
     "correctAnswer": "C",
     "correctExplanation": "The American College of Obstetricians and Gynecologists defines cervical insufficiency as the inability of the cervix to contain the pregnancy (the fetus, placenta, and amniotic sac) without the presence of contractions, labor, or both, typically during the second or early third trimester. The condition is associated with miscarriage, preterm or prelabor rupture of membranes, and preterm birth. Risk factors include cervical trauma from prior delivery or surgical manipulation, such as a cone biopsy, as seen in this patient. Classically, when symptomatic, it presents with feelings of fullness in the lower pelvis in the absence of contractions or labor, similar to this patient’s last pregnancy. Speculum examination may show a dilated or effaced cervix, or protrusion of the pregnancy through the cervical os into the vagina. Mild cases without dilation of the external os may go undetected. Cervical length measurements may show a shortened cervix, with a cervical length less than 15 to 25 mm. Treatment is indicated if the degree of cervical insufficiency is significant enough to threaten the pregnancy and in cases of previous cervical insufficiency. This is accomplished through cervical cerclage, which is the placement of a suture into the cervical os to narrow the canal and maintain a closed cervix. The suture is then removed at the time of labor, or around 36 to 38 weeks. Incorrect Anewerse: A R 2 and F Q https://.me/U SM LENBM E2CK Previous Next Score Report Lab Values Calculator",
@@ -176,7 +180,8 @@
       "B": "Hysteroscopy",
       "D": "Endometrial biopsy",
       "E": "Intravaginal radiation therapy",
-      "F": "Hysterectomy"
+      "F": "Hysterectomy",
+      "C": "Colposcopy with biopsy"
     },
     "correctAnswer": "C",
     "correctExplanation": "A cervical intraepithelial neoplasia (CIN) 3 is a high-grade cervical lesion with an increased risk for progression to cervical cancer. Cervical carcinoma is classically associated with infection from human papillomavirus (HPV) high-risk strains 16, 18, 31, and 33. Risk factors include multiple sexual partners, smoking, and immunosuppression. Screening Pap smears are recommended every 3 years in women age 21 to 29 years and every 5 years in conjunction with HPV cotesting (every 3 years if cotesting is not performed) in women age 30 to 65 years. Abnormal Pap smear cytology results are evaluated by colposcopy, which allows for the visual assessment and biopsy of abnormal lesions. A colposcopy is deemed inadequate if the entirety of the squamocolumnar junction or transformation zone is not visible, as there is a possibility of undiagnosed carcinoma. In this patient’s case, the biopsy confirms CIN 3 disease, which requires excision via either a cone biopsy of the cervix or a loop electrosurgical excision procedure (LEEP). The cone biopsy serves to further evaluate a larger region of the cervix for cervical carcinoma and may be curative if a margin of normal cervical tissue is identified on histology. \\« Cc € https://.me/U SM LENBM E2CK € € Previous Next Score Report Lab Values Calculator",
@@ -194,7 +199,8 @@
       "A": "Measurement of serum follicle-stimulating hormone concentration",
       "C": "Progesterone suppositories",
       "D": "Hysteroscopy",
-      "E": "Dilatation and curettage"
+      "E": "Dilatation and curettage",
+      "B": "Measurement of serum beta-human chorionic gonadotropin concentration"
     },
     "correctAnswer": "B",
     "correctExplanation": "Measurement of serum B-hCG concentration is the most appropriate next step for a patient of reproductive age who presents with abnormal vaginal bleeding. Pregnancy is suspected when there is a missed or delayed menstrual period. Light vaginal bleeding can occur early in pregnancy, often due to implantation of the embryo, which can occasionally be mistaken for menses. Other symptoms of early pregnancy include nausea, breast tenderness, and fatigue. Physical examination may show an enlarged globular uterus, but formal diagnosis is made with urine or serum B-hCG. B-hCG is produced by the placenta, is undetectable in nonpregnant patients, and doubles approximately every 48 hours during an early normal pregnancy. In a normal pregnancy, an intrauterine gestational sac should be visible by 5 weeks of gestation. Additionally, transvaginal ultrasonography provides sufficient sensitivity to detect an intrauterine pregnancy once the B-hCG concentration exceeds 1000 to 2000 mIU/mL.",
@@ -212,7 +218,8 @@
       "A": "Provide the patient with information on pelvic examinations",
       "B": "Recommend the patient return in 6 months",
       "C": "Schedule an examination with a pediatric gynecologist",
-      "D": "Do not prescribe contraception until pelvic examination"
+      "D": "Do not prescribe contraception until pelvic examination",
+      "E": "Discuss various contraceptive options and help the patient choose an appropriate method."
     },
     "correctAnswer": "E",
     "correctExplanation": "Many methods of contraception exist, including temporary and permanent options, hormonal and nonhormonal devices, oral medications, injections, implants, and ovulation tracking. The most appropriate contraceptive method is dependent on the patient and their goals of care. Counseling regarding contraceptive options should determine if the patient wants long-term or temporary contraception, whether they are able to be compliant with medication every day, menstrual history, and any comorbidities that may make some options contraindicated. Oral contraceptives (OCPs) are a temporary form of birth control that must be taken every day. They commonly include combinations of ethinyl estradiol and progestin, although progestin-only options are available. OCPs work to prevent pregnancy by thickening the cervical mucus, thinning the endometrial lining, and decreasing ovulation. They are an effective method of contraception when taken as prescribed. A speculum and pelvic examination are not required prior to prescribing OCPs; however, they should be started after a patient turns 21 years old in accordance with the United States Preventive Services Task Force. Incorrect Answers'A R C andn Q https://.me/U SM LENBM E2CK Previous Next Score Report Lab Values Calculator",
@@ -249,7 +256,8 @@
       "A": "Acyclovir",
       "C": "Fluconazole",
       "D": "Metronidazole",
-      "E": "Zidovudine (AZT)"
+      "E": "Zidovudine (AZT)",
+      "B": "Azithromycin"
     },
     "correctAnswer": "B",
     "correctExplanation": "A patient with symptoms of urethritis (eg, urinary frequency, urgency, and dysuria) and a urinalysis with no evidence of urinary tract infection raises concern for other causes of urethritis such as sexually transmitted infections secondary to Chlamydia trachomatis and Neisseria gonorrhoeae. Both organisms can cause symptoms of urethritis, and if left untreated, can progress to cervicitis, pelvic inflammatory disease, and tubo-ovarian abscess. In urinary tract infections, urinalysis typically shows the presence of white blood cells, bacteria, and positive leukocyte esterase and/or nitrites, all of which are absent in this patient. Chlamydia is an obligate intracellular pathogen and does not appear on urinalysis or Gram stain, resulting in absence of visualized bacteria on urinalysis. Diagnosing chlamydial urethritis involves urethral culture and/or nucleic acid amplification tests to evaluate the presence of Chlamydia. Treatment consists of either azithromycin or doxycycline in combination with ceftriaxone, with the latter covering a potential NV. gonorrhoeae coinfection.",
@@ -267,7 +275,8 @@
       "A": "Follicular cyst of the ovary",
       "B": "Ovarian tumor of endometrioid origin",
       "D": "Ovarian tumor of germ cell origin",
-      "E": "Ovarian tumor of stromal origin"
+      "E": "Ovarian tumor of stromal origin",
+      "C": "Ovarian serous cystadenoma"
     },
     "correctAnswer": "C",
     "correctExplanation": "Ovarian cancer commonly presents indolently with abdominal distension, early satiety, and weight loss in postmenopausal women. Signs and symptoms of advanced disease may also include bowel obstruction with consequent nausea and vomiting, ascites, pleural effusions, and venous thromboembolism. In addition to these, physical examination may show a palpable adnexal mass on bimanual examination or lymphadenopathy. Ultrasonography is recommended to identify or characterize the responsible lesion, with concerning features including septations, cystic components, increased blood flow, and a heterogeneous structure. Further evaluation is then completed with tumor markers, commonly serum cancer antigen 125 (CA 125), and additional imaging to determine the extent of disease. Biopsy may be taken of omental or lymph node metastases prior to definitive surgical management, with most ovarian cancers being of epithelial origin. Risk factors for the development of ovarian cancer include a family history, genetic mutation (eg, BRCA), increased age, smoking, nulliparity, endometriosis, and pelvic radiation. Treatment includes surgical removal and chemotherapy.",
@@ -285,7 +294,8 @@
       "A": "Breast cancer",
       "B": "Colon cancer",
       "C": "Dementia, Alzheimer type",
-      "D": "Heart disease"
+      "D": "Heart disease",
+      "E": "Osteoporosis"
     },
     "correctAnswer": "E",
     "correctExplanation": "Menopause is caused by the lack of ovarian estrogen production. On average, it begins around 50 years of age due to a diminution of ovarian reserve but can occur earlier in premature ovarian failure caused by chemotherapy or radiation therapy toxicity, or by surgical removal of the ovaries. Manifestations include vaginal atrophy or dryness, hot flashes, night sweats, loss of libido, and disturbances in mood or sleeping patterns. Because sex hormones such as estrogen stimulate osteoblasts and increase or maintain bone mineral density, the loss of ovarian estrogen leads to an accelerated loss of bone mass after menopause, increasing the risk for developing osteopenia or osteoporosis. The condition is often asymptomatic until a traumatic injury results in a fracture, most commonly involving the hip, distal radius, or vertebrae. The diagnosis of osteoporosis is made using a DEXA scan once the bone mineral density falls below 2.5 standard deviations of the mean for a young adult. Symptoms of menopause can be treated with selective serotonin/norepinephrine inhibitors or with hormone replacement therapy (HRT) with supplemental estrogen since manifestations and sequelae are secondary to estrogen deficiency. The duration of estrogen supplementation should generally be limited to 3 to 5 years, as prolonged exposure to unopposed estrogen ean increase the rick far andometrial cancer cardinvasciilar disease and mortality thramhnemholism and hreact cancer a E€ Q https://.me/U SM LENBM E2CK a Previous Next Score Report Lab Values Calculator",
@@ -303,7 +313,8 @@
       "A": "Measurement of cerebral artery flow by Doppler velocimetry",
       "B": "Serum screening for atypical antibodies",
       "D": "Amniocentesis for anti-D antibody",
-      "E": "No further treatment is indicated"
+      "E": "No further treatment is indicated",
+      "C": "Measurement of fetal heart rate variability with a non-stress test"
     },
     "correctAnswer": "C",
     "correctExplanation": "Rh(D)-negative mothers are at a high risk for developing anti-D antibodies if exposed to blood from an Rh(D)-positive fetus, which most commonly occurs during delivery. If Rh(D) antigens from the fetal circulation enter the maternal circulation, it is possible that the mother’s immune system will form antibodies against the Rh(D) antigen. While this carries no significant complication with the initial exposure, a subsequent pregnancy with an Rh(D)-positive fetus can result in severe hemolytic anemia of the newborn (erythroblastosis fetalis) as maternal antibodies cause hemolysis of fetal erythrocytes when they cross the placenta. Rh,(D) immune globulin acts by binding to Rh(D)- positive cells that enter the maternal circulation, preventing the immune system from developing antibodies to the Rh(D) antigen. Administration of Rh)(D) immune globulin is typically performed for Rh(D)-negative mothers at 28 weeks’ gestation, following the delivery of an Rh(D)-positive newborn, with any invasive procedure (eg, amniocentesis), and with any episodes of fetomaternal bleeding. Rh,(D) immune globulin is effective for approximately 12 weeks, so even though this patient has received Rh,(D) immune globulin earlier in pregnancy, enough time has passed that she should receive an additional dose now.",
@@ -322,7 +333,8 @@
       "B": "Endometrioma",
       "C": "Endometriosis",
       "D": "Intestinal colic",
-      "F": "Spontaneous abortion"
+      "F": "Spontaneous abortion",
+      "E": "Ovarian torsion"
     },
     "correctAnswer": "E",
     "correctExplanation": "There are multiple subtypes of ovarian cysts, ranging from benign simple cysts to complex, malignant cystic masses. The most common cysts are follicular and corpus luteal/nemorrhagic cysts. Follicular cysts are simple cystic structures of the ovary that occur during the process of follicle development when an egg is not appropriately released from a follicle during ovulation. Contrarily, a corpus luteum cyst, which can be hemorrhagic, may form following the formation of a mature follicle and subsequent ovulation during the menstrual cycle. Either of these ovarian cysts can potentially rupture, which classically presents with pelvic or lower abdominal pain that is sudden in onset and severe, most commonly after sexual intercourse or other physical activity. Physical examination may show a unilateral adnexal mass, which may be tender. Laboratory studies are typically within the reference ranges. Pelvic ultrasonography will show either a simple or complex cystic ovarian mass or free fluid in the pelvis if ruptured, which may include hemorrhagic components (eg, hemoperitoneum), particularly in the setting of a corpus luteal or hemorrhagic cyst. These cysts are typically managed with observation and supportive therapy.",
@@ -359,7 +371,8 @@
       "B": "Measurement of serum prolactin concentration",
       "C": "Mammography",
       "D": "Ultrasonography of the breasts",
-      "E": "MRI of the breasts"
+      "E": "MRI of the breasts",
+      "A": "Reassurance and education about fibrocystic breast changes"
     },
     "correctAnswer": "A",
     "correctExplanation": "Fibrocystic changes of the breast occur most commonly in premenopausal women. Patients may present with various sites of breast pain and lumps, which may be bilateral. The condition is characterized by the presence of cysts, stromal fibrosis, and apocrine metaplasia on histology, and is believed to occur in response to hormonal fluctuations during the menstrual cycle. Reexamination after menses (eg, day 9 of the next menstrual cycle) may be helpful for diagnosis because the size of fibrocystic changes should subside after menses, distinguishing it from other causes. On examination, the cysts may appear blue. Fibrocystic change is a benign disease and does not generally convey an increased risk for cancer except for certain subtypes; however, it can result in recurrent mastalgia. If there is associated discomfort, aspiration can be performed, which may relieve symptoms. Cyst aspiration can yield fluid that is clear, milky, yellow, green, or brown, which are all benign. Supportive care is also appropriate, using nonsteroidal anti-inflammatory drugs and a well-fitting bra.",
@@ -377,7 +390,8 @@
       "A": "Adenocarcinoma of the vagina",
       "B": "Candidiasis",
       "D": "Sarcoma botryoides",
-      "E": "Trauma"
+      "E": "Trauma",
+      "C": "Foreign body in the vagina"
     },
     "correctAnswer": "C",
     "correctExplanation": "Vaginal foreign bodies can present in prepubertal children with genital discomfort, vulvar erythema or pruritus, vaginal discharge, or vaginal bleeding. The most common foreign body is toilet paper, but other objects such as small toy parts and coins may be inserted due to the child’s curiosity and exploratory genital play. Diagnosis with visualization of the vaginal vault, saline irrigation, or examination under anesthesia may be required. Treatment requires removal of the foreign body.",
@@ -397,7 +411,8 @@
       "C": "Endometritis",
       "E": "Placenta accreta",
       "F": "Uterine rupture",
-      "G": "Vasa previa"
+      "G": "Vasa previa",
+      "D": "Hydatidiform mole"
     },
     "correctAnswer": "D",
     "correctExplanation": "Hydatidiform moles are caused by either the fertilization of an empty egg by a single sperm followed by duplication of the paternal DNA resulting in 46 chromosomes (complete) or the dual fertilization of a normal ovum resulting in 69 chromosomes (incomplete). Maternal symptoms include first trimester vaginal bleeding, abdominal pain, uterine size greater than expected for dates, and hyperemesis gravidarum or persistent nausea/vomiting, the latter related to abnormally increased human chorionic gonadotropin (hCG) concentrations. The vaginal bleeding may be significant and cause anemia with associated hypotension and tachycardia (eg, hemorrhagic shock, as seen in this case). Additionally, increased concentrations of B-hCG can stimulate the thyroid to secrete thyroid hormone, leading to symptoms of hyperthyroidism, suchas fa eC > iw q L> € https://.me/U SM LENBM E2CK e Lab Values Calculator Help Pause Previous Next Score Report",
@@ -415,7 +430,8 @@
       "A": "Hydatidiform mole",
       "B": "Leiomyomata uteri",
       "D": "Polyhydramnios",
-      "E": "Incorrect dates"
+      "E": "Incorrect dates",
+      "C": "Multiple gestation pregnancy"
     },
     "correctAnswer": "C",
     "correctExplanation": "Multiple gestation pregnancy occurs when more than one ovum is fertilized and implants in the endometrial lining of the uterine cavity. While this can occur spontaneously, it is more common with reproductive technologies, such as ovulation-induction, intrauterine insemination, and in vitro fertilization. Clomiphene use, as in this patient, stimulates ovulation by blocking the negative feedback on gonadotropin-releasing hormone in the hypothalamus via acting as an estrogen receptor antagonist. Because it nonspecifically stimulates ovulation, more than one egg can be produced and released during an ovulatory cycle, thus possibly leading to a multiple gestation pregnancy. Multiple gestation pregnancy is most commonly diagnosed on routine prenatal ultrasonography but may be suspected earlier because of hyperemesis gravidarum secondary to increased B-hCG concentration or a uterine size larger than expected for the current gestational age. Complications of multiple gestation pregnancy include preterm labor, intrauterine fetal growth restriction, twin-to-twin transfusion syndrome, and fetal malpresentation.",
@@ -452,7 +468,8 @@
       "A": "Moderation of her exercise routine",
       "B": "Targeted ultrasonography because of exposure to tetanus toxoid",
       "D": "Decreasing her vitamin B; intake",
-      "E": "MMR vaccine"
+      "E": "MMR vaccine",
+      "C": "Administration of the MMR vaccine after delivery"
     },
     "correctAnswer": "C",
     "correctExplanation": "Vitamin A is a fat-soluble vitamin found in a variety of foods, such as leafy green vegetables, carrots, and egg yolks. It plays an important role in the maintenance of the cornea and conjunctiva, as well as phototransduction. As such, vitamin A deficiency can lead to night blindness and xerophthalmia. Alternatively, vitamin A toxicity can cause nausea, vomiting, and changes in vision when the toxicity is acute, or ataxia, hepatotoxicity, and alopecia when the toxicity is chronic. However, in pregnant patients, excessive ingestion of vitamin A can lead to teratogenic effects in the fetus. These include microcephaly and cardiac defects, as well as spontaneous abortion. This patient is likely already receiving a sufficient daily dose of vitamin A with her prenatal vitamin and vegan diet and should thus decrease the other forms of her ingested vitamin A, such as the daily supplement, to avoid fetal toxicity.",
@@ -470,7 +487,8 @@
       "A": "Amniotic fluid embolism",
       "B": "Eclampsia",
       "C": "Epilepsy",
-      "D": "Hypocalcemia"
+      "D": "Hypocalcemia",
+      "E": "excessive hypotonic fluids, which can lead to water retention and dilutional hyponatremia, potentially resulting in seizures."
     },
     "correctAnswer": "E",
     "correctExplanation": "Hyponatremia, or a serum sodium concentration less than 135 mEq/L, may be acute or chronic, with symptoms related to the severity of depletion and the duration of onset. Acute decreases in sodium concentration may lead to neurologic symptoms, such as seizure and altered mental status due to cerebral edema. Chronic hyponatremia, in contrast, leads to less severe symptoms, such as nausea, vomiting, light-headedness, fatigue, and confusion. Causes of acute hyponatremia include the administration of hypotonic fluids, syndrome of inappropriate antidiuretic hormone secretion (SIADH), kidney dysfunction, adrenal insufficiency, beer potomania, psychogenic polydipsia, and hydrochlorothiazide diuretics, among others. This patient received a significant volume of hypotonic solution, 5% dextrose in water, which likely decreased her sodium concentration. Additionally, large amounts of oxytocin can induce SIADH, with consequent water reabsorption. Patients who present with acute neurologic signs due to hyponatremia should be treated with hypertonic saline.",
@@ -507,7 +525,8 @@
       "A": "Ephedrine therapy",
       "B": "Magnesium sulfate tocolysis",
       "C": "Terbutaline therapy",
-      "D": "Forceps delivery"
+      "D": "Forceps delivery",
+      "E": "Emergency cesarean delivery"
     },
     "correctAnswer": "E",
     "correctExplanation": "Uterine rupture is a dangerous complication of pregnancy wherein the muscular wall of the uterus tears. Severe pain is a common initial finding. Hemodynamic instability can manifest in the mother with tachycardia and hypotension, and in the fetus with late decelerations, tachycardia, bradycardia, or loss of beat-to-beat variability. If uterine rupture occurs during labor, sudden loss of fetal station is a highly suggestive finding. Fetal parts may be palpable above the fundus with Leopold maneuvers. Risk factors for uterine rupture include vaginal birth after caesarean section, multiparity, and induction of labor with prostaglandin analogues or oxytocin. Uterine rupture is treated with emergent laparotomy.",
@@ -525,7 +544,8 @@
       "B": "Bloody show",
       "C": "Disseminated intravascular coagulation",
       "D": "Placenta previa",
-      "E": "Vasa previa"
+      "E": "Vasa previa",
+      "A": "Abruptio placentae"
     },
     "correctAnswer": "A",
     "correctExplanation": "Abruptio placentae. or placental abruption. refers to the premature separation of the placenta from the uterus. It most commonly presents with vaginal bleedina. severe a L> € https://.me/U SM LENBM E2CK € € Calculator Previous Next Score Report Lab Values",
@@ -601,7 +621,8 @@
       "A": "Inferior gluteal",
       "C": "Superior vesical",
       "D": "Uterine",
-      "E": "Vaginal"
+      "E": "Vaginal",
+      "B": "Pudendal"
     },
     "correctAnswer": "B",
     "correctExplanation": "Pregnant patients are at risk for the development of puerperal hematomas during delivery. These hematomas may occur in the vulva, vagina, or retroperitoneum. Risk factors include nulliparity, macrosomia, operative vaginal deliveries, an extended second stage of labor, bleeding diatheses, and preeclampsia. Vulvar hematomas are most commonly caused by injuries to the pudendal artery. In contrast, vaginal and retroperitoneal hematomas are caused by injuries to the uterine and hypogastric arteries, respectively. Presentations also vary, with vulvar hematomas presenting with fluctuant, painful, discolored masses, as in this patient, vaginal hematomas causing rectal pressure, and retroperitoneal hematomas exhibiting hemodynamic instability. Treatment of vulvar and vaginal hematomas is often supportive with ice packs and analgesia but may require incision and drainage. Retroperitoneal hematomas require surgical intervention.",
@@ -619,7 +640,8 @@
       "A": "Abnormal peripheral estrogen conversion",
       "B": "Decrease in serum cortisol concentration",
       "C": "Increase in serum prolactin concentration",
-      "D": "Increase in serum thyroid-stimulating hormone concentration"
+      "D": "Increase in serum thyroid-stimulating hormone concentration",
+      "E": "Decrease in energy availability due to inadequate nutrition"
     },
     "correctAnswer": "E",
     "correctExplanation": "Secondary amenorrhea may be caused by pregnancy, menopause or premature ovarian failure, ovulatory dysfunction, abnormalities of the hypothalamic-pituitary-ovarian axis, inadequate nutrition, chromosomal abnormalities, and thyroid disorders. Functional hypothalamic amenorrhea refers to amenorrhea that occurs in the setting of increased stress or decreased energy availability, which may be secondary to inadequate nutrition or over-exercising, often in a patient with a low BMI. In order to diagnose functional hypothalamic amenorrhea, pregnancy and other pathologies should first be excluded. It is caused by a decrease in gonadotropin-releasing hormone (GnRh), which consequently causes irregular secretion of gonadotropin and decreased follicle-stimulating hormone, luteinizing hormone, ovulation, and estrogen production. Hypercortisolemia, caused by stress, may also play a role in the inhibition of GnRH.",
@@ -637,7 +659,8 @@
       "A": "Colon cancer",
       "B": "Endometrial cancer",
       "C": "Gastric cancer",
-      "D": "Lymphoma"
+      "D": "Lymphoma",
+      "E": "Ovarian cancer"
     },
     "correctAnswer": "E",
     "correctExplanation": "Ovarian cancer commonly presents indolently with abdominal distension, early satiety, and weight loss in postmenopausal women. Signs and symptoms of advanced disease may also include bowel obstruction with consequent nausea and vomiting, ascites, pleural effusions, and venous thromboembolism. In addition to these, physical examination may show a palpable adnexal mass on bimanual examination or lymphadenopathy. Ultrasonography is recommended to identify or characterize the responsible lesion, with concerning features including septations, cystic components, blood flow, and a heterogeneous structure. Further evaluation is completed with tumor markers, commonly serum cancer antigen 125 (CA 125), and additional imaging to determine the extent of disease. Risk factors for the development of ovarian cancer include a family history, genetic mutation (eg, BRCA), increased age, smoking, nulliparity, and pelvic radiation. Treatment includes surgical removal and chemotherapy.",
@@ -655,7 +678,8 @@
       "B": "lron deficiency",
       "C": "Pernicious anemia",
       "D": "Sickle cell disease",
-      "E": "Thalassemia"
+      "E": "Thalassemia",
+      "A": "Folic acid deficiency"
     },
     "correctAnswer": "A",
     "correctExplanation": "Folic acid deficiency is a cause of megaloblastic anemia that is common in pregnancy as a result of increased folic acid requirements, especially when accompanied by malnutrition. Other causes include alcohol use disorder, malabsorption, and the use of antifolate medications. The anemia is caused by impaired DNA synthesis in the red blood cell progenitor cells due to the absence of required cofactors. Symptoms include fatigue, pallor, lightheadedness, and shortness of breath. Laboratory studies will show a decreased hemoglobin concentration, increased mean corpuscular volume, decreased reticulocyte count, and normal methylmalonic acid concentrations. White blood cell and platelet counts are generally normal. Peripheral blood smear will show hypersegmented neutrophils. Treatment requires folic acid supplementation and red blood cell transfusion, if severe. Folic acid supplementation is important for pregnant patients, as deficiency can lead to neural tube defects in the fetus. This is most significant in the first trimester, during initial organogenesis.",
@@ -710,7 +734,8 @@
       "A": "Bartholin duct cyst",
       "C": "Urethral caruncle",
       "D": "Vaginal myoma",
-      "E": "Vulvar carcinoma"
+      "E": "Vulvar carcinoma",
+      "B": "Complete procidentia"
     },
     "correctAnswer": "B",
     "correctExplanation": "Pelvic organ prolapse (POP) occurs secondary to pelvic floor dysfunction and weakness, resulting in the herniation of abdominopelvic organs, which cause mass effect and protrusion along the vaginal wall. Complete procidentia is a severe form of POP that includes herniation of the entire anterior, posterior, and apical vaginal compartments through the introitus, such that that the patient has a degree of cystocele (bladder prolapse), rectocele (rectal prolapse), and enterocele (intestinal prolapse) caused by the descent of the pelvic organs. Additionally, all or a portion of the cervix and uterus may be visible externally at the introitus in complete procidentia. POP is more common in individuals who have had multiple childbirths, advancing age, and obesity, all of which are risk factors for pelvic floor dysfunction. These pelvic organ herniations can result in urinary, defecatory, and sexual dysfunction. Depending on the extent of herniation, other symptoms can include an external mass that may show ulceration and bleeding, as found in this patient. Diagnosis is made with a complete physical examination. Treatment includes pelvic floor exercises, vaginal pessaries, and surgical correction.",
@@ -785,7 +810,8 @@
       "A": "Antibody screening",
       "C": "Repeat testing for N. gonorrhoeae and C. trachomatis",
       "D": "Repeat urine culture",
-      "E": "Repeat ultrasonography"
+      "E": "Repeat ultrasonography",
+      "B": "1-hour glucose tolerance test"
     },
     "correctAnswer": "B",
     "correctExplanation": "A 1-hour maternal glucose tolerance test is typically performed between 24 and 28 weeks of pregnancy to screen for gestational diabetes. However, this test can be done at the first prenatal visit if there is suspicion of underlying or preexisting diabetes or in patients who have a BMI greater than or equal to 25 kg/m2 in addition to another risk factor, such as first-degree relatives with diabetes mellitus, hypertension, previous macrosomia or gestational diabetes, or a history of impaired glucose tolerance. Gestational or preexisting diabetes mellitus can lead to an increased risk for congenital anomalies, spontaneous abortion and stillbirth, macrosomia, shoulder dystocia, and birth trauma. Neonatal effects of diabetes can include hypoglycemia caused by a sudden change in the maternal-fetal glucose balance, hyperbilirubinemia, polycythemia, and an increased risk for neonatal respiratory distress syndrome. Therefore, the early recognition of both gestational diabetes and preexisting diabetes mellitus allows for the initiation of appropriate treatment, decreased average blood glucose concentrations, and improved neonatal outcomes.",
@@ -804,7 +830,8 @@
       "B": "Human papillomavirus nucleic acid testing",
       "C": "Pap smear",
       "D": "Rapid plasma reagin",
-      "E": "Repeat hepatitis B vaccine series"
+      "E": "Repeat hepatitis B vaccine series",
+      "F": "Nucleic acid amplification testing for Chlamydia trachomatis and Neisseria gonorrhoeae"
     },
     "correctAnswer": "F",
     "correctExplanation": "Testing for Chlamydia trachomatis and Neisseria gonorrhoeae is recommended by the United States Preventive Services Task Force for all sexually active patients under age 25 years. C. trachomatis is a sexually transmitted infection that classically presents with urethritis, dysuria, dyspareunia, and urethral or vaginal discharge. NV. gonorrhoeae is a sexually transmitted infection that presents most commonly with mucopurulent discharge and pruritus. However, both infections can also be asymptomatic, thus the recommendation for screening. Complications include cervicitis, pelvic inflammatory disease, tubo-ovarian abscess, and long-term issues with fertility. Diagnosis is made with a nucleic acid amplification test. Treatment consists of either azithromycin or doxycycline for chlamydia and ceftriaxone for gonorrhea.",
@@ -822,7 +849,8 @@
       "A": "Bacterial vaginitis",
       "B": "Candidiasis",
       "D": "Retained products of conception",
-      "E": "Undiagnosed vaginal laceration"
+      "E": "Undiagnosed vaginal laceration",
+      "C": "Lochia alba, a normal finding in the postpartum period."
     },
     "correctAnswer": "C",
     "correctExplanation": "Vaginal discharge following delivery is termed lochia and may last during the period of the puerperium for 4 to 6 weeks. It is caused by the shedding of the superficial decidua and progresses through three stages. The early discharge, lochia rubra, contains blood and may last for up to 10 days. Lochia slowly becomes less bloody and more serous, lochia serosa, for approximately 2 to 3 weeks before finally becoming white to yellow in color, lochia alba. Physical examination, laboratory studies, and diagnostic imaging are not typically performed but would be normal as lochia is a physiologic, rather than pathologic, condition.",

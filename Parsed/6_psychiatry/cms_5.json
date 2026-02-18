@@ -168,12 +168,17 @@
     "questionNumber": 10,
     "questionStem": "Six hours after undergoing an appendectomy, a 4 ?-year-old man repor ts a moderately severe, diffuse headac he. He has no other symptoms. He has not ingested food or drink for 2 days . His pulse is 90/min, and blood pressure is 110/70 mm Hg. Neurologic examination shows no abnormalities. Which of the following is the most likely diagnosis?",
     "choices": {
-      "A": "Bacte rial meningitis G) Occipital neuralgia",
-      "B": "Brain abscess H) Post-traumatic headac he",
-      "C": "Caffeine withdrawal I) Subdural hema toma",
-      "D": "Cluster headac he J) Tension-type headac he",
-      "E": "Hypertensive encephalopathy K) Trigeminal neuralgia",
-      "F": "Idiopath ic intracranial hyperte nsion"
+      "A": "Bacte rial meningitis",
+      "B": "Brain abscess",
+      "C": "Caffeine withdrawal",
+      "D": "Cluster headac he",
+      "E": "Hypertensive encephalopathy",
+      "F": "Idiopath ic intracranial hyperte nsion",
+      "G": "Occipital neuralgia",
+      "H": "Post-traumatic headac he",
+      "I": "Subdural hema toma",
+      "J": "Tension-type headac he",
+      "K": "Trigeminal neuralgia"
     },
     "correctAnswer": "C",
     "correctExplanation": "Headaches can be differentiated into primary and secondary headaches (eg, substances, infection, neoplasm, trauma). Headache features that raise concern for serious secondary causes include fever, focal neurologic deficits, abrupt onset, history of malignancy or trauma , and positional exacerbation. Caffeine withdrawal typically presents with headache, fatigue, depressed or irritable mood, difficu lty concentrating, gastrointestinal distress, tachycardia, hand tremor, or flu-like symptoms. The headache is common ly diffuse and pulsating, varies from mild to severe in intensity, begins within 24 hours of last caffeine consump tion , and improves once withdrawal resolves. Acute management may include over-the-counter analgesics or the administration of caffeine. Patients desiring to abstain from caffeine should gradually taper their use to prevent severe withdrawal symptoms.",

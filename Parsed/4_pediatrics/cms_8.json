@@ -6,7 +6,8 @@
       "A": "Adenoidectomy",
       "B": "Amoxicillin therapy",
       "C": "Cefdinir therapy",
-      "D": "Prednisone therapy"
+      "D": "Prednisone therapy",
+      "E": "Observation and reassurance"
     },
     "correctAnswer": "E",
     "correctExplanation": "Otitis media with effusion (OME) is suggested by the presence of a middle ear effusion in the absence of signs of acute otitis media. Eustachian tube obstruction or dysfunction leads to the accumulation of serous fluid within the middle ear. Such dysfunction is common in the setting of an upper respiratory tract infection due to the inflammation of the nasal mucosa occluding the ostium of the eustachian tube, or as a sequela following acute otitis media. Fluid accumulation typically presents with hearing loss, ear tugging, or vertigo. Patients with OME lack findings of fever, tympanic membrane erythema, or retrotympanic pus, which are commonly found in acute otitis media. Treatment is supportive, as the condition is usually self-limited.",
@@ -25,7 +26,8 @@
       "B": "Down syndrome",
       "C": "Fetal alcohol syndrome",
       "E": "Rett disorder",
-      "F": "Williams syndrome"
+      "F": "Williams syndrome",
+      "D": "Prader-Willi syndrome"
     },
     "correctAnswer": "D",
     "correctExplanation": "Prader-Willi syndrome is a rare genetic disease caused by the lack of expression of paternal genes in the chromosome region 15q11-13. It is inherited in a sporadic pattern and may result from mutations or deletions in the paternal alleles, errors in the genetic imprinting of these alleles, or their complete absence in the case of maternal uniparental disomy. The syndrome has several characteristic features. Hypotonia is common and can lead to abnormal uterine position of the fetus and complicated labor, as well as feeding difficulties and failure to thrive in infancy. Developmental delays, intellectual disability, and disruptive behavioral patterns are commonly observed. It is associated with growth hormone deficiency and short stature. Hyperphagia and obesity are also hallmark manifestations of Prader-Willi syndrome. Individuals tend to have distinct facies with almond-shaped eyes, strabismus, and a wide, flattened nasal bridge. The prognosis is good, as patients tend to do well into adulthood. 4 ne @ - > ri https://.me/U SM LENBM E2CK Previous Next Score Report Lab Values Calculator Help Pause",
@@ -43,7 +45,8 @@
       "A": "0-1",
       "B": "2-3",
       "D": "7-8",
-      "E": "9-10"
+      "E": "9-10",
+      "C": "4-6"
     },
     "correctAnswer": "C",
     "correctExplanation": "Apgar scoring is performed at 1 and 5 minutes after birth to assess the status of the newborn and need for possible resuscitation. The Apgar score consists of points given in five different categories (appearance, pulse, grimace or reflex irritability, activity/muscle tone, and respiratory effort) summed together to compute the Apgar score. Each category is given 0, 1, or 2 points, with 0 points for absent function, 1 for diminished or irregular function, and 2 for a normal, expected presentation. Newborns with lower scores, especially below 7, may require further evaluation and/or intervention. This patient would receive a score of 1 for peripheral cyanosis, 1 for decreased muscle tone, 1 for decreased reflex activity, 1 for pulse less than 100/min, and 1 for irregular respirations, totaling an Apgar score of 5. This indicates the potential need for further resuscitation. Apgar scores are not necessarily associated with later functional or developmental abnormalities.",
@@ -61,7 +64,8 @@
       "B": "Brain abscess",
       "C": "Congestive heart failure",
       "D": "Dissecting aortic aneurysm",
-      "E": "Syncope"
+      "E": "Syncope",
+      "A": "Infective endocarditis"
     },
     "correctAnswer": "A",
     "correctExplanation": "Bicuspid aortic valves may be inherited or sporadic. As a result of their geometry and abnormal leaflet excursion, they are subject to more blood flow turbulence (generating the murmur) and shear forces. This leads to increased local tissue inflammation and calcification compared with trileaflet valves. Bicuspid valves are more prone to the development of early aortic stenosis or aortic regurgitation. Abnormal valve architecture can also present a nidus for infection; hence, patients are at increased risk for bacterial endocarditis. There is also a small risk for systemic thromboembolic disease from clots that form on the valve. Congenital and hereditary conditions associated with bicuspid aortic valves include Turner syndrome, Marfan syndrome, Ehlers-Danlos syndrome, coarctation of the aorta, patent ductus arteriosus, and ventricular septal defects.",
@@ -99,7 +103,8 @@
     "choices": {
       "C": "Delayed delayed",
       "E": "Normal delayed delayed",
-      "G": "Normal normal delayed"
+      "G": "Normal normal delayed",
+      "A": "Global developmental delay"
     },
     "correctAnswer": "A",
     "correctExplanation": "Screening for developmental milestone achievement is an important element of the pediatric well-child examination. Gross motor, fine motor, cognitive, social, and language milestones should be evaluated. This patient has a presentation consistent with global developmental delay, defined as significant delay in two or more domains of development. By age 4 years, most children can draw a stick figure, speak in full sentences that can be understood by others, hop on one foot, and play cooperatively with friends. Patients who are delayed in meeting developmental milestones should be evaluated for underlying causes and referred for early - G eC > f Lab Values Calculator Help Pause Cc ¢€ https://Lme/U SM LEN BME2CK Previous Next Score Report",
@@ -155,7 +160,8 @@
       "A": "Aeromonas hydrophila",
       "B": "Group A streptococcus",
       "C": "Klebsiella pneumoniae",
-      "E": "Staphylococcus aureus"
+      "E": "Staphylococcus aureus",
+      "D": "Pseudomonas aeruginosa"
     },
     "correctAnswer": "D",
     "correctExplanation": "Osteomyelitis may occur from hematogenous spreading from adjacent skin and soft tissue infection, or direct inoculation in the case of trauma. Osteomyelitis clinically presents with pain at the site, erythema, tenderness to palpation, swelling, decreased range of motion, and fever. Pseudomonas aeruginosa is an aerobic, oxidase positive, gram-negative bacteria that is associated with hospital acquired infections, as well as osteomyelitis following a puncture wound (classically through an athletic shoe). Patients who suffer puncture wounds and diabetic patients are at the highest risk for Pseudomonas-associated osteomyelitis. X-ray or MRI may be used to identify osteomyelitis, although MRI is more sensitive, and patients should undergo operative debridement to remove necrotic tissue, cultures to identify the organism, and be initiated on empiric antibiotic coverage.",
@@ -173,7 +179,8 @@
       "A": "Follow-up examination in 6 months",
       "C": "Measurement of serum estrogen concentration",
       "D": "MRI of the pituitary gland",
-      "E": "Estrogen therapy"
+      "E": "Estrogen therapy",
+      "B": "Evaluation for possible androgen insensitivity syndrome"
     },
     "correctAnswer": "B",
     "correctExplanation": "Androgen insensitivity syndrome is caused by a defect in the androgen receptor complex resulting in a genotypic 46,XY person developing phenotypic female or atypical genitalia and female secondary sexual characteristics. Testes are present and produce testosterone normally, but the absence of a functioning androgen receptor prevents hormone binding and thereby prevents the development of secondary male sexual characteristics. Patients present with female external genitalia, scant pubic and axillary hair, absent uterus and fallopian tubes, and a rudimentary vagina. Menses does not occur because of the lack of cyclic progesterone and estrogen, and the lack of a functional uterus with endometrial lining. Patients show increased concentrations of testosterone, estrogen, and luteinizing hormone on laboratory evaluation. Diagnosis is made with karyotype analysis showing XY chromosomes in a patient with phenotypically female characteristics.",
@@ -191,7 +198,8 @@
       "A": "Eosinophil count",
       "B": "Factor D",
       "C": "Factor P",
-      "E": "Serum C9 concentration"
+      "E": "Serum C9 concentration",
+      "D": "Complement levels"
     },
     "correctAnswer": "D",
     "correctExplanation": "Systemic lupus erythematosus (SLE) is an autoimmune disorder with a wide range of presentations. Cutaneous manifestations include an erythematous rash over the malar cheeks that spares the nasolabial folds after sun exposure or discoid lesions with hyperpigmented edges and pink, atrophic centers. Painless oral ulcers and nonspecific hair loss may also occur. Fatigue, joint pain, and fever are also common presenting signs. Lupus nephritis is a common complication of SLE, particularly in younger women. Patients with lupus nephritis typically present with evidence of active SLE and may additionally display oliguria or anuria, signs and symptoms of hypertension (eg, headache, visual disturbance), uremia (eg, fatigue, nausea, vomiting, pruritus, altered mental status), hyperkalemia (eg, peaked T waves on ECG), and hypervolemia with peripheral edema. Lupus nephritis involves glomerular deposition of antibodies, including IgG, IgM, and IgA, as well as activation of the classical complement pathway. Laboratory studies therefore generally show hypocomplementemia with decreased serum concentrations of early classical pathway components such as C1q, C2, C3, C4, and CHS50, as well as increased creatinine. Kidney biopsy is useful for disease staging and may show a range of histologic patterns from mesangial glomerulonephritis to diffuse proliferative or membranous glomerulonephritis.",
@@ -228,7 +236,8 @@
       "A": "Cytomegalovirus",
       "B": "Escherichia coli",
       "C": "Group B streptococcus",
-      "E": "Toxoplasma gondii"
+      "E": "Toxoplasma gondii",
+      "D": "Hypoxic-ischemic encephalopathy"
     },
     "correctAnswer": "D",
     "correctExplanation": "4 ne @ - > ri https://.me/U SM LENBM E2CK Previous Next Score Report Lab Values Calculator Help Pause",
@@ -246,7 +255,8 @@
       "A": "Oral rehydration",
       "B": "Continuous infusion of fluids at maintenance doses",
       "C": "Intravenous administration of dopamine",
-      "D": "Intravenous administration of fresh frozen plasma"
+      "D": "Intravenous administration of fresh frozen plasma",
+      "E": "Intravenous fluid resuscitation with isotonic fluids"
     },
     "correctAnswer": "E",
     "correctExplanation": "This infant with a recent gastrointestinal illness has a presentation consistent with dehydration. Dehydration is categorized as mild, moderate, or severe, based on the presenting signs and symptoms. Patients with mild dehydration will present with normal vital signs as well as normal mental status and urine output. Patients with moderate to severe dehydration may present with tachycardia, tachypnea, hypotension, delayed capillary refill, lethargy, sunken fontanelles, and decreased urine output. Patients with moderate to severe dehydration should receive an initial bolus of 20 cc/kg of intravenous crystalloid (eg, normal saline, lactated ringers) for volume expansion. Patients with severe dehydration and hypovolemic shock can quickly decompensate and progress to cardiovascular collapse if not adequately resuscitated, and therefore, should be frequently re-evaluated with additional fluid boluses given if needed.",
@@ -301,7 +311,8 @@
       "A": "BCG",
       "C": "Rotavirus",
       "D": "Varicella",
-      "E": "No vaccines can be safely administered"
+      "E": "No vaccines can be safely administered",
+      "B": "Haemophilus influenzae type b"
     },
     "correctAnswer": "B",
     "correctExplanation": "T-lymphocyte function is an essential component of host defense and is impaired in this patient, leading to recurrent bacterial infections. Haemophilus influenzae type b is an encapsulated gram-negative bacterium that can result in various mucosal infections, such as conjunctivitis, otitis media, bronchitis, and pneumonia. It was the leading cause of epiglottitis in children prior to widespread immunization. The Haemophilus influenzae type b vaccination uses conjugated capsular https://Lme/U SM LEN BME2CK @ é € C 4 ne @ Previous Next Score Report Lab Values Calculator Help Pause",
@@ -338,7 +349,8 @@
       "A": "Allergic rhinitis",
       "B": "Allergic sinusitis",
       "C": "Bacterial sinusitis",
-      "D": "Cervical lymphadenitis"
+      "D": "Cervical lymphadenitis",
+      "E": "Viral rhinosinusitis"
     },
     "correctAnswer": "E",
     "correctExplanation": "This patient with rhinorrhea, mild cough, low-grade fever, and bilateral cervical adenopathy has a presentation consistent with viral rhinosinusitis. Acute rhinosinusitis (ARS) is defined as symptomatic inflammation of the sinuses and nasal cavity lasting less than 4 weeks and can be classified as either viral or bacterial. Most cases of ARS are viral in cause, with rhinovirus, influenzavirus, and parainfluenza virus being the most implicated pathogens. Patients with viral rhinosinusitis may present with cough, nasal congestion, clear or purulent nasal discharge, and facial pain that is worse when leaning forward. In viral rhinosinusitis, fever, if present, typically resolves after 24 to 48 hours. Physical examination may show tenderness to percussion over the sinuses. Treatment of viral rhinosinusitis involves supportive care with over-the-counter analgesics, antipyretics, saline nasal spray, and oral or intranasal decongestants. Antibiotics are not indicated unless bacterial infection is suspected. 7s ne @ - i> ri https://.me/U SM LENBM E2CK Previous Next Score Report Lab Values Calculator Help Pause",
@@ -395,7 +407,8 @@
       "A": "Karyotype analysis",
       "B": "Measurement of sweat chloride concentration",
       "D": "CT scan of the head",
-      "E": "CT scan of the liver"
+      "E": "CT scan of the liver",
+      "C": "Measurement of thyroid-stimulating hormone (TSH) and free thyroxine (T4) levels"
     },
     "correctAnswer": "C",
     "correctExplanation": "Congenital hypothyroidism typically presents without symptoms due to placental crossing of maternal thyroid hormone. However, if hypothyroidism is left untreated, infants may develop lethargy, hypothermia, feeding problems, hoarse cry, myxedematous facies, macroglossia, hypotonia, umbilical hernia, prolonged jaundice caused by impaired feeding and decreased bilirubin conjugation, and dry skin. Intellectual disability in childhood may develop. Diagnosis requires evaluation of thyroid function tests, which typically shows increased TSH and decreased thyroxine (T4) concentrations at birth. In patients with decreased thyroid hormone concentrations on serum testing, thyroid scans and thyroid-binding globulin concentrations help elucidate the cause of hypothyroidism (eg, distinguishing between thyroid dysgenesis and defective thyroid hormone synthesis). Management requires proactive newborn screening and levothyroxine therapy.",
@@ -412,7 +425,8 @@
     "choices": {
       "B": "Eseheriehia-eot- O45 HF",
       "C": "Listeria monocytogenes",
-      "E": "Shigella sonnei"
+      "E": "Shigella sonnei",
+      "D": "Salmonella enteritidis"
     },
     "correctAnswer": "D",
     "correctExplanation": "Salmonella enteritidis is a motile, gram-negative bacillus that is a major cause of diarrhea worldwide. In the United States, it is most associated with undercooked poultry, eggs, or meats, and in some cases has been associated with pets (eg, turtles, reptiles, chickens). The incubation period typically ranges from 8 to 72 hours and patients will subsequently develop diarrhea, nausea, vomiting, and fever. Bloody stools are common in children and Sa/monella gastroenteritis is usually self- limited, with fevers resolving within 3 days and diarrhea resolving in approximately 1 week. Supportive care, including oral rehydration, is the cornerstone of management and antibiotics are not generally recommended in immunocompetent individuals with mild to moderate infections. Stool studies may show gram- negative bacilli. eS 4 ne @ - i> ri https://.me/U SM LENBM E2CK Previous Next Score Report Lab Values Calculator Help Pause",
@@ -430,7 +444,8 @@
       "A": "Allergic conjunctivitis",
       "B": "Chemical conjunctivitis",
       "C": "Chlamydial conjunctivitis",
-      "E": "Mucocutaneous lymph node syndrome (Kawasaki disease)"
+      "E": "Mucocutaneous lymph node syndrome (Kawasaki disease)",
+      "D": "Gonococcal conjunctivitis"
     },
     "correctAnswer": "D",
     "correctExplanation": "Gonococcal conjunctivitis is the result of direct inoculation of bacteria from the genital canal to the newborn's eyes during the process of delivery. Patients present with erythema, profuse purulent discharge, eyelid swelling, and lymphadenopathy. Gram stain of purulent discharge will show gram-negative diplococci. In the hospital setting, erythromycin eye drops are provided to newborns at the time of delivery to prevent gonococcal conjunctivitis. Newborns diagnosed with gonococcal conjunctivitis should be hospitalized, cultures should be obtained, and patients should be provided ceftriaxone. Patients may also be provided artificial tears until their condition improves.",
@@ -448,7 +463,8 @@
       "A": "Cryoprecipitates",
       "B": "Factor Vill concentrate",
       "D": "Lactated Ringer solution",
-      "E": "Platelets"
+      "E": "Platelets",
+      "C": "Fresh frozen plasma"
     },
     "correctAnswer": "C",
     "correctExplanation": "Vitamin K is a fat-soluble vitamin that plays an important role in the synthesis of several coagulation factors, including factors II, VII, IX, and X, as well as proteins C and S. Primary sources of vitamin K include leafy green vegetables and endogenous production by intestinal bacterial flora. Vitamin K deficiency is common in newborns due to poor placental transfer of vitamin K, low concentrations of vitamin K in breast milk, as well as immature neonatal intestinal flora and poor absorption. Vitamin K deficiency presents with signs and symptoms of bleeding (also known as hemorrhagic disease of the newborn), which may include cutaneous bleeding (eg, bruising, petechiae, oozing from venipuncture sites), hematomas, epistaxis, or gastrointestinal, retroperitoneal, or intracranial hemorrhage. All newborns should be administered prophylaxis with intramuscular vitamin K. Newborns with evidence of bleeding should be treated with oral or intravenous replacement of vitamin K and fresh frozen plasma (FFP), although treatment should be tailored according to the type and severity of bleeding. FFP contains all coagulation factors, as well as fibrinogen and proteins C and S.",
@@ -466,7 +482,8 @@
       "A": "Duodenum",
       "B": "Gastroesophageal junction",
       "C": "Jejunum",
-      "D": "Midesophagus"
+      "D": "Midesophagus",
+      "E": "Pylorus"
     },
     "correctAnswer": "E",
     "correctExplanation": "Pyloric stenosis is a disorder of the pyloric sphincter that occurs in young infants and can result in partial or complete gastric outlet obstruction. It is caused by hypertrophy of the pylorus and an inability to relax the pyloric sphincter. Infants classically present within the first 1 to 2 months of life with forceful nonbilious emesis. Physical examination is notable for a characteristic ovoid mass in the epigastric region. The recurrent emesis, if severe, may result in signs of volume depletion and malnutrition. Laboratory studies typically show a hypochloremic, hypokalemic metabolic alkalosis as a result of the loss of gastric hydrochloric acid and potassium ions. Additionally, the resultant volume depletion causes activation of the renin-angiotensin-aldosterone system, resulting in renal losses of potassium and protons. Confirmatory diagnosis is made by ultrasound imaging to evaluate the thickness and length of the pyloric muscle. Patients are treated with surgical pyloromyotomy to relieve the stenosis. . 4 ne @ - i> ri https://.me/U SM LENBM E2CK Previous Next Score Report Lab Values Calculator Help Pause",
@@ -503,7 +520,8 @@
       "A": "The advantages of three-drug versus four-drug antiretroviral regimens",
       "C": "The child's immunization schedule",
       "D": "Hand-washing techniques to prevent HIV transmission",
-      "E": "Long-term complications of HIV infection"
+      "E": "Long-term complications of HIV infection",
+      "B": "The importance of adherence to antiretroviral therapy"
     },
     "correctAnswer": "B",
     "correctExplanation": "4 ry a ) eC https://.me/U SM LENBM E2CK Previous Next Score Report Lab Values Calculator",
@@ -559,7 +577,8 @@
       "B": "Echocardiography",
       "C": "24-Hour ambulatory blood pressure monitoring",
       "D": "Repeat blood pressure measurement by oscillometric device in the office daily for the next 3 days",
-      "E": "Repeat blood pressure measurement by oscillometric device in the office in 2 weeks"
+      "E": "Repeat blood pressure measurement by oscillometric device in the office in 2 weeks",
+      "A": "Measurement of blood pressure in the office using a standard sphygmomanometer"
     },
     "correctAnswer": "A",
     "correctExplanation": "Hypertension is an increasing finding among pediatric and adolescent patients as rates of obesity have risen. Childhood and adolescent hypertension is associated with both an increased risk for persistent hypertension during adulthood and an increased risk for adverse cardiovascular events in later life. In adolescent patients, hypertension is defined as a blood pressure greater than the 95th percentile. Accurate blood pressure measurement is essential for staging and aids in guiding treatment and blood pressure recheck intervals. Oscillometric devices are commonly used for hypertension screening and routine office measurements, but frequently overestimate both systolic and diastolic blood pressures. If initial measurement by an oscillometric device reading is high, repeat measurements by auscultation should be performed and averaged to determine the patient's stage of hypertension. Initial treatment of hypertension is with lifestyle modifications targeting modifiable risk factors, such as obesity.",
@@ -577,7 +596,8 @@
       "A": "Cat-scratch disease",
       "C": "Infectious mononucleosis",
       "D": "Tonsillitis",
-      "E": "Viral syndrome"
+      "E": "Viral syndrome",
+      "B": "Infected thyroglossal duct cyst"
     },
     "correctAnswer": "B",
     "correctExplanation": "The findings of fever, chills, and midline neck pain that worsens with swallowing or sticking out the tongue is most suggestive of an infected thyroglossal duct cyst. Thyroglossal duct cysts are a common congenital abnormality that results from failure of the thyroglossal duct to close after the embryonic migration of the thyroid from where it forms in the foramen cecum to its anatomic position in the neck. The thyroid begins to form in the third week of gestation as an outgrowth from the pharynx at the junction between the anterior two-thirds and posterior third of the tongue. It then descends along the thyroglossal duct, passing anterior to the hyoid bone and stopping in the midline neck. The thyroglossal duct then closes. If a segment of the duct persists, epithelial secretions result in cyst formation.",
@@ -595,7 +615,8 @@
       "A": "Germ cell tumor",
       "C": "Nephroblastoma (Wilms tumor)",
       "D": "Neuroblastoma",
-      "E": "Spina bifida occulta"
+      "E": "Spina bifida occulta",
+      "B": "Hepatoblastoma"
     },
     "correctAnswer": "B",
     "correctExplanation": "Beckwith-Wiedemann syndrome is a genetic disorder involving mutations of any of several genes located at the 11p15.5 locus that may result from a variety of mechanisms, including defects of imprinting or uniparental disomy. Beckwith-Wiedemann syndrome is characterized by cellular overgrowth and a predisposition to the development of malignancy. Its presentation is heterogenous but commonly includes an above average birth weight, macrosomia, macroglossia, visceromegaly, ~ 4 ne @ - > ri https://.me/U SM LENBM E2CK Previous Next Score Report Lab Values Calculator Help Pause",
@@ -654,7 +675,8 @@
       "C": "Gastroesophageal reflux",
       "D": "Hemolytic-uremic syndrome",
       "E": "Malrotation of the intestine",
-      "F": "Porphyria"
+      "F": "Porphyria",
+      "G": "Pyloric stenosis"
     },
     "correctAnswer": "G",
     "correctExplanation": "Pyloric stenosis is a disorder of the pyloric sphincter that occurs in young infants and can result in partial or complete gastric outlet obstruction. It is caused by hypertrophy of the pylorus and an inability to relax the pyloric sphincter. Infants classically present within the first 1 to 2 months of life with forceful, nonbilious emesis. Physical examination is notable for a characteristic ovoid mass in the epigastric region. The recurrent emesis, if severe, may result in signs of volume depletion and malnutrition. Laboratory studies typically show a hypochloremic, hypokalemic metabolic alkalosis caused by the loss of gastric hydrochloric acid and potassium ions. Additionally, the resultant volume depletion causes activation of the renin-angiotensin-aldosterone system, resulting in renal losses of potassium and protons. Confirmatory diagnosis is made with ultrasonography to evaluate the thickness and length of the pyloric muscle. Patients are treated with surgical pyloromyotomy to relieve the stenosis.",
@@ -673,7 +695,8 @@
       "B": "Gram-negative diplococcus",
       "C": "Obligate intracellular bacterium",
       "D": "Protozoan",
-      "F": "Virus"
+      "F": "Virus",
+      "E": "Spirochete"
     },
     "correctAnswer": "E",
     "correctExplanation": "Syphilis is a sexually transmitted disease from the spirochete Treponema pallidum that can present in multiple stages. Primarily syphilis presents with a painless chancre (ulcer) of the genitalia. There are typically no systemic signs or symptoms of syphilis infection at this stage. Rapid plasma reagin can be falsely negative in the primary stage of syphilis. Dark-field microscopy of fluid from the chancre is the most sensitive test for diagnosis of primary syphilis. The treatment for primary syphilis is a single benzathine Penicillin G intramuscular injection. Testing and treatment for additional sexually transmitted infections is appropriate, as they often coinfect patients.",
@@ -691,7 +714,8 @@
       "B": "Intravenous pyelography",
       "C": "Renal ultrasonography",
       "D": "Trial of corticosteroid therapy",
-      "E": "Renal biopsy"
+      "E": "Renal biopsy",
+      "A": "Repeat urinalysis"
     },
     "correctAnswer": "A",
     "correctExplanation": "The first approach in assessing incidentally found proteinuria in a healthy asymptomatic child is to repeat the urinalysis. The most common cause of proteinuria in asymptomatic children is transient proteinuria secondary to other causes such as fever, stress, exercise, and dehydration. In addition, proteinuria can be orthostatic or postural, with increased protein in a standing or upright position that normalizes when a patient is supine or recumbent. Orthostatic proteinuria is common in adolescent males. A repeat urinalysis on awakening would likely show a normal urinalysis, and a urinalysis at bedtime would show proteinuria. In a patient with persistent proteinuria, further workup should be done to evaluate kidney disease.",
@@ -710,7 +734,8 @@
       "B": "Acute suppurative arthritis",
       "C": "Avulsion of muscle origin",
       "D": "Displacement of the capital femoral epiphysis",
-      "E": "Failure of osteoid to mineralize"
+      "E": "Failure of osteoid to mineralize",
+      "F": "Developmental dysplasia of the hip"
     },
     "correctAnswer": "F",
     "correctExplanation": "Developmental dysplasia of the hip occurs as the result of an abnormal or poorly developed acetabulum in infants. Risk factors include female sex, breech position during delivery, and family history of the condition. In infants, there may be an associated limb-length discrepancy and inability to abduct the limb. In infants, the Barlow and Ortolani maneuvers may be used to test for hip instability and help diagnose developmental dysplasia of the hip. Additional testing including ultrasonography may be useful to diagnose infants younger than age 4 months. If left untreated, developmental dysplasia of the hip may result in functional disability, pain, and early osteoarthritis. The most common treatment for infants with this condition is an abduction splint, most commonly the Pavlik harness.",
@@ -728,7 +753,8 @@
       "A": "Mammography",
       "B": "Measurement of fasting serum glucose concentration",
       "C": "Measurement of hemoglobin concentration",
-      "E": "Pap smear"
+      "E": "Pap smear",
+      "D": "Screening for Chlamydia and Gonorrhea"
     },
     "correctAnswer": "D",
     "correctExplanation": "For this healthy, adolescent female patient, preventive measures will primarily address her sexual health. The US Preventive Services Task Force (USPSTF) recommends screening all sexually active women under age 25 years for Chlamydia trachomatis and Neisseria gonorrhoeae infection. C. trachomatis is a common sexually transmitted infection that can cause various infections, including cervicitis, pelvic inflammatory disease, epididymitis, and urethritis. However, in many cases it is asymptomatic, and thus, screening asymptomatic patients is important for finding and treating active infections before long-term sequelae develop. C. trachomatis and N. gonorrhoeae commonly coinfect the same patient.",
@@ -746,7 +772,8 @@
       "A": "Sitz baths",
       "C": "Wet mount preparation with KOH",
       "D": "X-ray screening for urinary anomaly",
-      "E": "No intervention"
+      "E": "No intervention",
+      "B": "Testing for sexually transmitted infections (STIs)"
     },
     "correctAnswer": "B",
     "correctExplanation": "The clinician should offer testing for sexually transmitted diseases, or sexually transmitted infections (STIs), at this time. STIs including chlamydia, gonorrhea, and syphilis, are a major public health concern as they are often asymptomatic and can cause significant complications if left untreated. Adolescents are an at-risk demographic, especially as stigma regarding sexual activity and concerns about confidentiality may make individuals uncomfortable in disclosing any exposures or concerns regarding STIs. Urinary symptoms are a common presenting complaint for sexually active patients, and urinary tract infections (UTIs) often occur concurrently with STIs. Patients presenting with clinical findings of infection, such as dysuria and pyuria in this case, should be evaluated for both urinary tract infections and sexually transmitted infections, and appropriate treatment based on the results should be prescribed.",
@@ -764,7 +791,8 @@
       "B": "Inflammatory bowel disease",
       "C": "Necrotizing enterocolitis",
       "D": "Pancreatitis",
-      "E": "Pyloric stenosis"
+      "E": "Pyloric stenosis",
+      "A": "Gastroesophageal reflux disease"
     },
     "correctAnswer": "A",
     "correctExplanation": "Gastroesophageal reflux disease is extremely common in infants. This is the result of diminished closing pressure of the lower esophageal sphincter, permitting acidic contents of the stomach to reflux into the esophagus. Reflux events may occur up to 30 times per day. Some of these episodes result in contents entering the oral cavity and decrease through the first year of life. Infants who demonstrate good weight gain, are feeding well, and are not irritable, are managed conservatively. Modifications that may improve symptoms include having infants avoid secondhand smoke exposure, smaller and more frequent meals, and keeping infants upright after feeding when possible. Infants who experience reflux and poor weight gain should undergo further evaluation for calorie count, ultrasonography to rule out pyloric stenosis, and have their diets adjusted to thickened feeds or breast milk. In patients with refractory cases, a trial of proton pump inhibitors may be warranted.",

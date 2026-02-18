@@ -96,7 +96,8 @@
       "B": "Topical hydrocortisone therapy",
       "D": "Oral dicloxacillin",
       "E": "Oral prednisolone therapy",
-      "F": "Incision and drainage"
+      "F": "Incision and drainage",
+      "C": "Acyclovir therapy"
     },
     "correctAnswer": "C",
     "correctExplanation": "Herpetic whitlow represents an acute viral infection of the finger by herpes simplex virus (HSV 1 or 2). It typically results in pain and erythema with non-purulent vesicle formation. This is classically seen in dentists due to oral­ cutaneous inoculation. There can be reactive lymphadenopathy of the adjacent upper extremity and axilla. This acute infection is best treated with acyclovir, a guanosine analog which preferentially inhibits DNA polymerase for HSV and varicella zoster virus.",

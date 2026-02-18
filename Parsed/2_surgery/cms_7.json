@@ -6,7 +6,8 @@
       "A": "Bacterial contamination of the transfused blood",
       "B": "Hemolytic transfusion reaction",
       "C": "HIV infection from the transfused blood",
-      "D": "IgA deficiency"
+      "D": "IgA deficiency",
+      "E": "Febrile nonhemolytic transfusion reaction"
     },
     "correctAnswer": "E",
     "correctExplanation": "Release of cytokines from the transfused blood is the most likely cause of this patient’s fever following the transfusion of packed red blood cells. Transfusion reactions are common and can range in severity from mild discomfort (eg. itching, fever, or mild rash) to life-threatening illness (eg, hemolysis or anaphylaxis). The time course of this patient’s fever (several hours after the start of the transfusion) and normal laboratory studies are consistent with an acute febrile nonhemolytic transfusion reaction (FNHTR), which is the most common type of transfusion reaction. FNHTR occurs because of the presence of preformed antibodies on donor leukocyte antigens and from cytokines in the plasma component of the transfused sample. It is typically mild in severity and resolves with supportive care. If symptoms occur during the transfusion, it should be paused to rule out ABO incompatibility. Antipyretics and consideration of other causes of fever are recommended. Recurrent FNHTR can be prevented through the transfusion of leukodepleted red blood cells.",
@@ -24,7 +25,8 @@
       "A": "Arterial blood gas analysis",
       "B": "Dipyridamole-thallium scan",
       "C": "Post-transfusion crossmatch",
-      "D": "Ventilation-perfusion lung scans"
+      "D": "Ventilation-perfusion lung scans",
+      "E": "Chest x-ray"
     },
     "correctAnswer": "E",
     "correctExplanation": "An x-ray of the chest is most likely to confirm the cause of this patient's respiratory distress. Most causes of acute dyspnea can be determined with a careful history, physical examination, chest x-ray, ECG, and blood gas analysis. In this case, the important history includes dyspnea that began after admission and following transfusion of three units of packed red blood cells. The physical examination discloses tachycardia, hypoxemia, and crackles on pulmonary auscultation. Given these findings, a chest x-ray will likely display pulmonary edema and vascular congestion associated with transfusion-induced hypervolemia, more commonly referred to as transfusion-associated circulatory overload (TACO). In this syndrome, patients typically develop shortness of breath, tachycardia, and pulmonary edema within 6 hours of receiving a significant volume of blood products. Risk factors for TACO include renal dysfunction, heart disease, extremes of age, hypoalbuminemia, and a positive fluid balance prior to transfusion. Management includes discontinuing any current transfusions, placing the patient in an upright sitting position if tolerated, providing supplemental oxygen, and administering diuretics. Occasionally, positive pressure ventilation may be required in severe cases.",
@@ -42,7 +44,8 @@
       "A": "Alcoholic hepatitis",
       "B": "Cirrhosis of the liver",
       "C": "Fatty infiltration of the liver",
-      "D": "Hepatic vein thrombosis"
+      "D": "Hepatic vein thrombosis",
+      "E": "Splenic vein thrombosis"
     },
     "correctAnswer": "E",
     "correctExplanation": "The patient’s presentation is most likely caused by splenic vein thrombosis resulting in variceal formation and subsequent upper gastrointestinal bleeding. The abdominal organs drain venous blood via both a systemic route (draining directly into the inferior vena cava) and the portal route (draining into the hepatic portal vein, then passing through the liver before entering the inferior vena cava). In the portal system, the inferior mesenteric veins and short gastric veins drain into the splenic vein, which then combines with the superior mesenteric vein to form the portal vein. Thrombosis in the portal system in this region is a potential complication of pancreatitis due to perivenous inflammation as the splenic vein lies in anatomic proximity to the pancreas. Clinical manifestations depend on the location of the thrombus. For this patient, a thrombus in the splenic vein led to venous congestion in the draining gastric veins and formation of gastric varices. In addition to gastrointestinal bleeding, other complications of splenic vein thrombosis can include hypersplenism, thrombocytopenia, intestinal ischemia, and increased risk of abdominal infection.",
@@ -60,7 +63,8 @@
       "A": "Decreased myocardial contractibility",
       "C": "Hypothermia",
       "D": "Hypovolemia",
-      "E": "Increased capillary permeability"
+      "E": "Increased capillary permeability",
+      "B": "Neurogenic shock"
     },
     "correctAnswer": "B",
     "correctExplanation": "Neurogenic shock occurs in the setting of a catastrophic central nervous system injury such as a cervical or thoracic spinal cord injury. This causes diminished or completely absent sympathetic output to the heart and vasculature, which subsequently results in hypotension secondary to decreased myocardial contractility, bradycardia, and/or arteriolar vasodilation. Treatment requires the administration of isotonic fluids to attempt resuscitation, although this may not be sufficient to overcome the widespread arteriolar vasodilation.",
@@ -79,7 +83,8 @@
       "B": "Urine culture",
       "C": "Cystourethrography",
       "D": "Renal ultrasonography",
-      "E": "CT scan of the head"
+      "E": "CT scan of the head",
+      "F": "MRI of the lumbar spine"
     },
     "correctAnswer": "F",
     "correctExplanation": "A patient with a diffusely enlarged prostate likely has prostate cancer, which often metastasizes to the lumbar spine. An occasional declaring presentation of metastatic prostate cancer is low back pain, caused by metastasis to the lumbar spine. MRI of the spine is indicated for the evaluation of acute onset neurological deterioration. Cauda equina syndrome occurs from acute compression of the cauda equina nerve roots in the lumbosacral spinal canal, most commonly from an acute disc herniation or a traumatic or pathologic vertebral column fracture. This results in bilateral lower extremity weakness, loss of deep tendon reflexes, bowel or bladder dysfunction (eg, overflow urinary incontinence), and saddle anesthesia. Emergent MRI of the lumbosacral spine is indicated to investigate the cause of cauda equina syndrome, and to determine the necessity of surgical decompression.",
@@ -97,7 +102,8 @@
       "A": "Comminuted skull fracture causing lymphatic disruption in the ear",
       "C": "Linear fracture of the temporomandibular joint",
       "D": "Stellate fracture of the frontoparietal bone",
-      "E": "Zygomatic fracture"
+      "E": "Zygomatic fracture",
+      "B": "Basilar skull fracture with potential for cerebrospinal fluid leakage"
     },
     "correctAnswer": "B",
     "correctExplanation": "Basilar skull fractures typically occur after high-impact blunt head injuries, such as in this patient after a motor vehicle collision in which she was not wearing a seatbelt. A basilar skull fracture is defined as a fracture involving at least one of the bones that make up the base of the skull: the cribriform plate, orbital plate of the frontal bone, sphenoid bone, occipital bones, or the petrous or squamous portion of the temporal bone. In this patient with a contusion of the right side of her head and clear fluid draining from the right ear, a fracture of the temporal bone is likely. Patients with basilar skull fractures can present with hemotympanum, cerebrospinal fluid or bloody otorrhea or rhinorrhea, retroauricular and periorbital ecchymosis, and cranial nerve palsy. Cerebrospinal fluid leaks occur due to a meningeal tear of the dura, creating a communication that allows cerebrospinal fluid to flow out of the middle ear or nose.",
@@ -134,7 +140,8 @@
       "A": "Observation and reexamination in 6 months",
       "B": "Laser therapy to the incision",
       "C": "Radiation therapy to the nose",
-      "E": "Cervical lymph node dissection"
+      "E": "Cervical lymph node dissection",
+      "D": "Mohs micrographic surgery to ensure complete excision of the tumor"
     },
     "correctAnswer": "D",
     "correctExplanation": "Basal cell carcinoma is the most common form of skin cancer and is derived from the basal cells of the epidermis. The primary risk factor for developing basal cell carcinoma is ultraviolet light exposure, though age, fair skin, and family history also contribute. Basal cell carcinomas typically present as pink, pearly papules or nodules with rolled borders and central ulceration most commonly on sun-exposed areas of the head and neck. Subtypes of basal cell carcinoma include those that are less invasive, such as superficial and nodular, and those that are more invasive, such as infiltrative and morpheaform. In all subtypes, the risk of metastasis is low, though the tumors can invade locally and cause significant tissue damage. Biopsy may be performed with a variety of techniques, including excisional, shave, or punch biopsy. Treatment of basal cell carcinoma requires complete surgical removal, either via excision or Mohs micrographic surgery. In the case of incomplete excision, re-excision with negative biopsy margins is indicated to reduce the risk of metastasis.",
@@ -152,7 +159,8 @@
       "A": "Hyperbaric oxygen therapy",
       "B": "Administration of tetanus toxoid",
       "D": "Broad-spectrum antibiotic therapy",
-      "E": "Excision and grafting"
+      "E": "Excision and grafting",
+      "C": "Intravenous fluid resuscitation"
     },
     "correctAnswer": "C",
     "correctExplanation": "Intravenous fluid resuscitation is the most urgent priority in management of this patient with a severe, full-thickness burn, which is often classified as a burn involving more than 20% of the total body surface area (TBSA) in adults. Severe burns can result in numerous complications, including compartment syndrome secondary to circumferential eschar formation, acute kidney injury, coagulopathy, and infection, but the priority within the first 24 hours is to replace the extensive fluid losses that occur during and immediately after a serious burn. The Parkland formula, which is calculated using the weight of the patient in kilograms and the percent of TBSA burned, is often used to calculate the estimated fluid requirements in the first 24 hours. Fifty percent of the total fluid requirements are given in the first 8 hours after the burn, and the rest is given over the next 16 hours. Ongoing fluid resuscitation following the first 24 hours is usually titrated to urine output, with a goal of 0.5 to 1 mL/kg/hr. Subsequent management should focus on providing temporary coverage of burned areas, ensuring adequate nutrition, managing pain, and treating or preventing complications such as compartment syndrome and infection.",
@@ -192,7 +200,8 @@
       "D": "Musculocutaneous nerve above the elbow",
       "F": "Radial nerve at the elbow",
       "G": "Ulnar nerve above the elbow",
-      "H": "Ulnar nerve at the elbow"
+      "H": "Ulnar nerve at the elbow",
+      "E": "Radial nerve at the midshaft of the humerus"
     },
     "correctAnswer": "E",
     "correctExplanation": "The radial nerve courses posterior to the humerus at the midshaft within the radial groove. It is often injured in displaced midshaft or distal humerus fractures, with resulting wrist drop. The radial nerve supplies motor fibers to the triceps brachii and the extensor muscles within the posterior compartment of the forearm, and sensory fibers to the dorsum of the forearm, wrist, and hand. It does not innervate the intrinsic muscles of the hand. Injury to the nerve at the mid-diaphyseal or distal humerus causes extensor muscle function loss at the hand and fingers, weakness of supination, the presence of wrist drop, and sensory loss over the dorsal forearm, dorsal hand, and dorsal thumb, index, middle, and radial half of the ring finger.",
@@ -210,7 +219,8 @@
       "B": "Cor pulmonale",
       "C": "Myocardial infarction",
       "D": "Pneumonia",
-      "E": "Pulmonary embolism"
+      "E": "Pulmonary embolism",
+      "A": "Acute congestive heart failure"
     },
     "correctAnswer": "A",
     "correctExplanation": "The patient is displaying classic signs of acute congestive heart failure. These include tachycardia, tachypnea, hypoxemia, jugular venous distension, and end-expiratory pulmonary wheezes (sometimes referred to as a cardiac wheeze because of the association with pulmonary edema resulting from heart failure). Other signs of congestive heart failure can include shortness of breath, dyspnea on exertion, orthopnea, and production of frothy sputum in left-sided failure, while right-sided failure is characterized by an increased jugular venous pressure, hepatomegaly, ascites, and peripheral extremity edema. Anesthesia and surgery place significant stress on the body, and myocardial demand can exceed cardiac output, especially in an older patient with underlying coronary artery disease. Additionally, surgeries complicated by blood loss and fluid shifting may result in the need for administration of several liters of crystalloid or blood product to maintain hemodynamic stability. Treatment of an acute exacerbation of congestive heart failure consists of diuresis and respiratory support (eg, supplemental oxygen, positive pressure ventilation), and in more severe cases, intravenous positive inotropes and a ventricular assist device may be needed if cardiogenic shock is occurring.",
@@ -228,7 +238,8 @@
       "A": "Cor pulmonale",
       "C": "Pulmonary emboli",
       "D": "Ruptured papillary muscle",
-      "E": "Warfarin-induced hemolytic anemia"
+      "E": "Warfarin-induced hemolytic anemia",
+      "B": "Prosthetic valve dysfunction"
     },
     "correctAnswer": "B",
     "correctExplanation": "This patient’s presentation is most concerning for dysfunction of the prosthetic valve. There is a large difference between her systolic and diastolic blood pressures (increased pulse pressure), which is best explained by significant aortic insufficiency. This is further supported by the presence of diastolic murmurs and trace peripheral edema. During exertion, the backflow of blood results in cardiac output that is unable to match metabolic demands, accounting for her dyspnea. The presence of anemia and schistocytes is suggestive of valve- related hemolysis, which is a complication of prosthetic valves often caused by a structurally degraded, mispositioned, or leaking valve.",
@@ -247,7 +258,8 @@
       "C": "Intravenous furosemide therapy",
       "D": "Intravenous metoprolol therapy",
       "E": "Oral hydrochlorothiazide therapy",
-      "F": "Oral nifedipine therapy"
+      "F": "Oral nifedipine therapy",
+      "A": "Optimize pain control with additional opioid analgesia"
     },
     "correctAnswer": "A",
     "correctExplanation": "Appropriate pain control is important in preventing postoperative complications. This patient has abdominal pain associated with hypertension, tachycardia, and respiratory splinting (eg, shallow breaths due to pain), the latter of which puts her at increased risk for atelectasis and consequent pneumonia. Patient-controlled analgesia (PCA) is a frequently used option for controlling postoperative pain with opioid analgesics, such as morphine, hydromorphone, and fentanyl. Typical PCA set-ups include a basal rate, a bolus dose with a lockout interval, and a total hourly limit. Benefits of PCA use include improved patient satisfaction, titratability, and decreased risk for sedation given the frequent, smaller boluses, as compared to larger bolus doses that would be given less frequently by nursing staff. However, PCAs are associated with an overall increase in opioid usage. Basal rates are rarely used, as they can be associated with increased respiratory depression and overdose; therefore, they are often reserved for opioid tolerant patients. Thus, in this patient with signs of uncontrolled postoperative pain, her bolus of morphine should be increased.",
@@ -265,7 +277,8 @@
       "A": "Absence of symptoms",
       "B": "Age of the patient",
       "C": "The patient's history of cardiac disease",
-      "D": "The patient's history of hypertension"
+      "D": "The patient's history of hypertension",
+      "E": "The patient's history of smoking"
     },
     "correctAnswer": "E",
     "correctExplanation": "An abdominal aortic aneurysm (AAA) refers to a dilation of the abdominal aorta (> 3 cm), most commonly occurring inferior to the take-off of the renal arteries. It is often asymptomatic, although it can present with abdominal pain or hemodynamic instability if rupture has occurred. Physical examination may disclose a pulsatile abdominal mass, as in this patient, but it can also be unremarkable. Diagnosis is made with abdominal ultrasonography or CT scan. Risk factors for the development of an abdominal aortic aneurysm include advanced age, male sex, a smoking history, vascular disease, and connective tissue diseases, whereas the risk factors for rupture include current smoking, hypertension, and, most importantly, a large aneurysm size (> 5.5 cm) or rapid enlargement (> 0.5 cm over 6 months). When the risk of rupture is high, surgical repair is often recommended; if the risk of rupture is low, serial imaging is appropriate. Therefore, given this patient's history, it is most appropriate for him to undergo serial imaging, rather than surgical repair, given the size of his aneurysm.",
@@ -283,7 +296,8 @@
       "A": "Application of a negative pressure dressing",
       "B": "Elevation of the left arm and application of warm compresses",
       "D": "Intravenous administration of heparin",
-      "E": "Intravenous administration of tissue plasminogen activator"
+      "E": "Intravenous administration of tissue plasminogen activator",
+      "C": "Removal of the intravenous catheter and initiation of appropriate antibiotic therapy"
     },
     "correctAnswer": "C",
     "correctExplanation": "Catheter-related bloodstream infections are a common cause of fever in hospitalized patients and can be complicated by catheter-associated septic thrombophlebitis. The infected thrombus serves as a nidus for microbial proliferation and presents with fever and signs and symptoms of bacteremia. The involved vein may display erythema and induration and there may be purulent drainage from the catheter site. The diagnosis may be aided by duplex ultrasonography or with contrasted CT scan. Treatment of catheter-associated septic thrombophlebitis includes infectious source control with removal of the catheter and surgical excision of the affected vein. Intravenous antibiotics should be continued and adjusted to microbial sensitivities, when possible.",
@@ -301,7 +315,8 @@
       "A": "Osteoporosis",
       "B": "Primary hyperparathyroidism",
       "C": "Prior trauma to the ankle",
-      "D": "Rheumatoid arthritis"
+      "D": "Rheumatoid arthritis",
+      "E": "Hypercalcemia due to paraneoplastic syndrome"
     },
     "correctAnswer": "E",
     "correctExplanation": "Squamous cell carcinoma of the lung is often complicated by hypercalcemia caused by paraneoplastic parathyroid hormone-related peptide (PTHrP) production. This protein acts similarly to parathyroid hormone (PTH), causing an increase in osteoclast activity via G protein coupled receptors. It also causes increased absorption of calcium in the intestine and renal tubules. Bone pain is a common manifestation. Other symptoms include abdominal discomfort, muscle pain and weakness, polyuria, and psychiatric disturbances. Hypercalcemia is also associated with hypophosphatemia, subperiosteal bone resorption, nephrolithiasis, and renal failure. Management is determined by the severity of calcium imbalance and symptoms. Asymptomatic cases are treated with oral fluid intake and reduced dietary calcium, while severe cases require hospitalization, intravenous fluid administration, and medications that inhibit bone resorption (typically bisphosphonates).",
@@ -319,7 +334,8 @@
       "A": "Atelectasis",
       "B": "Congestive heart failure",
       "C": "Myocardial infarction",
-      "D": "Pneumonia"
+      "D": "Pneumonia",
+      "E": "Pulmonary embolism"
     },
     "correctAnswer": "E",
     "correctExplanation": "A pulmonary embolism (PE) refers to an embolized blood clot to the pulmonary vasculature, most often from the deep veins of the lower extremities. Symptoms include dyspnea, pleuritic chest pain, hemoptysis, and, occasionally, lightheadedness or syncope. Clinical signs include tachycardia, tachypnea, hypoxia, and, if massive, hypotension. Risk factors for deep venous thrombosis (DVT) and subsequent PE include prolonged immobility, hypercoagulability, and tissue injury. Postsurgical DVT and consequent PE are common, as surgical patients, especially those with malignancy, have many of the risk factors that put them at increased risk for the development of venous stasis and clot formation. These often develop 5 to 7days after a procedure, and prophylaxis with subcutaneous heparin is frequently instituted to prevent their formation. Thus, in this cancer patient with dyspnea, tachycardia, and tachypnea 6 days following a surgical procedure, PE is the most likely diagnosis. Treatment includes therapeutic anticoagulation.",
@@ -356,7 +372,8 @@
       "A": "Chronic atelectasis",
       "C": "Lung abscess",
       "D": "Mesothelioma",
-      "E": "Persistent pneumothorax"
+      "E": "Persistent pneumothorax",
+      "B": "Empyema"
     },
     "correctAnswer": "B",
     "correctExplanation": "The chest x-ray shows reduced lung volumes with a large region of consolidation and effusion in the right lung base and periphery. This is further reflected in the CT scan as a loculated, heterogeneous fluid collection consistent with an empyema. Empyema is an accumulation of pus within the pleural space that commonly presents with fever, progressive cough, and shortness of breath. The patient has had recurrent pleural effusions following his liver transplant, likely due to regional inflammation and disruption of the right hemidiaphragm. A pleural effusion is at risk of becoming seeded with bacteria, which may lead to empyema, frank pus in the pleural space. This patient is at increased risk of infection from common and uncommon organisms due to immunosuppression related to his organ transplant. Management of complicated effusions and empyema requires source control with chest tube placement and drainage as well as antibiotics.",
@@ -374,7 +391,8 @@
       "A": "Anaerobic pneumonitis",
       "B": "Aspiration pneumonia",
       "C": "Fat embolism",
-      "E": "Thromboembolism"
+      "E": "Thromboembolism",
+      "D": "Pulmonary contusion"
     },
     "correctAnswer": "D",
     "correctExplanation": "Pulmonary contusions may occur after blunt or penetrating trauma to the chest. They often underlie the region of trauma to the chest wall and result from damage to capillaries with associated leakage of fluid into the pulmonary interstitium and alveolar spaces. This can result in hypoxemia if it involves and compromises a large enough region of the lung. On chest x-rays, pulmonary contusions appear as interstitial infiltrates and/or patchy alveolar opacities. The extent and distribution depend on the mechanism, location, and force of trauma to the chest wall. Management of pulmonary contusions is supportive with control of pain, pulmonary toilet, lung expansion, and maintenance of adequate ventilation/oxygenation of the patient.",
@@ -392,7 +410,8 @@
       "B": "Esophageal rupture",
       "C": "Pancreatic injury",
       "D": "Pulmonary contusion",
-      "E": "Ruptured spleen"
+      "E": "Ruptured spleen",
+      "A": "Traumatic diaphragmatic rupture"
     },
     "correctAnswer": "A",
     "correctExplanation": "Traumatic diaphragmatic rupture can occur after blunt trauma that causes a sudden increase in intra-abdominal pressure and leads to rupture of the diaphragm. An opening in the diaphragm can lead to the herniation of abdominal contents into the thorax, and often presents with chest pain, shortness of breath, and bowel sounds within the expected lung fields. It most commonly occurs in the left hemithorax and may be visualized as intestinal loops or other abdominal organs in the thorax on x-ray. In this patient, the presence of the nasogastric tube in the lower left side of the chest raises suspicion for diaphragmatic rupture. Management includes surgical exploration and repair of the ruptured diaphragm.",
@@ -410,7 +429,8 @@
       "A": "Alcoholic hepatitis",
       "B": "Carcinomatosis",
       "C": "Enteric perforation",
-      "D": "Peritoneal tuberculosis"
+      "D": "Peritoneal tuberculosis",
+      "E": "Spontaneous bacterial peritonitis"
     },
     "correctAnswer": "E",
     "correctExplanation": "Spontaneous bacterial peritonitis (SBP) is the most likely diagnosis in this patient with a history of alcohol use disorder, fever, abdominal pain, and ascitic fluid containing numerous neutrophils. SBP refers to the development of a peritoneal infection in patients with ascites that is not caused by instrumentation or introduction of bacteria into the peritoneum from an alternative source. This patient most likely has cirrhosis from chronic alcohol use. SBP is a common complication in patients with cirrhosis and ascites, regardless of the etiology. Portal hypertension (PH) leads to reduced intestinal motility with bacterial stasis and overgrowth in addition to impaired gastrointestinal immunity. PH also causes gut wall edema; Ce @ eG € 6 o Score Report Lab Values Calculator Help Pause ie] fa) starttest.com",
@@ -428,7 +448,8 @@
       "A": "Amebic dysentery",
       "B": "Crohn disease",
       "C": "Cytomegalovirus proctitis",
-      "E": "Yersinia enterocolitis"
+      "E": "Yersinia enterocolitis",
+      "D": "Ulcerative colitis"
     },
     "correctAnswer": "D",
     "correctExplanation": "Ulcerative colitis (UC) is the most likely diagnosis in this young patient with chronic abdominal pain, weight loss, hematochezia, and colonoscopy showing friable mucosa and pseudopolyps. UC is a chronic inflammatory condition within the spectrum of inflammatory bowel disease that results in inflammation and ulcers of the colonic mucosa, typically beginning with the rectum and advancing proximally. Symptoms range in severity from mild to severe and may include chronic abdominal pain, weight loss, bloody diarrhea, abdominal bloating, and tenesmus. Colonoscopy is the gold standard for diagnosis and demonstrates inflamed mucosa and ulcerations, sometimes in association with inflammatory pseudopolyps, extending in a continuous fashion proximally from the rectum. The presence of antineutrophil cytoplasmic antibodies (ANCA) and a negative test for antibodies to e ¢ @ € 6 t Score Report Lab Values Calculator Help Pause ie] fa) starttest.com",
@@ -446,7 +467,8 @@
       "A": "Amebiasis",
       "C": "Familial polyposis",
       "D": "Intussusception",
-      "E": "Ulcerative colitis"
+      "E": "Ulcerative colitis",
+      "B": "Colorectal cancer"
     },
     "correctAnswer": "B",
     "correctExplanation": "Colon cancer is the most likely cause of this patient’s foul-smelling urine growing fecal bacteria and positive test for occult blood in the stool. Colon cancer is the third most common cancer in adults and most often presents after the age of 50 years, although patients with hereditary disorders or a positive family history of colon cancer frequently develop cancer at a younger age. Colorectal cancer is one of the few malignancies for which routine screening using colonoscopy can meaningfully change outcomes, as lesions that are detected early are often curable, while patients who present with symptoms referable either to the primary tumor or to metastatic disease have a far worse prognosis. In the case of this patient, the presence of fecal flora in the urine suggests a colovesical or other gastrointestinal-urinary fistula, which likely developed following erosion of a primary colonic mass into the bladder. The concomitant presence of a positive fecal occult blood stool test lends further evidence to the presence of a colonic mass, while her thin appearance, the duration of her symptoms, and a hematocrit of 29% suggest that the tumor has been present for at least 4 months and likely much longer. The next step in her evaluation should include a CT scan of the abdomen and pelvis with contrast and a colonoscopy. Treatment is largely determined by the extent of disease.",
@@ -464,7 +486,8 @@
       "A": "Panoramic x-ray of the jaw",
       "B": "Barium swallow",
       "D": "Biopsy of the lymph nodes",
-      "E": "Wide excision of the mass with radical neck dissection"
+      "E": "Wide excision of the mass with radical neck dissection",
+      "C": "Biopsy of the mass under the tongue"
     },
     "correctAnswer": "C",
     "correctExplanation": "Oropharyngeal carcinoma is common and may occur in the oral cavity, pharynx, larynx, or nasal cavity. Squamous cell carcinoma is the most common type of oropharyngeal carcinoma and is strongly associated with tobacco use and infection with human papillomavirus (HPV). Patients may present with an oropharyngeal lump or nodule, non-healing ulcer, dysphagia, odynophagia, and weight loss. Establishing the diagnosis with a biopsy is essential to guiding further management. Staging can be aided by cervical sentinel lymph node biopsy and imaging with CT or MRI scanning. Early-stage disease may be managed successfully with surgical excision, although more advanced lesions usually require a combined approach with surgery, radiotherapy, and chemotherapy.",
@@ -482,7 +505,8 @@
       "A": "Radiolabeled erythrocyte scan",
       "B": "Mesenteric arteriography",
       "D": "Placement of a Sengstaken-Blakemore tube",
-      "E": "Surgical exploration of the abdomen"
+      "E": "Surgical exploration of the abdomen",
+      "C": "Upper gastrointestinal endoscopy"
     },
     "correctAnswer": "C",
     "correctExplanation": "Cirrhosis can be complicated by portal hypertension, which often leads to the development of esophageal or gastric varices that may rupture and lead to massive, life-threatening hematemesis. Additionally, alcoholic gastritis independent of cirrhosis and portal hypertension is a common source of gastrointestinal bleeding. In cirrhosis, obliteration of the hepatic sinusoids through progressive fibrosis increases the resistance to blood flow through the liver, which is transmitted to the portal venous system causing portal hypertension. When engorged secondary to portal hypertension, esophageal veins can be visualized on esophagogastroduodenoscopy (EGD) as vertical dilations underneath the esophageal mucosa, representing dilated submucosal veins (termed ‘varices’). Varices are usually treated endoscopically by band ligation, and patients with cirrhosis must be screened for them, as the risk of life-threatening upper gastrointestinal bleeding is high. The definitive emergent treatment for any source of upper gastrointestinal bleeding is EGD, as it permits both identification of (and sometimes biopsy of) the source (diagnostic) and intervention to control bleeding (therapeutic). This patient presents with hematemesis likely from a ruptured varix, gastritis, or similar upper gastrointestinal source.",
@@ -500,7 +524,8 @@
       "B": "CT scan of the abdomen",
       "C": "Laparotomy",
       "D": "MRI of the abdomen",
-      "E": "Upper gastrointestinal series with small bowel follow-through"
+      "E": "Upper gastrointestinal series with small bowel follow-through",
+      "A": "Ultrasound of the abdomen"
     },
     "correctAnswer": "A",
     "correctExplanation": "Intussusception refers to the telescoping of a portion of the intestine into itself, most commonly at the ileocolic junction. Symptoms include severe, intermittent abdominal pain, emesis, and hematochezia. Young children may be observed drawing their legs up toward their abdomen during pain episodes, and physical examination may disclose a palpable abdominal mass, as in this patient. Intussusception can be idiopathic or occur at a lead point, such as an area of inflammation or Meckel diverticulum. The intussusception leads to venous congestion, which results in intestinal edema with subsequent ischemia and necrosis. Severe cases lead to intestinal perforation and peritonitis. It most commonly occurs in children less than 2 years of age and is often preceded by a viral infection. Diagnosis is typically made with ultrasonography, which can disclose a “target sign” at the point of intussusception. Ultrasonography can also be used in conjunction with an air enema as both a diagnostic and therapeutic procedure pair for intussusception that has not progressed to perforation.",
@@ -556,7 +581,8 @@
       "A": "Barium enema",
       "B": "Capsule endoscopy",
       "D": "CT colonography",
-      "E": "Repeat test of stool for occult blood in 1 month"
+      "E": "Repeat test of stool for occult blood in 1 month",
+      "C": "Colonoscopy"
     },
     "correctAnswer": "C",
     "correctExplanation": "Isolated rectal bleeding can be caused by numerous etiologies. The more severe causes, such as malignancy and inflammatory bowel disease, benefit from early identification and treatment. Thus, the patient should next undergo colonoscopy. Colonoscopy allows for direct visualization of lesions, collection of biopsy samples, and immediate therapeutic interventions if needed. Patients with active hemorrhage or hemodynamic instability require hospitalization and urgent endoscopic evaluation, while chronic, intermittent bleeding can be evaluated in the outpatient setting.",
@@ -574,7 +600,8 @@
       "A": "Intravenous administration of ADH (vasopressin)",
       "B": "Operative creation of a transjugular intrahepatic portosystemic shunt",
       "C": "Placement of a Sengstaken-Blakemore tube",
-      "D": "Placement of a transjugular portosystemic stent"
+      "D": "Placement of a transjugular portosystemic stent",
+      "E": "Endoscopic variceal band ligation"
     },
     "correctAnswer": "E",
     "correctExplanation": "Variceal bleeding is a major cause of mortality in patients with cirrhosis, as patients can suffer large volume hemorrhage in a short period of time. In addition to volume resuscitation, transfusion of blood products, and airway protection, emergent upper esophagogastroduodenoscopy (EGD) is required to achieve hemostasis. Endoscopic interventions are the definitive treatment for active variceal hemorrhage. The two most common methods are variceal banding (also called variceal ligation) and sclerotherapy. Banding involves placement of small elastic bands to ligate the bleeding vessel. Sclerotherapy involves injection of a sclerosing solution in the vicinity of the vessel. Risk factors for variceal bleeding include the varix size, anatomical appearance, coagulopathy, and severity of cirrhosis. Additionally, patients with variceal bleeding in the setting of cirrhosis have improved outcomes with administration of somatostatin analogues (octreotide), antibiotics, and proton pump inhibitors.",
@@ -592,7 +619,8 @@
       "B": "Upper gastrointestinal series",
       "C": "Endoscopic retrograde cholangiopancreatography",
       "D": "CT scan of the abdomen",
-      "E": "HIDA scan"
+      "E": "HIDA scan",
+      "A": "Abdominal ultrasound"
     },
     "correctAnswer": "A",
     "correctExplanation": "Abdominal ultrasonography is the first-line diagnostic examination for the evaluation of potential acute cholecystitis. Acute cholecystitis occurs secondary to obstruction of the cystic duct from a gallstone, which results in subsequent inflammation of the gallbladder wall. It typically presents with fever, right upper quadrant abdominal pain, and tenderness to palpation, often in a patient with a history of gallstones. It is occasionally preceded by symptoms of biliary colic from cholelithiasis. Characteristic ultrasonography findings of acute cholecystitis include gallbladder wall thickening and hyperemia, pericholecystic fluid, the presence of gallstones, dilated biliary ducts, and a sonographic Murphy sign (pain with compression directly over the gallbladder). If ultrasonography findings are equivocal, a HIDA scan, a nuclear medicine scan that evaluates for patency of the cystic duct and biliary tree, can be performed. Treatment includes supportive therapy, intravenous fluids, intravenous antibiotics, and urgent cholecystectomy. @ eG € 6 o Score Report Lab Values Calculator Help Pause ie] fa) starttest.com",
@@ -610,7 +638,8 @@
       "A": "Application of an ice pack and elevation of the scrotum",
       "B": "Observation and broad-spectrum antibiotic therapy",
       "C": "Ultrasonography of the scrotum",
-      "D": "Needle aspiration of the scrotum"
+      "D": "Needle aspiration of the scrotum",
+      "E": "Surgical consultation for possible repair of an incarcerated or strangulated hernia"
     },
     "correctAnswer": "E",
     "correctExplanation": "An inguinal hernia occurs when a loop of bowel protrudes through the abdominal wall at and around the inguinal canal. Symptoms include a bulge in the groin or scrotum, with associated heaviness or a dull pain, often worsened with increased abdominal pressure during straining. Risk factors for their development include male sex, advanced age, chronic cough or constipation, smoking, and abdominal wall injury. Congenital hernias are caused by failure of the processus vaginalis to close, whereas acquired hernias are caused by a weakness in the abdominal musculature. Indirect inguinal hernias are the most common type of hernia, often congenital, and occur when the hernia protrudes through the internal ring of the inguinal canal. Direct inguinal hernias are more commonly acquired and occur within Hesselbach’s triangle (bordered by the inguinal ligament, inferior epigastric vessels, and the rectus abdominis muscle). Incarceration occurs when the bowel loop is unable to reduce through the abdominal wall opening, which leads to edema and venous congestion of the bowel. Strangulation can occur with subsequent obstruction, ischemia, and necrosis, making both incarcerated and strangulated hernias a surgical emergency. Incarcerated and strangulated hernias present with tenderness to palpation, erythema, fever, and signs of bowel obstruction, such as emesis, abdominal distension, and air-fluid levels on x-ray. This patient presents with an erythematous, tender, full scrotum associated with fever and emesis after experiencing the abrupt onset of groin pain while straining, making a strangulated hernia the likely diagnosis. The patient should undergo immediate surgical exploration to reduce the hernia or remove the ischemic bowel.",
@@ -628,7 +657,8 @@
       "A": "Renal ultrasonography",
       "B": "CT scan of the abdomen",
       "C": "Intravenous acyclovir therapy",
-      "D": "Intravenous amphotericin B therapy"
+      "D": "Intravenous amphotericin B therapy",
+      "E": "Blood cultures"
     },
     "correctAnswer": "E",
     "correctExplanation": "Candida albicans is a fungal organism that most commonly causes oropharyngeal candidiasis, esophagitis, and vulvovaginitis. Candidemia, or the spread of Candida into the blood, is rare and often only seen in immunocompromised patients, with other risk factors including admission to the intensive care unit (ICU), central line access, and the administration of total parenteral nutrition. When present, candidemia often leads to severe sepsis with associated skin and ophthalmologic lesions. Other presenting symptoms are similar to those seen in bacteremia, such as fever, tachycardia, tachypnea, hypotension, and leukocytosis. Central line catheters are often placed for the administration of vasopressors in critically ill patients, as an alternative for venous access in patients with difficult to obtain peripheral access, and for the long-term administration of medications (eg, antibiotics or chemotherapy). Unfortunately, blood infections associated with central lines are a known complication often caused by skin flora such as Staphylococcus spp., although they can also cause candidemia, as seen in this patient. Treatment of central-line associated candidemia requires removal of the central venous catheter, along with the administration of intravenous antifungal therapy.",
@@ -646,7 +676,8 @@
       "A": "Acute transfusion reaction",
       "C": "Hypoxia",
       "D": "Pulmonary edema",
-      "E": "Renal artery embolus from the valve"
+      "E": "Renal artery embolus from the valve",
+      "B": "Hypovolemia due to blood loss and fluid shifts"
     },
     "correctAnswer": "B",
     "correctExplanation": "Decreased urinary output following an episode of hypotension is consistent with a diagnosis of acute tubular necrosis (ATN). The cells of the proximal convoluted tubule, which are responsible for a large portion of ion resorption from glomerular filtrate, are highly metabolically active and are especially sensitive to ischemic injury. ATN progresses through an initial oliguric phase that may last for several weeks before recovery, followed by a subsequent polyuric phase. Ischemic ATN may occur secondary to any type of shock state. In this patient, hemorrhage leading to hypovolemic shock and hypotension impaired renal perfusion. Cardiogenic, obstructive, hypovolemic, and distributive shock etiologies can all result in renal hypoperfusion. ATN may also occur secondary to nephrotoxic exposures, such as heavy metals, antibiotics, and toxic alcohols. Urinalysis typically discloses muddy brown casts.",
@@ -664,7 +695,8 @@
       "A": "Pelvic floor disruption",
       "B": "Rectal laceration",
       "C": "Ruptured bladder",
-      "D": "Testicular torsion"
+      "D": "Testicular torsion",
+      "E": "Urethral injury"
     },
     "correctAnswer": "E",
     "correctExplanation": "A motorcycle crash leading to pelvic pain, severe tenderness at the pelvis, and blood at the urethral meatus raises concern for a urethral injury. Urethral injuries are characterized by difficulty voiding, blood at the urethral meatus, perineal ecchymosis, and potential pelvic fracture. Straddle injuries can cause trauma to the anterior urethra, while pelvic fractures more often injure the posterior urethra. Depending on the location and severity of urethral injury, patients may require surgical repair or the placement of a urethral catheter to help promote healing and prevent complications of urinary extravasation, infection, fistula, or stricture.",
@@ -682,7 +714,8 @@
       "A": "Mammography",
       "B": "MRI of the breast",
       "C": "Needle-localized biopsy",
-      "E": "No further evaluation is indicated"
+      "E": "No further evaluation is indicated",
+      "D": "Ultrasound of the breast"
     },
     "correctAnswer": "D",
     "correctExplanation": "Breast masses are common in women. While this patient likely has a benign tumor such as a fibroadenoma, a systematic approach to the evaluation of breast masses is pertinent. Evaluation of a new breast mass includes a thorough history and physical examination. Benign masses are commonly small, well-circumscribed, and mobile, whereas malignant lesions are more likely to be large, poorly defined, adherent to underlying tissue, and associated with skin or nipple changes. Further diagnostic evaluation of a breast mass depends on the patient's age, as well as the clinical concern for malignancy. In patients younger than age 30 years, such as this patient, ultrasonography is utilized as the initial imaging modality to further analyze a palpable breast mass. Cystic lesions are then observed or aspirated, benign-appearing solid lesions are observed, and malignant-appearing lesions are biopsied. For older patients, mammography is the initial imaging technique of choice.",
@@ -700,7 +733,8 @@
       "A": "Breast abscess",
       "B": "Breast cancer",
       "D": "Cystosarcoma phyllodes",
-      "E": "Fat necrosis"
+      "E": "Fat necrosis",
+      "C": "Galactocele"
     },
     "correctAnswer": "C",
     "correctExplanation": "Breast masses are common in women. Evaluation of a new breast mass includes a thorough history and physical examination. Benign masses are commonly small, well- circumscribed, and mobile, whereas malignant lesions are more likely to be large, poorly defined, adherent to underlying tissue, and associated with skin or nipple changes. Further diagnostic evaluation of a breast mass depends on the patient's age, as well as the clinical concern for malignancy. In patients younger than age 30 years, ultrasonography is utilized as the initial imaging modality to further analyze a palpable breast mass. For older patients, mammography is the initial imaging technique of choice. Cystic lesions are then observed or aspirated. A simple cyst that completely collapses after aspiration, as in this patient, requires no further management. As well, cysts with aspirate colors of clear, brown, and green are likely benign, while sanguinous aspirate should be sent to cytology because of the increased potential for malignancy.",
@@ -718,7 +752,8 @@
       "A": "Excisional biopsy only",
       "B": "Excisional biopsy and radiation therapy",
       "D": "Mastectomy and axillary node dissection",
-      "E": "Tamoxifen therapy and repeat mammography in 6 months"
+      "E": "Tamoxifen therapy and repeat mammography in 6 months",
+      "C": "Stereotactic core needle biopsy"
     },
     "correctAnswer": "C",
     "correctExplanation": "Breast cancer is the most common non-dermatologic malignancy in women. It commonly presents with an abnormal, potentially palpable, breast lump, with or without associated skin or nipple retraction, although it may be asymptomatic. Risk factors for the development of breast cancer include a family history of breast cancer, genetic mutation (eg, BRCA 1 or 2), early menarche, late menopause, nulliparity, obesity, exogenous estrogen use, and African American ethnicity. If screening mammography discloses a lesion concerning for malignancy, a percutaneous biopsy is warranted. This patient’s biopsy was consistent with intraductal breast carcinoma. The most appropriate next step in management of this patient is a lumpectomy to remove the mass and a sentinel node biopsy to evaluate for metastases given the evidence of microinvasion on biopsy. This procedure would be both diagnostic and therapeutic and influence treatment strategies such as adjuvant systemic hormonal therapy, biologic therapy, or chemotherapy.",
@@ -736,7 +771,8 @@
       "A": "Intravenous administration of antibiotics",
       "B": "Application of warm compresses and reevaluation in 12 hours",
       "C": "CT scan of the right scrotum",
-      "D": "Percutaneous needle aspiration and drainage"
+      "D": "Percutaneous needle aspiration and drainage",
+      "E": "Urgent surgical exploration and detorsion of the testis"
     },
     "correctAnswer": "E",
     "correctExplanation": "Testicular torsion is caused by rotation of a testis around the spermatic cord. The twisting of the cord leads to compromise of the blood supply with resultant testicular edema, ischemia, and subsequent necrosis. It classically presents with acute testicular pain, tenderness to palpation, scrotal swelling, and a negative cremasteric reflex. The patient may develop nausea and emesis and/or lower abdominal pain prior to the onset of scrotal pain. Physical examination may show a high-riding testis that is oriented transversely with surrounding erythema. Testicular torsion is typically a clinical diagnosis, although ultrasonography can be used for further evaluation if the diagnosis is unclear. Ultrasonography will demonstrate diminished or absent blood flow to the testes. Testicular torsion is a surgical emergency and requires immediate urological evaluation when the diagnosis is suspected. Surgery will allow for detorsion of the testis and orchiopexy (testicular fixation) of both testes to prevent recurrent torsion.",
@@ -754,7 +790,8 @@
       "A": "Arterial insufficiency",
       "B": "Chronic osteomyelitis",
       "C": "Lymphedema",
-      "E": "Venous stasis"
+      "E": "Venous stasis",
+      "D": "Diabetic neuropathy"
     },
     "correctAnswer": "D",
     "correctExplanation": "In patients with diabetes mellitus, chronic hyperglycemia results in the deposition of advanced glycation end products in capillary endothelium. This leads to microvascular damage to capillaries throughout the body, including the vasa nervorum of the distal extremities, which impairs nerve function. While multiple mechanisms causing neuropathy are hypothesized, the end result when considering somatic sensory fibers is impaired sensory perception, a type of diabetic neuropathy. Diabetic neuropathy limits the healing response of the distal extremities and reduces the patient's awareness of injuries to the extremities, creating the conditions that result in the increased incidence of foot ulcerations in diabetic patients. Prolonged compression of soft tissues between bony prominences (such as the heads of the metatarsals) and hard surfaces (such as a shoe or floor) without offloading can result in breakdown of dermal tissue and ulceration. The feet and toenails should be carefully examined in all diabetic patients, especially those with known neuropathy, as these patients are at an increased risk for developing diabetic foot ulcers and infections. Poor foot and toenail hygiene may also lead to onychomycosis, overgrown nails, and bacterial overgrowth that can increase the likelihood of skin breakdown and development of serious infections. Patients should be counseled on regular foot care and examination.",
@@ -773,7 +810,8 @@
       "B": "Direct laryngoscopy",
       "C": "Excisional biopsy",
       "E": "'3'] thyroid scan",
-      "F": "Technetium 99m scan"
+      "F": "Technetium 99m scan",
+      "D": "Fine needle aspiration biopsy"
     },
     "correctAnswer": "D",
     "correctExplanation": "The initial evaluation for thyroid cancer includes a thorough history and a physical examination directed toward the identification of palpable thyroid nodules, regional lymphadenopathy, or vocal hoarseness. Following a physical examination, evaluation of the serum concentration of thyroid stimulating hormone (TSH) may disclose a normal or increased TSH concentration in the setting of a non-functioning nodule. Hyperfunctioning nodules are rarely malignant and may be detected via a decreased TSH level or with radioactive scintigraphy. Large, irregular, non-functional nodules, or nodules containing solid and cystic components, may require a biopsy with fine-needle aspiration. Excisional biopsy is best avoided given the rich vascular supply of the thyroid gland and its tendency to bleed. The Bethesda System for Reporting Thyroid Cytopathology can be used to characterize the malignant potential of a nodule and to guide further management, which may range from observation to thyroidectomy.",
@@ -791,7 +829,8 @@
       "A": "Hypercalcemia",
       "B": "Hyperglycemia",
       "C": "Hyperkalemia",
-      "D": "Hypernatremia"
+      "D": "Hypernatremia",
+      "E": "Hypophosphatemia"
     },
     "correctAnswer": "E",
     "correctExplanation": "Chronic kidney disease results in secondary and tertiary hyperparathyroidism caused by derangement of calcium and phosphate homeostasis. As the failing kidney is unable to regulate the level of blood calcium and phosphorus, parathyroid hormone (PTH) concentrations increase to promote increased serum calcium from gut, renal, and bone absorption, and to promote renal excretion of phosphorus. PTH levels remain persistently high in renal failure, and even after transplantation, the increased level can persist for several months or even a year or more. Following renal transplantation, the graft kidney will appropriately respond to PTH, which will result in reabsorption of calcium, and excretion of phosphorus. There are multiple proposed mechanisms beyond PTH to explain post-transplant hypophosphatemia, though PTH is postulated to play a primary role. Post-transplant, the kidney is also able to produce active Vitamin D, a function also lost in end-stage kidney disease. Vitamin D promotes gastrointestinal absorption of calcium and phosphorus, further contributing to restored serum levels of both, and affecting feedback on the parathyroid gland to produce PTH. The mechanism of electrolyte homeostasis following transplant is complex, though PTH and Vitamin D, among several other factors, play key roles.",
@@ -809,7 +848,8 @@
       "A": "Decreased total body sodium",
       "B": "Ectopic ADH (vasopressin) release",
       "C": "Excessive intravenous fluids",
-      "E": "Shifting of water from the intracellular to extracellular compartment"
+      "E": "Shifting of water from the intracellular to extracellular compartment",
+      "D": "Increased hypothalamic ADH release"
     },
     "correctAnswer": "D",
     "correctExplanation": "Increased hypothalamic ADH release leading to increased free water resorption in the kidneys is the most likely cause of this patient's hyponatremia. Hyponatremia is often eC @ G (a > o Score Report Lab Values Calculator Help Pause 08 starttest.com",
@@ -846,7 +886,8 @@
       "A": "Cardiogenic",
       "B": "Extracardiac obstructive",
       "C": "Hypovolemic",
-      "D": "Neurogenic"
+      "D": "Neurogenic",
+      "E": "Septic"
     },
     "correctAnswer": "E",
     "correctExplanation": "This patient has signs of sepsis, a systemic inflammatory syndrome that may occur in response to infection, including tachycardia, tachypnea, and fever, with a probable intra- abdominal source. Sepsis can be complicated by shock and multiorgan failure with a high mortality rate. Septic shock is characterized by vasoplegia (impaired response of the vasculature to vasoconstricting stimuli) with markedly decreased systemic vascular resistance (SVR), tachycardia, increased cardiac output, oliguria, and lactic acidosis. This reduction in SVR is secondary to cytokine-mediated endothelial and vessel wall smooth muscle dysfunction. The initial step in management of septic shock involves emergent antibiotics and fluid resuscitation with isotonic crystalloids, such as 0.9% saline.",
@@ -864,7 +905,8 @@
       "B": "CT scan of the head with contrast",
       "C": "Measurement of intracranial pressure",
       "D": "MRI of the brain",
-      "E": "Skull series with tomography"
+      "E": "Skull series with tomography",
+      "A": "CT scan of the head without contrast"
     },
     "correctAnswer": "A",
     "correctExplanation": "Death is a challenging and common situation that physicians will encounter in practice. Though the exact nature of death remains an ongoing debate, the current generally accepted definitions in the medical field are irreversible cessation of circulatory and pulmonary function or irreversible cessation of all functions of the whole brain, which is referred to as brain death. The American Academy of Neurology (AAN) issues guidelines to aid clinicians, medical systems, and patients’ families in accepting a declaration of brain death. The three primary criteria for adult brain death are: known cause of coma and exclusion of any potentially reversible factors, a neurologic examination that tests for brain stem reflexes and a central response to pain, and an apnea test which assesses whether the brain can drive respiratory functions in response to an increase in CO. If there is any remaining uncertainty, certain ancillary tests may be performed to demonstrate an absence of cerebral blood flow. The gold standard for cerebral blood flow studies is cerebral angiography; transcranial ultrasonography, CT or MR angiography, and radionuclide brain imaging can also be used.",
@@ -881,7 +923,8 @@
     "choices": {
       "A": "Ask the hospital ethics committee if the transplant should be performed",
       "C": "Obtain a court order for psychiatric assessment to determine the patient's decision-making capacity",
-      "D": "Proceed with the transplant at the parents' request"
+      "D": "Proceed with the transplant at the parents' request",
+      "B": "Ensure that the patient is fully informed about the risks and benefits of the experimental treatment before making a decision."
     },
     "correctAnswer": "B",
     "correctExplanation": "The four pillars of contemporary medical ethics are nonmaleficence (do no harm), beneficence (do good), respect for autonomy (allow the patient to choose freely, as they are able), and justice (fair access, distribution, and use of medical resources). The ethical principle that applies most strongly in this case is autonomy, the right of the patient to ultimately decide what treatments they do and do not receive. In respecting autonomy, it is implied that the patient has capacity to make rational, informed, and voluntary decisions with reason and understanding. Society recognizes that age is a factor in the ability to make a fully reasoned choice with understanding, and the age at which patients are considered to have full autonomy is determined by the legal system. Generally, patients that are 18 years of age or older are considered to have full autonomy in medical decision-making. In this case, the moral decision is to respect the wishes of the patient. Additionally, this course of action also respects the principles of nonmaleficence and beneficence, as the patient has already experienced several adverse effects from treatment, and the additional experimental treatment is not yet known to provide any significant benefit with comparable mortality rates.",

@@ -849,7 +849,8 @@
       "B": "Clostridium difficile",
       "C": "Clostridium perfringens",
       "D": "Clostridium tetani",
-      "E": "Enterobacter cloacae"
+      "E": "Enterobacter cloacae",
+      "J": "Streptococcus pyogenes (group A)"
     },
     "correctAnswer": "J",
     "correctExplanation": "F) Enterococcus faecalis G) Escherichia coli H) Staphylococcus epidermidis I) Streptococcus pneumoniae J) Streptococcus pyogenes (group A) Streptococcus pyogenes (Group A) and Staphylococcus aureus are the most common causes of bacterial lymphadenitis. Cutaneous erythema and swelling at a site of inoculation, with streaking along lymphatic drainage territories and associated tender lymphadenopathy is characteristic of lymphadenitis. Bartonella henselae is another bacterial cause of lymphadenitis related to cat scratches ('Cat scratch disease'), although given the patient's injury secondary to a construction-related laceration, Streptococcus pyogenes lymphadenitis is more likely.",

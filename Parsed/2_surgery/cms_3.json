@@ -394,11 +394,16 @@
     "questionNumber": 21,
     "questionStem": "A 28-year-old woman comes to the physician because of fatigue , increasing breast size and tenderness , and increased urinary frequency over the past 8 weeks . She has also had slight intermittent cramping in the midline . She is uncertain when her last menstrual period occurred . She is 152 cm (5 ft) tall and weighs 85 kg (187 lb); BMI is 37 kg/m2. Ultrasonography shows a viable pregnancy high in the uterus consistent with an 8-week gestation . Two weeks later, she has severe right-sided abdominal pain associated with right shoulder pain. Ultrasonography of the pelvis shows a viable pregnancy in the right cornual area of the uterus. Immediately after the ultrasonography , the patient's vital signs become unstable with a pulse of 140/min, respirations of 20/min , and blood pressure of 90/40 mm Hg. Which of the following is the most likely diagnosis?",
     "choices": {
-      "A": "Adenomyosis F) Follicular cyst",
-      "B": "Corpus luteum cyst G) Leiomyomata uteri",
-      "C": "Ectopic pregnancy H) Pelvic inflammatory disease",
-      "D": "Endometrioma I) Ruptured ovarian cyst",
-      "E": "Endometriosis J) Spontaneous abortion"
+      "A": "Adenomyosis",
+      "B": "Corpus luteum cyst",
+      "C": "Ectopic pregnancy",
+      "D": "Endometrioma",
+      "E": "Endometriosis",
+      "F": "Follicular cyst",
+      "G": "Leiomyomata uteri",
+      "H": "Pelvic inflammatory disease",
+      "I": "Ruptured ovarian cyst",
+      "J": "Spontaneous abortion"
     },
     "correctAnswer": "C",
     "correctExplanation": "Ectopic pregnancy occurs when the fertilized embryo implants in a location outside the endometrial cavity. The most common location is in the ampulla of the fallopian tube, though the fimbria and isthmus are also frequent sites of extrauterine implantation. Other possible locations of ectopic implantation include the cornua (location of fallopian tube into the uterus), cervix, ovary, prior cesarean delivery uterine scar, and within the abdomen. The most immediate risk for an ectopic pregnancy occurs when the pregnancy ruptures, resulting in uncontrolled bleeding into the peritoneal cavity. Symptoms of a ruptured ectopic pregnancy include abdominal pain and vaginal bleeding. Patients typically report acute, severe pain and may manifest peritoneal signs on examination such as guarding, rigidity, and rebound tenderness. Ongoing bleeding can lead to hemorrhagic shock and is a surgical emergency. Risk factors for ectopic pregnancy include previous pelvic inflammatory disease, history of infertility, history of tubal surgery, smoking, and the use of assisted reproductive technology. Treatment for ectopic pregnancies that are small and uncomplicated may include medical abortifacients such as methotrexate, whereas larger, complicated, or ruptured ectopic pregnancies require urgent or emergent surgical excision. In cases where assisted reproductive technologies have been used, heterotopic pregnancies may occur. A heterotopic pregnancy denotes a normal, viable intrauterine pregnancy, along with a second gestation that is ectopic in location. Ectopic pregnancy is generally never considered viable and is a life-threatening condition to the mother.",
